@@ -1,0 +1,243 @@
+{
+  "order": 40,
+  "id": "giant-empanada",
+  "title": "La empanada gigante",
+  "category": "Cotidiano",
+  "pack": "new",
+  "batch": "gestures-06",
+  "expansionOrder": 26,
+  "version": 6,
+  "status": "approved",
+  "frames": 16,
+  "durations": [
+    472,
+    337,
+    337,
+    337,
+    337,
+    337,
+    337,
+    337,
+    337,
+    337,
+    337,
+    337,
+    337,
+    337,
+    337,
+    610
+  ],
+  "cycles": 1,
+  "still": 12,
+  "source": "new-scenes/sources/giant-empanada-v6.png",
+  "src": "new-scenes/atlases/moa-giant-empanada-v6.png",
+  "generator": "Integrated image_gen",
+  "reference": "references/moa-neutral.png",
+  "prompt": "new-scenes/prompts/giant-empanada.txt",
+  "review": "Sixteen articulated kneading, filling, sealing and celebration poses. One bowl in each frame; compact board avoids overlapping source rows. Five rejected source attempts retained.",
+  "correctionPrompt": "new-scenes/prompts/giant-empanada-correction.txt",
+  "correctionPrompts": [
+    "new-scenes/prompts/giant-empanada-correction.txt",
+    "new-scenes/prompts/giant-empanada-correction-2.txt",
+    "new-scenes/prompts/giant-empanada-correction-3.txt",
+    "new-scenes/prompts/giant-empanada-correction-4.txt",
+    "new-scenes/prompts/giant-empanada-correction-5.txt"
+  ],
+  "rejectedSources": [
+    {
+      "path": "new-scenes/sources/giant-empanada-v1.png",
+      "reason": "Bowl missing in kneading poses; crowded gutters."
+    },
+    {
+      "path": "new-scenes/sources/giant-empanada-v2.png",
+      "reason": "Rows touch; complete cells cannot be extracted safely."
+    },
+    {
+      "path": "new-scenes/sources/giant-empanada-v3.png",
+      "reason": "Lower rows still touch despite larger outside margin."
+    },
+    {
+      "path": "new-scenes/sources/giant-empanada-v4-rejected.png",
+      "reason": "Two-column alternative returned fourteen poses instead of sixteen."
+    },
+    {
+      "path": "new-scenes/sources/giant-empanada-v5.png",
+      "reason": "Pose five contains a second bowl on the board."
+    }
+  ],
+  "sourceColumns": [
+    0,
+    352,
+    670,
+    999,
+    1328
+  ],
+  "packaging": {
+    "sourceSize": [
+      1328,
+      1184
+    ],
+    "rowCuts": [
+      0,
+      308,
+      590,
+      883,
+      1184
+    ],
+    "columnCuts": [
+      0,
+      352,
+      670,
+      999,
+      1328
+    ],
+    "rowBaselineRegistration": [
+      [
+        0,
+        41
+      ],
+      [
+        17,
+        41
+      ],
+      [
+        11,
+        41
+      ],
+      [
+        11,
+        41
+      ],
+      [
+        0,
+        64
+      ],
+      [
+        17,
+        64
+      ],
+      [
+        11,
+        64
+      ],
+      [
+        11,
+        64
+      ],
+      [
+        0,
+        54
+      ],
+      [
+        17,
+        54
+      ],
+      [
+        11,
+        54
+      ],
+      [
+        11,
+        54
+      ],
+      [
+        0,
+        59
+      ],
+      [
+        17,
+        59
+      ],
+      [
+        11,
+        59
+      ],
+      [
+        11,
+        59
+      ]
+    ],
+    "unionCrop": [
+      18,
+      68,
+      339,
+      334
+    ],
+    "sharedScale": 0.5639097744360902,
+    "frameSize": [
+      288,
+      168
+    ],
+    "origin": [
+      0,
+      0
+    ],
+    "trajectory": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ]
+    ]
+  },
+  "frameFiles": [
+    "new-scenes/frames/giant-empanada-v6/000.png",
+    "new-scenes/frames/giant-empanada-v6/001.png",
+    "new-scenes/frames/giant-empanada-v6/002.png",
+    "new-scenes/frames/giant-empanada-v6/003.png",
+    "new-scenes/frames/giant-empanada-v6/004.png",
+    "new-scenes/frames/giant-empanada-v6/005.png",
+    "new-scenes/frames/giant-empanada-v6/006.png",
+    "new-scenes/frames/giant-empanada-v6/007.png",
+    "new-scenes/frames/giant-empanada-v6/008.png",
+    "new-scenes/frames/giant-empanada-v6/009.png",
+    "new-scenes/frames/giant-empanada-v6/010.png",
+    "new-scenes/frames/giant-empanada-v6/011.png",
+    "new-scenes/frames/giant-empanada-v6/012.png",
+    "new-scenes/frames/giant-empanada-v6/013.png",
+    "new-scenes/frames/giant-empanada-v6/014.png",
+    "new-scenes/frames/giant-empanada-v6/015.png"
+  ],
+  "sourceSha256": "6433c527a4eb7d8d8757702efed8bead26421522210191288ed3af94ad21c1b6",
+  "frameSha256": [
+    "84079aea355730de72e0e4f90ea3648a48275c20a95bc5dfb813b40619850a84",
+    "904b9799714048781b279ec5b48ec93e7b06ad952651746016c440cf6dd4dc98",
+    "2f90068b83ca24450681054849e9054b323b1a422b9283cb2dfee8dd96d6d50b",
+    "1e340d37a2a096064e5af910f3731900755fdde683b908f16752d16fc6f183a7",
+    "5396acc0346b8c1c5ecdf40481d62ef9db4f1341556383dde09b414dce7fd1b6",
+    "68d610961b2fe2a11294146c0744d74f8be23c63dcbd168947d6b6509acd4d90",
+    "eb63d4f1367624f0144eb8ca3f9a99a8f3121257866fb90165aba68d154d791d",
+    "20f84d56d0decf0b98463b24dca0a5e2e0c0421581f368c35fffb877180a7f0a",
+    "f748ceab35f33037e27641f5be41a8f3f53e35d4e3016ab8150ba1f5b0dcfd25",
+    "8ffa3f9e10978c16b063512a17ed8c354c78951a510fc84e535ba93aca1afd37",
+    "07e59828a9cb2682769c612e499ce5fa1c13d31cd3a243339cef8645b4a4d143",
+    "11c08e1f86f60c2c55ba47feda23b853c3e6238af6f3799ded42ccb8045a4cd5",
+    "82f509aa1d8594efd6a724deed2044e89e26827d2c575b6efc002dcddc23cc20",
+    "2d31ff7fb8351f732dd9c3e237096a1e3cb31701d915c4852a1f3fe58aaba54d",
+    "5cc8761511a7ed240b7b9c81b8fb67de5b0dfe181f6279d282a37773bc68dcf0",
+    "f1854e7f9954af07429cff91bd0f296636d75d9823248008c4e615d2a0a11a40"
+  ],
+  "bytes": 83447,
+  "sha256": "8fc73a40b2d38103a931bda8abb60ddd9870499469493e0a2f763c2f446ddc82",
+  "qa": {
+    "reviewer": "Codex visual and technical review; final reviewer handles merge",
+    "date": "2026-10-12",
+    "frameByFrame": true,
+    "backgrounds": [
+      "light",
+      "dark",
+      "blue"
+    ],
+    "scales": [
+      1,
+      3
+    ],
+    "browserTemporalSamples": 16,
+    "evidence": "evidence/giant-empanada/",
+    "remainingLimitation": "Raster key poses, not a vector rig; Chromium verified, physical devices not tested."
+  },
+  "sourceBytes": 1933537
+}
