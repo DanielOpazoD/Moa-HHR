@@ -1,0 +1,189 @@
+{
+  "order": 23,
+  "id": "sneeze",
+  "title": "Estornudo pequeño y sorpresa",
+  "category": "Cotidiano",
+  "pack": "new",
+  "batch": "gestures-02",
+  "expansionOrder": 9,
+  "version": 4,
+  "status": "approved",
+  "frames": 12,
+  "durations": [
+    450,
+    350,
+    350,
+    300,
+    260,
+    150,
+    220,
+    300,
+    450,
+    350,
+    320,
+    700
+  ],
+  "cycles": 1,
+  "still": 9,
+  "source": "new-scenes/sources/sneeze-v4.png",
+  "src": "new-scenes/atlases/moa-sneeze-v4.png",
+  "generator": "Integrated image_gen",
+  "reference": "references/moa-neutral.png",
+  "prompt": "new-scenes/prompts/sneeze-tissue.txt",
+  "review": "Tres fuentes de codo ambiguo conservadas y rechazadas. Nueva actuación con pañuelo visible desde inicio, misma mano, estornudo breve y recuperación.",
+  "earlierPrompts": [
+    "new-scenes/prompts/sneeze.txt",
+    "new-scenes/prompts/sneeze-correction.txt",
+    "new-scenes/prompts/sneeze-regeneration.txt"
+  ],
+  "sourceColumns": [
+    55,
+    403,
+    752,
+    1094,
+    1442
+  ],
+  "packaging": {
+    "sourceSize": [
+      1642,
+      958
+    ],
+    "rowCuts": [
+      0,
+      325,
+      633,
+      958
+    ],
+    "columnCuts": [
+      55,
+      403,
+      752,
+      1094,
+      1442
+    ],
+    "rowBaselineRegistration": [
+      [
+        0,
+        30
+      ],
+      [
+        0,
+        30
+      ],
+      [
+        3,
+        30
+      ],
+      [
+        0,
+        30
+      ],
+      [
+        0,
+        50
+      ],
+      [
+        0,
+        50
+      ],
+      [
+        3,
+        50
+      ],
+      [
+        0,
+        50
+      ],
+      [
+        0,
+        50
+      ],
+      [
+        0,
+        50
+      ],
+      [
+        3,
+        50
+      ],
+      [
+        0,
+        50
+      ]
+    ],
+    "unionCrop": [
+      48,
+      45,
+      299,
+      353
+    ],
+    "sharedScale": 0.487012987012987,
+    "frameSize": [
+      288,
+      168
+    ],
+    "origin": [
+      0,
+      0
+    ],
+    "trajectory": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ]
+    ]
+  },
+  "frameFiles": [
+    "new-scenes/frames/sneeze-v4/000.png",
+    "new-scenes/frames/sneeze-v4/001.png",
+    "new-scenes/frames/sneeze-v4/002.png",
+    "new-scenes/frames/sneeze-v4/003.png",
+    "new-scenes/frames/sneeze-v4/004.png",
+    "new-scenes/frames/sneeze-v4/005.png",
+    "new-scenes/frames/sneeze-v4/006.png",
+    "new-scenes/frames/sneeze-v4/007.png",
+    "new-scenes/frames/sneeze-v4/008.png",
+    "new-scenes/frames/sneeze-v4/009.png",
+    "new-scenes/frames/sneeze-v4/010.png",
+    "new-scenes/frames/sneeze-v4/011.png"
+  ],
+  "sourceSha256": "5e37f91c77cdae6b91eea004399a6dd5141de681c8bc4d17a079e278b3a2148e",
+  "frameSha256": [
+    "2ec75b419f7398256d6e30f752a880125d85867caceef32a381c61d1de6a7ddb",
+    "645850737b5d8f7cfd32e94c30c736cc7c428d147018c4e520814ef84123a0fa",
+    "d46e8fff003116b4906e1ec90286237911904120f36a430796ccc7e2b3d06824",
+    "906d3724fcd9286dff905aa66c0a8c3ab99b3f4a18fdc25d4d27062ac62ac2d4",
+    "90598113d3885e220cbb00853a4f7243484da48d28ebee90ebf3620f0473a175",
+    "53e5ee1cb43ccad5f659f381512c457f98ade3c5b84c2d0d7b09d65908cd9b5f",
+    "820647123352760c95030a02e174edb650930cc58999abddd01da65ce6b0be91",
+    "ce64c3e4469ed750f3c05ab56bd1af648d2964e1c133894b91ab836939dcc28c",
+    "37fa5d009719a5dcdfcdb647702a62aa3f31c2b05094f22c6f430d54011eb9af",
+    "809a4daf2568f4936829fa2d0226a08b0886b9f084464c7d651757aaa121be77",
+    "eebcdd941162a0bcb0a9b838b9fcea2b4e7e4f2acfb9cad7ac3b37cacd68868c",
+    "853411978bed8785c8511ff6c134bbe0a0800ca02b7d1e0d520f76f7d9d4c372"
+  ],
+  "bytes": 47260,
+  "sha256": "85a9b5a39601d2c4eab72821ab838646b5c76604984409caf11bcbabdb67d534",
+  "sourceBytes": 1067769,
+  "qa": {
+    "reviewer": "Codex visual and technical review; final reviewer handles merge",
+    "date": "2026-10-12",
+    "frameByFrame": true,
+    "backgrounds": [
+      "light",
+      "dark",
+      "blue"
+    ],
+    "scales": [
+      1,
+      3
+    ],
+    "browserTemporalSamples": 12,
+    "evidence": "evidence/sneeze/",
+    "remainingLimitation": "Raster key poses, not a vector rig; Chromium verified, physical devices not tested."
+  }
+}
