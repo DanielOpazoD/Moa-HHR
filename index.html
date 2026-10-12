@@ -1,4 +1,117 @@
-<!doctype html><html lang="es"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Moa · Biblioteca de movimiento</title><link rel="stylesheet" href="src/style.css">
-<header><p class="eyebrow">MOA / ARCHIVO DE MOVIMIENTO</p><h1>Un pequeño gesto.<br>El mismo Moa.</h1><p>Atlas originales preservados y nuevas escenas en revisión. Una biblioteca independiente, silenciosa y sin datos clínicos.</p><nav><a href="docs/SCENES.md">Plan e índice</a><a href="docs/inventory.json">Inventario verificable</a><a href="references/identity-guide-v0.html">Guía de identidad</a></nav></header>
-<main><section class="workbench" aria-labelledby="preview-title"><div><p class="eyebrow">MESA DE REVISIÓN</p><h2 id="preview-title">Saludo</h2><p id="details"></p><div class="controls"><label>Fondo <select id="background"><option value="light">Claro</option><option value="dark">Oscuro</option><option value="blue">Azul HHR</option></select></label><label>Escala <select id="scale"><option value="1">144 × 84 · real</option><option value="3">432 × 252 · ampliado</option></select></label><label><input type="checkbox" id="still"> Pose quieta</label></div></div><div class="preview"><div id="stage-shell" class="light"><div class="stage"><button id="stage-play" aria-label="Reproducir escena"><span id="sprite"></span></button><button id="close" aria-label="Ocultar muestra">×</button></div></div><p id="status" role="status"></p></div><div class="transport"><button id="play">Reproducir / reiniciar</button><button id="rest">Reposo</button><label>Cuadro <input id="frame" type="range" min="0" max="5" value="0"><output id="frame-label">1 / 6</output></label></div></section>
-<section aria-labelledby="catalog-title"><div class="catalog-heading"><h2 id="catalog-title">Colección</h2><span id="count"></span></div><div class="filters"><label>Buscar <input id="search" type="search" placeholder="Saludo, cuidado, emoción…"></label><label>Categoría <select id="category"><option value="all">Todas</option><option>Expresión</option><option>Movimiento</option><option>Cuidado</option><option>Cotidiano</option><option>Celebración</option></select></label><label>Paquete <select id="pack"><option value="all">Todos</option><option value="original">Originales v2</option><option value="new">Escenas nuevas</option></select></label></div><div id="catalog"></div></section></main><footer>Sin reproducción automática · carga selectiva · respeta movimiento reducido<br>Originales HHR conservados byte a byte. Nuevas escenas separadas del presupuesto original.</footer><script type="module" src="src/app.js"></script></html>
+<!doctype html>
+<html lang="es">
+  <meta charset="utf-8" /><meta
+    name="viewport"
+    content="width=device-width,initial-scale=1"
+  /><link rel="icon" href="data:, " /><title>
+    Moa · Biblioteca de movimiento</title
+  ><link rel="stylesheet" href="src/style.css" />
+  <header>
+    <p class="eyebrow">MOA / ARCHIVO DE MOVIMIENTO</p>
+    <h1>Un pequeño gesto.<br />El mismo Moa.</h1>
+    <p>
+      Atlas originales preservados y nuevas escenas en revisión. Una biblioteca
+      independiente, silenciosa y sin datos clínicos.
+    </p>
+    <nav>
+      <a href="docs/SCENES.md">Plan e índice</a
+      ><a href="docs/inventory.json">Inventario verificable</a
+      ><a href="references/identity-guide-v0.html">Guía de identidad</a>
+    </nav>
+  </header>
+  <main>
+    <section class="workbench" aria-labelledby="preview-title">
+      <div>
+        <p class="eyebrow">MESA DE REVISIÓN</p>
+        <h2 id="preview-title">Saludo</h2>
+        <p id="details"></p>
+        <div class="controls">
+          <label
+            >Fondo
+            <select id="background">
+              <option value="light">Claro</option>
+              <option value="dark">Oscuro</option>
+              <option value="blue">Azul HHR</option>
+            </select></label
+          ><label
+            >Escala
+            <select id="scale">
+              <option value="1">144 × 84 · real</option>
+              <option value="3">432 × 252 · ampliado</option>
+            </select></label
+          ><label><input type="checkbox" id="still" /> Pose quieta</label>
+        </div>
+      </div>
+      <div class="preview">
+        <div id="stage-shell" class="light">
+          <div class="stage">
+            <button id="stage-play" aria-label="Reproducir escena">
+              <span id="sprite"></span></button
+            ><button id="close" aria-label="Ocultar muestra">×</button>
+          </div>
+        </div>
+        <p id="status" role="status"></p>
+      </div>
+      <div class="transport">
+        <button id="play">Reproducir / reiniciar</button
+        ><button id="rest">Reposo</button
+        ><button id="previous" aria-label="Cuadro anterior">←</button
+        ><button id="next" aria-label="Cuadro siguiente">→</button
+        ><label
+          >Velocidad de revisión
+          <select id="speed">
+            <option value="0.5">0,5×</option>
+            <option value="1" selected>1×</option>
+            <option value="1.5">1,5×</option>
+            <option value="2">2×</option>
+          </select></label
+        ><label
+          >Cuadro
+          <input id="frame" type="range" min="0" max="5" value="0" /><output
+            id="frame-label"
+            >1 / 6</output
+          ></label
+        >
+      </div>
+    </section>
+    <section aria-labelledby="catalog-title">
+      <div class="catalog-heading">
+        <h2 id="catalog-title">Colección</h2>
+        <span id="count"></span>
+      </div>
+      <div class="filters">
+        <label
+          >Buscar
+          <input
+            id="search"
+            type="search"
+            placeholder="Saludo, cuidado, emoción…" /></label
+        ><label
+          >Categoría
+          <select id="category">
+            <option value="all">Todas</option>
+            <option>Expresión</option>
+            <option>Movimiento</option>
+            <option>Cuidado</option>
+            <option>Cotidiano</option>
+            <option>Celebración</option>
+          </select></label
+        ><label
+          >Paquete
+          <select id="pack">
+            <option value="all">Todos</option>
+            <option value="original">Originales v2</option>
+            <option value="new">Escenas nuevas</option>
+          </select></label
+        >
+      </div>
+      <div id="catalog"></div>
+    </section>
+  </main>
+  <footer>
+    Sin reproducción automática · carga selectiva · respeta movimiento
+    reducido<br />Originales HHR conservados byte a byte. Nuevas escenas
+    separadas del presupuesto original.
+  </footer>
+  <script type="module" src="src/app.js"></script>
+</html>

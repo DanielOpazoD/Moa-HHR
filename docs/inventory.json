@@ -200,6 +200,18 @@
       "sourcePath": "src/tests/components/moaSceneAssets.test.ts",
       "bytes": 1539,
       "sha256": "f6142f476e9ee1b6836f6c9de7fbbfed5944f24350949af3b2da6192730ecfad"
+    },
+    {
+      "path": "originals/hhr/src/components/layout/MoaCompanion.tsx",
+      "sourcePath": "src/components/layout/MoaCompanion.tsx",
+      "bytes": 2367,
+      "sha256": "a29b0110990689a5959394f77b87bd2b9ed0631e55ca797493a3f26dd853df1d"
+    },
+    {
+      "path": "originals/hhr/src/shared/ui/useMoaVisibility.ts",
+      "sourcePath": "src/shared/ui/useMoaVisibility.ts",
+      "bytes": 1419,
+      "sha256": "1cc2ccb809094af1f51974e8c21145b8c8b258b741cf5427b21d13008b791feb"
     }
   ]
 }

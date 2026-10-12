@@ -1,0 +1,185 @@
+{
+  "order": 7,
+  "id": "friends",
+  "title": "Jugando con amigos",
+  "category": "Movimiento",
+  "pack": "new",
+  "version": 1,
+  "status": "approved",
+  "frames": 12,
+  "durations": [
+    520,
+    280,
+    280,
+    280,
+    320,
+    560,
+    520,
+    360,
+    360,
+    320,
+    320,
+    680
+  ],
+  "cycles": 1,
+  "still": 6,
+  "source": "new-scenes/sources/friends-v1.png",
+  "src": "new-scenes/atlases/moa-friends-v1.png",
+  "generator": "Integrated image_gen",
+  "reference": "references/moa-neutral.png",
+  "review": "12 poses: one ball passed between Moa, bunny and bear. Explicit grid cuts preserve ball arc; cast remains stable.",
+  "sourceRows": [
+    0,
+    375,
+    686,
+    958
+  ],
+  "sourceColumns": [
+    0,
+    438,
+    836,
+    1234,
+    1642
+  ],
+  "packaging": {
+    "sourceSize": [
+      1642,
+      958
+    ],
+    "rowCuts": [
+      0,
+      375,
+      686,
+      958
+    ],
+    "columnCuts": [
+      0,
+      438,
+      836,
+      1234,
+      1642
+    ],
+    "rowBaselineRegistration": [
+      [
+        0,
+        56
+      ],
+      [
+        20,
+        56
+      ],
+      [
+        20,
+        56
+      ],
+      [
+        15,
+        56
+      ],
+      [
+        0,
+        133
+      ],
+      [
+        20,
+        133
+      ],
+      [
+        20,
+        133
+      ],
+      [
+        15,
+        133
+      ],
+      [
+        0,
+        170
+      ],
+      [
+        20,
+        170
+      ],
+      [
+        20,
+        170
+      ],
+      [
+        15,
+        170
+      ]
+    ],
+    "unionCrop": [
+      21,
+      164,
+      435,
+      401
+    ],
+    "sharedScale": 0.5507246376811594,
+    "frameSize": [
+      288,
+      168
+    ],
+    "origin": [
+      0,
+      0
+    ],
+    "trajectory": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ]
+    ]
+  },
+  "frameFiles": [
+    "new-scenes/frames/friends-v1/000.png",
+    "new-scenes/frames/friends-v1/001.png",
+    "new-scenes/frames/friends-v1/002.png",
+    "new-scenes/frames/friends-v1/003.png",
+    "new-scenes/frames/friends-v1/004.png",
+    "new-scenes/frames/friends-v1/005.png",
+    "new-scenes/frames/friends-v1/006.png",
+    "new-scenes/frames/friends-v1/007.png",
+    "new-scenes/frames/friends-v1/008.png",
+    "new-scenes/frames/friends-v1/009.png",
+    "new-scenes/frames/friends-v1/010.png",
+    "new-scenes/frames/friends-v1/011.png"
+  ],
+  "bytes": 82946,
+  "sha256": "3d1264d6465bfa7d804b7be65e507d63b44d84d1aa87f36885af0c5400c9e5aa",
+  "sourceSha256": "84d04289b44d5598aea5f9f4e58529f5b6685a5d7ec5013fc6e3bc0777252d87",
+  "sourceBytes": 1212486,
+  "frameSha256": [
+    "de190c64ddb0af6d3bab649e73592ec506f3e00e6ec0a57ead3b7616a96764cc",
+    "eda5796f82d65b35da757360161993aa06db2ea79452ba2f5a3b2d03ff74d31a",
+    "9615aa47e736d56a7834734b915e153c2da952c58cb0a78cd7db87338b42e484",
+    "7e11acb4d168cbc402bc9c14cf920feda93c1617dce5167fd600b940c955d2e8",
+    "7954bfd1bc0d91e6fa54e4e1f9f7390c5a598b7ead69de1fc9c7f4047f90e0bd",
+    "847b1e4c268a920260e11a2fb47fd334216be73197d3ccb8592412eae20b286d",
+    "8297f8a632ff80c0f7fc3efa7056934f5850925a89896cef0a87e3fa79c41a16",
+    "20077c625f33c2d81a10fb894de5a979baeabed0805f3038aad66f7aab815eac",
+    "80ca5a5172547fd5e06e4f0d5da80459674fb959bdb141693eb4758014492ebf",
+    "ab07a1cbe94841279016204ff0b6b138cd99795c2c632c4a0cd43bcccc38b549",
+    "c6eb3ef83a1006a5e3dc64ad9422bf3a0c11b92510402dce90cf996a80a0a2aa",
+    "5c667faa7042f3ab114c94c51071705b439acd34b6fa546d35c37ce3979d875e"
+  ],
+  "prompt": "new-scenes/prompts/friends.txt",
+  "qa": {
+    "reviewer": "Codex visual and technical review; user sign-off is not implied",
+    "date": "2026-10-12",
+    "frameByFrame": true,
+    "realSizeBackgrounds": [
+      "light",
+      "dark",
+      "blue"
+    ],
+    "enlargedBrowser": true,
+    "browserTemporalSamples": 12,
+    "evidence": "evidence/friends/",
+    "remainingLimitation": "Illustrated raster key poses, not vector rigging or a smooth interpolated character. Dense group/text details are clearer enlarged."
+  }
+}

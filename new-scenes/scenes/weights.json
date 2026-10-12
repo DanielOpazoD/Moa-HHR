@@ -1,0 +1,165 @@
+{
+  "order": 4,
+  "id": "weights",
+  "title": "Haciendo pesas",
+  "category": "Movimiento",
+  "pack": "new",
+  "version": 1,
+  "status": "approved",
+  "frames": 12,
+  "durations": [
+    455,
+    245,
+    245,
+    245,
+    280,
+    490,
+    455,
+    315,
+    315,
+    280,
+    280,
+    595
+  ],
+  "cycles": 1,
+  "still": 6,
+  "source": "new-scenes/sources/weights-v1.png",
+  "src": "new-scenes/atlases/moa-weights-v1.png",
+  "generator": "Integrated image_gen",
+  "reference": "references/moa-neutral.png",
+  "review": "12 poses: elbows flex then lower under control; hands keep dumbbells and feet retain support.",
+  "bytes": 58507,
+  "sha256": "aa8381e6af88ebb7c3f0c246f51c5625c48fe7def1a9f0fe0478b46aed7b94cc",
+  "packaging": {
+    "sourceSize": [
+      1642,
+      958
+    ],
+    "rowCuts": [
+      0,
+      348,
+      626,
+      958
+    ],
+    "rowBaselineRegistration": [
+      [
+        0,
+        36
+      ],
+      [
+        0,
+        36
+      ],
+      [
+        0,
+        36
+      ],
+      [
+        0,
+        36
+      ],
+      [
+        0,
+        105
+      ],
+      [
+        0,
+        105
+      ],
+      [
+        0,
+        105
+      ],
+      [
+        0,
+        105
+      ],
+      [
+        0,
+        101
+      ],
+      [
+        0,
+        101
+      ],
+      [
+        0,
+        101
+      ],
+      [
+        0,
+        101
+      ]
+    ],
+    "unionCrop": [
+      90,
+      113,
+      339,
+      375
+    ],
+    "sharedScale": 0.5725190839694656,
+    "frameSize": [
+      288,
+      168
+    ],
+    "origin": [
+      0,
+      0
+    ],
+    "trajectory": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ]
+    ]
+  },
+  "frameFiles": [
+    "new-scenes/frames/weights-v1/000.png",
+    "new-scenes/frames/weights-v1/001.png",
+    "new-scenes/frames/weights-v1/002.png",
+    "new-scenes/frames/weights-v1/003.png",
+    "new-scenes/frames/weights-v1/004.png",
+    "new-scenes/frames/weights-v1/005.png",
+    "new-scenes/frames/weights-v1/006.png",
+    "new-scenes/frames/weights-v1/007.png",
+    "new-scenes/frames/weights-v1/008.png",
+    "new-scenes/frames/weights-v1/009.png",
+    "new-scenes/frames/weights-v1/010.png",
+    "new-scenes/frames/weights-v1/011.png"
+  ],
+  "sourceSha256": "b6fd8854681ee9f25b69d6c5d529691e06daa25365cd9b9177da80d1ccd9e7a1",
+  "sourceBytes": 898913,
+  "frameSha256": [
+    "fa0456b2c9f09ba260a064a837a1aa66dd437d1987c52e817696b3256abeefac",
+    "9480a492d9970d1226f31bbb7df4fc9b303f4f1c42d763b283b9bb99b0c5542f",
+    "68eb75a94198f6888a20928bf72248b0f24fd133cc46db6dc57c80715704d360",
+    "cee09d11e16db7d23e93c1697e3a71dc1bc1b91bd21add4d40e450aa020620d8",
+    "fa601caf1b6ce167ec7976e7fe01e09a0ed10ffce109cd5ac67e4bca1e39b0e8",
+    "943afc4186efbb237eb6dd159bd656b6cac476c0e532792186dc1171bd32e6fb",
+    "6ede7ccafc94f77adcdc07c32ef25a1eda1309f1f065105b9cf9452eb8b4da0b",
+    "8b9c8ccba8c626f929b7ea320bc467bbda2545b10a3ab43fb05c851444a95d94",
+    "0120ed37c0e2567c86644a5923ed7025060f1b105d607909d981158d1656e5ce",
+    "908a06d67bd623ae0f36eae96307831c6ab9102f67968d4033cd1e1d2119a84a",
+    "9a7e887854cd43f4497081bd783751de4644e7bddd2a43d49ebe91cc1f63b27f",
+    "56e6e896a8f8daae4db5911ba45818a62330a943fce8a7dc63e1a4f894fe95d6"
+  ],
+  "prompt": "new-scenes/prompts/weights.txt",
+  "qa": {
+    "reviewer": "Codex visual and technical review; user sign-off is not implied",
+    "date": "2026-10-12",
+    "frameByFrame": true,
+    "realSizeBackgrounds": [
+      "light",
+      "dark",
+      "blue"
+    ],
+    "enlargedBrowser": true,
+    "browserTemporalSamples": 12,
+    "evidence": "evidence/weights/",
+    "remainingLimitation": "Illustrated raster key poses; no hidden layers or vector rig."
+  }
+}

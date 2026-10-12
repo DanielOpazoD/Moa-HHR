@@ -1,6 +1,6 @@
 # Moa · biblioteca de movimiento
 
-Archivo autónomo de los **18 atlas originales v2** y taller de **14 escenas nuevas**. Los originales se conservan byte a byte; las escenas nuevas viven en otro paquete. Sin datos clínicos, servicios ni dependencias del hospital.
+Archivo autónomo de los **18 atlas originales v2** y **14 escenas nuevas revisadas**, con 156 poses raster editables. Los originales se conservan byte a byte; las escenas nuevas viven en otro paquete. Sin datos clínicos, servicios ni dependencias del hospital.
 
 ## Abrir la galería
 
@@ -13,6 +13,8 @@ Abra [index.html](index.html) a través del servidor. Busque por nombre, filtre 
 
 ## Índices
 
+- [Informe de revisión y límites](docs/QA.md)
+- [Cómo retocar o añadir poses](docs/EDITING.md)
 - [Plan y criterios de las 14 escenas](docs/SCENES.md)
 - [Catálogo reproducible](scenes.json) y [manifiesto de escenas nuevas](new-scenes/manifest.json)
 - [Inventario original con SHA-256](docs/inventory.json)
@@ -31,10 +33,11 @@ Solo se descarga el maestro y la escena seleccionada. Se respetan **<300.000 byt
 
 ```sh
 npm ci
-python3 -m pip install Pillow==12.1.0
+python3 -m pip install Pillow==12.3.0
 npx playwright install chromium
 npm test
 npm run test:browser
+npm run test:editable
 python3 scripts/pack.py thinking  # o cualquier id con fuente presente
 python3 scripts/catalog.py
 ```

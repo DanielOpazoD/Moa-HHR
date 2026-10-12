@@ -1,0 +1,165 @@
+{
+  "order": 2,
+  "id": "checkup",
+  "title": "Examinando con fonendoscopio",
+  "category": "Cuidado",
+  "pack": "new",
+  "version": 1,
+  "status": "approved",
+  "frames": 12,
+  "durations": [
+    520,
+    280,
+    280,
+    280,
+    320,
+    560,
+    520,
+    360,
+    360,
+    320,
+    320,
+    680
+  ],
+  "cycles": 1,
+  "still": 6,
+  "source": "new-scenes/sources/checkup-v1.png",
+  "src": "new-scenes/atlases/moa-checkup-v1.png",
+  "generator": "Integrated image_gen",
+  "reference": "references/moa-neutral.png",
+  "review": "12 poses: earpieces, contact/listening and reassurance with fictional clothed toy patient. Hands/tube and complete bear reviewed.",
+  "bytes": 93693,
+  "sha256": "d6006a2da3da1000bedd62b51d7900b1330afc7a98cca8199f48db4135e66f24",
+  "packaging": {
+    "sourceSize": [
+      1642,
+      958
+    ],
+    "rowCuts": [
+      0,
+      351,
+      635,
+      958
+    ],
+    "rowBaselineRegistration": [
+      [
+        0,
+        45
+      ],
+      [
+        0,
+        45
+      ],
+      [
+        0,
+        45
+      ],
+      [
+        0,
+        45
+      ],
+      [
+        0,
+        103
+      ],
+      [
+        0,
+        103
+      ],
+      [
+        0,
+        103
+      ],
+      [
+        0,
+        103
+      ],
+      [
+        0,
+        105
+      ],
+      [
+        0,
+        105
+      ],
+      [
+        0,
+        105
+      ],
+      [
+        0,
+        105
+      ]
+    ],
+    "unionCrop": [
+      42,
+      118,
+      406,
+      379
+    ],
+    "sharedScale": 0.5747126436781609,
+    "frameSize": [
+      288,
+      168
+    ],
+    "origin": [
+      0,
+      0
+    ],
+    "trajectory": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ]
+    ]
+  },
+  "frameFiles": [
+    "new-scenes/frames/checkup-v1/000.png",
+    "new-scenes/frames/checkup-v1/001.png",
+    "new-scenes/frames/checkup-v1/002.png",
+    "new-scenes/frames/checkup-v1/003.png",
+    "new-scenes/frames/checkup-v1/004.png",
+    "new-scenes/frames/checkup-v1/005.png",
+    "new-scenes/frames/checkup-v1/006.png",
+    "new-scenes/frames/checkup-v1/007.png",
+    "new-scenes/frames/checkup-v1/008.png",
+    "new-scenes/frames/checkup-v1/009.png",
+    "new-scenes/frames/checkup-v1/010.png",
+    "new-scenes/frames/checkup-v1/011.png"
+  ],
+  "sourceSha256": "e6629c5e3ed67f93c07d67a8507cee5ba15ac7d32dd61831d9734688aeea7f17",
+  "sourceBytes": 1346800,
+  "frameSha256": [
+    "2113f39453f2e7ce4d071acdeb364e22dee044d5ee47e138c5a8ea65cb95da88",
+    "0c1f71b03485c03172a88f45514dd899c29c9119094bb625fc426825498c84ad",
+    "d8527cf1621e6b5b42845da9e07365604575119dc46d25f06d1f0d67e47964fe",
+    "a25d20ceb2d09ecfeb7052f2a1e8ecc30b63ee16160e248d8aec89a0f0d3177f",
+    "5c68aae54d644eb539bf736f43a06a7959832cf283855d26a665a16bbfae6b8d",
+    "79294b16c9b169c6496119506b950b17408b924baa1e00ef8037a3541f4b17bb",
+    "91e2855c7372612570e8fdc97a775dfce5f76216cc63d8e7f488e8b74cefd7d5",
+    "1cbbed6a28d9ba5937f5847a0068454f5d4740468743a90e1a764f740f5e8a36",
+    "2a4c97a6e426e13cbf7662d17faad0cf14d4df19bccb2edafe34b07afb5a5442",
+    "e20437fd6dc7d2c9b07883bf49160a15676c097bebaf417e7cfdaa6f026c80d3",
+    "84f1694027fac469d240ff2308ecc6c9eb279946aa31a83c0fe344930abd2a15",
+    "2d5582a789c788b29f8f6e359c9e3585d1562ec854ee6b916b4b18aa16aebbcc"
+  ],
+  "prompt": "new-scenes/prompts/checkup.txt",
+  "qa": {
+    "reviewer": "Codex visual and technical review; user sign-off is not implied",
+    "date": "2026-10-12",
+    "frameByFrame": true,
+    "realSizeBackgrounds": [
+      "light",
+      "dark",
+      "blue"
+    ],
+    "enlargedBrowser": true,
+    "browserTemporalSamples": 12,
+    "evidence": "evidence/checkup/",
+    "remainingLimitation": "Illustrated raster key poses; no hidden layers or vector rig."
+  }
+}

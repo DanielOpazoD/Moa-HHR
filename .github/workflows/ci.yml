@@ -14,8 +14,9 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
-      - run: python -m pip install Pillow==12.1.0
+      - run: python -m pip install Pillow==12.3.0
       - run: npm ci
       - run: npx playwright install --with-deps chromium
       - run: npm test
+      - run: npm run test:editable
       - run: npm run test:browser

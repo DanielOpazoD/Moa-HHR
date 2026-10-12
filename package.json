@@ -1,1 +1,15 @@
-{"name":"moa-hhr-library","private":true,"type":"module","scripts":{"test":"node --test tests/player.test.js && python3 scripts/validate.py","test:browser":"playwright test","serve":"python3 -m http.server 4173"},"devDependencies":{"@playwright/test":"1.58.2"}}
+{
+  "name": "moa-hhr-library",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node --test tests/player.test.js && python3 -m unittest discover -s tests -p 'test_*.py' && python3 scripts/validate.py",
+    "test:browser": "playwright test",
+    "serve": "python3 -m http.server 4173",
+    "test:editable": "python3 scripts/check-editable.py",
+    "review": "node scripts/review-browser.mjs"
+  },
+  "devDependencies": {
+    "@playwright/test": "1.58.2"
+  }
+}

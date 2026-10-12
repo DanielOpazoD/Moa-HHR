@@ -1,0 +1,143 @@
+{
+  "order": 10,
+  "id": "costume",
+  "title": "Disfraz gracioso",
+  "category": "Celebración",
+  "pack": "new",
+  "version": 1,
+  "status": "approved",
+  "frames": 8,
+  "durations": [
+    550,
+    400,
+    650,
+    400,
+    400,
+    400,
+    500,
+    700
+  ],
+  "cycles": 1,
+  "still": 4,
+  "source": "new-scenes/sources/costume-v1.png",
+  "src": "new-scenes/atlases/moa-costume-v1.png",
+  "generator": "Integrated image_gen",
+  "reference": "references/moa-neutral.png",
+  "review": "8 poses: frog hood, crouch, rise and bow. Grey face, ears and wave remain recognizable; jump/rise is preserved within row registration.",
+  "packaging": {
+    "sourceSize": [
+      1642,
+      958
+    ],
+    "rowCuts": [
+      0,
+      495,
+      958
+    ],
+    "columnCuts": [
+      0,
+      410,
+      820,
+      1230,
+      1640
+    ],
+    "rowBaselineRegistration": [
+      [
+        0,
+        42
+      ],
+      [
+        0,
+        42
+      ],
+      [
+        0,
+        42
+      ],
+      [
+        0,
+        42
+      ],
+      [
+        0,
+        99
+      ],
+      [
+        0,
+        99
+      ],
+      [
+        0,
+        99
+      ],
+      [
+        0,
+        99
+      ]
+    ],
+    "unionCrop": [
+      27,
+      117,
+      382,
+      522
+    ],
+    "sharedScale": 0.37037037037037035,
+    "frameSize": [
+      288,
+      168
+    ],
+    "origin": [
+      0,
+      0
+    ],
+    "trajectory": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ]
+    ]
+  },
+  "frameFiles": [
+    "new-scenes/frames/costume-v1/000.png",
+    "new-scenes/frames/costume-v1/001.png",
+    "new-scenes/frames/costume-v1/002.png",
+    "new-scenes/frames/costume-v1/003.png",
+    "new-scenes/frames/costume-v1/004.png",
+    "new-scenes/frames/costume-v1/005.png",
+    "new-scenes/frames/costume-v1/006.png",
+    "new-scenes/frames/costume-v1/007.png"
+  ],
+  "bytes": 39744,
+  "sha256": "97699bc01b1b0bfd207653208387228ae8100d0a7b3328366c2f9bf7f283e638",
+  "sourceSha256": "7af284c350814eead119e08d294e94252b780fc88aee25bf384196842c95837b",
+  "sourceBytes": 1158351,
+  "frameSha256": [
+    "8953cd25a6d08eb70825ec27df741402dea18a23af01874d8a9533f1207db650",
+    "9ff3d1709949e5890dee37e4108fbf6023cfb059281e67c996f8028c6cc1a170",
+    "e7443655df065ae49668669cb2f0d620455ba6e736a1cc80a0e0b9f61dd10943",
+    "748da021d5ae2d85edb0573b6715da02a8fd50ed1c2e7ef9f89e0c628b4593b5",
+    "a6ce97b2a683dcc5bbf797d1d7e1dab8260094480b263dbe4280678b57c6b1f4",
+    "d1236d8194a111daef81f93a6a57cf3782fb141da56a110e6666d986163d6f3b",
+    "99e0689539f419085005e5a3462260de66591f4f516079d7cb254cbcef647431",
+    "7758265a895a510b1b1746dbb92ab9dfbb7d1a5618ad8ce2cdfde73257ba2313"
+  ],
+  "prompt": "new-scenes/prompts/costume.txt",
+  "qa": {
+    "reviewer": "Codex visual and technical review; user sign-off is not implied",
+    "date": "2026-10-12",
+    "frameByFrame": true,
+    "realSizeBackgrounds": [
+      "light",
+      "dark",
+      "blue"
+    ],
+    "enlargedBrowser": true,
+    "browserTemporalSamples": 8,
+    "evidence": "evidence/costume/",
+    "remainingLimitation": "Illustrated raster key poses; no hidden layers or vector rig."
+  }
+}
