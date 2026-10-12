@@ -11,7 +11,7 @@ Son viñetas artísticas de un personaje ficticio, no reconstrucciones etnográf
 | 1      | R01–R05 | Flores, brisa, piña, poʻe, ukulele                     | Integrado en PR #8 |
 | 2      | R06–R10 | Sau-sau, kai-kai, manavai, toromiro, tortuga           | Integrado en PR #9; R07 adaptado     |
 | 3      | R11–R15 | Costa limpia, pesca, remos, carrera con plátanos, umu  | Revisado; preparado para PR                   |
-| 4      | R16–R20 | Tejido, celebración, memoria cotidiana, sendero, Tahai | Pendiente                   |
+| 4      | R16–R20 | Tejido, celebración, memoria cotidiana, sendero, Tahai | Revisado; preparado para PR                   |
 
 ## Referencias del bloque 1
 
@@ -46,3 +46,30 @@ Consultadas el 12 de octubre de 2026.
 - **R13 — Encontrando el ritmo al remar.** La misma fuente describe Vaka Ama en embarcación de totora. La escena usa deliberadamente una canoa moderna y chalecos; no representa esa modalidad. El compañero animal es imaginario, no fauna de la isla. Coordinación abreviada, no clase de navegación.
 - **R14 — Carrera con plátanos.** [Imagina Rapa Nui: deportes](https://imaginarapanui.com/dia-de-los-deportes-ancestrales-rapa-nui/) describe una vara sobre los hombros con racimos en ambos extremos; [Municipalidad](https://x.com/muni_rapanui/status/1226635968821841922) documenta Aka Venga. Vara, racimos, carga y vestuario simplificados para Moa; sin peso real ni recorrido arqueológico. No se afirma vigencia de la antigua prueba dentro de Rano Raraku. Dos fotografías no pudieron descargarse (403 y 406); no se sortearon esos bloqueos ni se usaron como referencia visual.
 - **R15 — Compartiendo umu.** [Portal de las Culturas Originarias: gastronomía](https://2023.serindigena.org/insular/rapa-nui/gastronomia/) documenta cocción con piedras y hojas de plátano y alimentos como camote. Se muestra únicamente reparto ficticio de porciones cocidas sobre una hoja; sin proceso de cocción ni rito atribuido.
+
+## Referencias del bloque 4
+
+Consultadas el 12 de octubre de 2026. Fotografías inspeccionadas localmente y usadas como referencia visual; no incorporadas al repositorio ni relicenciadas.
+
+- **R16 — Aprendiendo con fibras de plátano.** [Museo de Historia Natural de Valparaíso: colección Rapa Nui](https://www.mhnv.gob.cl/galeria/coleccion-rapa-nui), kete inventario 186 y detalle fotográfico de Patricia Novoa. Apoya el material kakaka y el entrelazado diagonal. Moa practica una esquina de una muestra inacabada; movimientos simplificados, sin reproducir un bolso completo ni enseñar el proceso artesanal. La tutora es ficticia.
+- **R17 — Preparando el vestuario.** La misma colección, falda inventario 214, fotografía de Romina Moncada: prenda moderna de baile con mahute y plumas. Se abstraen flecos claros, bandas oscuras y tirantes. [Chile Travel](https://chile.travel/blog/competencias-ancestrales-en-tapati-tradicion-fuerza-y-cultura/) aporta contexto de las actuaciones de Tapati. El vestuario es un accesorio ficticio inspirado en esa documentación, no una pieza patrimonial ni la reproducción de un traje específico del festival. El cepillado es actuación inventada, no consejo de conservación.
+- **R18 — Recuerdos compartidos.** Concepto cotidiano aprobado: dos personajes ficticios miran un álbum inventado. No se atribuye un testimonio a una persona real ni se inventa una leyenda o tradición. No requiere una fuente etnográfica; el JSON no incluye una cita que aparente respaldar la ficción. La segunda versión mantiene el álbum visible en los doce cuadros.
+- **R19 — Siguiendo el sendero.** [Ma’u Henua: sitio oficial del Parque Nacional Rapa Nui](https://www.rapanuinationalpark.com/), normas de observación a distancia y circulación por senderos demarcados. La figura del fondo es una simplificación sin atribución a un moái concreto. Moa no sustituye un guía acreditado. La escena no representa una ruta, distancia de aproximación ni permiso de acceso.
+- **R20 — Atardecer en Tahai.** El mismo sitio oficial identifica Tahai como lugar para contemplar el atardecer. Su fotografía muestra cinco figuras de alturas diferentes sobre una plataforma; se usan como siluetas lejanas, sin animarlas ni tocarlas. Encuadre, vegetación y límites simplificados para la viñeta; no mapa ni reproducción completa de los tres ahu. Moa permanece en el área de visitantes separada del patrimonio.
+
+## Lectura de los prompts
+
+Los archivos enlazados en los JSON conservan el texto exacto enviado al generador y permiten auditar la procedencia. Algunos prompts anteriores se redactaron con palabras concatenadas; esta sección resume su intención con redacción legible. Los futuros prompts se escribirán con espacios normales.
+
+| Escena | Actuación y continuidad que se revisan |
+| --- | --- |
+| R11 | Recoger una botella, introducirla en la bolsa y celebrar; un solo residuo. |
+| R12 | Esperar, sacar un alga, sonreír y bajarla; caña e hilo continuos. |
+| R13 | Descoordinarse, mirarse y remar juntos; dos remos y dos chalecos. |
+| R14 | Prepararse, correr y frenar; vara y dos racimos siempre sujetos. |
+| R15 | Repartir tres porciones y comer juntos; tres platos permanentes. |
+| R16 | Observar y practicar una esquina de fibra; muestra inacabada permanente. |
+| R17 | Alisar el vestuario, ajustar un tirante y dejar el cepillo en el estante. |
+| R18 | Mirar el álbum, señalar, escuchar y sonreír; álbum siempre visible. |
+| R19 | Indicar el camino y avanzar por él; patrimonio separado al fondo. |
+| R20 | Sentarse, mirar el horizonte y descansar; siluetas patrimoniales inmóviles. |
