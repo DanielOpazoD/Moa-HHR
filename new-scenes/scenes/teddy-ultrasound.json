@@ -1,0 +1,212 @@
+{
+  "order": 37,
+  "id": "teddy-ultrasound",
+  "title": "Ecografía de peluche",
+  "category": "Cuidado",
+  "pack": "new",
+  "batch": "gestures-05",
+  "expansionOrder": 23,
+  "version": 4,
+  "status": "approved",
+  "frames": 16,
+  "durations": [
+    456,
+    326,
+    326,
+    326,
+    326,
+    326,
+    326,
+    326,
+    326,
+    326,
+    326,
+    326,
+    326,
+    326,
+    326,
+    580
+  ],
+  "cycles": 1,
+  "still": 11,
+  "source": "new-scenes/sources/teddy-ultrasound-v4.png",
+  "src": "new-scenes/atlases/moa-teddy-ultrasound-v4.png",
+  "generator": "Integrated image_gen",
+  "reference": "references/moa-neutral.png",
+  "prompt": "new-scenes/prompts/teddy-ultrasound.txt",
+  "review": "Tres correcciones conservadas de continuidad de sonda; permanece en mano derecha de imagen. Oso inequívoco y corazón simbólico estático.",
+  "context": "Juego ficticio con un peluche y una imagen simbólica; no representa una exploración diagnóstica.",
+  "correctionPrompts": [
+    "new-scenes/prompts/teddy-ultrasound-correction.txt",
+    "new-scenes/prompts/teddy-ultrasound-correction-2.txt",
+    "new-scenes/prompts/teddy-ultrasound-correction-3.txt"
+  ],
+  "packaging": {
+    "sourceSize": [
+      1643,
+      957
+    ],
+    "rowCuts": [
+      0,
+      269,
+      501,
+      726,
+      957
+    ],
+    "columnCuts": [
+      0,
+      410,
+      820,
+      1230,
+      1640
+    ],
+    "rowBaselineRegistration": [
+      [
+        0,
+        32
+      ],
+      [
+        0,
+        32
+      ],
+      [
+        0,
+        32
+      ],
+      [
+        0,
+        32
+      ],
+      [
+        0,
+        70
+      ],
+      [
+        0,
+        70
+      ],
+      [
+        0,
+        70
+      ],
+      [
+        0,
+        70
+      ],
+      [
+        0,
+        70
+      ],
+      [
+        0,
+        70
+      ],
+      [
+        0,
+        70
+      ],
+      [
+        0,
+        70
+      ],
+      [
+        0,
+        72
+      ],
+      [
+        0,
+        72
+      ],
+      [
+        0,
+        72
+      ],
+      [
+        0,
+        72
+      ]
+    ],
+    "unionCrop": [
+      16,
+      53,
+      410,
+      298
+    ],
+    "sharedScale": 0.5786802030456852,
+    "frameSize": [
+      288,
+      168
+    ],
+    "origin": [
+      0,
+      0
+    ],
+    "trajectory": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ]
+    ]
+  },
+  "frameFiles": [
+    "new-scenes/frames/teddy-ultrasound-v4/000.png",
+    "new-scenes/frames/teddy-ultrasound-v4/001.png",
+    "new-scenes/frames/teddy-ultrasound-v4/002.png",
+    "new-scenes/frames/teddy-ultrasound-v4/003.png",
+    "new-scenes/frames/teddy-ultrasound-v4/004.png",
+    "new-scenes/frames/teddy-ultrasound-v4/005.png",
+    "new-scenes/frames/teddy-ultrasound-v4/006.png",
+    "new-scenes/frames/teddy-ultrasound-v4/007.png",
+    "new-scenes/frames/teddy-ultrasound-v4/008.png",
+    "new-scenes/frames/teddy-ultrasound-v4/009.png",
+    "new-scenes/frames/teddy-ultrasound-v4/010.png",
+    "new-scenes/frames/teddy-ultrasound-v4/011.png",
+    "new-scenes/frames/teddy-ultrasound-v4/012.png",
+    "new-scenes/frames/teddy-ultrasound-v4/013.png",
+    "new-scenes/frames/teddy-ultrasound-v4/014.png",
+    "new-scenes/frames/teddy-ultrasound-v4/015.png"
+  ],
+  "sourceSha256": "d81cb64246786899f75e5163586566c89cef5353265d011b08fa37051de7e5ff",
+  "frameSha256": [
+    "16c67d80005479ed4fa48eb5a55ac1623c976828a81c5fc33144462052c93cf9",
+    "4f0e7ced030ad5555d125725f0a098d17e959177e96a2d4c5a7ef27e7b9ae00c",
+    "71c43b2904c25d5c8e3ce7ada6b316be743ec8b7ff9477a4d2f5069b65ccfa1e",
+    "a9710568e91a0e2965dbbf27ae3794335fad7053a8f9baa2c759801d2fb51332",
+    "ad38b54d3e74c1d39a674d9b7dba5342b29440419fa6da3468d9fee22b273033",
+    "595500ecc2afeec593bc1c173cfb31c29e9f80506bb6d6aa504dcef829b6f866",
+    "a86bd26be149541c71060fb9a82c4dec1720f44c8f1e75b410e1f26fe650c858",
+    "1a3bfebd3f4c677f029ea2cc60b4d4b879dbc923fd677a49f74aaf7634c5652f",
+    "51baf54ed6daa1e30818b3847d908093f9f416eca762924a43be42870e60508d",
+    "0612155e73da2fa485bced14c3b42f81f7ad2f2d2359d391576c98397e325413",
+    "54631a137e4e1313076959bc8e14707d94d8868e721b7c26c7c029f4ad13b049",
+    "3d3051699b4c5c5956414c6effb29defba4438f73d49c270e1f03b872300201a",
+    "02c5bd0bec3fdc18d828f9fcac103f8a023cb34f1b90637e2772d33ade4eb1de",
+    "e6cf29f0222c032ea6a1ecd6d068b0c059015f8fa2e87091a9eea1dc5380a67d",
+    "673d865b9fc169b7e368b8ed7c97db546746db72ceac9a18b59930986a8b7399",
+    "900a6ab21ce6cf674fdd361e79cec6f061ad5ea53bf554005221eec489eaa4bb"
+  ],
+  "bytes": 125182,
+  "sha256": "2de53c34795e57e35a51ec4329f3dfc8880e45783f83ca3ede02d73e70cf8568",
+  "sourceBytes": 1826538,
+  "qa": {
+    "reviewer": "Codex visual and technical review; final reviewer handles merge",
+    "date": "2026-10-12",
+    "frameByFrame": true,
+    "backgrounds": [
+      "light",
+      "dark",
+      "blue"
+    ],
+    "scales": [
+      1,
+      3
+    ],
+    "browserTemporalSamples": 16,
+    "evidence": "evidence/teddy-ultrasound/",
+    "remainingLimitation": "Raster key poses, not a vector rig; Chromium verified, physical devices not tested. Decorative care scenes are not clinical instruction."
+  }
+}

@@ -1,0 +1,186 @@
+{
+  "order": 36,
+  "id": "handover",
+  "title": "Entrega de turno ficticia",
+  "category": "Cuidado",
+  "pack": "new",
+  "batch": "gestures-05",
+  "expansionOrder": 22,
+  "version": 2,
+  "status": "approved",
+  "frames": 12,
+  "durations": [
+    552,
+    394,
+    394,
+    394,
+    394,
+    394,
+    394,
+    394,
+    394,
+    394,
+    394,
+    708
+  ],
+  "cycles": 1,
+  "still": 6,
+  "source": "new-scenes/sources/handover-v2.png",
+  "src": "new-scenes/atlases/moa-handover-v2.png",
+  "generator": "Integrated image_gen",
+  "reference": "references/moa-neutral.png",
+  "prompt": "new-scenes/prompts/handover.txt",
+  "review": "Pizarra vacía, dos personajes identificables, gestos de intercambio; iconos retirados y columnas explícitas.",
+  "context": "Personajes ficticios y pizarra sin datos.",
+  "correctionPrompt": "new-scenes/prompts/handover-correction.txt",
+  "sourceColumns": [
+    0,
+    420,
+    827,
+    1237,
+    1642
+  ],
+  "packaging": {
+    "sourceSize": [
+      1642,
+      958
+    ],
+    "rowCuts": [
+      0,
+      338,
+      650,
+      958
+    ],
+    "columnCuts": [
+      0,
+      420,
+      827,
+      1237,
+      1642
+    ],
+    "rowBaselineRegistration": [
+      [
+        0,
+        57
+      ],
+      [
+        6,
+        57
+      ],
+      [
+        5,
+        57
+      ],
+      [
+        7,
+        57
+      ],
+      [
+        0,
+        82
+      ],
+      [
+        6,
+        82
+      ],
+      [
+        5,
+        82
+      ],
+      [
+        7,
+        82
+      ],
+      [
+        0,
+        86
+      ],
+      [
+        6,
+        86
+      ],
+      [
+        5,
+        86
+      ],
+      [
+        7,
+        86
+      ]
+    ],
+    "unionCrop": [
+      12,
+      114,
+      414,
+      365
+    ],
+    "sharedScale": 0.5671641791044776,
+    "frameSize": [
+      288,
+      168
+    ],
+    "origin": [
+      0,
+      0
+    ],
+    "trajectory": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ]
+    ]
+  },
+  "frameFiles": [
+    "new-scenes/frames/handover-v2/000.png",
+    "new-scenes/frames/handover-v2/001.png",
+    "new-scenes/frames/handover-v2/002.png",
+    "new-scenes/frames/handover-v2/003.png",
+    "new-scenes/frames/handover-v2/004.png",
+    "new-scenes/frames/handover-v2/005.png",
+    "new-scenes/frames/handover-v2/006.png",
+    "new-scenes/frames/handover-v2/007.png",
+    "new-scenes/frames/handover-v2/008.png",
+    "new-scenes/frames/handover-v2/009.png",
+    "new-scenes/frames/handover-v2/010.png",
+    "new-scenes/frames/handover-v2/011.png"
+  ],
+  "sourceSha256": "547cf9b7253c83963cb1e9facb16882015a534321d9e5466447d7c981f2d1496",
+  "frameSha256": [
+    "857cc9d95d1c244625ac6fc503bc4c47e995ef7208bf01f8dbed059f81db49d0",
+    "92f5a198c1d49d0e670c457e107ce9a29a3958e843e8e1a316141599dcdcfd34",
+    "715446ada5e6a3ba55058967d6de4a2169c11da980450ebda551063c23b121a9",
+    "7472916a8e4216c2951b44aa43b9d6abb142d0e2a56a4d6a8f4a0fa1759e5ddb",
+    "550b66b00ac867b876a0f536f545e906062e4e9a5c05b35605a159ef0ce4de59",
+    "850c713314229af0f2089f4086f2692ec43491fd8614df65f625e8d823d3df28",
+    "c32738bc96fbe028deba3b19ed48c0615a51181b37595d82df684ac6bfc7e2b5",
+    "d35f27d5aca573139cb84775e65e4d997cb416cbd8883bce16a4f1fc3ee8c340",
+    "e14b75aa20fcb13cae7c8ae19442ee6ad545a1a7f1eb47337e40f9c1641abab7",
+    "a6d0ed9c00e9735a8aab30abb4d69ee8df22573a84cc974955e39258dcdb50c3",
+    "20cd9fb3e75ea6412ba0e01a3d614af8166dc4df08e788fc68086f3d296dcf2e",
+    "ef53b8a6ef9081744e21fbadd8daa70f8834f9f176a1126d53ddd2f587a7eedf"
+  ],
+  "bytes": 80421,
+  "sha256": "71686ae8d0e84c7f9272e48be0be48ba792d54da6c4e33537fa50ead76c10215",
+  "sourceBytes": 1523430,
+  "qa": {
+    "reviewer": "Codex visual and technical review; final reviewer handles merge",
+    "date": "2026-10-12",
+    "frameByFrame": true,
+    "backgrounds": [
+      "light",
+      "dark",
+      "blue"
+    ],
+    "scales": [
+      1,
+      3
+    ],
+    "browserTemporalSamples": 12,
+    "evidence": "evidence/handover/",
+    "remainingLimitation": "Raster key poses, not a vector rig; Chromium verified, physical devices not tested. Decorative care scenes are not clinical instruction."
+  }
+}
