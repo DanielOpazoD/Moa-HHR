@@ -1,0 +1,195 @@
+{
+  "order": 49,
+  "id": "R05",
+  "title": "R05 · Ukulele al atardecer",
+  "category": "Rapa Nui",
+  "pack": "new",
+  "batch": "rapanui-01",
+  "rapanuiOrder": 5,
+  "version": 1,
+  "status": "approved",
+  "frames": 12,
+  "durations": [
+    500,
+    350,
+    350,
+    350,
+    350,
+    350,
+    350,
+    350,
+    350,
+    350,
+    350,
+    600
+  ],
+  "cycles": 1,
+  "still": 10,
+  "source": "new-scenes/sources/R05-v1.png",
+  "src": "new-scenes/atlases/moa-R05-v1.png",
+  "generator": "Integrated image_gen",
+  "reference": "references/moa-neutral.png",
+  "prompt": "new-scenes/prompts/R05.txt",
+  "context": "Instrumento inspirado en referencia de Rapa Nui; cuerdas y digitación simplificadas. Sin canción, audio ni enseñanza de acordes.",
+  "culturalReferences": [
+    {
+      "url": "https://rapamusic.com/en/products/ukelele-asonu-con-funda",
+      "supports": "Instrumento inspirado en referencia de Rapa Nui; cuerdas y digitación simplificadas. Sin canción, audio ni enseñanza de acordes."
+    },
+    {
+      "url": "https://www.smallislandbigsong.com/fullscreen-page/comp-jdx1cgyd/1962f384-2f23-438c-87b7-16ecabdb1e49/10/%3Fi=10&p=lzby4&s=style-jdx1nxid",
+      "supports": "Instrument photo inspected: solid flared body, concave bottom, long headstock, paired strings."
+    }
+  ],
+  "review": "Referenced solid-body ukulele, adjustment and strumming with gentle sway; tiny strings simplified.",
+  "sourceColumns": [
+    0,
+    437,
+    830,
+    1215,
+    1642
+  ],
+  "packaging": {
+    "sourceSize": [
+      1642,
+      958
+    ],
+    "rowCuts": [
+      0,
+      331,
+      630,
+      958
+    ],
+    "columnCuts": [
+      0,
+      437,
+      830,
+      1215,
+      1642
+    ],
+    "rowBaselineRegistration": [
+      [
+        0,
+        39
+      ],
+      [
+        22,
+        39
+      ],
+      [
+        26,
+        39
+      ],
+      [
+        5,
+        39
+      ],
+      [
+        0,
+        68
+      ],
+      [
+        22,
+        68
+      ],
+      [
+        26,
+        68
+      ],
+      [
+        5,
+        68
+      ],
+      [
+        0,
+        70
+      ],
+      [
+        22,
+        70
+      ],
+      [
+        26,
+        70
+      ],
+      [
+        5,
+        70
+      ]
+    ],
+    "unionCrop": [
+      21,
+      79,
+      420,
+      359
+    ],
+    "sharedScale": 0.5357142857142857,
+    "frameSize": [
+      288,
+      168
+    ],
+    "origin": [
+      0,
+      0
+    ],
+    "trajectory": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ]
+    ]
+  },
+  "frameFiles": [
+    "new-scenes/frames/R05-v1/000.png",
+    "new-scenes/frames/R05-v1/001.png",
+    "new-scenes/frames/R05-v1/002.png",
+    "new-scenes/frames/R05-v1/003.png",
+    "new-scenes/frames/R05-v1/004.png",
+    "new-scenes/frames/R05-v1/005.png",
+    "new-scenes/frames/R05-v1/006.png",
+    "new-scenes/frames/R05-v1/007.png",
+    "new-scenes/frames/R05-v1/008.png",
+    "new-scenes/frames/R05-v1/009.png",
+    "new-scenes/frames/R05-v1/010.png",
+    "new-scenes/frames/R05-v1/011.png"
+  ],
+  "sourceSha256": "ed6408a67b34b849bf07ffb9340b10e5ce52135c59ff3f8fe7740edf186a29f5",
+  "frameSha256": [
+    "44e2979013b3ceae55d688aef653a16f76392b8dba3310f1037d6bc21bee182a",
+    "ded5685c9cabdd23b9047a84259304625504f3deaa26d1b38f87ac3dcaac8454",
+    "099db99693ebf0e9bf4cb69a4326311ed8b1cc39d162b2a27a76382a1296cb54",
+    "b3500dd3690789460aee3218cb42f144157cae5dc3ef0228ca3fd4254303e180",
+    "c46ac73b7dcbee37292cac9d873ca09535de4da7467111b8fbf2bac2fd0e9251",
+    "a46ebf23063c356de192d86b46fc1c29ad73df5aaed0742af653842c071eb7ba",
+    "0979c13bba266fce2857b00ec7c1dda9fd78b7c54b29243b5d303014531f3ed5",
+    "2d940d63b2ccebb6218f8bc10eadcfe7b999e5837b93f004c242c3821cf165aa",
+    "a3612f71d46a12130ae5be3d0d7241aec7a6035cfb6ce8f35aa95c941c78b937",
+    "8ccd9c3768c1adfacf2808862e1a5bfc75c2b48595e822d036f5591f5f3e16a0",
+    "c56a89176f900e2d477b5832bc5d52ca3d13993479ee0423c6c29ee6121a8e37",
+    "8ec9dcc1bc694663ef504d3bbc2f8504fc6510bdfd050a74727e99315bf3dabd"
+  ],
+  "bytes": 81634,
+  "sha256": "189d8e903a5fc03eeb7499f264a64af6570f68f359181b92f71d23d9b6fe3f9f",
+  "sourceBytes": 1373140,
+  "qa": {
+    "reviewer": "Codex visual and technical review; principal reviewer controls merge",
+    "date": "2026-10-12",
+    "frameByFrame": true,
+    "backgrounds": [
+      "light",
+      "dark",
+      "blue"
+    ],
+    "scales": [
+      1,
+      3
+    ],
+    "browserTemporalSamples": 12,
+    "evidence": "evidence/R05/",
+    "remainingLimitation": "Artistic vignette, not certified ethnographic reconstruction. Raster key poses; Chromium verified, physical devices not tested."
+  }
+}

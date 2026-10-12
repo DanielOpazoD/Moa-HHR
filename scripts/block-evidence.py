@@ -25,7 +25,11 @@ for i, s in enumerate(scenes):
     canvas.paste(image, (x, y + 35))
     draw.text(
         (x + 12, y + 8),
-        f'{s["expansionOrder"]:02} · {s["title"]}',
+        (
+            s["title"]
+            if "rapanuiOrder" in s
+            else f'{s["expansionOrder"]:02} · {s["title"]}'
+        ),
         font=font,
         fill="#233a40",
     )

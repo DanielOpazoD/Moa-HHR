@@ -1,0 +1,220 @@
+{
+  "order": 48,
+  "id": "R04",
+  "title": "R04 · Poʻe para todos",
+  "category": "Rapa Nui",
+  "pack": "new",
+  "batch": "rapanui-01",
+  "rapanuiOrder": 4,
+  "version": 1,
+  "status": "approved",
+  "frames": 16,
+  "durations": [
+    500,
+    320,
+    320,
+    320,
+    320,
+    320,
+    320,
+    320,
+    320,
+    320,
+    320,
+    320,
+    320,
+    320,
+    320,
+    620
+  ],
+  "cycles": 1,
+  "still": 14,
+  "source": "new-scenes/sources/R04-v1.png",
+  "src": "new-scenes/atlases/moa-R04-v1.png",
+  "generator": "Integrated image_gen",
+  "reference": "references/moa-neutral.png",
+  "prompt": "new-scenes/prompts/R04.txt",
+  "context": "Poʻe horneado según referencia gastronómica; reparto y reciprocidad ficticios, sin ritual ni receta.",
+  "culturalReferences": [
+    {
+      "url": "https://2023.serindigena.org/insular/rapa-nui/gastronomia/",
+      "supports": "Poʻe horneado según referencia gastronómica; reparto y reciprocidad ficticios, sin ritual ni receta."
+    }
+  ],
+  "review": "Two portions distributed, empty platter noticed, friend divides one portion and shares. Three actors persist.",
+  "sourceColumns": [
+    0,
+    424,
+    826,
+    1228,
+    1641
+  ],
+  "packaging": {
+    "sourceSize": [
+      1641,
+      958
+    ],
+    "rowCuts": [
+      0,
+      263,
+      491,
+      718,
+      958
+    ],
+    "columnCuts": [
+      0,
+      424,
+      826,
+      1228,
+      1641
+    ],
+    "rowBaselineRegistration": [
+      [
+        0,
+        34
+      ],
+      [
+        11,
+        34
+      ],
+      [
+        11,
+        34
+      ],
+      [
+        5,
+        34
+      ],
+      [
+        0,
+        69
+      ],
+      [
+        11,
+        69
+      ],
+      [
+        11,
+        69
+      ],
+      [
+        5,
+        69
+      ],
+      [
+        0,
+        66
+      ],
+      [
+        11,
+        66
+      ],
+      [
+        11,
+        66
+      ],
+      [
+        5,
+        66
+      ],
+      [
+        0,
+        74
+      ],
+      [
+        11,
+        74
+      ],
+      [
+        11,
+        74
+      ],
+      [
+        5,
+        74
+      ]
+    ],
+    "unionCrop": [
+      5,
+      75,
+      419,
+      291
+    ],
+    "sharedScale": 0.5507246376811594,
+    "frameSize": [
+      288,
+      168
+    ],
+    "origin": [
+      0,
+      0
+    ],
+    "trajectory": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ]
+    ]
+  },
+  "frameFiles": [
+    "new-scenes/frames/R04-v1/000.png",
+    "new-scenes/frames/R04-v1/001.png",
+    "new-scenes/frames/R04-v1/002.png",
+    "new-scenes/frames/R04-v1/003.png",
+    "new-scenes/frames/R04-v1/004.png",
+    "new-scenes/frames/R04-v1/005.png",
+    "new-scenes/frames/R04-v1/006.png",
+    "new-scenes/frames/R04-v1/007.png",
+    "new-scenes/frames/R04-v1/008.png",
+    "new-scenes/frames/R04-v1/009.png",
+    "new-scenes/frames/R04-v1/010.png",
+    "new-scenes/frames/R04-v1/011.png",
+    "new-scenes/frames/R04-v1/012.png",
+    "new-scenes/frames/R04-v1/013.png",
+    "new-scenes/frames/R04-v1/014.png",
+    "new-scenes/frames/R04-v1/015.png"
+  ],
+  "sourceSha256": "aa0b34d57a575bc80d88dcdca53c14cd0f91f609f27c2b2d91c3b6b87d6a79d3",
+  "frameSha256": [
+    "ec912d0333e4dda79fbe3a7d63825c5aec40c5d19e2db978d9a79bf48e6c26a5",
+    "796684e120894a2ab51efca3a25798d96bfc3506e6cd9f8066d2b0b8cc876701",
+    "a5d62f26c78bb0fc98414206b80c9c37a9030735163f4fd5abba9eeab5d7e352",
+    "787d05eb49cbb20e4d579a9e90b70e146dea4cbc17511069dc3d2ce081008a2e",
+    "eb2a001be23dcc7b93f15cc200bdca7c2707b64ebdce2bef4452eb6cd40b16ab",
+    "4bfcd2f7220b1880dbfa87e70d1447d54781a1b6417f99b114db188868ede80a",
+    "c85e9997efef8d116ce1b26135b48856a412b614ad796b53d93dae566ba09a51",
+    "57a79bee3959b206586cc52d36fd0413b87bc7287893ff08e6ee3fb0b35a6186",
+    "57f409210d118c56326eececbdc758f3cadff01bd48e50d77fecbf4a442e166f",
+    "f4aaa2afc5f4fc9405d86e0cbd62d62bfcc7759cd14f21e78d08e4711dbae50b",
+    "893e44ce6f28008d5a36ae541518c3b16d99ed5cd250fe44926b51de7b1686e7",
+    "772597b6b963d27b5ad9220d2b87ee38d585a9812fe89ad5280e59c31f13aefb",
+    "61d2eb0dc06448c6f146b7e188ea9e8e386857c447cf885ce928c89f3ee37f17",
+    "c22262056e133ebeba0da377a09ba194c0848251093df1ff53b4b85bd91578fa",
+    "34af6bafa915412e658f3018dc73fdaaef8b65657a41d90893d09bbf2f4e8a1c",
+    "0956023bc4e98f068d9ff90dbd2afdc5a10ad0eca8a1285f9aba36f8c004d704"
+  ],
+  "bytes": 120889,
+  "sha256": "fc4d34b3e9a07c88de690983a4f46e03abca70ce277d043194b9ef552621ab3b",
+  "sourceBytes": 1850949,
+  "qa": {
+    "reviewer": "Codex visual and technical review; principal reviewer controls merge",
+    "date": "2026-10-12",
+    "frameByFrame": true,
+    "backgrounds": [
+      "light",
+      "dark",
+      "blue"
+    ],
+    "scales": [
+      1,
+      3
+    ],
+    "browserTemporalSamples": 16,
+    "evidence": "evidence/R04/",
+    "remainingLimitation": "Artistic vignette, not certified ethnographic reconstruction. Raster key poses; Chromium verified, physical devices not tested."
+  }
+}
