@@ -64,3 +64,15 @@ Bloque 2 revisado: 56 poses, 255.188 bytes. [Revisión](QA-gestures-02.md) · [L
 Café caliente, libro al revés y planta usan doce poses. Avión de papel y paraguas usan dieciséis para mostrar lanzamiento/seguimiento y apertura/reparación. Las correcciones de identidad, agarre, orientación y separación del original se conservan junto a los prompts.
 
 Bloque 3 revisado: 68 poses, 340.480 bytes. [Revisión](QA-gestures-03.md) · [Lámina](../evidence/gestures-03-overview.png).
+
+## Bloque 4 · gestos y tareas 16–20
+
+Guitarra, estiramientos y rompecabezas tienen doce poses; mariposa y lavado de manos, dieciséis. La viñeta de manos se identifica expresamente como abreviada en la galería, sin presentar sus 5,6 segundos como duración de higiene ni protocolo.
+
+La consulta sobre el alcance de la escena 25 se abrió antes de dibujar: preparación con maniquí adulto sin compresiones, o maniobra sujeta a revisión clínica de postura, manos y movimiento. Las escenas independientes continúan mientras se resuelve.
+
+### Alcance resuelto para la escena 25
+
+El revisor principal fijó «Preparándose para practicar reanimación»: maniquí adulto inequívoco y compañero instructor; Moa se arrodilla, escucha, prepara material y termina atento. Sin compresiones, ventilaciones, descargas ni cifras clínicas. Viñeta decorativa de preparación, no tutorial. Decisión recibida antes de generar; no queda bloqueo clínico para ese alcance.
+
+Bloque 4 sobre `3c41d8526c82d9effa51f97071c3912bcf52ec4c`, tras merge del [PR #4](https://github.com/DanielOpazoD/Moa-HHR/pull/4) por el revisor principal. 68 poses, 350.525 bytes. [Revisión](QA-gestures-04.md) · [Lámina](../evidence/gestures-04-overview.png).

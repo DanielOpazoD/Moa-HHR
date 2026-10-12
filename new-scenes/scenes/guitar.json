@@ -1,0 +1,177 @@
+{
+  "order": 30,
+  "id": "guitar",
+  "title": "Guitarra, intento y acorde",
+  "category": "Cotidiano",
+  "pack": "new",
+  "batch": "gestures-04",
+  "expansionOrder": 16,
+  "version": 1,
+  "status": "approved",
+  "frames": 12,
+  "durations": [
+    530,
+    379,
+    379,
+    379,
+    379,
+    379,
+    379,
+    379,
+    379,
+    379,
+    379,
+    680
+  ],
+  "cycles": 1,
+  "still": 8,
+  "source": "new-scenes/sources/guitar-v1.png",
+  "src": "new-scenes/atlases/moa-guitar-v1.png",
+  "generator": "Integrated image_gen",
+  "reference": "references/moa-neutral.png",
+  "prompt": "new-scenes/prompts/guitar.txt",
+  "review": "Roles constantes de ambas manos; error, ajuste del mástil y acorde expresados sin audio ni iconos.",
+  "packaging": {
+    "sourceSize": [
+      1642,
+      958
+    ],
+    "rowCuts": [
+      0,
+      333,
+      643,
+      958
+    ],
+    "columnCuts": [
+      0,
+      410,
+      820,
+      1230,
+      1640
+    ],
+    "rowBaselineRegistration": [
+      [
+        0,
+        33
+      ],
+      [
+        0,
+        33
+      ],
+      [
+        0,
+        33
+      ],
+      [
+        0,
+        33
+      ],
+      [
+        0,
+        54
+      ],
+      [
+        0,
+        54
+      ],
+      [
+        0,
+        54
+      ],
+      [
+        0,
+        54
+      ],
+      [
+        0,
+        57
+      ],
+      [
+        0,
+        57
+      ],
+      [
+        0,
+        57
+      ],
+      [
+        0,
+        57
+      ]
+    ],
+    "unionCrop": [
+      67,
+      56,
+      382,
+      360
+    ],
+    "sharedScale": 0.4934210526315789,
+    "frameSize": [
+      288,
+      168
+    ],
+    "origin": [
+      0,
+      0
+    ],
+    "trajectory": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ]
+    ]
+  },
+  "frameFiles": [
+    "new-scenes/frames/guitar-v1/000.png",
+    "new-scenes/frames/guitar-v1/001.png",
+    "new-scenes/frames/guitar-v1/002.png",
+    "new-scenes/frames/guitar-v1/003.png",
+    "new-scenes/frames/guitar-v1/004.png",
+    "new-scenes/frames/guitar-v1/005.png",
+    "new-scenes/frames/guitar-v1/006.png",
+    "new-scenes/frames/guitar-v1/007.png",
+    "new-scenes/frames/guitar-v1/008.png",
+    "new-scenes/frames/guitar-v1/009.png",
+    "new-scenes/frames/guitar-v1/010.png",
+    "new-scenes/frames/guitar-v1/011.png"
+  ],
+  "sourceSha256": "f0c85287b9acd3a9b5ac8bf21652fbbf1ea81472773c63808bfaaea3d1eb09d4",
+  "frameSha256": [
+    "eb262b1c0f849ed9a4f5961e60d1fd1dfff782c05ad641cac4c9dd1a264ec32d",
+    "9c10d72e37c45a245c31c5ec4fb2ca76ad293f2888500ce6c7f5043d3c774557",
+    "2c016782360f1ebb7456d5049453e6400f09b24cb02e4157d1e3f0608df9dc11",
+    "a89fc397ee7e5844d96a2b4f16ce2e341815bec763bb4cee4d20c867514678f4",
+    "c750ec311e64fb4984b254cd015515350f78933c03c3638134521a559457a64e",
+    "23c79647895efebf948379c0701b00901eb585206f9b19f5d1eed759535050f9",
+    "909395bc0a5b7c4d3c1c324846edfd1ab110dfaaf07e482088c5b45f3fcd3ef9",
+    "8c630ea644c564a0af845ad71aff6785303d229edc95e35eff34f69bd8b9bcad",
+    "dc90ec00393092c8a82e2d9eec52809407bce9c5af88ac67a70914db33e9e25b",
+    "5d3cfae58b7ce5a3ae17b193103d98b11120ffbd8ab01ab1fc0ca3b997f00e9c",
+    "d62e97082569941af5b7883597b2a08bc206192521eaeb82692f097f1194fa53",
+    "b0909224d35c8e66840bd7019a333d63846517e60cd8cc4d207e69d427906ad4"
+  ],
+  "bytes": 60005,
+  "sha256": "00efae6d4f38342cd1d15ebbcf57ee172cdf5786e380964eeeecddf5a4b726e3",
+  "sourceBytes": 1227331,
+  "qa": {
+    "reviewer": "Codex visual and technical review; final reviewer handles merge",
+    "date": "2026-10-12",
+    "frameByFrame": true,
+    "backgrounds": [
+      "light",
+      "dark",
+      "blue"
+    ],
+    "scales": [
+      1,
+      3
+    ],
+    "browserTemporalSamples": 12,
+    "evidence": "evidence/guitar/",
+    "remainingLimitation": "Raster key poses, not a vector rig; Chromium verified, physical devices not tested."
+  }
+}

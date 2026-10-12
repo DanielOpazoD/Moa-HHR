@@ -1,0 +1,206 @@
+{
+  "order": 33,
+  "id": "butterfly",
+  "title": "Mariposa en la cabeza",
+  "category": "Movimiento",
+  "pack": "new",
+  "batch": "gestures-04",
+  "expansionOrder": 19,
+  "version": 1,
+  "status": "approved",
+  "frames": 16,
+  "durations": [
+    440,
+    314,
+    314,
+    314,
+    314,
+    314,
+    314,
+    314,
+    314,
+    314,
+    314,
+    314,
+    314,
+    314,
+    314,
+    564
+  ],
+  "cycles": 1,
+  "still": 12,
+  "source": "new-scenes/sources/butterfly-v1.png",
+  "src": "new-scenes/atlases/moa-butterfly-v1.png",
+  "generator": "Integrated image_gen",
+  "reference": "references/moa-neutral.png",
+  "prompt": "new-scenes/prompts/butterfly.txt",
+  "review": "Una mariposa, seguimiento con mirada/brazos; aterrizaje y permanencia sobre cabeza con alas alternadas.",
+  "packaging": {
+    "sourceSize": [
+      1642,
+      958
+    ],
+    "rowCuts": [
+      0,
+      246,
+      485,
+      736,
+      958
+    ],
+    "columnCuts": [
+      0,
+      410,
+      820,
+      1230,
+      1640
+    ],
+    "rowBaselineRegistration": [
+      [
+        0,
+        32
+      ],
+      [
+        0,
+        32
+      ],
+      [
+        0,
+        32
+      ],
+      [
+        0,
+        32
+      ],
+      [
+        0,
+        43
+      ],
+      [
+        0,
+        43
+      ],
+      [
+        0,
+        43
+      ],
+      [
+        0,
+        43
+      ],
+      [
+        0,
+        26
+      ],
+      [
+        0,
+        26
+      ],
+      [
+        0,
+        26
+      ],
+      [
+        0,
+        26
+      ],
+      [
+        0,
+        60
+      ],
+      [
+        0,
+        60
+      ],
+      [
+        0,
+        60
+      ],
+      [
+        0,
+        60
+      ]
+    ],
+    "unionCrop": [
+      79,
+      34,
+      377,
+      278
+    ],
+    "sharedScale": 0.6147540983606558,
+    "frameSize": [
+      288,
+      168
+    ],
+    "origin": [
+      0,
+      0
+    ],
+    "trajectory": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ]
+    ]
+  },
+  "frameFiles": [
+    "new-scenes/frames/butterfly-v1/000.png",
+    "new-scenes/frames/butterfly-v1/001.png",
+    "new-scenes/frames/butterfly-v1/002.png",
+    "new-scenes/frames/butterfly-v1/003.png",
+    "new-scenes/frames/butterfly-v1/004.png",
+    "new-scenes/frames/butterfly-v1/005.png",
+    "new-scenes/frames/butterfly-v1/006.png",
+    "new-scenes/frames/butterfly-v1/007.png",
+    "new-scenes/frames/butterfly-v1/008.png",
+    "new-scenes/frames/butterfly-v1/009.png",
+    "new-scenes/frames/butterfly-v1/010.png",
+    "new-scenes/frames/butterfly-v1/011.png",
+    "new-scenes/frames/butterfly-v1/012.png",
+    "new-scenes/frames/butterfly-v1/013.png",
+    "new-scenes/frames/butterfly-v1/014.png",
+    "new-scenes/frames/butterfly-v1/015.png"
+  ],
+  "sourceSha256": "08a68de6901d7e636b270c4a3a4e6732f1c40fd29ea48819bdf3dd14b5fb2b33",
+  "frameSha256": [
+    "8650fc3489a243c1a00823e3f8a4f34975124fdc439dc7010493595a0a677a21",
+    "96daa03dc4b3b9a41a3f1647e0147e579237c501e0b8faf4553a9d8952adcee5",
+    "f74404dc76213b694a73d085bf774c06160c423535ffbce4ed129e2735b2e2b1",
+    "fa5f2c674d6145b601503698bd2f14316b5d88d5613e06bc7fe274b24cd088ef",
+    "2d18a06da2265c7efd60469aae51f4ac271cfda0fb77566e6b3c998579df61f5",
+    "88c00ee85fe96868cfb47b32ed5504c853beab7e7e44d37de34910ac7332f301",
+    "fcfe445e65e3d0c2a0e385e63e8ce30e380bc43ea47d66ec47022140afd63863",
+    "e222b93ad2ff52510a23e5d980a0ed7608dc3ee634a8b0e27b4e348a525e8987",
+    "887f096b934bee7761b35c6b8c9af970bbd55e831902abdf2599c63dfe3c75a8",
+    "08f94ef4eb9f85c4d0c85deb04314d5750552c285cbf7f836f09430f29732d9b",
+    "93d0b0c2e1678965a335bb129d1d4022ca10f502f7b1db005b31398fd80554f4",
+    "3c9412891b65c5741e9b74188c6bf97dd35d0516d1b2470c1810ddf8ddd96e7f",
+    "2548e08078ac23e808265a0a8f73e58adaeebabac0e2cb9b7c72dd9e783ef3d0",
+    "0f932ef1518ab06f092812b7763b501e6dd26b18deed50103aea416d54107131",
+    "1ed51ddf1102c16b3c14e492a82b3884dbe9d0e73c1c4e812139d341b9c434c1",
+    "13f7a3415a136eef0f5e11e90e82e6c320b89cd777e9ac8f15d90869db7d2f95"
+  ],
+  "bytes": 81847,
+  "sha256": "914fea80e5ee563c916f385a677adda91864a49534bcc09ec5c6c9bf7c4701cd",
+  "sourceBytes": 1026351,
+  "qa": {
+    "reviewer": "Codex visual and technical review; final reviewer handles merge",
+    "date": "2026-10-12",
+    "frameByFrame": true,
+    "backgrounds": [
+      "light",
+      "dark",
+      "blue"
+    ],
+    "scales": [
+      1,
+      3
+    ],
+    "browserTemporalSamples": 16,
+    "evidence": "evidence/butterfly/",
+    "remainingLimitation": "Raster key poses, not a vector rig; Chromium verified, physical devices not tested."
+  }
+}
