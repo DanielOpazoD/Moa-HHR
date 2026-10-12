@@ -1,0 +1,566 @@
+{
+  "browser": "145.0.7632.6",
+  "url": "http://127.0.0.1:4173",
+  "desktop": [
+    1280,
+    960
+  ],
+  "mobile": [
+    390,
+    844
+  ],
+  "errors": [],
+  "scenes": [
+    {
+      "id": "guitar",
+      "frames": [
+        {
+          "frame": 0,
+          "time": 265,
+          "translateX": 0,
+          "expectedX": 0,
+          "pass": true
+        },
+        {
+          "frame": 1,
+          "time": 719.5,
+          "translateX": -144,
+          "expectedX": -144,
+          "pass": true
+        },
+        {
+          "frame": 2,
+          "time": 1098.5,
+          "translateX": -288,
+          "expectedX": -288,
+          "pass": true
+        },
+        {
+          "frame": 3,
+          "time": 1477.5,
+          "translateX": -432,
+          "expectedX": -432,
+          "pass": true
+        },
+        {
+          "frame": 4,
+          "time": 1856.5,
+          "translateX": -576,
+          "expectedX": -576,
+          "pass": true
+        },
+        {
+          "frame": 5,
+          "time": 2235.5,
+          "translateX": -720,
+          "expectedX": -720,
+          "pass": true
+        },
+        {
+          "frame": 6,
+          "time": 2614.5,
+          "translateX": -864,
+          "expectedX": -864,
+          "pass": true
+        },
+        {
+          "frame": 7,
+          "time": 2993.5,
+          "translateX": -1008,
+          "expectedX": -1008,
+          "pass": true
+        },
+        {
+          "frame": 8,
+          "time": 3372.5,
+          "translateX": -1152,
+          "expectedX": -1152,
+          "pass": true
+        },
+        {
+          "frame": 9,
+          "time": 3751.5,
+          "translateX": -1296,
+          "expectedX": -1296,
+          "pass": true
+        },
+        {
+          "frame": 10,
+          "time": 4130.5,
+          "translateX": -1440,
+          "expectedX": -1440,
+          "pass": true
+        },
+        {
+          "frame": 11,
+          "time": 4660,
+          "translateX": -1584,
+          "expectedX": -1584,
+          "pass": true
+        }
+      ],
+      "finiteCompletion": true,
+      "backgrounds": [
+        "light",
+        "dark",
+        "blue"
+      ],
+      "scales": [
+        1,
+        3
+      ]
+    },
+    {
+      "id": "stretch",
+      "frames": [
+        {
+          "frame": 0,
+          "time": 276,
+          "translateX": 0,
+          "expectedX": 0,
+          "pass": true
+        },
+        {
+          "frame": 1,
+          "time": 749,
+          "translateX": -144,
+          "expectedX": -144,
+          "pass": true
+        },
+        {
+          "frame": 2,
+          "time": 1143,
+          "translateX": -288,
+          "expectedX": -288,
+          "pass": true
+        },
+        {
+          "frame": 3,
+          "time": 1537,
+          "translateX": -432,
+          "expectedX": -432,
+          "pass": true
+        },
+        {
+          "frame": 4,
+          "time": 1931,
+          "translateX": -576,
+          "expectedX": -576,
+          "pass": true
+        },
+        {
+          "frame": 5,
+          "time": 2325,
+          "translateX": -720,
+          "expectedX": -720,
+          "pass": true
+        },
+        {
+          "frame": 6,
+          "time": 2719,
+          "translateX": -864,
+          "expectedX": -864,
+          "pass": true
+        },
+        {
+          "frame": 7,
+          "time": 3113,
+          "translateX": -1008,
+          "expectedX": -1008,
+          "pass": true
+        },
+        {
+          "frame": 8,
+          "time": 3507,
+          "translateX": -1152,
+          "expectedX": -1152,
+          "pass": true
+        },
+        {
+          "frame": 9,
+          "time": 3901,
+          "translateX": -1296,
+          "expectedX": -1296,
+          "pass": true
+        },
+        {
+          "frame": 10,
+          "time": 4295,
+          "translateX": -1440,
+          "expectedX": -1440,
+          "pass": true
+        },
+        {
+          "frame": 11,
+          "time": 4846,
+          "translateX": -1584,
+          "expectedX": -1584,
+          "pass": true
+        }
+      ],
+      "finiteCompletion": true,
+      "backgrounds": [
+        "light",
+        "dark",
+        "blue"
+      ],
+      "scales": [
+        1,
+        3
+      ]
+    },
+    {
+      "id": "puzzle",
+      "frames": [
+        {
+          "frame": 0,
+          "time": 265,
+          "translateX": 0,
+          "expectedX": 0,
+          "pass": true
+        },
+        {
+          "frame": 1,
+          "time": 719.5,
+          "translateX": -144,
+          "expectedX": -144,
+          "pass": true
+        },
+        {
+          "frame": 2,
+          "time": 1098.5,
+          "translateX": -288,
+          "expectedX": -288,
+          "pass": true
+        },
+        {
+          "frame": 3,
+          "time": 1477.5,
+          "translateX": -432,
+          "expectedX": -432,
+          "pass": true
+        },
+        {
+          "frame": 4,
+          "time": 1856.5,
+          "translateX": -576,
+          "expectedX": -576,
+          "pass": true
+        },
+        {
+          "frame": 5,
+          "time": 2235.5,
+          "translateX": -720,
+          "expectedX": -720,
+          "pass": true
+        },
+        {
+          "frame": 6,
+          "time": 2614.5,
+          "translateX": -864,
+          "expectedX": -864,
+          "pass": true
+        },
+        {
+          "frame": 7,
+          "time": 2993.5,
+          "translateX": -1008,
+          "expectedX": -1008,
+          "pass": true
+        },
+        {
+          "frame": 8,
+          "time": 3372.5,
+          "translateX": -1152,
+          "expectedX": -1152,
+          "pass": true
+        },
+        {
+          "frame": 9,
+          "time": 3751.5,
+          "translateX": -1296,
+          "expectedX": -1296,
+          "pass": true
+        },
+        {
+          "frame": 10,
+          "time": 4130.5,
+          "translateX": -1440,
+          "expectedX": -1440,
+          "pass": true
+        },
+        {
+          "frame": 11,
+          "time": 4660,
+          "translateX": -1584,
+          "expectedX": -1584,
+          "pass": true
+        }
+      ],
+      "finiteCompletion": true,
+      "backgrounds": [
+        "light",
+        "dark",
+        "blue"
+      ],
+      "scales": [
+        1,
+        3
+      ]
+    },
+    {
+      "id": "butterfly",
+      "frames": [
+        {
+          "frame": 0,
+          "time": 220,
+          "translateX": 0,
+          "expectedX": 0,
+          "pass": true
+        },
+        {
+          "frame": 1,
+          "time": 597,
+          "translateX": -144,
+          "expectedX": -144,
+          "pass": true
+        },
+        {
+          "frame": 2,
+          "time": 911,
+          "translateX": -288,
+          "expectedX": -288,
+          "pass": true
+        },
+        {
+          "frame": 3,
+          "time": 1225,
+          "translateX": -432,
+          "expectedX": -432,
+          "pass": true
+        },
+        {
+          "frame": 4,
+          "time": 1539,
+          "translateX": -576,
+          "expectedX": -576,
+          "pass": true
+        },
+        {
+          "frame": 5,
+          "time": 1853,
+          "translateX": -720,
+          "expectedX": -720,
+          "pass": true
+        },
+        {
+          "frame": 6,
+          "time": 2167,
+          "translateX": -864,
+          "expectedX": -864,
+          "pass": true
+        },
+        {
+          "frame": 7,
+          "time": 2481,
+          "translateX": -1008,
+          "expectedX": -1008,
+          "pass": true
+        },
+        {
+          "frame": 8,
+          "time": 2795,
+          "translateX": -1152,
+          "expectedX": -1152,
+          "pass": true
+        },
+        {
+          "frame": 9,
+          "time": 3109,
+          "translateX": -1296,
+          "expectedX": -1296,
+          "pass": true
+        },
+        {
+          "frame": 10,
+          "time": 3423,
+          "translateX": -1440,
+          "expectedX": -1440,
+          "pass": true
+        },
+        {
+          "frame": 11,
+          "time": 3737,
+          "translateX": -1584,
+          "expectedX": -1584,
+          "pass": true
+        },
+        {
+          "frame": 12,
+          "time": 4051,
+          "translateX": -1728,
+          "expectedX": -1728,
+          "pass": true
+        },
+        {
+          "frame": 13,
+          "time": 4365,
+          "translateX": -1872,
+          "expectedX": -1872,
+          "pass": true
+        },
+        {
+          "frame": 14,
+          "time": 4679,
+          "translateX": -2016,
+          "expectedX": -2016,
+          "pass": true
+        },
+        {
+          "frame": 15,
+          "time": 5118,
+          "translateX": -2160,
+          "expectedX": -2160,
+          "pass": true
+        }
+      ],
+      "finiteCompletion": true,
+      "backgrounds": [
+        "light",
+        "dark",
+        "blue"
+      ],
+      "scales": [
+        1,
+        3
+      ]
+    },
+    {
+      "id": "handwash",
+      "frames": [
+        {
+          "frame": 0,
+          "time": 228,
+          "translateX": 0,
+          "expectedX": 0,
+          "pass": true
+        },
+        {
+          "frame": 1,
+          "time": 619,
+          "translateX": -144,
+          "expectedX": -144,
+          "pass": true
+        },
+        {
+          "frame": 2,
+          "time": 945,
+          "translateX": -288,
+          "expectedX": -288,
+          "pass": true
+        },
+        {
+          "frame": 3,
+          "time": 1271,
+          "translateX": -432,
+          "expectedX": -432,
+          "pass": true
+        },
+        {
+          "frame": 4,
+          "time": 1597,
+          "translateX": -576,
+          "expectedX": -576,
+          "pass": true
+        },
+        {
+          "frame": 5,
+          "time": 1923,
+          "translateX": -720,
+          "expectedX": -720,
+          "pass": true
+        },
+        {
+          "frame": 6,
+          "time": 2249,
+          "translateX": -864,
+          "expectedX": -864,
+          "pass": true
+        },
+        {
+          "frame": 7,
+          "time": 2575,
+          "translateX": -1008,
+          "expectedX": -1008,
+          "pass": true
+        },
+        {
+          "frame": 8,
+          "time": 2901,
+          "translateX": -1152,
+          "expectedX": -1152,
+          "pass": true
+        },
+        {
+          "frame": 9,
+          "time": 3227,
+          "translateX": -1296,
+          "expectedX": -1296,
+          "pass": true
+        },
+        {
+          "frame": 10,
+          "time": 3553,
+          "translateX": -1440,
+          "expectedX": -1440,
+          "pass": true
+        },
+        {
+          "frame": 11,
+          "time": 3879,
+          "translateX": -1584,
+          "expectedX": -1584,
+          "pass": true
+        },
+        {
+          "frame": 12,
+          "time": 4205,
+          "translateX": -1728,
+          "expectedX": -1728,
+          "pass": true
+        },
+        {
+          "frame": 13,
+          "time": 4531,
+          "translateX": -1872,
+          "expectedX": -1872,
+          "pass": true
+        },
+        {
+          "frame": 14,
+          "time": 4857,
+          "translateX": -2016,
+          "expectedX": -2016,
+          "pass": true
+        },
+        {
+          "frame": 15,
+          "time": 5310,
+          "translateX": -2160,
+          "expectedX": -2160,
+          "pass": true
+        }
+      ],
+      "finiteCompletion": true,
+      "backgrounds": [
+        "light",
+        "dark",
+        "blue"
+      ],
+      "scales": [
+        1,
+        3
+      ]
+    }
+  ]
+}

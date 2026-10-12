@@ -208,3 +208,17 @@ test("editing controls step frames and change review speed", async ({
       .evaluate((e) => e.getAnimations()[0].playbackRate),
   ).toBe(0.5);
 });
+
+test("abbreviated care vignette context is visible only for its selection", async ({
+  page,
+}) => {
+  await page.goto("/");
+  await page.locator("#search").fill("handwash");
+  await page.locator(".card").click();
+  await expect(page.locator("#details")).toContainText("no es un protocolo");
+  await page.locator("#search").fill("surf");
+  await page.locator(".card").click();
+  await expect(page.locator("#details")).not.toContainText(
+    "no es un protocolo",
+  );
+});

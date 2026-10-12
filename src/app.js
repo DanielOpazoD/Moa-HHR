@@ -7,7 +7,8 @@ function select(scene) {
   selected = scene;
   q("preview-title").textContent = scene.title;
   q("details").textContent =
-    `${scene.frames} cuadros · ${((scene.durations.reduce((a, b) => a + b, 0) * scene.cycles) / 1000).toFixed(1)} s · ${scene.pack === "original" ? "Original v2" : scene.status === "approved" ? "Nueva · revisada" : "Nueva · en revisión"}`;
+    `${scene.frames} cuadros · ${((scene.durations.reduce((a, b) => a + b, 0) * scene.cycles) / 1000).toFixed(1)} s · ${scene.pack === "original" ? "Original v2" : scene.status === "approved" ? "Nueva · revisada" : "Nueva · en revisión"}` +
+    (scene.context ? ` · ${scene.context}` : "");
   q("frame").max = scene.frames - 1;
   q("frame").value = 0;
   q("frame-label").textContent = `1 / ${scene.frames}`;
