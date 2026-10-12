@@ -27,7 +27,7 @@ for i, s in enumerate(scenes):
         (x + 12, y + 8),
         (
             s["title"]
-            if "rapanuiOrder" in s
+            if "expansionOrder" not in s
             else f'{s["expansionOrder"]:02} · {s["title"]}'
         ),
         font=font,

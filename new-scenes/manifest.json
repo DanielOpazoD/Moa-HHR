@@ -11935,5 +11935,1038 @@
       "evidence": "evidence/R20/",
       "remainingLimitation": "Contemplación ficticia desde el área de visitantes. Siluetas lejanas basadas en la fotografía oficial; composición y distancias simplificadas, no mapa ni autorización de acceso. Raster key poses; Chromium verified, physical devices not tested."
     }
+  },
+  {
+    "order": 65,
+    "id": "M01",
+    "title": "M01 · Moonwalk inesperado",
+    "category": "Cultura popular mundial",
+    "pack": "new",
+    "batch": "world-01",
+    "worldOrder": 1,
+    "version": 3,
+    "status": "approved",
+    "frames": 12,
+    "durations": [
+      500,
+      350,
+      350,
+      350,
+      350,
+      350,
+      350,
+      350,
+      350,
+      350,
+      350,
+      600
+    ],
+    "cycles": 1,
+    "still": 11,
+    "source": "new-scenes/sources/M01-v3.png",
+    "src": "new-scenes/atlases/moa-M01-v3.png",
+    "generator": "Integrated image_gen",
+    "reference": "references/moa-neutral.png",
+    "prompt": "new-scenes/prompts/M01.txt",
+    "context": "Homenaje ficticio al moonwalk: apoyos y talones simplificados para la anatomía compacta de Moa; no tutorial ni recreación de una coreografía completa. Sin música o aval.",
+    "inspirationReferences": [
+      {
+        "url": "https://classic.motown.com/video/michael-jackson-performs-at-motown-25/",
+        "supports": "Homenaje ficticio al moonwalk: apoyos y talones simplificados para la anatomía compacta de Moa; no tutorial ni recreación de una coreografía completa. Sin música o aval."
+      }
+    ],
+    "review": "Sources and every delivered frame reviewed on light, dark and blue at real size; enlarged browser captures and temporal samples passed.",
+    "correctionPrompts": [
+      "new-scenes/prompts/M01-correction.txt",
+      "new-scenes/prompts/M01-correction-2.txt"
+    ],
+    "rejectedSources": [
+      {
+        "source": "new-scenes/sources/M01-v1.png",
+        "reason": "La alternancia se leía como marcha, sin deslizamiento claro."
+      },
+      {
+        "source": "new-scenes/sources/M01-v2.png",
+        "reason": "El apoyo posterior se repetía demasiado y el retroceso seguía débil."
+      }
+    ],
+    "sourceColumns": [
+      0,
+      438,
+      846,
+      1226,
+      1642
+    ],
+    "packaging": {
+      "sourceSize": [
+        1642,
+        958
+      ],
+      "rowCuts": [
+        0,
+        325,
+        635,
+        958
+      ],
+      "columnCuts": [
+        0,
+        438,
+        846,
+        1226,
+        1642
+      ],
+      "rowBaselineRegistration": [
+        [
+          0,
+          46
+        ],
+        [
+          15,
+          46
+        ],
+        [
+          29,
+          46
+        ],
+        [
+          11,
+          46
+        ],
+        [
+          0,
+          65
+        ],
+        [
+          15,
+          65
+        ],
+        [
+          29,
+          65
+        ],
+        [
+          11,
+          65
+        ],
+        [
+          0,
+          67
+        ],
+        [
+          15,
+          67
+        ],
+        [
+          29,
+          67
+        ],
+        [
+          11,
+          67
+        ]
+      ],
+      "unionCrop": [
+        72,
+        87,
+        374,
+        352
+      ],
+      "sharedScale": 0.5660377358490566,
+      "frameSize": [
+        288,
+        168
+      ],
+      "origin": [
+        0,
+        0
+      ],
+      "trajectory": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          0
+        ]
+      ]
+    },
+    "frameFiles": [
+      "new-scenes/frames/M01-v3/000.png",
+      "new-scenes/frames/M01-v3/001.png",
+      "new-scenes/frames/M01-v3/002.png",
+      "new-scenes/frames/M01-v3/003.png",
+      "new-scenes/frames/M01-v3/004.png",
+      "new-scenes/frames/M01-v3/005.png",
+      "new-scenes/frames/M01-v3/006.png",
+      "new-scenes/frames/M01-v3/007.png",
+      "new-scenes/frames/M01-v3/008.png",
+      "new-scenes/frames/M01-v3/009.png",
+      "new-scenes/frames/M01-v3/010.png",
+      "new-scenes/frames/M01-v3/011.png"
+    ],
+    "sourceSha256": "30400494e342fd3a08879f595a2516cf2ce7703d89ce65395b3745e99f22edfb",
+    "frameSha256": [
+      "251e814bdf971d934f4fdf37f83a07475e859cbe4a3b83864dac1124004c4615",
+      "6bdbce4969e530941795e1a28e6e06b3ac2259a0df2ad619957c83af1a9424da",
+      "704d5da0a06ae0a7aa7f9c2e807fd37f3257778eaf87c1ee5cf00349d7e78490",
+      "340f62345075f118e7cf15902f31730714e2630c689023cebfaf7e4f825ab532",
+      "a32144734e058b5ee89063abfdfeb4809f8a05cc1577b17c08972ca7514afda2",
+      "b9d46132fec7bd5403fb5978bd091b1f297e7fceec53f2f9814b38cd829debc2",
+      "44712a33b2315a14d636918ebe5b58e9de2d64e324818bd42c06e67be0b8e34e",
+      "4888510297d4a8a74ffa19f560ac6a04cd84294ea044869e1590cc99f52ba8a8",
+      "582055619d5bb5356a1c9d6ae423377f086e7a6405e20a74cc54584d548fa0f1",
+      "445baffefb88722f7a91fe5064e1f811b9f3aa9c20e37357340e3d26cfdc462b",
+      "060d9dce751b2598f95193e776291d1ed42c0e24b0e5e6846abe538775656dc8",
+      "04f4fd8e80dd604b7c4a8a6976cbc290cf0a57779650efbe39620482d50fb696"
+    ],
+    "bytes": 55733,
+    "sha256": "cf4178bce90c273063df7f2a76df993004e639b426f985fef8cb863204d972f9",
+    "rejectedArtifacts": [
+      "new-scenes/rejected/M01-v1/"
+    ],
+    "sourceBytes": 952801,
+    "qa": {
+      "reviewer": "Codex visual and technical review; principal reviewer controls merge",
+      "date": "2026-10-12",
+      "frameByFrame": true,
+      "backgrounds": [
+        "light",
+        "dark",
+        "blue"
+      ],
+      "scales": [
+        1,
+        3
+      ],
+      "browserTemporalSamples": 12,
+      "evidence": "evidence/M01/",
+      "remainingLimitation": "Homenaje ficticio al moonwalk: apoyos y talones simplificados para la anatomía compacta de Moa; no tutorial ni recreación de una coreografía completa. Sin música o aval. Raster key poses; Chromium verified, physical devices not tested."
+    }
+  },
+  {
+    "order": 66,
+    "id": "M02",
+    "title": "M02 · Director de estadio",
+    "category": "Cultura popular mundial",
+    "pack": "new",
+    "batch": "world-01",
+    "worldOrder": 2,
+    "version": 4,
+    "status": "approved",
+    "frames": 12,
+    "durations": [
+      500,
+      350,
+      350,
+      350,
+      350,
+      350,
+      350,
+      350,
+      350,
+      350,
+      350,
+      600
+    ],
+    "cycles": 1,
+    "still": 11,
+    "source": "new-scenes/sources/M02-v4.png",
+    "src": "new-scenes/atlases/moa-M02-v4.png",
+    "generator": "Integrated image_gen",
+    "reference": "references/moa-neutral.png",
+    "prompt": "new-scenes/prompts/M02.txt",
+    "context": "Guiño ficticio a la teatralidad de Freddie Mercury y la respuesta del público; sin voz, canción, rasgos de la persona, colaboración o aval.",
+    "inspirationReferences": [
+      {
+        "url": "https://freddiemercury.com/wembley-park-unveils-spectacular-30ft-anamorphic-freddie-mercury-mural-for-music-legends-80th-birthday/",
+        "supports": "Guiño ficticio a la teatralidad de Freddie Mercury y la respuesta del público; sin voz, canción, rasgos de la persona, colaboración o aval."
+      }
+    ],
+    "review": "Sources and every delivered frame reviewed on light, dark and blue at real size; enlarged browser captures and temporal samples passed.",
+    "sourceColumns": [
+      0,
+      436,
+      844,
+      1238,
+      1643
+    ],
+    "correctionPrompts": [
+      "new-scenes/prompts/M02-correction.txt",
+      "new-scenes/prompts/M02-correction-2.txt",
+      "new-scenes/prompts/M02-correction-3.txt"
+    ],
+    "rejectedSources": [
+      {
+        "source": "new-scenes/sources/M02-v1.png",
+        "reason": "El micrófono cambiaba de mano en dos cuadros."
+      },
+      {
+        "source": "new-scenes/sources/M02-v2.png",
+        "reason": "La corrección introdujo un tercer brazo en el cuadro 5."
+      },
+      {
+        "source": "new-scenes/sources/M02-v3.png",
+        "reason": "Un fan tocaba el borde derecho y no permitía extracción íntegra."
+      }
+    ],
+    "packaging": {
+      "sourceSize": [
+        1643,
+        957
+      ],
+      "rowCuts": [
+        0,
+        371,
+        653,
+        957
+      ],
+      "columnCuts": [
+        0,
+        436,
+        844,
+        1238,
+        1643
+      ],
+      "rowBaselineRegistration": [
+        [
+          0,
+          46
+        ],
+        [
+          14,
+          46
+        ],
+        [
+          21,
+          46
+        ],
+        [
+          15,
+          46
+        ],
+        [
+          0,
+          130
+        ],
+        [
+          14,
+          130
+        ],
+        [
+          21,
+          130
+        ],
+        [
+          15,
+          130
+        ],
+        [
+          0,
+          141
+        ],
+        [
+          14,
+          141
+        ],
+        [
+          21,
+          141
+        ],
+        [
+          15,
+          141
+        ]
+      ],
+      "unionCrop": [
+        34,
+        152,
+        412,
+        398
+      ],
+      "sharedScale": 0.6031746031746031,
+      "frameSize": [
+        288,
+        168
+      ],
+      "origin": [
+        0,
+        0
+      ],
+      "trajectory": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          0
+        ]
+      ]
+    },
+    "frameFiles": [
+      "new-scenes/frames/M02-v4/000.png",
+      "new-scenes/frames/M02-v4/001.png",
+      "new-scenes/frames/M02-v4/002.png",
+      "new-scenes/frames/M02-v4/003.png",
+      "new-scenes/frames/M02-v4/004.png",
+      "new-scenes/frames/M02-v4/005.png",
+      "new-scenes/frames/M02-v4/006.png",
+      "new-scenes/frames/M02-v4/007.png",
+      "new-scenes/frames/M02-v4/008.png",
+      "new-scenes/frames/M02-v4/009.png",
+      "new-scenes/frames/M02-v4/010.png",
+      "new-scenes/frames/M02-v4/011.png"
+    ],
+    "sourceSha256": "8a967ede21d4a41164ca17bd4474a1bcfcd36ce8788df460b3ffdcf0eaaf03fd",
+    "frameSha256": [
+      "a17b1f732430a867604daca4b13a4759588b979e5f6b31f7c587af74924ca1fb",
+      "33d11ae5b9de6c5354c6db5ebfac9fdcef5b37c377843d2c6818d329a0735122",
+      "1a5a0fe29d2c0a7491389df4d9462f05ef3309b8450bd0bd7ceb56272e019d19",
+      "3f04359f5dd15cd37608f031189ad4bc2dd52b02e35fdaadaa37690030af753e",
+      "5545a21b64d4d4e71a52aa607677ee1990bbbf5348bf6ba7f86410b3db540f8a",
+      "6d0db7cda1d679ba249dc36069e547e541472e9745e85cdde56e50094efc08db",
+      "1f53a82d83bd223e80dcaa56711253f7c5a4fc34d91131ec405497c5448c7db8",
+      "8341637752f20421fa29c88f3aa1036774b57e621a47d8fa1ac963b2af35a2f3",
+      "0cd75d4a771c42eb351a08944c0fc7fd7bc8ce82b3375f80eb384342e14b066f",
+      "38abfed919c3528acbbe0316cba47e230a4ed6441d8a068b7925ad1289e49308",
+      "afb1c57c30fc3350114595678e5442e07043a7181d6e9ff9d801a2d6f4c1eaea",
+      "c43a7485be1ac239226c002cef2ce95613484341754a31e81d58bb41d3d97301"
+    ],
+    "bytes": 83407,
+    "sha256": "e064162e09ad87623bd5829278cb840be25eec1f207d0588eab6652b1ff4b071",
+    "sourceBytes": 1245394,
+    "qa": {
+      "reviewer": "Codex visual and technical review; principal reviewer controls merge",
+      "date": "2026-10-12",
+      "frameByFrame": true,
+      "backgrounds": [
+        "light",
+        "dark",
+        "blue"
+      ],
+      "scales": [
+        1,
+        3
+      ],
+      "browserTemporalSamples": 12,
+      "evidence": "evidence/M02/",
+      "remainingLimitation": "Guiño ficticio a la teatralidad de Freddie Mercury y la respuesta del público; sin voz, canción, rasgos de la persona, colaboración o aval. Raster key poses; Chromium verified, physical devices not tested."
+    }
+  },
+  {
+    "order": 67,
+    "id": "M03",
+    "title": "M03 · Moa metalero",
+    "category": "Cultura popular mundial",
+    "pack": "new",
+    "batch": "world-01",
+    "worldOrder": 3,
+    "version": 1,
+    "status": "approved",
+    "frames": 12,
+    "durations": [
+      500,
+      350,
+      350,
+      350,
+      350,
+      350,
+      350,
+      350,
+      350,
+      350,
+      350,
+      600
+    ],
+    "cycles": 1,
+    "still": 11,
+    "source": "new-scenes/sources/M03-v1.png",
+    "src": "new-scenes/atlases/moa-M03-v1.png",
+    "generator": "Integrated image_gen",
+    "reference": "references/moa-neutral.png",
+    "prompt": "new-scenes/prompts/M03.txt",
+    "context": "Guitarra imaginaria y mechón postizo: actuación original, sin artista, canción, instrumento real o patrocinio.",
+    "inspirationReferences": [],
+    "review": "Sources and every delivered frame reviewed on light, dark and blue at real size; enlarged browser captures and temporal samples passed.",
+    "sourceColumns": [
+      0,
+      416,
+      834,
+      1241,
+      1642
+    ],
+    "packaging": {
+      "sourceSize": [
+        1642,
+        958
+      ],
+      "rowCuts": [
+        0,
+        338,
+        651,
+        958
+      ],
+      "columnCuts": [
+        0,
+        416,
+        834,
+        1241,
+        1642
+      ],
+      "rowBaselineRegistration": [
+        [
+          1,
+          36
+        ],
+        [
+          0,
+          36
+        ],
+        [
+          5,
+          36
+        ],
+        [
+          8,
+          36
+        ],
+        [
+          1,
+          60
+        ],
+        [
+          0,
+          60
+        ],
+        [
+          5,
+          60
+        ],
+        [
+          8,
+          60
+        ],
+        [
+          1,
+          72
+        ],
+        [
+          0,
+          72
+        ],
+        [
+          5,
+          72
+        ],
+        [
+          8,
+          72
+        ]
+      ],
+      "unionCrop": [
+        78,
+        58,
+        363,
+        364
+      ],
+      "sharedScale": 0.49019607843137253,
+      "frameSize": [
+        288,
+        168
+      ],
+      "origin": [
+        0,
+        0
+      ],
+      "trajectory": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          0
+        ]
+      ]
+    },
+    "frameFiles": [
+      "new-scenes/frames/M03-v1/000.png",
+      "new-scenes/frames/M03-v1/001.png",
+      "new-scenes/frames/M03-v1/002.png",
+      "new-scenes/frames/M03-v1/003.png",
+      "new-scenes/frames/M03-v1/004.png",
+      "new-scenes/frames/M03-v1/005.png",
+      "new-scenes/frames/M03-v1/006.png",
+      "new-scenes/frames/M03-v1/007.png",
+      "new-scenes/frames/M03-v1/008.png",
+      "new-scenes/frames/M03-v1/009.png",
+      "new-scenes/frames/M03-v1/010.png",
+      "new-scenes/frames/M03-v1/011.png"
+    ],
+    "sourceSha256": "5c0fb3c52bafb3ab3f3c8f144c59fe90e69a0ddcba52ae85717ae714a7691b8d",
+    "frameSha256": [
+      "f19bedafe8e3a707807d13878475d094bcdb3d7393806092072866033dcfedb6",
+      "98ef4c00740195603477369f62c7924f16cbce91724e59ff4710196ff22ec146",
+      "f9847d08d9f8bafc203b204a71dff766bfb3793bd643e783bdb190499df6d37f",
+      "0dae8df7ddd8fb2717422751af3b0fa03295ebd1df4ae14e36ac9bf80a342b14",
+      "48ab8a24ff2a0aad3c2f2a10df78413f31e0a1169b5c3c747634e5aea98eb0e4",
+      "5e79c6eafc65696ce3aaee1e205e1073941031feb2e645358686f582d3bdcae2",
+      "37129744d81598b1b7b135b7a3a447a262fd5c632b4b31ac189be1f48cee748b",
+      "ac56d783c96527ade81beb468d8f0255c40a064e83702ebeefd355736db281be",
+      "ca072ec4a3f78406c34819909811a02f4669e1ca958df94e041be639ff3be0d2",
+      "ef15035b5f9b6c6e501219c13b325696b05ad3fcc88d3205eaca6b143a5be933",
+      "63f7d0655c8bd69004f772efae924c3e8a39ad3a041918f0e49690eadbfcb830",
+      "3d30d6a6a4947e458f59f24d32d107a26cb66df026997ca002ff2a4beb2433da"
+    ],
+    "bytes": 53909,
+    "sha256": "1cf750787d947ca775d28fdf17d5e763dc805b93f9207511197b2ce1caa3726d",
+    "sourceBytes": 1025490,
+    "qa": {
+      "reviewer": "Codex visual and technical review; principal reviewer controls merge",
+      "date": "2026-10-12",
+      "frameByFrame": true,
+      "backgrounds": [
+        "light",
+        "dark",
+        "blue"
+      ],
+      "scales": [
+        1,
+        3
+      ],
+      "browserTemporalSamples": 12,
+      "evidence": "evidence/M03/",
+      "remainingLimitation": "Guitarra imaginaria y mechón postizo: actuación original, sin artista, canción, instrumento real o patrocinio. Raster key poses; Chromium verified, physical devices not tested."
+    }
+  },
+  {
+    "order": 68,
+    "id": "M04",
+    "title": "M04 · Épica de explorador",
+    "category": "Cultura popular mundial",
+    "pack": "new",
+    "batch": "world-01",
+    "worldOrder": 4,
+    "version": 2,
+    "status": "approved",
+    "frames": 16,
+    "durations": [
+      500,
+      320,
+      320,
+      320,
+      320,
+      320,
+      320,
+      320,
+      320,
+      320,
+      320,
+      320,
+      320,
+      320,
+      320,
+      620
+    ],
+    "cycles": 1,
+    "still": 15,
+    "source": "new-scenes/sources/M04-v2.png",
+    "src": "new-scenes/atlases/moa-M04-v2.png",
+    "generator": "Integrated image_gen",
+    "reference": "references/moa-neutral.png",
+    "prompt": "new-scenes/prompts/M04.txt",
+    "context": "Homenaje ficticio al concierto aventurero, inspirado en Iron Maiden; capa y roca escénica inventadas. Bajo y digitación simplificados, sin modelo técnico, Eddie, logotipo, música ni aval.",
+    "inspirationReferences": [
+      {
+        "url": "https://www.ironmaiden.com/the-band/",
+        "supports": "Homenaje ficticio al concierto aventurero, inspirado en Iron Maiden; capa y roca escénica inventadas. Bajo y digitación simplificados, sin modelo técnico, Eddie, logotipo, música ni aval."
+      }
+    ],
+    "review": "Sources and every delivered frame reviewed on light, dark and blue at real size; enlarged browser captures and temporal samples passed.",
+    "sourceColumns": [
+      0,
+      366,
+      738,
+      1100,
+      1462
+    ],
+    "packaging": {
+      "sourceSize": [
+        1462,
+        1076
+      ],
+      "rowCuts": [
+        0,
+        280,
+        538,
+        796,
+        1076
+      ],
+      "columnCuts": [
+        0,
+        366,
+        738,
+        1100,
+        1462
+      ],
+      "rowBaselineRegistration": [
+        [
+          3,
+          31
+        ],
+        [
+          0,
+          31
+        ],
+        [
+          5,
+          31
+        ],
+        [
+          5,
+          31
+        ],
+        [
+          3,
+          52
+        ],
+        [
+          0,
+          52
+        ],
+        [
+          5,
+          52
+        ],
+        [
+          5,
+          52
+        ],
+        [
+          3,
+          53
+        ],
+        [
+          0,
+          53
+        ],
+        [
+          5,
+          53
+        ],
+        [
+          5,
+          53
+        ],
+        [
+          3,
+          46
+        ],
+        [
+          0,
+          46
+        ],
+        [
+          5,
+          46
+        ],
+        [
+          5,
+          46
+        ]
+      ],
+      "unionCrop": [
+        38,
+        52,
+        338,
+        307
+      ],
+      "sharedScale": 0.5882352941176471,
+      "frameSize": [
+        288,
+        168
+      ],
+      "origin": [
+        0,
+        0
+      ],
+      "trajectory": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          0
+        ]
+      ]
+    },
+    "frameFiles": [
+      "new-scenes/frames/M04-v2/000.png",
+      "new-scenes/frames/M04-v2/001.png",
+      "new-scenes/frames/M04-v2/002.png",
+      "new-scenes/frames/M04-v2/003.png",
+      "new-scenes/frames/M04-v2/004.png",
+      "new-scenes/frames/M04-v2/005.png",
+      "new-scenes/frames/M04-v2/006.png",
+      "new-scenes/frames/M04-v2/007.png",
+      "new-scenes/frames/M04-v2/008.png",
+      "new-scenes/frames/M04-v2/009.png",
+      "new-scenes/frames/M04-v2/010.png",
+      "new-scenes/frames/M04-v2/011.png",
+      "new-scenes/frames/M04-v2/012.png",
+      "new-scenes/frames/M04-v2/013.png",
+      "new-scenes/frames/M04-v2/014.png",
+      "new-scenes/frames/M04-v2/015.png"
+    ],
+    "sourceSha256": "fa75fcd60caae4e795bf98ab8c30f3ccfc2544170cd50d655f575902f8156f58",
+    "frameSha256": [
+      "1e8113ecf9598b702e3facdcdbe94a0136c04c3dabc207908cb71e5624deccfa",
+      "39aacd0a8a3ac5b27a200a96b9a47a98c4682cc81f144d81156c649eea319f50",
+      "1831d7f0525a3cbe8ba054ce2c3b313d1ccb2bac7eed25fbad677d0743c092bf",
+      "1d39d400693242ba3632175c59257ad49fb3d4aa385332738cbe915fb7244d96",
+      "ec8eabf0569a58d22d78721d0d7ece183b1e407eef6840d15761f66606ebef81",
+      "31ce18358706843ab0197ac1a4599700bff912db46f131aedd898134f00dffeb",
+      "5792538bc541a486f122b206426490980fc5b6d61335369540b5ead31a93c24e",
+      "98259663de97b1a8c85032e2868ebbe3648dc13e9f8cdfb57933607350465099",
+      "f5ad235910d33b4fae63209e090805355ff1dfe43aebc26ede94e32bf1cf5957",
+      "b92745a7e8d6972a1130208193ba513d8a5d3afe93bacd0f0532666e9f92ec82",
+      "ebf6faf7ac998427a1398f6d871b4e239945e2d72b895a6a55b52afda9f6b601",
+      "5f51cb3c9810754ffc063edb84fe855d2e8947b59e5ba12d624dbb1d9a4bff6a",
+      "e7fc250fa81d92b5484e5997db1e23e3d8a3182f389b9a362ab77a2218300d4c",
+      "364a6ede68be40b5e1a2459fa25dd2f30003bd0e70d5c799450606c432d9f31a",
+      "c809a457525978c22bc51dbb62a9176fed6830b9ccf31bf618c8dacd22ef2fa3",
+      "db56403c31b2ff9ae854ae4bcc6a510f9a5b42b0d5a5722a0b49db05c6eb6f73"
+    ],
+    "bytes": 108323,
+    "sha256": "0bce9be0298bdf18bf157cc8f0ca6b17abf3b55c1ec152317ba92763685faf5b",
+    "correctionPrompts": [
+      "new-scenes/prompts/M04-correction.txt"
+    ],
+    "rejectedSources": [
+      {
+        "source": "new-scenes/sources/M04-v1.png",
+        "reason": "El bajo ocultaba o borraba la ola del pecho."
+      }
+    ],
+    "sourceBytes": 1467535,
+    "qa": {
+      "reviewer": "Codex visual and technical review; principal reviewer controls merge",
+      "date": "2026-10-12",
+      "frameByFrame": true,
+      "backgrounds": [
+        "light",
+        "dark",
+        "blue"
+      ],
+      "scales": [
+        1,
+        3
+      ],
+      "browserTemporalSamples": 16,
+      "evidence": "evidence/M04/",
+      "remainingLimitation": "Homenaje ficticio al concierto aventurero, inspirado en Iron Maiden; capa y roca escénica inventadas. Bajo y digitación simplificados, sin modelo técnico, Eddie, logotipo, música ni aval. Raster key poses; Chromium verified, physical devices not tested."
+    }
+  },
+  {
+    "order": 69,
+    "id": "M05",
+    "title": "M05 · Dúo electrónico",
+    "category": "Cultura popular mundial",
+    "pack": "new",
+    "batch": "world-01",
+    "worldOrder": 5,
+    "version": 2,
+    "status": "approved",
+    "frames": 12,
+    "durations": [
+      500,
+      350,
+      350,
+      350,
+      350,
+      350,
+      350,
+      350,
+      350,
+      350,
+      350,
+      600
+    ],
+    "cycles": 1,
+    "still": 11,
+    "source": "new-scenes/sources/M05-v2.png",
+    "src": "new-scenes/atlases/moa-M05-v2.png",
+    "generator": "Integrated image_gen",
+    "reference": "references/moa-neutral.png",
+    "prompt": "new-scenes/prompts/M05.txt",
+    "context": "Homenaje ficticio a Daft Punk: cascos transparentes y sintetizador inventados para conservar las caras; luces suaves constantes, sin sonido, marcas o patrocinio.",
+    "inspirationReferences": [
+      {
+        "url": "https://daftpunk.com/alive2007/",
+        "supports": "Homenaje ficticio a Daft Punk: cascos transparentes y sintetizador inventados para conservar las caras; luces suaves constantes, sin sonido, marcas o patrocinio."
+      }
+    ],
+    "review": "Sources and every delivered frame reviewed on light, dark and blue at real size; enlarged browser captures and temporal samples passed.",
+    "sourceColumns": [
+      0,
+      413,
+      823,
+      1233,
+      1642
+    ],
+    "packaging": {
+      "sourceSize": [
+        1642,
+        958
+      ],
+      "rowCuts": [
+        0,
+        332,
+        640,
+        958
+      ],
+      "columnCuts": [
+        0,
+        413,
+        823,
+        1233,
+        1642
+      ],
+      "rowBaselineRegistration": [
+        [
+          0,
+          35
+        ],
+        [
+          1,
+          35
+        ],
+        [
+          1,
+          35
+        ],
+        [
+          2,
+          35
+        ],
+        [
+          0,
+          59
+        ],
+        [
+          1,
+          59
+        ],
+        [
+          1,
+          59
+        ],
+        [
+          2,
+          59
+        ],
+        [
+          0,
+          63
+        ],
+        [
+          1,
+          63
+        ],
+        [
+          1,
+          63
+        ],
+        [
+          2,
+          63
+        ]
+      ],
+      "unionCrop": [
+        27,
+        66,
+        388,
+        359
+      ],
+      "sharedScale": 0.5119453924914675,
+      "frameSize": [
+        288,
+        168
+      ],
+      "origin": [
+        0,
+        0
+      ],
+      "trajectory": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          0
+        ]
+      ]
+    },
+    "frameFiles": [
+      "new-scenes/frames/M05-v2/000.png",
+      "new-scenes/frames/M05-v2/001.png",
+      "new-scenes/frames/M05-v2/002.png",
+      "new-scenes/frames/M05-v2/003.png",
+      "new-scenes/frames/M05-v2/004.png",
+      "new-scenes/frames/M05-v2/005.png",
+      "new-scenes/frames/M05-v2/006.png",
+      "new-scenes/frames/M05-v2/007.png",
+      "new-scenes/frames/M05-v2/008.png",
+      "new-scenes/frames/M05-v2/009.png",
+      "new-scenes/frames/M05-v2/010.png",
+      "new-scenes/frames/M05-v2/011.png"
+    ],
+    "sourceSha256": "552378aa5d3179c837515a99657d11eef41005a6043d262f510fc0a7571e0199",
+    "frameSha256": [
+      "56f288a03877247d268bb0fc0071e31ba6c4160164732314bb97ff6b61dc4636",
+      "c2a8c9732ca415184d61dacfd45747a687bc700e83f12e190cad7ae24d218a4c",
+      "2e8c26941eac71ecab7e8711b8d44c427c20163d251d726778328b5ebb787d38",
+      "84b6cc6b63a73985f66925accb1f5a48fe6741c6261197eedf703b8e9015b995",
+      "7f33b393f4e6f3eae957a6cf55e7633efd0528f7d4a1992cf04072fcf92eea50",
+      "3837d31341569771bed02f87f14b65955da1216f2fb9698d848f6b032f76110e",
+      "3e8010caed7ee5204d8b9545469bcd7ddcbbaf7893a68c30ea07ab694c061eab",
+      "cfbcdbfc912297a7fa929eb8cd8094275cbd1cb2e781b97e06ce3a76846842c8",
+      "bc1146afdb63199c67c2fe522d35439a53d8350e4fda9ea77175b0600e2588f9",
+      "37bc7b1f3fac12b5cd6a06b3ab4ed8dba9dea02d263cb9e1a180ff46cf1ad8a6",
+      "b188e1a42469aa6b7c3e359a755fec0893f576de9105b10fefcb848370192179",
+      "06332d34cd5c818ea52179ab907f9577e8f50cdad7beb0c8929700474ed4478c"
+    ],
+    "bytes": 88164,
+    "sha256": "b4cd9fccfccbb6a6b8221af25112c8cd0477d582796215053889d9876236be16",
+    "correctionPrompts": [
+      "new-scenes/prompts/M05-correction.txt"
+    ],
+    "rejectedSources": [
+      {
+        "source": "new-scenes/sources/M05-v1.png",
+        "reason": "Símbolo naranja sobre el choque de manos y controles inconsistentes."
+      }
+    ],
+    "sourceBytes": 1714115,
+    "qa": {
+      "reviewer": "Codex visual and technical review; principal reviewer controls merge",
+      "date": "2026-10-12",
+      "frameByFrame": true,
+      "backgrounds": [
+        "light",
+        "dark",
+        "blue"
+      ],
+      "scales": [
+        1,
+        3
+      ],
+      "browserTemporalSamples": 12,
+      "evidence": "evidence/M05/",
+      "remainingLimitation": "Homenaje ficticio a Daft Punk: cascos transparentes y sintetizador inventados para conservar las caras; luces suaves constantes, sin sonido, marcas o patrocinio. Raster key poses; Chromium verified, physical devices not tested."
+    }
   }
 ]
