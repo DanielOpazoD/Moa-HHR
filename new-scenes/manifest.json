@@ -3941,5 +3941,956 @@
       "evidence": "evidence/thanks/",
       "remainingLimitation": "Raster key poses, not a vector rig; Chromium verified, physical devices not tested."
     }
+  },
+  {
+    "order": 25,
+    "id": "coffee",
+    "title": "Café caliente",
+    "category": "Cotidiano",
+    "pack": "new",
+    "batch": "gestures-03",
+    "expansionOrder": 11,
+    "version": 2,
+    "status": "approved",
+    "frames": 12,
+    "durations": [
+      530,
+      379,
+      379,
+      379,
+      379,
+      379,
+      379,
+      379,
+      379,
+      379,
+      379,
+      680
+    ],
+    "cycles": 1,
+    "still": 7,
+    "source": "new-scenes/sources/coffee-v2.png",
+    "src": "new-scenes/atlases/moa-coffee-v2.png",
+    "generator": "Integrated image_gen",
+    "reference": "references/moa-neutral.png",
+    "prompt": "new-scenes/prompts/coffee.txt",
+    "review": "Taza siempre entre ambas manos, soplo y sorbo legibles. Emblema restaurado cuando se descubre el pecho.",
+    "correctionPrompt": "new-scenes/prompts/coffee-correction.txt",
+    "packaging": {
+      "sourceSize": [
+        1642,
+        958
+      ],
+      "rowCuts": [
+        0,
+        334,
+        643,
+        958
+      ],
+      "columnCuts": [
+        0,
+        410,
+        820,
+        1230,
+        1640
+      ],
+      "rowBaselineRegistration": [
+        [
+          0,
+          30
+        ],
+        [
+          0,
+          30
+        ],
+        [
+          0,
+          30
+        ],
+        [
+          0,
+          30
+        ],
+        [
+          0,
+          53
+        ],
+        [
+          0,
+          53
+        ],
+        [
+          0,
+          53
+        ],
+        [
+          0,
+          53
+        ],
+        [
+          0,
+          55
+        ],
+        [
+          0,
+          55
+        ],
+        [
+          0,
+          55
+        ],
+        [
+          0,
+          55
+        ]
+      ],
+      "unionCrop": [
+        73,
+        50,
+        351,
+        361
+      ],
+      "sharedScale": 0.48231511254019294,
+      "frameSize": [
+        288,
+        168
+      ],
+      "origin": [
+        0,
+        0
+      ],
+      "trajectory": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          0
+        ]
+      ]
+    },
+    "frameFiles": [
+      "new-scenes/frames/coffee-v2/000.png",
+      "new-scenes/frames/coffee-v2/001.png",
+      "new-scenes/frames/coffee-v2/002.png",
+      "new-scenes/frames/coffee-v2/003.png",
+      "new-scenes/frames/coffee-v2/004.png",
+      "new-scenes/frames/coffee-v2/005.png",
+      "new-scenes/frames/coffee-v2/006.png",
+      "new-scenes/frames/coffee-v2/007.png",
+      "new-scenes/frames/coffee-v2/008.png",
+      "new-scenes/frames/coffee-v2/009.png",
+      "new-scenes/frames/coffee-v2/010.png",
+      "new-scenes/frames/coffee-v2/011.png"
+    ],
+    "sourceSha256": "b7c95a27ba36e477e75e506bf5641721fee06ce8085451fb6e6f58c0d3799db8",
+    "frameSha256": [
+      "e255d98bf33ff9ddaad9bff4a7beee78c5eb81715ecf46d72d5e41c3746c1b3d",
+      "6bbba87d30614dc39c6d53c298865ca8666da0fbbd12c2a7844643f047fafac4",
+      "fcad9814dcd38427e1d2a3f0fa9067f81d868c529b2d60f7dfad2f2687fecfe3",
+      "a42d728a01b178d7d5dd7c5db2146f9d36e6b126f2e280628308516fba11783b",
+      "ec3511a9adcf97df0c2f1cc8a94f8b2d44520b6e4f277b44be7357e5fb0b9a54",
+      "8ea0e33eccc387eac1e9d885f9f3f838b0fbfa9d86bd49a7ddb9b51d1bc0cb2f",
+      "dd694bcb6555a446d0514ad2e72a995061fc7c211ae236e8bb2a6afae80dca15",
+      "5c514f4307ae968bcb60f4f362119e781d80bcc727618e4c48b0f7fef71407e4",
+      "b82be854a585371d7a070d20188278bebdd18bd206d53c1e99a74899c85d7719",
+      "dd2bfe35e2f0294d1ffe48a3d5ce9d838c9b63f46e41f360a02988e84d9fdc5d",
+      "ad32227071495747c656021e47f5a2c287006073fb1f685915cb25584cc8be8b",
+      "fdf0a8af1570e69d3061d9962fb157c870e0205893fe8bd853ac0c648281a423"
+    ],
+    "bytes": 49522,
+    "sha256": "9e041c120f55acf6b47f47bad9e7c898612eff97054e240259f73c12355309c1",
+    "sourceBytes": 1165443,
+    "qa": {
+      "reviewer": "Codex visual and technical review; final reviewer handles merge",
+      "date": "2026-10-12",
+      "frameByFrame": true,
+      "backgrounds": [
+        "light",
+        "dark",
+        "blue"
+      ],
+      "scales": [
+        1,
+        3
+      ],
+      "browserTemporalSamples": 12,
+      "evidence": "evidence/coffee/",
+      "remainingLimitation": "Raster key poses, not a vector rig; Chromium verified, physical devices not tested."
+    }
+  },
+  {
+    "order": 26,
+    "id": "upside-book",
+    "title": "Libro enorme al revés",
+    "category": "Cotidiano",
+    "pack": "new",
+    "batch": "gestures-03",
+    "expansionOrder": 12,
+    "version": 2,
+    "status": "approved",
+    "frames": 12,
+    "durations": [
+      530,
+      379,
+      379,
+      379,
+      379,
+      379,
+      379,
+      379,
+      379,
+      379,
+      379,
+      680
+    ],
+    "cycles": 1,
+    "still": 8,
+    "source": "new-scenes/sources/upside-book-v2.png",
+    "src": "new-scenes/atlases/moa-upside-book-v2.png",
+    "generator": "Integrated image_gen",
+    "reference": "references/moa-neutral.png",
+    "prompt": "new-scenes/prompts/upside-book.txt",
+    "review": "Portada invertida, giro con cambio de panel al lado opuesto y lectura satisfecha. Iconos retirados.",
+    "correctionPrompt": "new-scenes/prompts/upside-book-correction.txt",
+    "packaging": {
+      "sourceSize": [
+        1642,
+        958
+      ],
+      "rowCuts": [
+        0,
+        344,
+        647,
+        958
+      ],
+      "columnCuts": [
+        0,
+        410,
+        820,
+        1230,
+        1640
+      ],
+      "rowBaselineRegistration": [
+        [
+          0,
+          34
+        ],
+        [
+          0,
+          34
+        ],
+        [
+          0,
+          34
+        ],
+        [
+          0,
+          34
+        ],
+        [
+          0,
+          72
+        ],
+        [
+          0,
+          72
+        ],
+        [
+          0,
+          72
+        ],
+        [
+          0,
+          72
+        ],
+        [
+          0,
+          79
+        ],
+        [
+          0,
+          79
+        ],
+        [
+          0,
+          79
+        ],
+        [
+          0,
+          79
+        ]
+      ],
+      "unionCrop": [
+        16,
+        80,
+        361,
+        371
+      ],
+      "sharedScale": 0.5154639175257731,
+      "frameSize": [
+        288,
+        168
+      ],
+      "origin": [
+        0,
+        0
+      ],
+      "trajectory": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          0
+        ]
+      ]
+    },
+    "frameFiles": [
+      "new-scenes/frames/upside-book-v2/000.png",
+      "new-scenes/frames/upside-book-v2/001.png",
+      "new-scenes/frames/upside-book-v2/002.png",
+      "new-scenes/frames/upside-book-v2/003.png",
+      "new-scenes/frames/upside-book-v2/004.png",
+      "new-scenes/frames/upside-book-v2/005.png",
+      "new-scenes/frames/upside-book-v2/006.png",
+      "new-scenes/frames/upside-book-v2/007.png",
+      "new-scenes/frames/upside-book-v2/008.png",
+      "new-scenes/frames/upside-book-v2/009.png",
+      "new-scenes/frames/upside-book-v2/010.png",
+      "new-scenes/frames/upside-book-v2/011.png"
+    ],
+    "sourceSha256": "95f648c565fba345abf4e01ec39443ada27b2f7ce5a0e9628bdbf446cb0da1cf",
+    "frameSha256": [
+      "a78b99c5725b974270795e47babe1b6eae1dfc356b2fca12030cf7b8639ea261",
+      "e737a67ddbfdc73c2024a950505e1614f2afe19757f94da850407992eacdf4f2",
+      "08afc7fd857d27602ca6094743cdaaab0e48563ee999b7aceb66ece2ec83a0c0",
+      "f5de086f1885ee2649f084703e51ceb49b9a500444e6ce5fd8d158634a0c0362",
+      "da9609ba1b3cd2bab2b8e9f0c9bc10ed0adbe816704890e36f14d41fa8beece6",
+      "fc5f95317620d3113cf6aa5d6426b4708eb3869e1fa6ab9df60b80c70c1ea235",
+      "a79a5d4b3e7ce3be61e8dbb95a9267cd0bc3b9838b78834bfff98058b9034e1b",
+      "7cca759a2661fa77631853ad36834825d58b26b3538bf21656ba67369d327b9e",
+      "f7f7cb05b55ec8e2af094da0b60cdbf9c8e43d6ad8c4b1cfd2e061ee2d2d3177",
+      "f587d3e7fd01c033f7ef3a79c6a7135a8320b1d1082b6997628e4bcb138615c8",
+      "8ed1867c3a39d62b4c17126bc8fa6926906bc92182c3e4a32d8deeaf221d28c6",
+      "14bf16c292d01f3a39dfbb8dff6f37397ced239302b429cc7c7f518cb1848d9b"
+    ],
+    "bytes": 56375,
+    "sha256": "e4717aa7bfe664c0cc4f053157806bf25715fa9ff3309b0a37448d941d748e7a",
+    "sourceBytes": 1146144,
+    "qa": {
+      "reviewer": "Codex visual and technical review; final reviewer handles merge",
+      "date": "2026-10-12",
+      "frameByFrame": true,
+      "backgrounds": [
+        "light",
+        "dark",
+        "blue"
+      ],
+      "scales": [
+        1,
+        3
+      ],
+      "browserTemporalSamples": 12,
+      "evidence": "evidence/upside-book/",
+      "remainingLimitation": "Raster key poses, not a vector rig; Chromium verified, physical devices not tested."
+    }
+  },
+  {
+    "order": 27,
+    "id": "plant",
+    "title": "Regar una planta",
+    "category": "Cotidiano",
+    "pack": "new",
+    "batch": "gestures-03",
+    "expansionOrder": 13,
+    "version": 2,
+    "status": "approved",
+    "frames": 12,
+    "durations": [
+      552,
+      394,
+      394,
+      394,
+      394,
+      394,
+      394,
+      394,
+      394,
+      394,
+      394,
+      708
+    ],
+    "cycles": 1,
+    "still": 9,
+    "source": "new-scenes/sources/plant-v2.png",
+    "src": "new-scenes/atlases/moa-plant-v2.png",
+    "generator": "Integrated image_gen",
+    "reference": "references/moa-neutral.png",
+    "prompt": "new-scenes/prompts/plant.txt",
+    "review": "Regadera con agarre corregido; agua hacia macetero, tercera hoja central y celebración.",
+    "correctionPrompt": "new-scenes/prompts/plant-correction.txt",
+    "packaging": {
+      "sourceSize": [
+        1640,
+        959
+      ],
+      "rowCuts": [
+        0,
+        345,
+        647,
+        959
+      ],
+      "columnCuts": [
+        0,
+        410,
+        820,
+        1230,
+        1640
+      ],
+      "rowBaselineRegistration": [
+        [
+          0,
+          35
+        ],
+        [
+          0,
+          35
+        ],
+        [
+          0,
+          35
+        ],
+        [
+          0,
+          35
+        ],
+        [
+          0,
+          71
+        ],
+        [
+          0,
+          71
+        ],
+        [
+          0,
+          71
+        ],
+        [
+          0,
+          71
+        ],
+        [
+          0,
+          84
+        ],
+        [
+          0,
+          84
+        ],
+        [
+          0,
+          84
+        ],
+        [
+          0,
+          84
+        ]
+      ],
+      "unionCrop": [
+        23,
+        78,
+        394,
+        371
+      ],
+      "sharedScale": 0.5119453924914675,
+      "frameSize": [
+        288,
+        168
+      ],
+      "origin": [
+        0,
+        0
+      ],
+      "trajectory": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          0
+        ]
+      ]
+    },
+    "frameFiles": [
+      "new-scenes/frames/plant-v2/000.png",
+      "new-scenes/frames/plant-v2/001.png",
+      "new-scenes/frames/plant-v2/002.png",
+      "new-scenes/frames/plant-v2/003.png",
+      "new-scenes/frames/plant-v2/004.png",
+      "new-scenes/frames/plant-v2/005.png",
+      "new-scenes/frames/plant-v2/006.png",
+      "new-scenes/frames/plant-v2/007.png",
+      "new-scenes/frames/plant-v2/008.png",
+      "new-scenes/frames/plant-v2/009.png",
+      "new-scenes/frames/plant-v2/010.png",
+      "new-scenes/frames/plant-v2/011.png"
+    ],
+    "sourceSha256": "58226b5f1cc97b533646fa370a390a60c0ad9a979b770c2a51f509bf74179672",
+    "frameSha256": [
+      "a5f61c358ddcec068a236681a4b4190cb422daec3f68b3a65258f94edfde2b40",
+      "c4ebfdd2483ba8436b3fbc042022e8707b64c10c8b07843c81bca674e87faf01",
+      "891904e7bbee33e96873cd101c911b29b10ac5c4a4104e4e5a1495c66e7b65cd",
+      "13a35a1178236458b28eeb3d2174577339246b0a673ffd23174362272687de95",
+      "6958138d3b9149b33d2fdfd18cbd3a12ce3b7077410b765f0b23828394e0a9ee",
+      "202bad41005a4de120ffd66a5dda1f58b070698a78291e8918cc9ef93d089348",
+      "b351a7aa2636dee090ba2542a902b83223bb5ca7c7b76576de3b021b826c317f",
+      "1c2bc4d2a28c1d3b227dd43f9a075037d65893052febcafc6887e488fe07b758",
+      "8808ff15918f709284ef9217de74c591c809ce29360c2b59dcfd960f4ef803ea",
+      "7831f3ce6fab9d2e6bab65b41dc031142898aa92105d7d2b70c0e30b4e1ab61d",
+      "74e32dec98158ee86a1980c26afbde2be246186aa0b9d1b00358d78c3a745fbe",
+      "99088ccfc4e45a5e56339b82571af2c6c316b75dc8b5f557ab72d6112dc824d4"
+    ],
+    "bytes": 65576,
+    "sha256": "a303ed68dfff66477f09d3daae7dfd9d989ae239768e2e9c96355be249fe37e5",
+    "sourceBytes": 1284804,
+    "qa": {
+      "reviewer": "Codex visual and technical review; final reviewer handles merge",
+      "date": "2026-10-12",
+      "frameByFrame": true,
+      "backgrounds": [
+        "light",
+        "dark",
+        "blue"
+      ],
+      "scales": [
+        1,
+        3
+      ],
+      "browserTemporalSamples": 12,
+      "evidence": "evidence/plant/",
+      "remainingLimitation": "Raster key poses, not a vector rig; Chromium verified, physical devices not tested."
+    }
+  },
+  {
+    "order": 28,
+    "id": "paper-plane",
+    "title": "Avión de papel",
+    "category": "Movimiento",
+    "pack": "new",
+    "batch": "gestures-03",
+    "expansionOrder": 14,
+    "version": 4,
+    "status": "approved",
+    "frames": 16,
+    "durations": [
+      423,
+      302,
+      302,
+      302,
+      302,
+      302,
+      302,
+      302,
+      302,
+      302,
+      302,
+      302,
+      302,
+      302,
+      302,
+      549
+    ],
+    "cycles": 1,
+    "still": 10,
+    "source": "new-scenes/sources/paper-plane-v4.png",
+    "src": "new-scenes/atlases/moa-paper-plane-v4.png",
+    "generator": "Integrated image_gen",
+    "reference": "references/moa-neutral.png",
+    "prompt": "new-scenes/prompts/paper-plane-regeneration.txt",
+    "review": "Fuentes previas rechazadas por cambio de brazo. v4 mantiene brazo derecho de imagen en lanzamiento, mirada sigue vuelo y aterrizaje.",
+    "correctionPrompts": [
+      "new-scenes/prompts/paper-plane-correction.txt",
+      "new-scenes/prompts/paper-plane-correction-2.txt"
+    ],
+    "packaging": {
+      "sourceSize": [
+        1312,
+        1199
+      ],
+      "rowCuts": [
+        0,
+        312,
+        607,
+        893,
+        1199
+      ],
+      "columnCuts": [
+        0,
+        328,
+        656,
+        984,
+        1312
+      ],
+      "rowBaselineRegistration": [
+        [
+          0,
+          45
+        ],
+        [
+          0,
+          45
+        ],
+        [
+          0,
+          45
+        ],
+        [
+          0,
+          45
+        ],
+        [
+          0,
+          62
+        ],
+        [
+          0,
+          62
+        ],
+        [
+          0,
+          62
+        ],
+        [
+          0,
+          62
+        ],
+        [
+          0,
+          67
+        ],
+        [
+          0,
+          67
+        ],
+        [
+          0,
+          67
+        ],
+        [
+          0,
+          67
+        ],
+        [
+          0,
+          61
+        ],
+        [
+          0,
+          61
+        ],
+        [
+          0,
+          61
+        ],
+        [
+          0,
+          61
+        ]
+      ],
+      "unionCrop": [
+        7,
+        77,
+        327,
+        338
+      ],
+      "sharedScale": 0.5747126436781609,
+      "frameSize": [
+        288,
+        168
+      ],
+      "origin": [
+        0,
+        0
+      ],
+      "trajectory": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          0
+        ]
+      ]
+    },
+    "frameFiles": [
+      "new-scenes/frames/paper-plane-v4/000.png",
+      "new-scenes/frames/paper-plane-v4/001.png",
+      "new-scenes/frames/paper-plane-v4/002.png",
+      "new-scenes/frames/paper-plane-v4/003.png",
+      "new-scenes/frames/paper-plane-v4/004.png",
+      "new-scenes/frames/paper-plane-v4/005.png",
+      "new-scenes/frames/paper-plane-v4/006.png",
+      "new-scenes/frames/paper-plane-v4/007.png",
+      "new-scenes/frames/paper-plane-v4/008.png",
+      "new-scenes/frames/paper-plane-v4/009.png",
+      "new-scenes/frames/paper-plane-v4/010.png",
+      "new-scenes/frames/paper-plane-v4/011.png",
+      "new-scenes/frames/paper-plane-v4/012.png",
+      "new-scenes/frames/paper-plane-v4/013.png",
+      "new-scenes/frames/paper-plane-v4/014.png",
+      "new-scenes/frames/paper-plane-v4/015.png"
+    ],
+    "sourceSha256": "ab561cc5d1e043a28eb475144ab44c5c09a6d97e26524db0fee4bff967a2a2c0",
+    "frameSha256": [
+      "515453827832b5222b48fc2af5cac7e565534fbf0235e6ffd0564a3d81dd125c",
+      "4c2a1664009628d08d887983134e55efe33778c815287ea7797c45cbb6f7ff5a",
+      "af1cc0d36ae8511f2a92f17f1212d20e7d2488821fe8c9065f8f47fc25d147ac",
+      "007fe8cddfd2b9ea4e6efa2e8cdb9e4eedd0b7634d0eb705e9df901cfeff463d",
+      "cb3edd1e84163d4e25c2c31788295d53a0b5026e591d447dc1bd426ba87f47ad",
+      "020468b0adca06bf5527072673d06afe447311fa73478336a33f8434e63a8287",
+      "c3ebc0e53e60c3e147e7c1411e8ec83d4832cd0be0bb9a6b576734f6a483e6c1",
+      "831bc756aa2f440fecf1402d86a47f74eed15250627cb45849f5bada303ee886",
+      "9df1d64dccc4ff13e14ab9da29a69e864ecbee81a83c6c5a3c0936f8ab2f4a80",
+      "6536290386e94005e8c41bfa0739d5d3ad9b6d941bfad2cfc8b11113aa5ffb1a",
+      "863d704ef59f31be2dea85fec3b09a3df5771f46e6e2cabfa4faf394f70311de",
+      "8a97605b325a50bd8bf6bd872fa44a6e04ecd263a2a1805835f86055aca151d2",
+      "e0bc02e6f83907be67c6ade26b3c2d7513ca680d0f270742e8bb008e34a6b76f",
+      "2e6efdc9d857f033596c560c6277bb53376aaec2da07d99a934f7563b427a223",
+      "0aa59143c7d03773fd27a03364a69a7341d36dc70aa0aaa4cc4c2ee7018b35b1",
+      "beee57e3a4d4ca76662f055199441dc9f9d3bafe59a5383ef8006a74d5c93249"
+    ],
+    "bytes": 82871,
+    "sha256": "eafa1c3691ecc8c0738aedcad421d7b96b31583666a6e99becedf548ddead309",
+    "sourceBytes": 1287767,
+    "qa": {
+      "reviewer": "Codex visual and technical review; final reviewer handles merge",
+      "date": "2026-10-12",
+      "frameByFrame": true,
+      "backgrounds": [
+        "light",
+        "dark",
+        "blue"
+      ],
+      "scales": [
+        1,
+        3
+      ],
+      "browserTemporalSamples": 16,
+      "evidence": "evidence/paper-plane/",
+      "remainingLimitation": "Raster key poses, not a vector rig; Chromium verified, physical devices not tested."
+    }
+  },
+  {
+    "order": 29,
+    "id": "umbrella",
+    "title": "Paraguas al revés",
+    "category": "Cotidiano",
+    "pack": "new",
+    "batch": "gestures-03",
+    "expansionOrder": 15,
+    "version": 2,
+    "status": "approved",
+    "frames": 16,
+    "durations": [
+      456,
+      326,
+      326,
+      326,
+      326,
+      326,
+      326,
+      326,
+      326,
+      326,
+      326,
+      326,
+      326,
+      326,
+      326,
+      580
+    ],
+    "cycles": 1,
+    "still": 12,
+    "source": "new-scenes/sources/umbrella-v2.png",
+    "src": "new-scenes/atlases/moa-umbrella-v2.png",
+    "generator": "Integrated image_gen",
+    "reference": "references/moa-neutral.png",
+    "prompt": "new-scenes/prompts/umbrella.txt",
+    "review": "Apertura cóncava, cierre y reapertura convexa. v2 separa filas y conserva puntas completas.",
+    "correctionPrompt": "new-scenes/prompts/umbrella-correction.txt",
+    "packaging": {
+      "sourceSize": [
+        1642,
+        958
+      ],
+      "rowCuts": [
+        0,
+        249,
+        486,
+        722,
+        958
+      ],
+      "columnCuts": [
+        0,
+        410,
+        820,
+        1230,
+        1640
+      ],
+      "rowBaselineRegistration": [
+        [
+          0,
+          31
+        ],
+        [
+          0,
+          31
+        ],
+        [
+          0,
+          31
+        ],
+        [
+          0,
+          31
+        ],
+        [
+          0,
+          41
+        ],
+        [
+          0,
+          41
+        ],
+        [
+          0,
+          41
+        ],
+        [
+          0,
+          41
+        ],
+        [
+          0,
+          43
+        ],
+        [
+          0,
+          43
+        ],
+        [
+          0,
+          43
+        ],
+        [
+          0,
+          43
+        ],
+        [
+          0,
+          44
+        ],
+        [
+          0,
+          44
+        ],
+        [
+          0,
+          44
+        ],
+        [
+          0,
+          44
+        ]
+      ],
+      "unionCrop": [
+        16,
+        36,
+        377,
+        276
+      ],
+      "sharedScale": 0.625,
+      "frameSize": [
+        288,
+        168
+      ],
+      "origin": [
+        0,
+        0
+      ],
+      "trajectory": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          0
+        ]
+      ]
+    },
+    "frameFiles": [
+      "new-scenes/frames/umbrella-v2/000.png",
+      "new-scenes/frames/umbrella-v2/001.png",
+      "new-scenes/frames/umbrella-v2/002.png",
+      "new-scenes/frames/umbrella-v2/003.png",
+      "new-scenes/frames/umbrella-v2/004.png",
+      "new-scenes/frames/umbrella-v2/005.png",
+      "new-scenes/frames/umbrella-v2/006.png",
+      "new-scenes/frames/umbrella-v2/007.png",
+      "new-scenes/frames/umbrella-v2/008.png",
+      "new-scenes/frames/umbrella-v2/009.png",
+      "new-scenes/frames/umbrella-v2/010.png",
+      "new-scenes/frames/umbrella-v2/011.png",
+      "new-scenes/frames/umbrella-v2/012.png",
+      "new-scenes/frames/umbrella-v2/013.png",
+      "new-scenes/frames/umbrella-v2/014.png",
+      "new-scenes/frames/umbrella-v2/015.png"
+    ],
+    "sourceSha256": "295c8bbb0596323341ab62a6c3b64650fc92da35018f59710834279523dd181b",
+    "frameSha256": [
+      "624c108b923afddceb9282dfe3b4e7d3928dcef9da67b62ffc160e2a36c697a7",
+      "c4ba46ad39d0ad13cb015f83c84bf21c5b70e79f7c7cbd5bc84d4b826a66ac30",
+      "be8e891de697c4592b2ce4a131d5533335f471a85c3d30438094779a57ea2ecb",
+      "62c0757f9e6383d2e751a1a993917eed13458dfaf87ae1f0d2e6d0f4e5e90211",
+      "be100b22c9afb1754fa673a72e3d1c34ebb5f0ace8c118d6205ce43eab504ba5",
+      "abbd7133a17b6467af0b16af819d6860241f68224af498b1d5c167c84d6f41c1",
+      "cc7077c71a2c7f7ecb8729d38899787249aa5f8ed4688d2b07e2f76bf89e305a",
+      "d08690fecf7eaf5be3d13ed35666a1530507bb95520b2d3756f7a3594801f62d",
+      "ba1f1828fd49539899fc3bb22a620515097a94581b5d9cce6dcae3b49c10ca2a",
+      "bd33481e95951f81c10538b740a1628f5a619ae349e5ba6b7e8dfa95a8cdd626",
+      "c8851e090ba86b52efa1e848002716fa2523d9da46155e608a072f338c81bc48",
+      "695ad417fdd6d91e64b5b2709ff69071ada3b0591fdde8f61d1bea08e92a8ef4",
+      "49992fe7988fc520f98a4d8bc38b0451e540196b8a37a89cbcfbbfcc645fccad",
+      "87cd53374af6f8bbd8253f24b81170c131083c9009b21480a7ac4a7a3cc6c866",
+      "6b293f92ff637b3a5e9cbade8b93ba88090175d794baf94fd5ae21b6e6dde009",
+      "cb6ff6b2236da1a346e6e8a1e4aac9a86792a397ed4949f89b501cc4fc7c3f9b"
+    ],
+    "bytes": 86136,
+    "sha256": "ed1f91a809d1ec245ef78f7717fac9d312adff8ec8eac20689dab7f1d924a9d8",
+    "sourceBytes": 1100563,
+    "qa": {
+      "reviewer": "Codex visual and technical review; final reviewer handles merge",
+      "date": "2026-10-12",
+      "frameByFrame": true,
+      "backgrounds": [
+        "light",
+        "dark",
+        "blue"
+      ],
+      "scales": [
+        1,
+        3
+      ],
+      "browserTemporalSamples": 16,
+      "evidence": "evidence/umbrella/",
+      "remainingLimitation": "Raster key poses, not a vector rig; Chromium verified, physical devices not tested."
+    }
   }
 ]

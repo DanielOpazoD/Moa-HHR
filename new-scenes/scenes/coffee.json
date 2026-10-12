@@ -1,0 +1,178 @@
+{
+  "order": 25,
+  "id": "coffee",
+  "title": "Café caliente",
+  "category": "Cotidiano",
+  "pack": "new",
+  "batch": "gestures-03",
+  "expansionOrder": 11,
+  "version": 2,
+  "status": "approved",
+  "frames": 12,
+  "durations": [
+    530,
+    379,
+    379,
+    379,
+    379,
+    379,
+    379,
+    379,
+    379,
+    379,
+    379,
+    680
+  ],
+  "cycles": 1,
+  "still": 7,
+  "source": "new-scenes/sources/coffee-v2.png",
+  "src": "new-scenes/atlases/moa-coffee-v2.png",
+  "generator": "Integrated image_gen",
+  "reference": "references/moa-neutral.png",
+  "prompt": "new-scenes/prompts/coffee.txt",
+  "review": "Taza siempre entre ambas manos, soplo y sorbo legibles. Emblema restaurado cuando se descubre el pecho.",
+  "correctionPrompt": "new-scenes/prompts/coffee-correction.txt",
+  "packaging": {
+    "sourceSize": [
+      1642,
+      958
+    ],
+    "rowCuts": [
+      0,
+      334,
+      643,
+      958
+    ],
+    "columnCuts": [
+      0,
+      410,
+      820,
+      1230,
+      1640
+    ],
+    "rowBaselineRegistration": [
+      [
+        0,
+        30
+      ],
+      [
+        0,
+        30
+      ],
+      [
+        0,
+        30
+      ],
+      [
+        0,
+        30
+      ],
+      [
+        0,
+        53
+      ],
+      [
+        0,
+        53
+      ],
+      [
+        0,
+        53
+      ],
+      [
+        0,
+        53
+      ],
+      [
+        0,
+        55
+      ],
+      [
+        0,
+        55
+      ],
+      [
+        0,
+        55
+      ],
+      [
+        0,
+        55
+      ]
+    ],
+    "unionCrop": [
+      73,
+      50,
+      351,
+      361
+    ],
+    "sharedScale": 0.48231511254019294,
+    "frameSize": [
+      288,
+      168
+    ],
+    "origin": [
+      0,
+      0
+    ],
+    "trajectory": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ]
+    ]
+  },
+  "frameFiles": [
+    "new-scenes/frames/coffee-v2/000.png",
+    "new-scenes/frames/coffee-v2/001.png",
+    "new-scenes/frames/coffee-v2/002.png",
+    "new-scenes/frames/coffee-v2/003.png",
+    "new-scenes/frames/coffee-v2/004.png",
+    "new-scenes/frames/coffee-v2/005.png",
+    "new-scenes/frames/coffee-v2/006.png",
+    "new-scenes/frames/coffee-v2/007.png",
+    "new-scenes/frames/coffee-v2/008.png",
+    "new-scenes/frames/coffee-v2/009.png",
+    "new-scenes/frames/coffee-v2/010.png",
+    "new-scenes/frames/coffee-v2/011.png"
+  ],
+  "sourceSha256": "b7c95a27ba36e477e75e506bf5641721fee06ce8085451fb6e6f58c0d3799db8",
+  "frameSha256": [
+    "e255d98bf33ff9ddaad9bff4a7beee78c5eb81715ecf46d72d5e41c3746c1b3d",
+    "6bbba87d30614dc39c6d53c298865ca8666da0fbbd12c2a7844643f047fafac4",
+    "fcad9814dcd38427e1d2a3f0fa9067f81d868c529b2d60f7dfad2f2687fecfe3",
+    "a42d728a01b178d7d5dd7c5db2146f9d36e6b126f2e280628308516fba11783b",
+    "ec3511a9adcf97df0c2f1cc8a94f8b2d44520b6e4f277b44be7357e5fb0b9a54",
+    "8ea0e33eccc387eac1e9d885f9f3f838b0fbfa9d86bd49a7ddb9b51d1bc0cb2f",
+    "dd694bcb6555a446d0514ad2e72a995061fc7c211ae236e8bb2a6afae80dca15",
+    "5c514f4307ae968bcb60f4f362119e781d80bcc727618e4c48b0f7fef71407e4",
+    "b82be854a585371d7a070d20188278bebdd18bd206d53c1e99a74899c85d7719",
+    "dd2bfe35e2f0294d1ffe48a3d5ce9d838c9b63f46e41f360a02988e84d9fdc5d",
+    "ad32227071495747c656021e47f5a2c287006073fb1f685915cb25584cc8be8b",
+    "fdf0a8af1570e69d3061d9962fb157c870e0205893fe8bd853ac0c648281a423"
+  ],
+  "bytes": 49522,
+  "sha256": "9e041c120f55acf6b47f47bad9e7c898612eff97054e240259f73c12355309c1",
+  "sourceBytes": 1165443,
+  "qa": {
+    "reviewer": "Codex visual and technical review; final reviewer handles merge",
+    "date": "2026-10-12",
+    "frameByFrame": true,
+    "backgrounds": [
+      "light",
+      "dark",
+      "blue"
+    ],
+    "scales": [
+      1,
+      3
+    ],
+    "browserTemporalSamples": 12,
+    "evidence": "evidence/coffee/",
+    "remainingLimitation": "Raster key poses, not a vector rig; Chromium verified, physical devices not tested."
+  }
+}
