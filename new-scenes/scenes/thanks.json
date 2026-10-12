@@ -1,0 +1,148 @@
+{
+  "order": 24,
+  "id": "thanks",
+  "title": "Agradecimiento y reverencia",
+  "category": "Expresión",
+  "pack": "new",
+  "batch": "gestures-02",
+  "expansionOrder": 10,
+  "version": 1,
+  "status": "approved",
+  "frames": 8,
+  "durations": [
+    587,
+    391,
+    489,
+    587,
+    684,
+    538,
+    391,
+    733
+  ],
+  "cycles": 1,
+  "still": 4,
+  "source": "new-scenes/sources/thanks-v1.png",
+  "src": "new-scenes/atlases/moa-thanks-v1.png",
+  "generator": "Integrated image_gen",
+  "reference": "references/moa-neutral.png",
+  "prompt": "new-scenes/prompts/thanks.txt",
+  "review": "Mano constante al pecho; inclinación real de cabeza y torso, pausa y recuperación.",
+  "packaging": {
+    "sourceSize": [
+      1642,
+      958
+    ],
+    "rowCuts": [
+      0,
+      481,
+      958
+    ],
+    "columnCuts": [
+      0,
+      410,
+      820,
+      1230,
+      1640
+    ],
+    "rowBaselineRegistration": [
+      [
+        0,
+        43
+      ],
+      [
+        0,
+        43
+      ],
+      [
+        0,
+        43
+      ],
+      [
+        0,
+        43
+      ],
+      [
+        0,
+        77
+      ],
+      [
+        0,
+        77
+      ],
+      [
+        0,
+        77
+      ],
+      [
+        0,
+        77
+      ]
+    ],
+    "unionCrop": [
+      46,
+      91,
+      389,
+      508
+    ],
+    "sharedScale": 0.3597122302158273,
+    "frameSize": [
+      288,
+      168
+    ],
+    "origin": [
+      0,
+      0
+    ],
+    "trajectory": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ]
+    ]
+  },
+  "frameFiles": [
+    "new-scenes/frames/thanks-v1/000.png",
+    "new-scenes/frames/thanks-v1/001.png",
+    "new-scenes/frames/thanks-v1/002.png",
+    "new-scenes/frames/thanks-v1/003.png",
+    "new-scenes/frames/thanks-v1/004.png",
+    "new-scenes/frames/thanks-v1/005.png",
+    "new-scenes/frames/thanks-v1/006.png",
+    "new-scenes/frames/thanks-v1/007.png"
+  ],
+  "sourceSha256": "231b336861d20cf7d3f3d89829885e02567d6fb5f15dee123259294785734f29",
+  "frameSha256": [
+    "bccdf3a8856258323f3ee5e5c3a02daddb9b6ae88b41091c0fb60972bf1a4aca",
+    "8dbc2bf2d77a8e03b38f6d4a3afba444fe70a2ccf3d3b677cc5ee607272138bd",
+    "0ff05c14f731775902a69cfe2dc388c6870689efa0a0066fd996d369ff6ac493",
+    "0624c554c2c9a9d1b20bf85be686a94d1cc50315e363591648c9fdc632259833",
+    "1864ffab4817dd3f3e67bf29b49d172b6aaebc3cec84367dad5609cac8e35697",
+    "115589b110ca3f633c8e5a236ff5cc2971c270a730f8545cf2795e9000b0e695",
+    "7b5a2a3b212dab5d0fab80aa1680cf3f79076b87ab6c69186d873ebfbc20d6d0",
+    "c1330e50711b37dcecc72906836f58f8b79c7270f0ec82b18ee74c21f6607dc6"
+  ],
+  "bytes": 29870,
+  "sha256": "993c1f6276ba0c597923ae184bcc9dc6189c6b4d39dd0ef6f03368c823d47ec4",
+  "sourceBytes": 1120961,
+  "qa": {
+    "reviewer": "Codex visual and technical review; final reviewer handles merge",
+    "date": "2026-10-12",
+    "frameByFrame": true,
+    "backgrounds": [
+      "light",
+      "dark",
+      "blue"
+    ],
+    "scales": [
+      1,
+      3
+    ],
+    "browserTemporalSamples": 8,
+    "evidence": "evidence/thanks/",
+    "remainingLimitation": "Raster key poses, not a vector rig; Chromium verified, physical devices not tested."
+  }
+}

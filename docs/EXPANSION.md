@@ -45,6 +45,14 @@ El estado por escena y sus notas visuales se registran en los JSON individuales.
 
 Antes de dibujar se debe fijar y revisar: tipo/edad del maniquí, colocación anatómica de manos y postura del rescatador, qué movimiento se representa y qué pasos se omiten. No confundir una secuencia decorativa de 3–6 segundos con un protocolo, ni representar profundidad/cadencia/instrucciones no verificadas. El paciente debe ser inequívocamente un maniquí de entrenamiento. Estas decisiones requieren revisión clínica; las escenas anteriores pueden continuar de forma independiente.
 
-## Bloque 1 publicado para revisión
+## Bloque 1 integrado por el revisor principal
 
 Cinco gestos, 40 poses nuevas, 158.507 bytes de atlas activos. [Lámina](../evidence/gestures-01-overview.png), [revisión del bloque](QA-gestures-01.md), [galería offline actualizada](../review/moa-scenes.html).
+
+[PR #2](https://github.com/DanielOpazoD/Moa-HHR/pull/2), integrado en `8bf7e9f4d717965f8b7f7fe79c245c073be8b6bd`. El bloque 2 parte de ese SHA.
+
+## Bloque 2 · acciones cotidianas 6–10
+
+Aburrimiento, bufanda, abanico y estornudo usan doce poses; agradecimiento usa ocho. Se conservan las fuentes rechazadas y los prompts de corrección. Estado de trabajo en los JSON individuales; ninguna fuente se aprueba antes de revisar continuidad, fondos, tamaños y reproducción.
+
+Bloque 2 revisado: 56 poses, 255.188 bytes. [Revisión](QA-gestures-02.md) · [Lámina](../evidence/gestures-02-overview.png).

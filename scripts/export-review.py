@@ -53,10 +53,8 @@ html = (
         '<script type="module">' + player + "\n" + app + "</script>",
     )
 )
-branch = subprocess.check_output(
-    ["git", "branch", "--show-current"], cwd=root, text=True
-).strip()
-base = f"https://github.com/DanielOpazoD/Moa-HHR/blob/{branch}/"
+revision = subprocess.check_output(["git", "rev-parse", "HEAD"], cwd=root, text=True).strip()
+base = f"https://github.com/DanielOpazoD/Moa-HHR/blob/{revision}/"
 for path in [
     "docs/SCENES.md",
     "docs/inventory.json",
