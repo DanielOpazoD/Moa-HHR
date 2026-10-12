@@ -1,0 +1,207 @@
+{
+  "order": 29,
+  "id": "umbrella",
+  "title": "Paraguas al revés",
+  "category": "Cotidiano",
+  "pack": "new",
+  "batch": "gestures-03",
+  "expansionOrder": 15,
+  "version": 2,
+  "status": "approved",
+  "frames": 16,
+  "durations": [
+    456,
+    326,
+    326,
+    326,
+    326,
+    326,
+    326,
+    326,
+    326,
+    326,
+    326,
+    326,
+    326,
+    326,
+    326,
+    580
+  ],
+  "cycles": 1,
+  "still": 12,
+  "source": "new-scenes/sources/umbrella-v2.png",
+  "src": "new-scenes/atlases/moa-umbrella-v2.png",
+  "generator": "Integrated image_gen",
+  "reference": "references/moa-neutral.png",
+  "prompt": "new-scenes/prompts/umbrella.txt",
+  "review": "Apertura cóncava, cierre y reapertura convexa. v2 separa filas y conserva puntas completas.",
+  "correctionPrompt": "new-scenes/prompts/umbrella-correction.txt",
+  "packaging": {
+    "sourceSize": [
+      1642,
+      958
+    ],
+    "rowCuts": [
+      0,
+      249,
+      486,
+      722,
+      958
+    ],
+    "columnCuts": [
+      0,
+      410,
+      820,
+      1230,
+      1640
+    ],
+    "rowBaselineRegistration": [
+      [
+        0,
+        31
+      ],
+      [
+        0,
+        31
+      ],
+      [
+        0,
+        31
+      ],
+      [
+        0,
+        31
+      ],
+      [
+        0,
+        41
+      ],
+      [
+        0,
+        41
+      ],
+      [
+        0,
+        41
+      ],
+      [
+        0,
+        41
+      ],
+      [
+        0,
+        43
+      ],
+      [
+        0,
+        43
+      ],
+      [
+        0,
+        43
+      ],
+      [
+        0,
+        43
+      ],
+      [
+        0,
+        44
+      ],
+      [
+        0,
+        44
+      ],
+      [
+        0,
+        44
+      ],
+      [
+        0,
+        44
+      ]
+    ],
+    "unionCrop": [
+      16,
+      36,
+      377,
+      276
+    ],
+    "sharedScale": 0.625,
+    "frameSize": [
+      288,
+      168
+    ],
+    "origin": [
+      0,
+      0
+    ],
+    "trajectory": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ]
+    ]
+  },
+  "frameFiles": [
+    "new-scenes/frames/umbrella-v2/000.png",
+    "new-scenes/frames/umbrella-v2/001.png",
+    "new-scenes/frames/umbrella-v2/002.png",
+    "new-scenes/frames/umbrella-v2/003.png",
+    "new-scenes/frames/umbrella-v2/004.png",
+    "new-scenes/frames/umbrella-v2/005.png",
+    "new-scenes/frames/umbrella-v2/006.png",
+    "new-scenes/frames/umbrella-v2/007.png",
+    "new-scenes/frames/umbrella-v2/008.png",
+    "new-scenes/frames/umbrella-v2/009.png",
+    "new-scenes/frames/umbrella-v2/010.png",
+    "new-scenes/frames/umbrella-v2/011.png",
+    "new-scenes/frames/umbrella-v2/012.png",
+    "new-scenes/frames/umbrella-v2/013.png",
+    "new-scenes/frames/umbrella-v2/014.png",
+    "new-scenes/frames/umbrella-v2/015.png"
+  ],
+  "sourceSha256": "295c8bbb0596323341ab62a6c3b64650fc92da35018f59710834279523dd181b",
+  "frameSha256": [
+    "624c108b923afddceb9282dfe3b4e7d3928dcef9da67b62ffc160e2a36c697a7",
+    "c4ba46ad39d0ad13cb015f83c84bf21c5b70e79f7c7cbd5bc84d4b826a66ac30",
+    "be8e891de697c4592b2ce4a131d5533335f471a85c3d30438094779a57ea2ecb",
+    "62c0757f9e6383d2e751a1a993917eed13458dfaf87ae1f0d2e6d0f4e5e90211",
+    "be100b22c9afb1754fa673a72e3d1c34ebb5f0ace8c118d6205ce43eab504ba5",
+    "abbd7133a17b6467af0b16af819d6860241f68224af498b1d5c167c84d6f41c1",
+    "cc7077c71a2c7f7ecb8729d38899787249aa5f8ed4688d2b07e2f76bf89e305a",
+    "d08690fecf7eaf5be3d13ed35666a1530507bb95520b2d3756f7a3594801f62d",
+    "ba1f1828fd49539899fc3bb22a620515097a94581b5d9cce6dcae3b49c10ca2a",
+    "bd33481e95951f81c10538b740a1628f5a619ae349e5ba6b7e8dfa95a8cdd626",
+    "c8851e090ba86b52efa1e848002716fa2523d9da46155e608a072f338c81bc48",
+    "695ad417fdd6d91e64b5b2709ff69071ada3b0591fdde8f61d1bea08e92a8ef4",
+    "49992fe7988fc520f98a4d8bc38b0451e540196b8a37a89cbcfbbfcc645fccad",
+    "87cd53374af6f8bbd8253f24b81170c131083c9009b21480a7ac4a7a3cc6c866",
+    "6b293f92ff637b3a5e9cbade8b93ba88090175d794baf94fd5ae21b6e6dde009",
+    "cb6ff6b2236da1a346e6e8a1e4aac9a86792a397ed4949f89b501cc4fc7c3f9b"
+  ],
+  "bytes": 86136,
+  "sha256": "ed1f91a809d1ec245ef78f7717fac9d312adff8ec8eac20689dab7f1d924a9d8",
+  "sourceBytes": 1100563,
+  "qa": {
+    "reviewer": "Codex visual and technical review; final reviewer handles merge",
+    "date": "2026-10-12",
+    "frameByFrame": true,
+    "backgrounds": [
+      "light",
+      "dark",
+      "blue"
+    ],
+    "scales": [
+      1,
+      3
+    ],
+    "browserTemporalSamples": 16,
+    "evidence": "evidence/umbrella/",
+    "remainingLimitation": "Raster key poses, not a vector rig; Chromium verified, physical devices not tested."
+  }
+}

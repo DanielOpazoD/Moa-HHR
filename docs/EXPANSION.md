@@ -56,3 +56,11 @@ Cinco gestos, 40 poses nuevas, 158.507 bytes de atlas activos. [Lámina](../evid
 Aburrimiento, bufanda, abanico y estornudo usan doce poses; agradecimiento usa ocho. Se conservan las fuentes rechazadas y los prompts de corrección. Estado de trabajo en los JSON individuales; ninguna fuente se aprueba antes de revisar continuidad, fondos, tamaños y reproducción.
 
 Bloque 2 revisado: 56 poses, 255.188 bytes. [Revisión](QA-gestures-02.md) · [Lámina](../evidence/gestures-02-overview.png).
+
+[PR #3](https://github.com/DanielOpazoD/Moa-HHR/pull/3), integrado por el revisor principal en `ca89613979935c8842df455434e255d623ddb147`. El bloque 3 parte de ese SHA.
+
+## Bloque 3 · objetos y acciones 11–15
+
+Café caliente, libro al revés y planta usan doce poses. Avión de papel y paraguas usan dieciséis para mostrar lanzamiento/seguimiento y apertura/reparación. Las correcciones de identidad, agarre, orientación y separación del original se conservan junto a los prompts.
+
+Bloque 3 revisado: 68 poses, 340.480 bytes. [Revisión](QA-gestures-03.md) · [Lámina](../evidence/gestures-03-overview.png).
