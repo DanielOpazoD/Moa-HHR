@@ -1,0 +1,213 @@
+{
+  "order": 50,
+  "id": "R06",
+  "title": "R06 · Aprendiendo sau-sau",
+  "category": "Rapa Nui",
+  "pack": "new",
+  "batch": "rapanui-02",
+  "rapanuiOrder": 6,
+  "version": 1,
+  "status": "approved",
+  "frames": 16,
+  "durations": [
+    500,
+    320,
+    320,
+    320,
+    320,
+    320,
+    320,
+    320,
+    320,
+    320,
+    320,
+    320,
+    320,
+    320,
+    320,
+    620
+  ],
+  "cycles": 1,
+  "still": 14,
+  "source": "new-scenes/sources/R06-v1.png",
+  "src": "new-scenes/atlases/moa-R06-v1.png",
+  "generator": "Integrated image_gen",
+  "reference": "references/moa-neutral.png",
+  "prompt": "new-scenes/prompts/R06.txt",
+  "context": "Ensayo artístico abreviado: balanceos y vestuario simplificados desde referencias locales; no reconstrucción ancestral ni clase completa.",
+  "culturalReferences": [
+    {
+      "url": "https://imaginarapanui.com/en/sau-sau-typical-rapa-nui-dance/",
+      "supports": "Ensayo artístico abreviado: balanceos y vestuario simplificados desde referencias locales; no reconstrucción ancestral ni clase completa."
+    }
+  ],
+  "review": "Frame-by-frame source and delivered PNG review; light/dark/blue at real size; enlarged browser captures and timed frame samples passed.",
+  "packaging": {
+    "sourceSize": [
+      1642,
+      958
+    ],
+    "rowCuts": [
+      0,
+      252,
+      487,
+      713,
+      958
+    ],
+    "columnCuts": [
+      0,
+      410,
+      820,
+      1230,
+      1640
+    ],
+    "rowBaselineRegistration": [
+      [
+        0,
+        34
+      ],
+      [
+        0,
+        34
+      ],
+      [
+        0,
+        34
+      ],
+      [
+        0,
+        34
+      ],
+      [
+        0,
+        53
+      ],
+      [
+        0,
+        53
+      ],
+      [
+        0,
+        53
+      ],
+      [
+        0,
+        53
+      ],
+      [
+        0,
+        53
+      ],
+      [
+        0,
+        53
+      ],
+      [
+        0,
+        53
+      ],
+      [
+        0,
+        53
+      ],
+      [
+        0,
+        57
+      ],
+      [
+        0,
+        57
+      ],
+      [
+        0,
+        57
+      ],
+      [
+        0,
+        57
+      ]
+    ],
+    "unionCrop": [
+      26,
+      52,
+      406,
+      282
+    ],
+    "sharedScale": 0.6,
+    "frameSize": [
+      288,
+      168
+    ],
+    "origin": [
+      0,
+      0
+    ],
+    "trajectory": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ]
+    ]
+  },
+  "frameFiles": [
+    "new-scenes/frames/R06-v1/000.png",
+    "new-scenes/frames/R06-v1/001.png",
+    "new-scenes/frames/R06-v1/002.png",
+    "new-scenes/frames/R06-v1/003.png",
+    "new-scenes/frames/R06-v1/004.png",
+    "new-scenes/frames/R06-v1/005.png",
+    "new-scenes/frames/R06-v1/006.png",
+    "new-scenes/frames/R06-v1/007.png",
+    "new-scenes/frames/R06-v1/008.png",
+    "new-scenes/frames/R06-v1/009.png",
+    "new-scenes/frames/R06-v1/010.png",
+    "new-scenes/frames/R06-v1/011.png",
+    "new-scenes/frames/R06-v1/012.png",
+    "new-scenes/frames/R06-v1/013.png",
+    "new-scenes/frames/R06-v1/014.png",
+    "new-scenes/frames/R06-v1/015.png"
+  ],
+  "sourceSha256": "4bafda6044d66b849d71bf91bde96ae1d5290e4b3b5e69cf6d9502f0aafb302a",
+  "frameSha256": [
+    "ce67f18c297accccc8e932c58cde014291a46b26bd67da57b11a84bd79ecd280",
+    "4e4bb465eafd9fdf5bfed137b0ea67cfe19a96f7fd7092d56cac6adda1f01700",
+    "fb097e178f3fe33168847ab2af6dfeb05ff4a92ac26f9314ce240b4df62fe04d",
+    "095edfd440b1faf816217f68c69225553520d5fe0b53d7eecaa16c67fd56af7c",
+    "00ff56621ee54394dd8ff0cd6f32e2e43de3bba9024f7369839cf69da3b467ba",
+    "ff9ada3cb9c82794f3025e6f75ee6cb1d73800abb433d088dd31b039335cd339",
+    "f7a6d020c1c633d4b513a3bfabc5e13998d388d1706fb0b13a65a1a9aa11f90b",
+    "5ff8d1f24fe227abd53491f26cc10289986e2a915aee166259aa0d9b86f66553",
+    "8b7f8ce29b96042e82ee86cdbc472259b2aa13d57081a13ceec8e292b58e808e",
+    "dbee38f4215ef8cdfd0f953dd37099efc47f300bbe97d2ebe7e5e313617f1122",
+    "ff3b75594ee2ed896242175e08b1aa38258fa9c34a0cc897cd2f30b658ed3828",
+    "7bb6e09badc9c1253b5b97ecf1cc383c8ee7d3f7186c2a2fc92ef1c6e842bf62",
+    "881f02f8d7460ed036096f3ab9b4d4c65fb2041937ce5d6f53ba8801969d74dc",
+    "394fdda56ff10457c66c4a5590030683a8268ef6d6ae97f4dbf7554eb74a5bad",
+    "d65153c073258ae0baa2e70d26ac15f452458e52f504e3fd5bf251aa187b5c36",
+    "678b897657512f2abf514849fd5e8b3d6594561fef71659d5f85c1da0e84e831"
+  ],
+  "bytes": 127169,
+  "sha256": "e91d0977faaf8b539d675d80915a5595bb01c96d798beec317af82f776e9e391",
+  "sourceBytes": 1704479,
+  "qa": {
+    "reviewer": "Codex visual and technical review; principal reviewer controls merge",
+    "date": "2026-10-12",
+    "frameByFrame": true,
+    "backgrounds": [
+      "light",
+      "dark",
+      "blue"
+    ],
+    "scales": [
+      1,
+      3
+    ],
+    "browserTemporalSamples": 16,
+    "evidence": "evidence/R06/",
+    "remainingLimitation": "Ensayo artístico abreviado: balanceos y vestuario simplificados desde referencias locales; no reconstrucción ancestral ni clase completa. Raster key poses; Chromium verified, physical devices not tested."
+  }
+}
