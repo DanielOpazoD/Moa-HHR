@@ -1,0 +1,177 @@
+{
+  "order": 38,
+  "id": "comfort",
+  "title": "Acompañar sin invadir",
+  "category": "Cuidado",
+  "pack": "new",
+  "batch": "gestures-05",
+  "expansionOrder": 24,
+  "version": 1,
+  "status": "approved",
+  "frames": 12,
+  "durations": [
+    552,
+    394,
+    394,
+    394,
+    394,
+    394,
+    394,
+    394,
+    394,
+    394,
+    394,
+    708
+  ],
+  "cycles": 1,
+  "still": 9,
+  "source": "new-scenes/sources/comfort-v1.png",
+  "src": "new-scenes/atlases/moa-comfort-v1.png",
+  "generator": "Integrated image_gen",
+  "reference": "references/moa-neutral.png",
+  "prompt": "new-scenes/prompts/comfort.txt",
+  "review": "Señal de bienvenida antes de sentarse; espacio entre cuerpos, manos propias y escucha sin contacto impuesto.",
+  "packaging": {
+    "sourceSize": [
+      1642,
+      958
+    ],
+    "rowCuts": [
+      0,
+      354,
+      661,
+      958
+    ],
+    "columnCuts": [
+      0,
+      410,
+      820,
+      1230,
+      1640
+    ],
+    "rowBaselineRegistration": [
+      [
+        0,
+        59
+      ],
+      [
+        0,
+        59
+      ],
+      [
+        0,
+        59
+      ],
+      [
+        0,
+        59
+      ],
+      [
+        0,
+        107
+      ],
+      [
+        0,
+        107
+      ],
+      [
+        0,
+        107
+      ],
+      [
+        0,
+        107
+      ],
+      [
+        0,
+        116
+      ],
+      [
+        0,
+        116
+      ],
+      [
+        0,
+        116
+      ],
+      [
+        0,
+        116
+      ]
+    ],
+    "unionCrop": [
+      15,
+      140,
+      405,
+      382
+    ],
+    "sharedScale": 0.5846153846153846,
+    "frameSize": [
+      288,
+      168
+    ],
+    "origin": [
+      0,
+      0
+    ],
+    "trajectory": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ]
+    ]
+  },
+  "frameFiles": [
+    "new-scenes/frames/comfort-v1/000.png",
+    "new-scenes/frames/comfort-v1/001.png",
+    "new-scenes/frames/comfort-v1/002.png",
+    "new-scenes/frames/comfort-v1/003.png",
+    "new-scenes/frames/comfort-v1/004.png",
+    "new-scenes/frames/comfort-v1/005.png",
+    "new-scenes/frames/comfort-v1/006.png",
+    "new-scenes/frames/comfort-v1/007.png",
+    "new-scenes/frames/comfort-v1/008.png",
+    "new-scenes/frames/comfort-v1/009.png",
+    "new-scenes/frames/comfort-v1/010.png",
+    "new-scenes/frames/comfort-v1/011.png"
+  ],
+  "sourceSha256": "daf4d58fea697ca3d29a4a7e0f7c721a966cd148fa8e49f3f0205129cfc7c6a2",
+  "frameSha256": [
+    "0b7ba35315e201c03826219117f780bced2eae85ed73182af368ebaea5e90008",
+    "adcc22f60861eee7878438e59b6cf0e794c12e2ed0fbf38ab39fec3b764e347b",
+    "8d27aad08559e4b67b678b78bcf3b230b29bcec951add1115baf8ecd2d96e8fd",
+    "009304db892639fa017f2ebe7a789c03fe42e1dfb90810898adb3ea6a4a43324",
+    "25bacc49440791fb9ae5e22cf4fb9ffc47c76cfe3ea44351e48e5b864082c55f",
+    "97eac17291647ff1f68f3d598c23a217c28cda2765833bf089080118c981cf2e",
+    "46914c6326c5b5ab35347ba8e2cf346ecb3a92826997183b178135242a9cccaa",
+    "b646a5e68675a3059ef489bbb5334000ab6024b73c468cf21fd941d39b5f2ff6",
+    "88e61b03e303239211f02506fc8630078132b5a16d891aa12285b52c7aa88634",
+    "22f12251f509b31c03534160c06533fe9068ae5890572afdc02087634bbff613",
+    "ad3e29084d48ebc5d304985eb11675780c0a4f82e6aa1f65f0cdb79949f07fd0",
+    "2097b7ef84a4803723203ac5bb011d877a5402bd7a324fb95f4a439d70487587"
+  ],
+  "bytes": 85695,
+  "sha256": "2312763e2ce65044d70c885606ba9097d053d920d5be08442050228e5bb98b26",
+  "sourceBytes": 1343723,
+  "qa": {
+    "reviewer": "Codex visual and technical review; final reviewer handles merge",
+    "date": "2026-10-12",
+    "frameByFrame": true,
+    "backgrounds": [
+      "light",
+      "dark",
+      "blue"
+    ],
+    "scales": [
+      1,
+      3
+    ],
+    "browserTemporalSamples": 12,
+    "evidence": "evidence/comfort/",
+    "remainingLimitation": "Raster key poses, not a vector rig; Chromium verified, physical devices not tested. Decorative care scenes are not clinical instruction."
+  }
+}

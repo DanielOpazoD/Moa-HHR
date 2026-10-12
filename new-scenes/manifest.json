@@ -5845,5 +5845,980 @@
       "evidence": "evidence/handwash/",
       "remainingLimitation": "Raster key poses, not a vector rig; Chromium verified, physical devices not tested."
     }
+  },
+  {
+    "order": 35,
+    "id": "arrive-shift",
+    "title": "Llegada al turno",
+    "category": "Cotidiano",
+    "pack": "new",
+    "batch": "gestures-05",
+    "expansionOrder": 21,
+    "version": 1,
+    "status": "approved",
+    "frames": 12,
+    "durations": [
+      530,
+      379,
+      379,
+      379,
+      379,
+      379,
+      379,
+      379,
+      379,
+      379,
+      379,
+      680
+    ],
+    "cycles": 1,
+    "still": 9,
+    "source": "new-scenes/sources/arrive-shift-v1.png",
+    "src": "new-scenes/atlases/moa-arrive-shift-v1.png",
+    "generator": "Integrated image_gen",
+    "reference": "references/moa-neutral.png",
+    "prompt": "new-scenes/prompts/arrive-shift.txt",
+    "review": "Pasos, retirada de mochila, descenso y saludo; mochila única presente al final.",
+    "packaging": {
+      "sourceSize": [
+        1642,
+        958
+      ],
+      "rowCuts": [
+        0,
+        332,
+        642,
+        958
+      ],
+      "columnCuts": [
+        0,
+        410,
+        820,
+        1230,
+        1640
+      ],
+      "rowBaselineRegistration": [
+        [
+          0,
+          31
+        ],
+        [
+          0,
+          31
+        ],
+        [
+          0,
+          31
+        ],
+        [
+          0,
+          31
+        ],
+        [
+          0,
+          53
+        ],
+        [
+          0,
+          53
+        ],
+        [
+          0,
+          53
+        ],
+        [
+          0,
+          53
+        ],
+        [
+          0,
+          60
+        ],
+        [
+          0,
+          60
+        ],
+        [
+          0,
+          60
+        ],
+        [
+          0,
+          60
+        ]
+      ],
+      "unionCrop": [
+        17,
+        51,
+        400,
+        359
+      ],
+      "sharedScale": 0.487012987012987,
+      "frameSize": [
+        288,
+        168
+      ],
+      "origin": [
+        0,
+        0
+      ],
+      "trajectory": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          0
+        ]
+      ]
+    },
+    "frameFiles": [
+      "new-scenes/frames/arrive-shift-v1/000.png",
+      "new-scenes/frames/arrive-shift-v1/001.png",
+      "new-scenes/frames/arrive-shift-v1/002.png",
+      "new-scenes/frames/arrive-shift-v1/003.png",
+      "new-scenes/frames/arrive-shift-v1/004.png",
+      "new-scenes/frames/arrive-shift-v1/005.png",
+      "new-scenes/frames/arrive-shift-v1/006.png",
+      "new-scenes/frames/arrive-shift-v1/007.png",
+      "new-scenes/frames/arrive-shift-v1/008.png",
+      "new-scenes/frames/arrive-shift-v1/009.png",
+      "new-scenes/frames/arrive-shift-v1/010.png",
+      "new-scenes/frames/arrive-shift-v1/011.png"
+    ],
+    "sourceSha256": "7b58b92974ea9395693bd79617162c2b29985b2547788ede46fb513930d50d3b",
+    "frameSha256": [
+      "de6ea17897109750f7ba154e5f362fe713e48c9152056c2e513cfc626b228163",
+      "167413fb4cd726093cb8bb3924e98f76687d2b8a137ce6dbcdf3a192d95befb7",
+      "dbc2503263d56460f8eb98f1bfddfe92cfd40a4f09743a0ef98512af47fe2272",
+      "0ddb8a45f384a1a32d118f68e180890d57b543fe5bd85d39298b9917d047a66a",
+      "0fb76bba74229a44e111606fc2d2f600eb9afe380583ff989206e98c0882f49c",
+      "557e717ddccd52c384a568acff0e914da7c58b086ac23b482ff8f405602b57bd",
+      "0233bab584724c7bb385f4e239f568a7f527c9894deba852b2c69d80b868ebce",
+      "2c2ec0ba813a9e594f9fac6dc1516b22452e6447f345d25f151a4084778c28ee",
+      "f08e10432bda3a3d56ac923bba6e3d8ad81022276ae196a5feee63b0362e2089",
+      "74db72ee33bc2060339e0f0dbb141afcc3d2bbee034648bb6f490245b095ffe8",
+      "4805a7476ed5d27aa69375fba6d2da7ba9064ac6cb6a6db06c15be98eb177b3a",
+      "e87d2306b6098e823faf49a1c7c5c7f751b6670472033469c305d4fe9f63c810"
+    ],
+    "bytes": 61545,
+    "sha256": "0a29a2b27ca549b590e3764965fb08a553255d9e06428489cd78356454c18cc8",
+    "sourceBytes": 1184483,
+    "qa": {
+      "reviewer": "Codex visual and technical review; final reviewer handles merge",
+      "date": "2026-10-12",
+      "frameByFrame": true,
+      "backgrounds": [
+        "light",
+        "dark",
+        "blue"
+      ],
+      "scales": [
+        1,
+        3
+      ],
+      "browserTemporalSamples": 12,
+      "evidence": "evidence/arrive-shift/",
+      "remainingLimitation": "Raster key poses, not a vector rig; Chromium verified, physical devices not tested. Decorative care scenes are not clinical instruction."
+    }
+  },
+  {
+    "order": 36,
+    "id": "handover",
+    "title": "Entrega de turno ficticia",
+    "category": "Cuidado",
+    "pack": "new",
+    "batch": "gestures-05",
+    "expansionOrder": 22,
+    "version": 2,
+    "status": "approved",
+    "frames": 12,
+    "durations": [
+      552,
+      394,
+      394,
+      394,
+      394,
+      394,
+      394,
+      394,
+      394,
+      394,
+      394,
+      708
+    ],
+    "cycles": 1,
+    "still": 6,
+    "source": "new-scenes/sources/handover-v2.png",
+    "src": "new-scenes/atlases/moa-handover-v2.png",
+    "generator": "Integrated image_gen",
+    "reference": "references/moa-neutral.png",
+    "prompt": "new-scenes/prompts/handover.txt",
+    "review": "Pizarra vacía, dos personajes identificables, gestos de intercambio; iconos retirados y columnas explícitas.",
+    "context": "Personajes ficticios y pizarra sin datos.",
+    "correctionPrompt": "new-scenes/prompts/handover-correction.txt",
+    "sourceColumns": [
+      0,
+      420,
+      827,
+      1237,
+      1642
+    ],
+    "packaging": {
+      "sourceSize": [
+        1642,
+        958
+      ],
+      "rowCuts": [
+        0,
+        338,
+        650,
+        958
+      ],
+      "columnCuts": [
+        0,
+        420,
+        827,
+        1237,
+        1642
+      ],
+      "rowBaselineRegistration": [
+        [
+          0,
+          57
+        ],
+        [
+          6,
+          57
+        ],
+        [
+          5,
+          57
+        ],
+        [
+          7,
+          57
+        ],
+        [
+          0,
+          82
+        ],
+        [
+          6,
+          82
+        ],
+        [
+          5,
+          82
+        ],
+        [
+          7,
+          82
+        ],
+        [
+          0,
+          86
+        ],
+        [
+          6,
+          86
+        ],
+        [
+          5,
+          86
+        ],
+        [
+          7,
+          86
+        ]
+      ],
+      "unionCrop": [
+        12,
+        114,
+        414,
+        365
+      ],
+      "sharedScale": 0.5671641791044776,
+      "frameSize": [
+        288,
+        168
+      ],
+      "origin": [
+        0,
+        0
+      ],
+      "trajectory": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          0
+        ]
+      ]
+    },
+    "frameFiles": [
+      "new-scenes/frames/handover-v2/000.png",
+      "new-scenes/frames/handover-v2/001.png",
+      "new-scenes/frames/handover-v2/002.png",
+      "new-scenes/frames/handover-v2/003.png",
+      "new-scenes/frames/handover-v2/004.png",
+      "new-scenes/frames/handover-v2/005.png",
+      "new-scenes/frames/handover-v2/006.png",
+      "new-scenes/frames/handover-v2/007.png",
+      "new-scenes/frames/handover-v2/008.png",
+      "new-scenes/frames/handover-v2/009.png",
+      "new-scenes/frames/handover-v2/010.png",
+      "new-scenes/frames/handover-v2/011.png"
+    ],
+    "sourceSha256": "547cf9b7253c83963cb1e9facb16882015a534321d9e5466447d7c981f2d1496",
+    "frameSha256": [
+      "857cc9d95d1c244625ac6fc503bc4c47e995ef7208bf01f8dbed059f81db49d0",
+      "92f5a198c1d49d0e670c457e107ce9a29a3958e843e8e1a316141599dcdcfd34",
+      "715446ada5e6a3ba55058967d6de4a2169c11da980450ebda551063c23b121a9",
+      "7472916a8e4216c2951b44aa43b9d6abb142d0e2a56a4d6a8f4a0fa1759e5ddb",
+      "550b66b00ac867b876a0f536f545e906062e4e9a5c05b35605a159ef0ce4de59",
+      "850c713314229af0f2089f4086f2692ec43491fd8614df65f625e8d823d3df28",
+      "c32738bc96fbe028deba3b19ed48c0615a51181b37595d82df684ac6bfc7e2b5",
+      "d35f27d5aca573139cb84775e65e4d997cb416cbd8883bce16a4f1fc3ee8c340",
+      "e14b75aa20fcb13cae7c8ae19442ee6ad545a1a7f1eb47337e40f9c1641abab7",
+      "a6d0ed9c00e9735a8aab30abb4d69ee8df22573a84cc974955e39258dcdb50c3",
+      "20cd9fb3e75ea6412ba0e01a3d614af8166dc4df08e788fc68086f3d296dcf2e",
+      "ef53b8a6ef9081744e21fbadd8daa70f8834f9f176a1126d53ddd2f587a7eedf"
+    ],
+    "bytes": 80421,
+    "sha256": "71686ae8d0e84c7f9272e48be0be48ba792d54da6c4e33537fa50ead76c10215",
+    "sourceBytes": 1523430,
+    "qa": {
+      "reviewer": "Codex visual and technical review; final reviewer handles merge",
+      "date": "2026-10-12",
+      "frameByFrame": true,
+      "backgrounds": [
+        "light",
+        "dark",
+        "blue"
+      ],
+      "scales": [
+        1,
+        3
+      ],
+      "browserTemporalSamples": 12,
+      "evidence": "evidence/handover/",
+      "remainingLimitation": "Raster key poses, not a vector rig; Chromium verified, physical devices not tested. Decorative care scenes are not clinical instruction."
+    }
+  },
+  {
+    "order": 37,
+    "id": "teddy-ultrasound",
+    "title": "Ecografía de peluche",
+    "category": "Cuidado",
+    "pack": "new",
+    "batch": "gestures-05",
+    "expansionOrder": 23,
+    "version": 4,
+    "status": "approved",
+    "frames": 16,
+    "durations": [
+      456,
+      326,
+      326,
+      326,
+      326,
+      326,
+      326,
+      326,
+      326,
+      326,
+      326,
+      326,
+      326,
+      326,
+      326,
+      580
+    ],
+    "cycles": 1,
+    "still": 11,
+    "source": "new-scenes/sources/teddy-ultrasound-v4.png",
+    "src": "new-scenes/atlases/moa-teddy-ultrasound-v4.png",
+    "generator": "Integrated image_gen",
+    "reference": "references/moa-neutral.png",
+    "prompt": "new-scenes/prompts/teddy-ultrasound.txt",
+    "review": "Tres correcciones conservadas de continuidad de sonda; permanece en mano derecha de imagen. Oso inequívoco y corazón simbólico estático.",
+    "context": "Juego ficticio con un peluche y una imagen simbólica; no representa una exploración diagnóstica.",
+    "correctionPrompts": [
+      "new-scenes/prompts/teddy-ultrasound-correction.txt",
+      "new-scenes/prompts/teddy-ultrasound-correction-2.txt",
+      "new-scenes/prompts/teddy-ultrasound-correction-3.txt"
+    ],
+    "packaging": {
+      "sourceSize": [
+        1643,
+        957
+      ],
+      "rowCuts": [
+        0,
+        269,
+        501,
+        726,
+        957
+      ],
+      "columnCuts": [
+        0,
+        410,
+        820,
+        1230,
+        1640
+      ],
+      "rowBaselineRegistration": [
+        [
+          0,
+          32
+        ],
+        [
+          0,
+          32
+        ],
+        [
+          0,
+          32
+        ],
+        [
+          0,
+          32
+        ],
+        [
+          0,
+          70
+        ],
+        [
+          0,
+          70
+        ],
+        [
+          0,
+          70
+        ],
+        [
+          0,
+          70
+        ],
+        [
+          0,
+          70
+        ],
+        [
+          0,
+          70
+        ],
+        [
+          0,
+          70
+        ],
+        [
+          0,
+          70
+        ],
+        [
+          0,
+          72
+        ],
+        [
+          0,
+          72
+        ],
+        [
+          0,
+          72
+        ],
+        [
+          0,
+          72
+        ]
+      ],
+      "unionCrop": [
+        16,
+        53,
+        410,
+        298
+      ],
+      "sharedScale": 0.5786802030456852,
+      "frameSize": [
+        288,
+        168
+      ],
+      "origin": [
+        0,
+        0
+      ],
+      "trajectory": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          0
+        ]
+      ]
+    },
+    "frameFiles": [
+      "new-scenes/frames/teddy-ultrasound-v4/000.png",
+      "new-scenes/frames/teddy-ultrasound-v4/001.png",
+      "new-scenes/frames/teddy-ultrasound-v4/002.png",
+      "new-scenes/frames/teddy-ultrasound-v4/003.png",
+      "new-scenes/frames/teddy-ultrasound-v4/004.png",
+      "new-scenes/frames/teddy-ultrasound-v4/005.png",
+      "new-scenes/frames/teddy-ultrasound-v4/006.png",
+      "new-scenes/frames/teddy-ultrasound-v4/007.png",
+      "new-scenes/frames/teddy-ultrasound-v4/008.png",
+      "new-scenes/frames/teddy-ultrasound-v4/009.png",
+      "new-scenes/frames/teddy-ultrasound-v4/010.png",
+      "new-scenes/frames/teddy-ultrasound-v4/011.png",
+      "new-scenes/frames/teddy-ultrasound-v4/012.png",
+      "new-scenes/frames/teddy-ultrasound-v4/013.png",
+      "new-scenes/frames/teddy-ultrasound-v4/014.png",
+      "new-scenes/frames/teddy-ultrasound-v4/015.png"
+    ],
+    "sourceSha256": "d81cb64246786899f75e5163586566c89cef5353265d011b08fa37051de7e5ff",
+    "frameSha256": [
+      "16c67d80005479ed4fa48eb5a55ac1623c976828a81c5fc33144462052c93cf9",
+      "4f0e7ced030ad5555d125725f0a098d17e959177e96a2d4c5a7ef27e7b9ae00c",
+      "71c43b2904c25d5c8e3ce7ada6b316be743ec8b7ff9477a4d2f5069b65ccfa1e",
+      "a9710568e91a0e2965dbbf27ae3794335fad7053a8f9baa2c759801d2fb51332",
+      "ad38b54d3e74c1d39a674d9b7dba5342b29440419fa6da3468d9fee22b273033",
+      "595500ecc2afeec593bc1c173cfb31c29e9f80506bb6d6aa504dcef829b6f866",
+      "a86bd26be149541c71060fb9a82c4dec1720f44c8f1e75b410e1f26fe650c858",
+      "1a3bfebd3f4c677f029ea2cc60b4d4b879dbc923fd677a49f74aaf7634c5652f",
+      "51baf54ed6daa1e30818b3847d908093f9f416eca762924a43be42870e60508d",
+      "0612155e73da2fa485bced14c3b42f81f7ad2f2d2359d391576c98397e325413",
+      "54631a137e4e1313076959bc8e14707d94d8868e721b7c26c7c029f4ad13b049",
+      "3d3051699b4c5c5956414c6effb29defba4438f73d49c270e1f03b872300201a",
+      "02c5bd0bec3fdc18d828f9fcac103f8a023cb34f1b90637e2772d33ade4eb1de",
+      "e6cf29f0222c032ea6a1ecd6d068b0c059015f8fa2e87091a9eea1dc5380a67d",
+      "673d865b9fc169b7e368b8ed7c97db546746db72ceac9a18b59930986a8b7399",
+      "900a6ab21ce6cf674fdd361e79cec6f061ad5ea53bf554005221eec489eaa4bb"
+    ],
+    "bytes": 125182,
+    "sha256": "2de53c34795e57e35a51ec4329f3dfc8880e45783f83ca3ede02d73e70cf8568",
+    "sourceBytes": 1826538,
+    "qa": {
+      "reviewer": "Codex visual and technical review; final reviewer handles merge",
+      "date": "2026-10-12",
+      "frameByFrame": true,
+      "backgrounds": [
+        "light",
+        "dark",
+        "blue"
+      ],
+      "scales": [
+        1,
+        3
+      ],
+      "browserTemporalSamples": 16,
+      "evidence": "evidence/teddy-ultrasound/",
+      "remainingLimitation": "Raster key poses, not a vector rig; Chromium verified, physical devices not tested. Decorative care scenes are not clinical instruction."
+    }
+  },
+  {
+    "order": 38,
+    "id": "comfort",
+    "title": "Acompañar sin invadir",
+    "category": "Cuidado",
+    "pack": "new",
+    "batch": "gestures-05",
+    "expansionOrder": 24,
+    "version": 1,
+    "status": "approved",
+    "frames": 12,
+    "durations": [
+      552,
+      394,
+      394,
+      394,
+      394,
+      394,
+      394,
+      394,
+      394,
+      394,
+      394,
+      708
+    ],
+    "cycles": 1,
+    "still": 9,
+    "source": "new-scenes/sources/comfort-v1.png",
+    "src": "new-scenes/atlases/moa-comfort-v1.png",
+    "generator": "Integrated image_gen",
+    "reference": "references/moa-neutral.png",
+    "prompt": "new-scenes/prompts/comfort.txt",
+    "review": "Señal de bienvenida antes de sentarse; espacio entre cuerpos, manos propias y escucha sin contacto impuesto.",
+    "packaging": {
+      "sourceSize": [
+        1642,
+        958
+      ],
+      "rowCuts": [
+        0,
+        354,
+        661,
+        958
+      ],
+      "columnCuts": [
+        0,
+        410,
+        820,
+        1230,
+        1640
+      ],
+      "rowBaselineRegistration": [
+        [
+          0,
+          59
+        ],
+        [
+          0,
+          59
+        ],
+        [
+          0,
+          59
+        ],
+        [
+          0,
+          59
+        ],
+        [
+          0,
+          107
+        ],
+        [
+          0,
+          107
+        ],
+        [
+          0,
+          107
+        ],
+        [
+          0,
+          107
+        ],
+        [
+          0,
+          116
+        ],
+        [
+          0,
+          116
+        ],
+        [
+          0,
+          116
+        ],
+        [
+          0,
+          116
+        ]
+      ],
+      "unionCrop": [
+        15,
+        140,
+        405,
+        382
+      ],
+      "sharedScale": 0.5846153846153846,
+      "frameSize": [
+        288,
+        168
+      ],
+      "origin": [
+        0,
+        0
+      ],
+      "trajectory": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          0
+        ]
+      ]
+    },
+    "frameFiles": [
+      "new-scenes/frames/comfort-v1/000.png",
+      "new-scenes/frames/comfort-v1/001.png",
+      "new-scenes/frames/comfort-v1/002.png",
+      "new-scenes/frames/comfort-v1/003.png",
+      "new-scenes/frames/comfort-v1/004.png",
+      "new-scenes/frames/comfort-v1/005.png",
+      "new-scenes/frames/comfort-v1/006.png",
+      "new-scenes/frames/comfort-v1/007.png",
+      "new-scenes/frames/comfort-v1/008.png",
+      "new-scenes/frames/comfort-v1/009.png",
+      "new-scenes/frames/comfort-v1/010.png",
+      "new-scenes/frames/comfort-v1/011.png"
+    ],
+    "sourceSha256": "daf4d58fea697ca3d29a4a7e0f7c721a966cd148fa8e49f3f0205129cfc7c6a2",
+    "frameSha256": [
+      "0b7ba35315e201c03826219117f780bced2eae85ed73182af368ebaea5e90008",
+      "adcc22f60861eee7878438e59b6cf0e794c12e2ed0fbf38ab39fec3b764e347b",
+      "8d27aad08559e4b67b678b78bcf3b230b29bcec951add1115baf8ecd2d96e8fd",
+      "009304db892639fa017f2ebe7a789c03fe42e1dfb90810898adb3ea6a4a43324",
+      "25bacc49440791fb9ae5e22cf4fb9ffc47c76cfe3ea44351e48e5b864082c55f",
+      "97eac17291647ff1f68f3d598c23a217c28cda2765833bf089080118c981cf2e",
+      "46914c6326c5b5ab35347ba8e2cf346ecb3a92826997183b178135242a9cccaa",
+      "b646a5e68675a3059ef489bbb5334000ab6024b73c468cf21fd941d39b5f2ff6",
+      "88e61b03e303239211f02506fc8630078132b5a16d891aa12285b52c7aa88634",
+      "22f12251f509b31c03534160c06533fe9068ae5890572afdc02087634bbff613",
+      "ad3e29084d48ebc5d304985eb11675780c0a4f82e6aa1f65f0cdb79949f07fd0",
+      "2097b7ef84a4803723203ac5bb011d877a5402bd7a324fb95f4a439d70487587"
+    ],
+    "bytes": 85695,
+    "sha256": "2312763e2ce65044d70c885606ba9097d053d920d5be08442050228e5bb98b26",
+    "sourceBytes": 1343723,
+    "qa": {
+      "reviewer": "Codex visual and technical review; final reviewer handles merge",
+      "date": "2026-10-12",
+      "frameByFrame": true,
+      "backgrounds": [
+        "light",
+        "dark",
+        "blue"
+      ],
+      "scales": [
+        1,
+        3
+      ],
+      "browserTemporalSamples": 12,
+      "evidence": "evidence/comfort/",
+      "remainingLimitation": "Raster key poses, not a vector rig; Chromium verified, physical devices not tested. Decorative care scenes are not clinical instruction."
+    }
+  },
+  {
+    "order": 39,
+    "id": "training-prep",
+    "title": "Preparándose para practicar reanimación",
+    "category": "Cuidado",
+    "pack": "new",
+    "batch": "gestures-05",
+    "expansionOrder": 25,
+    "version": 6,
+    "status": "approved",
+    "frames": 16,
+    "durations": [
+      472,
+      337,
+      337,
+      337,
+      337,
+      337,
+      337,
+      337,
+      337,
+      337,
+      337,
+      337,
+      337,
+      337,
+      337,
+      610
+    ],
+    "cycles": 1,
+    "still": 12,
+    "source": "new-scenes/sources/training-prep-v6.png",
+    "src": "new-scenes/atlases/moa-training-prep-v6.png",
+    "generator": "Integrated image_gen",
+    "reference": "references/moa-neutral.png",
+    "prompt": "new-scenes/prompts/training-prep-blue-manikin.txt",
+    "review": "v6 restaura Moa en cuadro 15; ambos personajes presentes en los 16 cuadros. Torso adulto de plástico azul, estuche único, preparación y escucha, sin tocar el maniquí. Atlas compuesto inspeccionado sin residuos visibles en los tres fondos.",
+    "context": "Preparación decorativa de un taller con maniquí adulto e instructor; sin maniobras ni instrucciones clínicas.",
+    "earlierPrompts": [
+      "new-scenes/prompts/training-prep.txt",
+      "new-scenes/prompts/training-prep-regeneration.txt"
+    ],
+    "correctionPrompts": [
+      "new-scenes/prompts/training-prep-correction.txt",
+      "new-scenes/prompts/training-prep-correction-2.txt",
+      "new-scenes/prompts/training-prep-correction-3.txt"
+    ],
+    "sourceColumns": [
+      0,
+      425,
+      828,
+      1230,
+      1641
+    ],
+    "packaging": {
+      "sourceSize": [
+        1641,
+        958
+      ],
+      "rowCuts": [
+        0,
+        257,
+        494,
+        734,
+        958
+      ],
+      "columnCuts": [
+        0,
+        425,
+        828,
+        1230,
+        1641
+      ],
+      "rowBaselineRegistration": [
+        [
+          0,
+          35
+        ],
+        [
+          11,
+          35
+        ],
+        [
+          11,
+          35
+        ],
+        [
+          7,
+          35
+        ],
+        [
+          0,
+          51
+        ],
+        [
+          11,
+          51
+        ],
+        [
+          11,
+          51
+        ],
+        [
+          7,
+          51
+        ],
+        [
+          0,
+          49
+        ],
+        [
+          11,
+          49
+        ],
+        [
+          11,
+          49
+        ],
+        [
+          7,
+          49
+        ],
+        [
+          0,
+          59
+        ],
+        [
+          11,
+          59
+        ],
+        [
+          11,
+          59
+        ],
+        [
+          7,
+          59
+        ]
+      ],
+      "unionCrop": [
+        15,
+        57,
+        422,
+        285
+      ],
+      "sharedScale": 0.5601965601965602,
+      "frameSize": [
+        288,
+        168
+      ],
+      "origin": [
+        0,
+        0
+      ],
+      "trajectory": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          0
+        ]
+      ]
+    },
+    "frameFiles": [
+      "new-scenes/frames/training-prep-v6/000.png",
+      "new-scenes/frames/training-prep-v6/001.png",
+      "new-scenes/frames/training-prep-v6/002.png",
+      "new-scenes/frames/training-prep-v6/003.png",
+      "new-scenes/frames/training-prep-v6/004.png",
+      "new-scenes/frames/training-prep-v6/005.png",
+      "new-scenes/frames/training-prep-v6/006.png",
+      "new-scenes/frames/training-prep-v6/007.png",
+      "new-scenes/frames/training-prep-v6/008.png",
+      "new-scenes/frames/training-prep-v6/009.png",
+      "new-scenes/frames/training-prep-v6/010.png",
+      "new-scenes/frames/training-prep-v6/011.png",
+      "new-scenes/frames/training-prep-v6/012.png",
+      "new-scenes/frames/training-prep-v6/013.png",
+      "new-scenes/frames/training-prep-v6/014.png",
+      "new-scenes/frames/training-prep-v6/015.png"
+    ],
+    "sourceSha256": "67c2129bde65a9c3ca8b26361854636766fc1a9b33a37af7d45500c2efc15b7d",
+    "frameSha256": [
+      "122c1724ad3574b0f419a00db19a40bff0a16359e42f224308e5337084aece39",
+      "74efeb9c5575697fb55a305e513b0647ffa39691dc7b1bd0029ef5aff9ab953e",
+      "814e1e83421c3629224e4f741744016b956946b123425720b114e5ede2fca80b",
+      "5775cce2678fa0e8e80cc9cfce351fa12d51f0148c75f611d91b8a897c430348",
+      "25c48130f9f91ed5d03cc4734127c4b2868e633433a809ebdfb87016957b7245",
+      "0686c90e49b70c85dfd6ed5a70a3786ea4fba838772ad2acf2bfa6d000bc0254",
+      "983c22feeee0f9b6b221b547cb11a7eb7c8941866cc0bd6ea7dffc30ee195712",
+      "2e60bbd1beecc638e56eb8c587e3bf850ef7531cfbae97239f8fd9a0359e8b14",
+      "3c1b44c2ffc5f185f7005d3941dc09540daf7c2468f4d6312e00d33509d8a00c",
+      "8d56346da88bee5883e834457ebb7ddff9cda7912187c1b82f6f5262c32ac7bc",
+      "df0f218f2e4e255a0b957d1d949e6f8f2963ca82a672b48ce7d09a865af6e674",
+      "7cf860c7b0b095e2bae4f5d4670d26cc861ec1c3bc07db28876c7ce83c86e0f6",
+      "5e309c98f3991fe9f5dfc51f803dc154de00ab2988e8f87dc573e287eb645195",
+      "8adff8e6472b59c94e55d804896be2fc9a8cd0f579c7fc3a8dab341b577d49fd",
+      "44065bf6b045f81f3eb3fd732526f9bec3883d309c4d613e4eb0c595f8e751da",
+      "bb34bf364e6adf47e70ab536133fb925e64bbd15d5c86cf6ff5c83ef0f002349"
+    ],
+    "bytes": 98480,
+    "sha256": "edd73a53b4d89fca72df6872726e76ab4b76af8ea6a6a16396d45ace530fd3a2",
+    "sourceBytes": 1601895,
+    "qa": {
+      "reviewer": "Codex visual and technical review; final reviewer handles merge",
+      "date": "2026-10-12",
+      "frameByFrame": true,
+      "backgrounds": [
+        "light",
+        "dark",
+        "blue"
+      ],
+      "scales": [
+        1,
+        3
+      ],
+      "browserTemporalSamples": 16,
+      "evidence": "evidence/training-prep/",
+      "remainingLimitation": "Raster key poses, not a vector rig; Chromium verified, physical devices not tested. Decorative care scenes are not clinical instruction."
+    }
   }
 ]

@@ -1,0 +1,223 @@
+{
+  "order": 39,
+  "id": "training-prep",
+  "title": "Preparándose para practicar reanimación",
+  "category": "Cuidado",
+  "pack": "new",
+  "batch": "gestures-05",
+  "expansionOrder": 25,
+  "version": 6,
+  "status": "approved",
+  "frames": 16,
+  "durations": [
+    472,
+    337,
+    337,
+    337,
+    337,
+    337,
+    337,
+    337,
+    337,
+    337,
+    337,
+    337,
+    337,
+    337,
+    337,
+    610
+  ],
+  "cycles": 1,
+  "still": 12,
+  "source": "new-scenes/sources/training-prep-v6.png",
+  "src": "new-scenes/atlases/moa-training-prep-v6.png",
+  "generator": "Integrated image_gen",
+  "reference": "references/moa-neutral.png",
+  "prompt": "new-scenes/prompts/training-prep-blue-manikin.txt",
+  "review": "v6 restaura Moa en cuadro 15; ambos personajes presentes en los 16 cuadros. Torso adulto de plástico azul, estuche único, preparación y escucha, sin tocar el maniquí. Atlas compuesto inspeccionado sin residuos visibles en los tres fondos.",
+  "context": "Preparación decorativa de un taller con maniquí adulto e instructor; sin maniobras ni instrucciones clínicas.",
+  "earlierPrompts": [
+    "new-scenes/prompts/training-prep.txt",
+    "new-scenes/prompts/training-prep-regeneration.txt"
+  ],
+  "correctionPrompts": [
+    "new-scenes/prompts/training-prep-correction.txt",
+    "new-scenes/prompts/training-prep-correction-2.txt",
+    "new-scenes/prompts/training-prep-correction-3.txt"
+  ],
+  "sourceColumns": [
+    0,
+    425,
+    828,
+    1230,
+    1641
+  ],
+  "packaging": {
+    "sourceSize": [
+      1641,
+      958
+    ],
+    "rowCuts": [
+      0,
+      257,
+      494,
+      734,
+      958
+    ],
+    "columnCuts": [
+      0,
+      425,
+      828,
+      1230,
+      1641
+    ],
+    "rowBaselineRegistration": [
+      [
+        0,
+        35
+      ],
+      [
+        11,
+        35
+      ],
+      [
+        11,
+        35
+      ],
+      [
+        7,
+        35
+      ],
+      [
+        0,
+        51
+      ],
+      [
+        11,
+        51
+      ],
+      [
+        11,
+        51
+      ],
+      [
+        7,
+        51
+      ],
+      [
+        0,
+        49
+      ],
+      [
+        11,
+        49
+      ],
+      [
+        11,
+        49
+      ],
+      [
+        7,
+        49
+      ],
+      [
+        0,
+        59
+      ],
+      [
+        11,
+        59
+      ],
+      [
+        11,
+        59
+      ],
+      [
+        7,
+        59
+      ]
+    ],
+    "unionCrop": [
+      15,
+      57,
+      422,
+      285
+    ],
+    "sharedScale": 0.5601965601965602,
+    "frameSize": [
+      288,
+      168
+    ],
+    "origin": [
+      0,
+      0
+    ],
+    "trajectory": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ]
+    ]
+  },
+  "frameFiles": [
+    "new-scenes/frames/training-prep-v6/000.png",
+    "new-scenes/frames/training-prep-v6/001.png",
+    "new-scenes/frames/training-prep-v6/002.png",
+    "new-scenes/frames/training-prep-v6/003.png",
+    "new-scenes/frames/training-prep-v6/004.png",
+    "new-scenes/frames/training-prep-v6/005.png",
+    "new-scenes/frames/training-prep-v6/006.png",
+    "new-scenes/frames/training-prep-v6/007.png",
+    "new-scenes/frames/training-prep-v6/008.png",
+    "new-scenes/frames/training-prep-v6/009.png",
+    "new-scenes/frames/training-prep-v6/010.png",
+    "new-scenes/frames/training-prep-v6/011.png",
+    "new-scenes/frames/training-prep-v6/012.png",
+    "new-scenes/frames/training-prep-v6/013.png",
+    "new-scenes/frames/training-prep-v6/014.png",
+    "new-scenes/frames/training-prep-v6/015.png"
+  ],
+  "sourceSha256": "67c2129bde65a9c3ca8b26361854636766fc1a9b33a37af7d45500c2efc15b7d",
+  "frameSha256": [
+    "122c1724ad3574b0f419a00db19a40bff0a16359e42f224308e5337084aece39",
+    "74efeb9c5575697fb55a305e513b0647ffa39691dc7b1bd0029ef5aff9ab953e",
+    "814e1e83421c3629224e4f741744016b956946b123425720b114e5ede2fca80b",
+    "5775cce2678fa0e8e80cc9cfce351fa12d51f0148c75f611d91b8a897c430348",
+    "25c48130f9f91ed5d03cc4734127c4b2868e633433a809ebdfb87016957b7245",
+    "0686c90e49b70c85dfd6ed5a70a3786ea4fba838772ad2acf2bfa6d000bc0254",
+    "983c22feeee0f9b6b221b547cb11a7eb7c8941866cc0bd6ea7dffc30ee195712",
+    "2e60bbd1beecc638e56eb8c587e3bf850ef7531cfbae97239f8fd9a0359e8b14",
+    "3c1b44c2ffc5f185f7005d3941dc09540daf7c2468f4d6312e00d33509d8a00c",
+    "8d56346da88bee5883e834457ebb7ddff9cda7912187c1b82f6f5262c32ac7bc",
+    "df0f218f2e4e255a0b957d1d949e6f8f2963ca82a672b48ce7d09a865af6e674",
+    "7cf860c7b0b095e2bae4f5d4670d26cc861ec1c3bc07db28876c7ce83c86e0f6",
+    "5e309c98f3991fe9f5dfc51f803dc154de00ab2988e8f87dc573e287eb645195",
+    "8adff8e6472b59c94e55d804896be2fc9a8cd0f579c7fc3a8dab341b577d49fd",
+    "44065bf6b045f81f3eb3fd732526f9bec3883d309c4d613e4eb0c595f8e751da",
+    "bb34bf364e6adf47e70ab536133fb925e64bbd15d5c86cf6ff5c83ef0f002349"
+  ],
+  "bytes": 98480,
+  "sha256": "edd73a53b4d89fca72df6872726e76ab4b76af8ea6a6a16396d45ace530fd3a2",
+  "sourceBytes": 1601895,
+  "qa": {
+    "reviewer": "Codex visual and technical review; final reviewer handles merge",
+    "date": "2026-10-12",
+    "frameByFrame": true,
+    "backgrounds": [
+      "light",
+      "dark",
+      "blue"
+    ],
+    "scales": [
+      1,
+      3
+    ],
+    "browserTemporalSamples": 16,
+    "evidence": "evidence/training-prep/",
+    "remainingLimitation": "Raster key poses, not a vector rig; Chromium verified, physical devices not tested. Decorative care scenes are not clinical instruction."
+  }
+}

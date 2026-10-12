@@ -76,3 +76,9 @@ La consulta sobre el alcance de la escena 25 se abrió antes de dibujar: prepara
 El revisor principal fijó «Preparándose para practicar reanimación»: maniquí adulto inequívoco y compañero instructor; Moa se arrodilla, escucha, prepara material y termina atento. Sin compresiones, ventilaciones, descargas ni cifras clínicas. Viñeta decorativa de preparación, no tutorial. Decisión recibida antes de generar; no queda bloqueo clínico para ese alcance.
 
 Bloque 4 sobre `3c41d8526c82d9effa51f97071c3912bcf52ec4c`, tras merge del [PR #4](https://github.com/DanielOpazoD/Moa-HHR/pull/4) por el revisor principal. 68 poses, 350.525 bytes. [Revisión](QA-gestures-04.md) · [Lámina](../evidence/gestures-04-overview.png).
+
+## Bloque 5 · colaboración y cuidado ficticio 21–25
+
+Llegada al turno, entrega ficticia y acompañamiento usan doce poses; ecografía lúdica de peluche y preparación del taller usan dieciséis. Pizarra sin datos, peluche inequívoco, icono simbólico en pantalla y maniquí adulto de plástico. El alcance de preparación se fijó antes de generar: no se realizan maniobras clínicas. Las notas de contexto correspondientes se muestran en la galería.
+
+Bloque 5 sobre `997d96a8716382d382e1e03564358cc81d984802`, tras merge del [PR #5](https://github.com/DanielOpazoD/Moa-HHR/pull/5) por el revisor principal. 68 poses, 451.323 bytes. [Revisión](QA-gestures-05.md) · [Lámina](../evidence/gestures-05-overview.png).

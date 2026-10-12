@@ -1,0 +1,177 @@
+{
+  "order": 35,
+  "id": "arrive-shift",
+  "title": "Llegada al turno",
+  "category": "Cotidiano",
+  "pack": "new",
+  "batch": "gestures-05",
+  "expansionOrder": 21,
+  "version": 1,
+  "status": "approved",
+  "frames": 12,
+  "durations": [
+    530,
+    379,
+    379,
+    379,
+    379,
+    379,
+    379,
+    379,
+    379,
+    379,
+    379,
+    680
+  ],
+  "cycles": 1,
+  "still": 9,
+  "source": "new-scenes/sources/arrive-shift-v1.png",
+  "src": "new-scenes/atlases/moa-arrive-shift-v1.png",
+  "generator": "Integrated image_gen",
+  "reference": "references/moa-neutral.png",
+  "prompt": "new-scenes/prompts/arrive-shift.txt",
+  "review": "Pasos, retirada de mochila, descenso y saludo; mochila única presente al final.",
+  "packaging": {
+    "sourceSize": [
+      1642,
+      958
+    ],
+    "rowCuts": [
+      0,
+      332,
+      642,
+      958
+    ],
+    "columnCuts": [
+      0,
+      410,
+      820,
+      1230,
+      1640
+    ],
+    "rowBaselineRegistration": [
+      [
+        0,
+        31
+      ],
+      [
+        0,
+        31
+      ],
+      [
+        0,
+        31
+      ],
+      [
+        0,
+        31
+      ],
+      [
+        0,
+        53
+      ],
+      [
+        0,
+        53
+      ],
+      [
+        0,
+        53
+      ],
+      [
+        0,
+        53
+      ],
+      [
+        0,
+        60
+      ],
+      [
+        0,
+        60
+      ],
+      [
+        0,
+        60
+      ],
+      [
+        0,
+        60
+      ]
+    ],
+    "unionCrop": [
+      17,
+      51,
+      400,
+      359
+    ],
+    "sharedScale": 0.487012987012987,
+    "frameSize": [
+      288,
+      168
+    ],
+    "origin": [
+      0,
+      0
+    ],
+    "trajectory": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ]
+    ]
+  },
+  "frameFiles": [
+    "new-scenes/frames/arrive-shift-v1/000.png",
+    "new-scenes/frames/arrive-shift-v1/001.png",
+    "new-scenes/frames/arrive-shift-v1/002.png",
+    "new-scenes/frames/arrive-shift-v1/003.png",
+    "new-scenes/frames/arrive-shift-v1/004.png",
+    "new-scenes/frames/arrive-shift-v1/005.png",
+    "new-scenes/frames/arrive-shift-v1/006.png",
+    "new-scenes/frames/arrive-shift-v1/007.png",
+    "new-scenes/frames/arrive-shift-v1/008.png",
+    "new-scenes/frames/arrive-shift-v1/009.png",
+    "new-scenes/frames/arrive-shift-v1/010.png",
+    "new-scenes/frames/arrive-shift-v1/011.png"
+  ],
+  "sourceSha256": "7b58b92974ea9395693bd79617162c2b29985b2547788ede46fb513930d50d3b",
+  "frameSha256": [
+    "de6ea17897109750f7ba154e5f362fe713e48c9152056c2e513cfc626b228163",
+    "167413fb4cd726093cb8bb3924e98f76687d2b8a137ce6dbcdf3a192d95befb7",
+    "dbc2503263d56460f8eb98f1bfddfe92cfd40a4f09743a0ef98512af47fe2272",
+    "0ddb8a45f384a1a32d118f68e180890d57b543fe5bd85d39298b9917d047a66a",
+    "0fb76bba74229a44e111606fc2d2f600eb9afe380583ff989206e98c0882f49c",
+    "557e717ddccd52c384a568acff0e914da7c58b086ac23b482ff8f405602b57bd",
+    "0233bab584724c7bb385f4e239f568a7f527c9894deba852b2c69d80b868ebce",
+    "2c2ec0ba813a9e594f9fac6dc1516b22452e6447f345d25f151a4084778c28ee",
+    "f08e10432bda3a3d56ac923bba6e3d8ad81022276ae196a5feee63b0362e2089",
+    "74db72ee33bc2060339e0f0dbb141afcc3d2bbee034648bb6f490245b095ffe8",
+    "4805a7476ed5d27aa69375fba6d2da7ba9064ac6cb6a6db06c15be98eb177b3a",
+    "e87d2306b6098e823faf49a1c7c5c7f751b6670472033469c305d4fe9f63c810"
+  ],
+  "bytes": 61545,
+  "sha256": "0a29a2b27ca549b590e3764965fb08a553255d9e06428489cd78356454c18cc8",
+  "sourceBytes": 1184483,
+  "qa": {
+    "reviewer": "Codex visual and technical review; final reviewer handles merge",
+    "date": "2026-10-12",
+    "frameByFrame": true,
+    "backgrounds": [
+      "light",
+      "dark",
+      "blue"
+    ],
+    "scales": [
+      1,
+      3
+    ],
+    "browserTemporalSamples": 12,
+    "evidence": "evidence/arrive-shift/",
+    "remainingLimitation": "Raster key poses, not a vector rig; Chromium verified, physical devices not tested. Decorative care scenes are not clinical instruction."
+  }
+}
