@@ -1,0 +1,169 @@
+{
+  "order": 1,
+  "id": "computer",
+  "title": "Trabajando en computador",
+  "category": "Cotidiano",
+  "pack": "new",
+  "version": 1,
+  "status": "approved",
+  "frames": 12,
+  "durations": [
+    520,
+    280,
+    280,
+    280,
+    320,
+    560,
+    520,
+    360,
+    360,
+    320,
+    320,
+    680
+  ],
+  "cycles": 1,
+  "still": 6,
+  "source": "new-scenes/sources/computer-v1.png",
+  "src": "new-scenes/atlases/moa-computer-v1.png",
+  "generator": "Integrated image_gen",
+  "reference": "references/moa-neutral.png",
+  "review": "12 poses: typing hands, chin pause, idea and return. Desk/camera reviewed; small illustrated shape variation retained, no per-pose scaling.",
+  "library": {
+    "id": "libfile_1b1acfe822e8819188e92ac0923d326c",
+    "version": 0
+  },
+  "bytes": 78687,
+  "sha256": "465cacc5daf22c8dea3394a054b59c3f3e9d799c09a17af400ef940639e43810",
+  "packaging": {
+    "sourceSize": [
+      1640,
+      959
+    ],
+    "rowCuts": [
+      0,
+      333,
+      638,
+      959
+    ],
+    "rowBaselineRegistration": [
+      [
+        0,
+        38
+      ],
+      [
+        0,
+        38
+      ],
+      [
+        0,
+        38
+      ],
+      [
+        0,
+        38
+      ],
+      [
+        0,
+        69
+      ],
+      [
+        0,
+        69
+      ],
+      [
+        0,
+        69
+      ],
+      [
+        0,
+        69
+      ],
+      [
+        0,
+        72
+      ],
+      [
+        0,
+        72
+      ],
+      [
+        0,
+        72
+      ],
+      [
+        0,
+        72
+      ]
+    ],
+    "unionCrop": [
+      50,
+      84,
+      384,
+      360
+    ],
+    "sharedScale": 0.5434782608695652,
+    "frameSize": [
+      288,
+      168
+    ],
+    "origin": [
+      0,
+      0
+    ],
+    "trajectory": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ]
+    ]
+  },
+  "frameFiles": [
+    "new-scenes/frames/computer-v1/000.png",
+    "new-scenes/frames/computer-v1/001.png",
+    "new-scenes/frames/computer-v1/002.png",
+    "new-scenes/frames/computer-v1/003.png",
+    "new-scenes/frames/computer-v1/004.png",
+    "new-scenes/frames/computer-v1/005.png",
+    "new-scenes/frames/computer-v1/006.png",
+    "new-scenes/frames/computer-v1/007.png",
+    "new-scenes/frames/computer-v1/008.png",
+    "new-scenes/frames/computer-v1/009.png",
+    "new-scenes/frames/computer-v1/010.png",
+    "new-scenes/frames/computer-v1/011.png"
+  ],
+  "sourceSha256": "21ddf1c3c23d8528a57973b6c7da9f5bba82c4d2908a79d4837ae1f6918ded55",
+  "sourceBytes": 1391907,
+  "frameSha256": [
+    "0a7f38d11bd86eea0413705dcb8e131b02a24e925542d1386d77957f1b45e6b2",
+    "e815ce864eae671619da17a126bc0c2018a17cee8224701ed4b16addb3e0f6b1",
+    "affaf4b397e6bcf898c266e1c2c780c0934a517b1662dcd7e4f4edc3c029ca5b",
+    "7d8a09f3ff256b2394076da8c3611f1322458f1c1f078f10fdc7eac2f5bc989a",
+    "aa8c1e7cd6a2af79001efca29607c42ed6e3e1cd3955f713ddfce3be4d649bef",
+    "363eb0ea48c69a01d03aa639c3534e0be22123829cccdc11c65f68d7e65a6cc4",
+    "31efdf464d1439b4dfe8943ec35cfea2119d0ad9153a96f0597c90063a25fed3",
+    "3c65a200f01a970a0e9f05fcd7e6bbaebb22eb3683113703ff1cb07122a98fcb",
+    "bf9d0671b653e5d0bfc5590d59746edd343776b55d1df08ac4de1ef9fb48dd1f",
+    "b732c1d1b145920e210945071c19d519b644c16e960b8a99a9c635ce3f2100cc",
+    "bc265e049aae8392c44591311db4dbf0bd250a22e058c90c710d8194dcffe20b",
+    "9b6289aee53a2a96451a0c60f7981e168c6aa35c0f9ffe0597f46705aa441f25"
+  ],
+  "prompt": "new-scenes/prompts/computer.txt",
+  "qa": {
+    "reviewer": "Codex visual and technical review; user sign-off is not implied",
+    "date": "2026-10-12",
+    "frameByFrame": true,
+    "realSizeBackgrounds": [
+      "light",
+      "dark",
+      "blue"
+    ],
+    "enlargedBrowser": true,
+    "browserTemporalSamples": 12,
+    "evidence": "evidence/computer/",
+    "remainingLimitation": "Illustrated raster key poses; no hidden layers or vector rig."
+  }
+}

@@ -1,0 +1,172 @@
+{
+  "order": 8,
+  "id": "teeth",
+  "title": "Lavándose los dientes",
+  "category": "Cotidiano",
+  "pack": "new",
+  "version": 1,
+  "status": "approved",
+  "frames": 12,
+  "durations": [
+    455,
+    245,
+    245,
+    245,
+    280,
+    490,
+    455,
+    315,
+    315,
+    280,
+    280,
+    595
+  ],
+  "cycles": 1,
+  "still": 6,
+  "source": "new-scenes/sources/teeth-v1.png",
+  "src": "new-scenes/atlases/moa-teeth-v1.png",
+  "generator": "Integrated image_gen",
+  "reference": "references/moa-neutral.png",
+  "review": "12 poses. Second image_gen pass fixes hand swaps in poses 4 and 9; brush remains in the same hand.",
+  "packaging": {
+    "sourceSize": [
+      1642,
+      958
+    ],
+    "rowCuts": [
+      0,
+      330,
+      639,
+      958
+    ],
+    "columnCuts": [
+      0,
+      410,
+      820,
+      1230,
+      1640
+    ],
+    "rowBaselineRegistration": [
+      [
+        0,
+        37
+      ],
+      [
+        0,
+        37
+      ],
+      [
+        0,
+        37
+      ],
+      [
+        0,
+        37
+      ],
+      [
+        0,
+        57
+      ],
+      [
+        0,
+        57
+      ],
+      [
+        0,
+        57
+      ],
+      [
+        0,
+        57
+      ],
+      [
+        0,
+        58
+      ],
+      [
+        0,
+        58
+      ],
+      [
+        0,
+        58
+      ],
+      [
+        0,
+        58
+      ]
+    ],
+    "unionCrop": [
+      86,
+      69,
+      365,
+      357
+    ],
+    "sharedScale": 0.5208333333333334,
+    "frameSize": [
+      288,
+      168
+    ],
+    "origin": [
+      0,
+      0
+    ],
+    "trajectory": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ]
+    ]
+  },
+  "frameFiles": [
+    "new-scenes/frames/teeth-v1/000.png",
+    "new-scenes/frames/teeth-v1/001.png",
+    "new-scenes/frames/teeth-v1/002.png",
+    "new-scenes/frames/teeth-v1/003.png",
+    "new-scenes/frames/teeth-v1/004.png",
+    "new-scenes/frames/teeth-v1/005.png",
+    "new-scenes/frames/teeth-v1/006.png",
+    "new-scenes/frames/teeth-v1/007.png",
+    "new-scenes/frames/teeth-v1/008.png",
+    "new-scenes/frames/teeth-v1/009.png",
+    "new-scenes/frames/teeth-v1/010.png",
+    "new-scenes/frames/teeth-v1/011.png"
+  ],
+  "bytes": 52835,
+  "sha256": "40b2300dc1c3a8d73a2f90a81d02bbf6dce608017db33f5159bb031d2d5b0596",
+  "sourceSha256": "e8ad264c5a636c2ea320495257ba3c5c1a2dbaf8d292e4ddf72f8e2d01a6d196",
+  "sourceBytes": 1089590,
+  "frameSha256": [
+    "0704186347ea429b27b82490bdd4c81b117ddb1b14db753cfdccb394e37e5db5",
+    "aef59cc5ff81405a181e615bcc6ffbe934b521ac48df92ea115549a1e4fba429",
+    "98becc3f929e22ce546bda2d4eba972fa8f864a56f0d3bb540e444da6f8db111",
+    "64bf2ad47c6a44a614298740476c0fed8d6a6cf441e91e2cd477031ec441d6bb",
+    "ab863320a237193c0e48b239792e1534776b9ff6ab7ccd0a94c2520ecabca363",
+    "2e9509899446d16720cd8cd7101a1396c3e0e0ecb2d41f4d05d279c29787071e",
+    "40e0e883a125828036ec685b6092278e1336bfeb7501fe5a594070ecef10e023",
+    "502ba87724900baeeb4de83247104d3c9bcfcfa2fe0e501c16690002ab2eb166",
+    "2cb71c4e861ef8e7720a94cd24b78440b27cfbb44002be5d73c5b94e43c79e53",
+    "d3adcc7f7a8001f1a7a4827c1df3a6cb0272703c64cc1fcfb3402c126bc737cc",
+    "30b14abfd68a8edfbbdb17f4f79c5a0c65887b4a9a3c40dc19021739dbf577dd",
+    "e90dce5888712b5ffefe24ad875401932ee5880a7d1602a532397c1b4109bf36"
+  ],
+  "prompt": "new-scenes/prompts/teeth.txt",
+  "qa": {
+    "reviewer": "Codex visual and technical review; user sign-off is not implied",
+    "date": "2026-10-12",
+    "frameByFrame": true,
+    "realSizeBackgrounds": [
+      "light",
+      "dark",
+      "blue"
+    ],
+    "enlargedBrowser": true,
+    "browserTemporalSamples": 12,
+    "evidence": "evidence/teeth/",
+    "remainingLimitation": "Illustrated raster key poses; no hidden layers or vector rig."
+  }
+}

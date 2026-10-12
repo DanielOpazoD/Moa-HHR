@@ -1,0 +1,165 @@
+{
+  "order": 3,
+  "id": "baby",
+  "title": "Dando leche a un recién nacido",
+  "category": "Cuidado",
+  "pack": "new",
+  "version": 1,
+  "status": "approved",
+  "frames": 12,
+  "durations": [
+    585,
+    315,
+    315,
+    315,
+    360,
+    630,
+    585,
+    405,
+    405,
+    360,
+    360,
+    765
+  ],
+  "cycles": 1,
+  "still": 6,
+  "source": "new-scenes/sources/baby-v1.png",
+  "src": "new-scenes/atlases/moa-baby-v1.png",
+  "generator": "Integrated image_gen",
+  "reference": "references/moa-neutral.png",
+  "review": "12 poses: supported swaddled fictional newborn, bottle approach/removal, affectionate eye/arm acting; no propped bottle.",
+  "bytes": 68664,
+  "sha256": "cf4793864df6094732a54d65ea253b5c323cc05ccf8586eae4933ecb8bf97d35",
+  "packaging": {
+    "sourceSize": [
+      1448,
+      1086
+    ],
+    "rowCuts": [
+      0,
+      381,
+      709,
+      1086
+    ],
+    "rowBaselineRegistration": [
+      [
+        0,
+        42
+      ],
+      [
+        0,
+        42
+      ],
+      [
+        0,
+        42
+      ],
+      [
+        0,
+        42
+      ],
+      [
+        0,
+        97
+      ],
+      [
+        0,
+        97
+      ],
+      [
+        0,
+        97
+      ],
+      [
+        0,
+        97
+      ],
+      [
+        0,
+        93
+      ],
+      [
+        0,
+        93
+      ],
+      [
+        0,
+        93
+      ],
+      [
+        0,
+        93
+      ]
+    ],
+    "unionCrop": [
+      42,
+      112,
+      321,
+      408
+    ],
+    "sharedScale": 0.5067567567567568,
+    "frameSize": [
+      288,
+      168
+    ],
+    "origin": [
+      0,
+      0
+    ],
+    "trajectory": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ]
+    ]
+  },
+  "frameFiles": [
+    "new-scenes/frames/baby-v1/000.png",
+    "new-scenes/frames/baby-v1/001.png",
+    "new-scenes/frames/baby-v1/002.png",
+    "new-scenes/frames/baby-v1/003.png",
+    "new-scenes/frames/baby-v1/004.png",
+    "new-scenes/frames/baby-v1/005.png",
+    "new-scenes/frames/baby-v1/006.png",
+    "new-scenes/frames/baby-v1/007.png",
+    "new-scenes/frames/baby-v1/008.png",
+    "new-scenes/frames/baby-v1/009.png",
+    "new-scenes/frames/baby-v1/010.png",
+    "new-scenes/frames/baby-v1/011.png"
+  ],
+  "sourceSha256": "7e6ec6e3d9482c31b90e8cbf7dc966150a33d13cf57e86dc247fe0bda3798fc3",
+  "sourceBytes": 1287160,
+  "frameSha256": [
+    "2c364702f62f2c7134eab328374ecc415b2f02fbdabe90f1a02f95de87b3b5d1",
+    "644739a5775e0ad37f0710afec924ba7d02d539e5c8f26504a4d3ca39767190a",
+    "0a559909d2985827574afb4056d324d1b1de7dd7312245b564c6a2f727c375c4",
+    "19f8063c423508869eb7453252fd404a17fb9401154ec8ec69ba9787b7cde05e",
+    "e356da54237311a799f21be9c763f210f898049738bb92ea1b60835bd3403b9f",
+    "0e645a4b39c218e0f60e4b98b8d5cba731ce19da7f4c882e3ac4fd324d7962f3",
+    "7d13f16fb2809cad4cf0eb2c463c4baa826096651f628b0b474f60013498134a",
+    "9fcadced2b0be25647c43ef4814a9c19d7450c94a32dacea10bd6f00b10f1bfa",
+    "7f48d7a38c56360891fef39b61620d5c511294c52f811b48214a19de912e3cf2",
+    "e4cd9102025074833f54a5c124a714e0c113de74a25a666abf564d49a755a77f",
+    "c67955d7dab6817ad28cf37c0cd81dd41e739f668d5c95d7affcd29daf28f2f6",
+    "16bf8552d9ffdc9a47aaf879b45719850b9adca494c62d55704a55cf6d801c77"
+  ],
+  "prompt": "new-scenes/prompts/baby.txt",
+  "qa": {
+    "reviewer": "Codex visual and technical review; user sign-off is not implied",
+    "date": "2026-10-12",
+    "frameByFrame": true,
+    "realSizeBackgrounds": [
+      "light",
+      "dark",
+      "blue"
+    ],
+    "enlargedBrowser": true,
+    "browserTemporalSamples": 12,
+    "evidence": "evidence/baby/",
+    "remainingLimitation": "Illustrated raster key poses; no hidden layers or vector rig."
+  }
+}
