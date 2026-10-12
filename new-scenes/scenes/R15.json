@@ -1,0 +1,205 @@
+{
+  "order": 59,
+  "id": "R15",
+  "title": "R15 · Compartiendo umu",
+  "category": "Rapa Nui",
+  "pack": "new",
+  "batch": "rapanui-03",
+  "rapanuiOrder": 15,
+  "version": 3,
+  "status": "approved",
+  "frames": 12,
+  "durations": [
+    500,
+    350,
+    350,
+    350,
+    350,
+    350,
+    350,
+    350,
+    350,
+    350,
+    350,
+    600
+  ],
+  "cycles": 1,
+  "still": 10,
+  "source": "new-scenes/sources/R15-v3.png",
+  "src": "new-scenes/atlases/moa-R15-v3.png",
+  "generator": "Integrated image_gen",
+  "reference": "references/moa-neutral.png",
+  "prompt": "new-scenes/prompts/R15.txt",
+  "context": "Reparto ficticio de porciones de camote ya cocido sobre hoja de plátano; no muestra preparación ni atribuye ceremonia o receta.",
+  "culturalReferences": [
+    {
+      "url": "https://2023.serindigena.org/insular/rapa-nui/gastronomia/",
+      "supports": "Reparto ficticio de porciones de camote ya cocido sobre hoja de plátano; no muestra preparación ni atribuye ceremonia o receta."
+    }
+  ],
+  "review": "Sources and every delivered frame reviewed on light, dark and blue at real size; enlarged browser captures and temporal samples passed.",
+  "correctionPrompts": [
+    "new-scenes/prompts/R15-correction.txt",
+    "new-scenes/prompts/R15-correction-2.txt"
+  ],
+  "rejectedSources": [
+    {
+      "source": "new-scenes/sources/R15-v1.png",
+      "reason": "Porción y plato sin continuidad."
+    },
+    {
+      "source": "new-scenes/sources/R15-v2.png",
+      "reason": "Celdas demasiado juntas para una extracción sin recortes."
+    }
+  ],
+  "sourceColumns": [
+    0,
+    426,
+    826,
+    1223,
+    1642
+  ],
+  "packaging": {
+    "sourceSize": [
+      1642,
+      958
+    ],
+    "rowCuts": [
+      0,
+      333,
+      624,
+      958
+    ],
+    "columnCuts": [
+      0,
+      426,
+      826,
+      1223,
+      1642
+    ],
+    "rowBaselineRegistration": [
+      [
+        0,
+        50
+      ],
+      [
+        13,
+        50
+      ],
+      [
+        14,
+        50
+      ],
+      [
+        3,
+        50
+      ],
+      [
+        0,
+        94
+      ],
+      [
+        13,
+        94
+      ],
+      [
+        14,
+        94
+      ],
+      [
+        3,
+        94
+      ],
+      [
+        0,
+        94
+      ],
+      [
+        13,
+        94
+      ],
+      [
+        14,
+        94
+      ],
+      [
+        3,
+        94
+      ]
+    ],
+    "unionCrop": [
+      16,
+      120,
+      407,
+      360
+    ],
+    "sharedScale": 0.5831202046035806,
+    "frameSize": [
+      288,
+      168
+    ],
+    "origin": [
+      0,
+      0
+    ],
+    "trajectory": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ]
+    ]
+  },
+  "frameFiles": [
+    "new-scenes/frames/R15-v3/000.png",
+    "new-scenes/frames/R15-v3/001.png",
+    "new-scenes/frames/R15-v3/002.png",
+    "new-scenes/frames/R15-v3/003.png",
+    "new-scenes/frames/R15-v3/004.png",
+    "new-scenes/frames/R15-v3/005.png",
+    "new-scenes/frames/R15-v3/006.png",
+    "new-scenes/frames/R15-v3/007.png",
+    "new-scenes/frames/R15-v3/008.png",
+    "new-scenes/frames/R15-v3/009.png",
+    "new-scenes/frames/R15-v3/010.png",
+    "new-scenes/frames/R15-v3/011.png"
+  ],
+  "sourceSha256": "8f0df9dcad3b1a84da9a5535834cf5ba7e4faf139ea5377ab76b963fc86f5779",
+  "frameSha256": [
+    "9d4bffaa61e42d5c982ec57a6b1cc016489a5763274f0f74bff8c1d2bb43a6ad",
+    "691e3afd8fd287d4207240f26ab46d2775ba8cb61c6c9c13cdc042176881030c",
+    "2f55dbe3b812726a87b3223ff56ffab3fd600b606ab2c99f5d31ea5ac0d67817",
+    "70e458708b44efe306e73383b036622401bed55e08076c4e24e520f2cfc05385",
+    "50603288e8f7e83994a31a0560ac56bbe9a6d7b6e7a913c71ef9df4ad5fc4d2f",
+    "eb47391a858d5717b48ba57c98fd5f9f3b03e5b9365daa6648536eb31f6c824c",
+    "267fae6ddab7c595b48f9a841f9b83a8fa3b3d1c5ec880c30259d5734ed77839",
+    "c2909a61368b2084cc655d0fe6d02b5ef910d327a9774fdcf33ce1bfea99c8d1",
+    "6ffeb2dc1846f68d72315cf010b6698600a6351a3f9571e18b706df378f45b5c",
+    "47f3a70a644f767bd217951cac1e3472940274fd572ad628d495056f6c9dd68e",
+    "58d0ea1838da676b851f65fa3fccee354ded31fcb3caabca98aa27f445c58d38",
+    "5a38951fec89c6bd8db43a1b0b628f17bfacbc39623e8db0c789daae1974a4ad"
+  ],
+  "bytes": 108070,
+  "sha256": "7efac72e1e900213535bbc58bc02c5e97de7cc97bcc8725dc114e0e54880629f",
+  "sourceBytes": 1708432,
+  "qa": {
+    "reviewer": "Codex visual and technical review; principal reviewer controls merge",
+    "date": "2026-10-12",
+    "frameByFrame": true,
+    "backgrounds": [
+      "light",
+      "dark",
+      "blue"
+    ],
+    "scales": [
+      1,
+      3
+    ],
+    "browserTemporalSamples": 12,
+    "evidence": "evidence/R15/",
+    "remainingLimitation": "Reparto ficticio de porciones de camote ya cocido sobre hoja de plátano; no muestra preparación ni atribuye ceremonia o receta. Raster key poses; Chromium verified, physical devices not tested."
+  }
+}

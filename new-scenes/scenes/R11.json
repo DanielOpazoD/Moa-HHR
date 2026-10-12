@@ -1,0 +1,191 @@
+{
+  "order": 55,
+  "id": "R11",
+  "title": "R11 · Costa limpia entre amigos",
+  "category": "Rapa Nui",
+  "pack": "new",
+  "batch": "rapanui-03",
+  "rapanuiOrder": 11,
+  "version": 1,
+  "status": "approved",
+  "frames": 12,
+  "durations": [
+    500,
+    350,
+    350,
+    350,
+    350,
+    350,
+    350,
+    350,
+    350,
+    350,
+    350,
+    600
+  ],
+  "cycles": 1,
+  "still": 10,
+  "source": "new-scenes/sources/R11-v1.png",
+  "src": "new-scenes/atlases/moa-R11-v1.png",
+  "generator": "Integrated image_gen",
+  "reference": "references/moa-neutral.png",
+  "prompt": "new-scenes/prompts/R11.txt",
+  "context": "Acción contemporánea ficticia inspirada en jornadas locales de limpieza; no representa residuos peligrosos ni una instrucción de manejo.",
+  "culturalReferences": [
+    {
+      "url": "https://www.facebook.com/MuniRapaNui/videos/hoy-la-municipalidad-de-rapanui-haretavana-particip%C3%B3-y-colabor%C3%B3-en-la-limpieza-c/372204323724741/",
+      "supports": "Acción contemporánea ficticia inspirada en jornadas locales de limpieza; no representa residuos peligrosos ni una instrucción de manejo."
+    }
+  ],
+  "review": "Sources and every delivered frame reviewed on light, dark and blue at real size; enlarged browser captures and temporal samples passed.",
+  "sourceColumns": [
+    0,
+    429,
+    819,
+    1212,
+    1642
+  ],
+  "packaging": {
+    "sourceSize": [
+      1642,
+      958
+    ],
+    "rowCuts": [
+      0,
+      356,
+      647,
+      958
+    ],
+    "columnCuts": [
+      0,
+      429,
+      819,
+      1212,
+      1642
+    ],
+    "rowBaselineRegistration": [
+      [
+        0,
+        38
+      ],
+      [
+        20,
+        38
+      ],
+      [
+        18,
+        38
+      ],
+      [
+        0,
+        38
+      ],
+      [
+        0,
+        99
+      ],
+      [
+        20,
+        99
+      ],
+      [
+        18,
+        99
+      ],
+      [
+        0,
+        99
+      ],
+      [
+        0,
+        102
+      ],
+      [
+        20,
+        102
+      ],
+      [
+        18,
+        102
+      ],
+      [
+        0,
+        102
+      ]
+    ],
+    "unionCrop": [
+      25,
+      112,
+      410,
+      382
+    ],
+    "sharedScale": 0.5555555555555556,
+    "frameSize": [
+      288,
+      168
+    ],
+    "origin": [
+      0,
+      0
+    ],
+    "trajectory": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ]
+    ]
+  },
+  "frameFiles": [
+    "new-scenes/frames/R11-v1/000.png",
+    "new-scenes/frames/R11-v1/001.png",
+    "new-scenes/frames/R11-v1/002.png",
+    "new-scenes/frames/R11-v1/003.png",
+    "new-scenes/frames/R11-v1/004.png",
+    "new-scenes/frames/R11-v1/005.png",
+    "new-scenes/frames/R11-v1/006.png",
+    "new-scenes/frames/R11-v1/007.png",
+    "new-scenes/frames/R11-v1/008.png",
+    "new-scenes/frames/R11-v1/009.png",
+    "new-scenes/frames/R11-v1/010.png",
+    "new-scenes/frames/R11-v1/011.png"
+  ],
+  "sourceSha256": "f5d8e0560f1853be28cf1dd3d1050289af0131acf755efce56407c7bbdbd9419",
+  "frameSha256": [
+    "5fe95bda2ead7c86a6cac9e721c4b4bd3bc1a5e97074e3eedb93901c07b61355",
+    "21fcf092197ff308f389df09b55cd43c2924196e53a64fc6358927a5fd2cc236",
+    "e8d43190c88b30b0e9dd8a458cd71c1256ea2123683234fda49761678904b698",
+    "865e0b2c1fef8c31ee0b219bfa3cb604e47e581ff65dc26cce2753fb69297e49",
+    "5995828ecf2785c15a41b359164cf5a084d98c2f34b25fbea4d0d501b01d5806",
+    "5a4f67491368c30a9cece648efd1741cd4a408d0c7cd435399495605a43fcd7b",
+    "e1c581f8d3c0b853bde8d1a363d42bdfdcc873fe64f471692ff72546193043be",
+    "ab06684f608c75ad3e779bb1c3c584b77a9c75ac09208e4ec8488a1b5ec49f7f",
+    "d39225139dd4dea53c8dc0e66bb08b3880350604b4f69f1d7aeed13a106812e0",
+    "b587650c0836b66d05f7428b386d86892cbd94254f435661d5e3f4de1ed75e96",
+    "c9518cf38fb22a19a5abf38a73ce87b86103f941431ccb312ddf11f117058208",
+    "1277138896cdc852c3487a200a629fbb348762dd7c4cfe3432af362939af3052"
+  ],
+  "bytes": 109423,
+  "sha256": "7900e8b1581bd0c8644f2a0625c9bb7b7bb506eb553fc4b2d51a367af567ddb5",
+  "sourceBytes": 1618797,
+  "qa": {
+    "reviewer": "Codex visual and technical review; principal reviewer controls merge",
+    "date": "2026-10-12",
+    "frameByFrame": true,
+    "backgrounds": [
+      "light",
+      "dark",
+      "blue"
+    ],
+    "scales": [
+      1,
+      3
+    ],
+    "browserTemporalSamples": 12,
+    "evidence": "evidence/R11/",
+    "remainingLimitation": "Acción contemporánea ficticia inspirada en jornadas locales de limpieza; no representa residuos peligrosos ni una instrucción de manejo. Raster key poses; Chromium verified, physical devices not tested."
+  }
+}

@@ -9936,5 +9936,1032 @@
       "evidence": "evidence/R10/",
       "remainingLimitation": "Observación desde tierra, sin tocar ni alimentar. Distancia escénica simplificada, no escala métrica. Raster key poses; Chromium verified, physical devices not tested."
     }
+  },
+  {
+    "order": 55,
+    "id": "R11",
+    "title": "R11 · Costa limpia entre amigos",
+    "category": "Rapa Nui",
+    "pack": "new",
+    "batch": "rapanui-03",
+    "rapanuiOrder": 11,
+    "version": 1,
+    "status": "approved",
+    "frames": 12,
+    "durations": [
+      500,
+      350,
+      350,
+      350,
+      350,
+      350,
+      350,
+      350,
+      350,
+      350,
+      350,
+      600
+    ],
+    "cycles": 1,
+    "still": 10,
+    "source": "new-scenes/sources/R11-v1.png",
+    "src": "new-scenes/atlases/moa-R11-v1.png",
+    "generator": "Integrated image_gen",
+    "reference": "references/moa-neutral.png",
+    "prompt": "new-scenes/prompts/R11.txt",
+    "context": "Acción contemporánea ficticia inspirada en jornadas locales de limpieza; no representa residuos peligrosos ni una instrucción de manejo.",
+    "culturalReferences": [
+      {
+        "url": "https://www.facebook.com/MuniRapaNui/videos/hoy-la-municipalidad-de-rapanui-haretavana-particip%C3%B3-y-colabor%C3%B3-en-la-limpieza-c/372204323724741/",
+        "supports": "Acción contemporánea ficticia inspirada en jornadas locales de limpieza; no representa residuos peligrosos ni una instrucción de manejo."
+      }
+    ],
+    "review": "Sources and every delivered frame reviewed on light, dark and blue at real size; enlarged browser captures and temporal samples passed.",
+    "sourceColumns": [
+      0,
+      429,
+      819,
+      1212,
+      1642
+    ],
+    "packaging": {
+      "sourceSize": [
+        1642,
+        958
+      ],
+      "rowCuts": [
+        0,
+        356,
+        647,
+        958
+      ],
+      "columnCuts": [
+        0,
+        429,
+        819,
+        1212,
+        1642
+      ],
+      "rowBaselineRegistration": [
+        [
+          0,
+          38
+        ],
+        [
+          20,
+          38
+        ],
+        [
+          18,
+          38
+        ],
+        [
+          0,
+          38
+        ],
+        [
+          0,
+          99
+        ],
+        [
+          20,
+          99
+        ],
+        [
+          18,
+          99
+        ],
+        [
+          0,
+          99
+        ],
+        [
+          0,
+          102
+        ],
+        [
+          20,
+          102
+        ],
+        [
+          18,
+          102
+        ],
+        [
+          0,
+          102
+        ]
+      ],
+      "unionCrop": [
+        25,
+        112,
+        410,
+        382
+      ],
+      "sharedScale": 0.5555555555555556,
+      "frameSize": [
+        288,
+        168
+      ],
+      "origin": [
+        0,
+        0
+      ],
+      "trajectory": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          0
+        ]
+      ]
+    },
+    "frameFiles": [
+      "new-scenes/frames/R11-v1/000.png",
+      "new-scenes/frames/R11-v1/001.png",
+      "new-scenes/frames/R11-v1/002.png",
+      "new-scenes/frames/R11-v1/003.png",
+      "new-scenes/frames/R11-v1/004.png",
+      "new-scenes/frames/R11-v1/005.png",
+      "new-scenes/frames/R11-v1/006.png",
+      "new-scenes/frames/R11-v1/007.png",
+      "new-scenes/frames/R11-v1/008.png",
+      "new-scenes/frames/R11-v1/009.png",
+      "new-scenes/frames/R11-v1/010.png",
+      "new-scenes/frames/R11-v1/011.png"
+    ],
+    "sourceSha256": "f5d8e0560f1853be28cf1dd3d1050289af0131acf755efce56407c7bbdbd9419",
+    "frameSha256": [
+      "5fe95bda2ead7c86a6cac9e721c4b4bd3bc1a5e97074e3eedb93901c07b61355",
+      "21fcf092197ff308f389df09b55cd43c2924196e53a64fc6358927a5fd2cc236",
+      "e8d43190c88b30b0e9dd8a458cd71c1256ea2123683234fda49761678904b698",
+      "865e0b2c1fef8c31ee0b219bfa3cb604e47e581ff65dc26cce2753fb69297e49",
+      "5995828ecf2785c15a41b359164cf5a084d98c2f34b25fbea4d0d501b01d5806",
+      "5a4f67491368c30a9cece648efd1741cd4a408d0c7cd435399495605a43fcd7b",
+      "e1c581f8d3c0b853bde8d1a363d42bdfdcc873fe64f471692ff72546193043be",
+      "ab06684f608c75ad3e779bb1c3c584b77a9c75ac09208e4ec8488a1b5ec49f7f",
+      "d39225139dd4dea53c8dc0e66bb08b3880350604b4f69f1d7aeed13a106812e0",
+      "b587650c0836b66d05f7428b386d86892cbd94254f435661d5e3f4de1ed75e96",
+      "c9518cf38fb22a19a5abf38a73ce87b86103f941431ccb312ddf11f117058208",
+      "1277138896cdc852c3487a200a629fbb348762dd7c4cfe3432af362939af3052"
+    ],
+    "bytes": 109423,
+    "sha256": "7900e8b1581bd0c8644f2a0625c9bb7b7bb506eb553fc4b2d51a367af567ddb5",
+    "sourceBytes": 1618797,
+    "qa": {
+      "reviewer": "Codex visual and technical review; principal reviewer controls merge",
+      "date": "2026-10-12",
+      "frameByFrame": true,
+      "backgrounds": [
+        "light",
+        "dark",
+        "blue"
+      ],
+      "scales": [
+        1,
+        3
+      ],
+      "browserTemporalSamples": 12,
+      "evidence": "evidence/R11/",
+      "remainingLimitation": "Acción contemporánea ficticia inspirada en jornadas locales de limpieza; no representa residuos peligrosos ni una instrucción de manejo. Raster key poses; Chromium verified, physical devices not tested."
+    }
+  },
+  {
+    "order": 56,
+    "id": "R12",
+    "title": "R12 · Una pequeña alga",
+    "category": "Rapa Nui",
+    "pack": "new",
+    "batch": "rapanui-03",
+    "rapanuiOrder": 12,
+    "version": 1,
+    "status": "approved",
+    "frames": 12,
+    "durations": [
+      500,
+      350,
+      350,
+      350,
+      350,
+      350,
+      350,
+      350,
+      350,
+      350,
+      350,
+      600
+    ],
+    "cycles": 1,
+    "still": 10,
+    "source": "new-scenes/sources/R12-v1.png",
+    "src": "new-scenes/atlases/moa-R12-v1.png",
+    "generator": "Integrated image_gen",
+    "reference": "references/moa-neutral.png",
+    "prompt": "new-scenes/prompts/R12.txt",
+    "context": "Pesca recreativa contemporánea y desenlace cómico inventado; no representa técnicas, especies ni competencias tradicionales.",
+    "culturalReferences": [
+      {
+        "url": "https://www.rapanui.net/secciones/3144",
+        "supports": "Pesca recreativa contemporánea y desenlace cómico inventado; no representa técnicas, especies ni competencias tradicionales."
+      }
+    ],
+    "review": "Sources and every delivered frame reviewed on light, dark and blue at real size; enlarged browser captures and temporal samples passed.",
+    "sourceColumns": [
+      0,
+      412,
+      823,
+      1233,
+      1642
+    ],
+    "packaging": {
+      "sourceSize": [
+        1642,
+        958
+      ],
+      "rowCuts": [
+        0,
+        325,
+        638,
+        958
+      ],
+      "columnCuts": [
+        0,
+        412,
+        823,
+        1233,
+        1642
+      ],
+      "rowBaselineRegistration": [
+        [
+          0,
+          41
+        ],
+        [
+          0,
+          41
+        ],
+        [
+          1,
+          41
+        ],
+        [
+          1,
+          41
+        ],
+        [
+          0,
+          55
+        ],
+        [
+          0,
+          55
+        ],
+        [
+          1,
+          55
+        ],
+        [
+          1,
+          55
+        ],
+        [
+          0,
+          61
+        ],
+        [
+          0,
+          61
+        ],
+        [
+          1,
+          61
+        ],
+        [
+          1,
+          61
+        ]
+      ],
+      "unionCrop": [
+        15,
+        71,
+        396,
+        352
+      ],
+      "sharedScale": 0.5338078291814946,
+      "frameSize": [
+        288,
+        168
+      ],
+      "origin": [
+        0,
+        0
+      ],
+      "trajectory": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          0
+        ]
+      ]
+    },
+    "frameFiles": [
+      "new-scenes/frames/R12-v1/000.png",
+      "new-scenes/frames/R12-v1/001.png",
+      "new-scenes/frames/R12-v1/002.png",
+      "new-scenes/frames/R12-v1/003.png",
+      "new-scenes/frames/R12-v1/004.png",
+      "new-scenes/frames/R12-v1/005.png",
+      "new-scenes/frames/R12-v1/006.png",
+      "new-scenes/frames/R12-v1/007.png",
+      "new-scenes/frames/R12-v1/008.png",
+      "new-scenes/frames/R12-v1/009.png",
+      "new-scenes/frames/R12-v1/010.png",
+      "new-scenes/frames/R12-v1/011.png"
+    ],
+    "sourceSha256": "8a1543e35a32a9432afd1569a5d3984a00aa2941927f82ecfcd45c5e2a4ad95c",
+    "frameSha256": [
+      "75a24676180b5e339ce11302936f80cbf6224b3b0af70f78bd71452435d3d69f",
+      "ab583f49ac3acb04d3bce0e02a86025861605047ca306200c9fb14b8264d370f",
+      "70daeff8527ba456be1274291d1d693a58bee6767eb2ebedcf4e428020cb11fb",
+      "fd1114afadf57fe97ddd6d75b8b16414b0013347dfeb992f9bf5309d9f40218f",
+      "d15b9a4223143b81bcf4d49c6aa354b44d69d927a2fe5ca8f5d9fa133047c534",
+      "5a817ebba6714df4e325dbf7cfffdff241545352c35bcea469eb283fa1eaf590",
+      "4685b9f656d9f6b231705f7754369261734d6acdab517f9c86a53366e414e7c6",
+      "2062c4591db7ebf2feafb711e3b5bea48142de1245870815001ec4b6af65d566",
+      "337b800315d70bf0c49eac6482f3abdd5c047343c888a6ae7bae00514c07d4ce",
+      "00e728c204c6673c2467ae407051da014a99121045cf2a6a17c7b30df49e2768",
+      "e1fa722bc69268ad571aa6ccf421d5cd2392065b9b25a27552067620766fc07d",
+      "7c39e3b30be9dbe8b32a0c49966de189dae113eb040a477621b7fc7bc13f488b"
+    ],
+    "bytes": 73182,
+    "sha256": "b3ee71fe52517370c3201ef389d4a43c13528321e4d099a8cdfe4a7620f93f5f",
+    "sourceBytes": 1233728,
+    "qa": {
+      "reviewer": "Codex visual and technical review; principal reviewer controls merge",
+      "date": "2026-10-12",
+      "frameByFrame": true,
+      "backgrounds": [
+        "light",
+        "dark",
+        "blue"
+      ],
+      "scales": [
+        1,
+        3
+      ],
+      "browserTemporalSamples": 12,
+      "evidence": "evidence/R12/",
+      "remainingLimitation": "Pesca recreativa contemporánea y desenlace cómico inventado; no representa técnicas, especies ni competencias tradicionales. Raster key poses; Chromium verified, physical devices not tested."
+    }
+  },
+  {
+    "order": 57,
+    "id": "R13",
+    "title": "R13 · Encontrando el ritmo al remar",
+    "category": "Rapa Nui",
+    "pack": "new",
+    "batch": "rapanui-03",
+    "rapanuiOrder": 13,
+    "version": 1,
+    "status": "approved",
+    "frames": 16,
+    "durations": [
+      500,
+      320,
+      320,
+      320,
+      320,
+      320,
+      320,
+      320,
+      320,
+      320,
+      320,
+      320,
+      320,
+      320,
+      320,
+      620
+    ],
+    "cycles": 1,
+    "still": 14,
+    "source": "new-scenes/sources/R13-v1.png",
+    "src": "new-scenes/atlases/moa-R13-v1.png",
+    "generator": "Integrated image_gen",
+    "reference": "references/moa-neutral.png",
+    "prompt": "new-scenes/prompts/R13.txt",
+    "context": "Paseo ficticio en canoa moderna con chalecos y un amigo animal imaginario; no representa fauna local, Vaka Ama ni técnica ancestral.",
+    "culturalReferences": [
+      {
+        "url": "https://www.rapanui.net/secciones/3144",
+        "supports": "Paseo ficticio en canoa moderna con chalecos y un amigo animal imaginario; no representa fauna local, Vaka Ama ni técnica ancestral."
+      }
+    ],
+    "review": "Sources and every delivered frame reviewed on light, dark and blue at real size; enlarged browser captures and temporal samples passed.",
+    "sourceColumns": [
+      0,
+      424,
+      821,
+      1240,
+      1642
+    ],
+    "packaging": {
+      "sourceSize": [
+        1642,
+        958
+      ],
+      "rowCuts": [
+        0,
+        244,
+        491,
+        725,
+        958
+      ],
+      "columnCuts": [
+        0,
+        424,
+        821,
+        1240,
+        1642
+      ],
+      "rowBaselineRegistration": [
+        [
+          0,
+          54
+        ],
+        [
+          13,
+          54
+        ],
+        [
+          2,
+          54
+        ],
+        [
+          11,
+          54
+        ],
+        [
+          0,
+          45
+        ],
+        [
+          13,
+          45
+        ],
+        [
+          2,
+          45
+        ],
+        [
+          11,
+          45
+        ],
+        [
+          0,
+          58
+        ],
+        [
+          13,
+          58
+        ],
+        [
+          2,
+          58
+        ],
+        [
+          11,
+          58
+        ],
+        [
+          0,
+          63
+        ],
+        [
+          13,
+          63
+        ],
+        [
+          2,
+          63
+        ],
+        [
+          11,
+          63
+        ]
+      ],
+      "unionCrop": [
+        44,
+        72,
+        402,
+        274
+      ],
+      "sharedScale": 0.6368715083798883,
+      "frameSize": [
+        288,
+        168
+      ],
+      "origin": [
+        0,
+        0
+      ],
+      "trajectory": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          0
+        ]
+      ]
+    },
+    "frameFiles": [
+      "new-scenes/frames/R13-v1/000.png",
+      "new-scenes/frames/R13-v1/001.png",
+      "new-scenes/frames/R13-v1/002.png",
+      "new-scenes/frames/R13-v1/003.png",
+      "new-scenes/frames/R13-v1/004.png",
+      "new-scenes/frames/R13-v1/005.png",
+      "new-scenes/frames/R13-v1/006.png",
+      "new-scenes/frames/R13-v1/007.png",
+      "new-scenes/frames/R13-v1/008.png",
+      "new-scenes/frames/R13-v1/009.png",
+      "new-scenes/frames/R13-v1/010.png",
+      "new-scenes/frames/R13-v1/011.png",
+      "new-scenes/frames/R13-v1/012.png",
+      "new-scenes/frames/R13-v1/013.png",
+      "new-scenes/frames/R13-v1/014.png",
+      "new-scenes/frames/R13-v1/015.png"
+    ],
+    "sourceSha256": "a57bf57265d7843f3920e43ac4f1849bd154d54feec08eb47b0677bbe5a6b177",
+    "frameSha256": [
+      "5c2059d0534921406f471b0628f14db619c10924b682315de516ecbffdb6aea1",
+      "f116b207a14bda05effe7d4e42ee5d2d23021f9f2cfbff53d61caf619422c79d",
+      "530ad9f6e95574f20c1279a9f3448bea8292e18c374b75f43cc8b00f56b17a56",
+      "2521786c440cf909be02e8fa9eae025a3d06c1299f1c28838a001ddf5b1b3d72",
+      "701ef911028f6db069c206604363168ff056dbc48a477d95ed727da06a58fa4d",
+      "a90b0dacee6f4f15d2c738dbeaff674a412fc5d5d372b186018672f8d521256b",
+      "1cfb36151a2c2591783471ebb329dbfdc0f9e5fdd42f2b2b41c04b1110d71c52",
+      "acd3e99d28a624ba7d5dd2cd48a2ed6d8ac35c2c6bec5071620361bb6563ad5b",
+      "46cb54a494aa56a85f85cc2b67760475907081df2bfae15195b13edc9ce22044",
+      "68cd49568d2294a6db9defb23d295863baaeb30c52805979209973d6a103f08a",
+      "2cf960934663a1a3bec6b272ec39a48b93222cedb3f6fbba424a4d5d40229c83",
+      "5be7e6eb090b718c92466d1242956c37c118c61a473736b6f8df5cef7861dda7",
+      "20cb5e59cf17d532a8701951e441d8cbc83520e56abfc0819b365c294ce69763",
+      "fe973d839109446e7f7998109f7053acd23dc1cc9aa64bbbae10f88f70c619ac",
+      "eb489090453752f5c4631a4f2ca19c7197666701adaa0e98f5fef194019ec838",
+      "d94ba81d3faca6ccf9c71890d45f8f71e23bd8244f89b58cda9a8eb0c260c0d6"
+    ],
+    "bytes": 123033,
+    "sha256": "015e84f36e63211758c342c871e25c79721bea57cd820a57a7f51b709a6713fd",
+    "sourceBytes": 1445642,
+    "qa": {
+      "reviewer": "Codex visual and technical review; principal reviewer controls merge",
+      "date": "2026-10-12",
+      "frameByFrame": true,
+      "backgrounds": [
+        "light",
+        "dark",
+        "blue"
+      ],
+      "scales": [
+        1,
+        3
+      ],
+      "browserTemporalSamples": 16,
+      "evidence": "evidence/R13/",
+      "remainingLimitation": "Paseo ficticio en canoa moderna con chalecos y un amigo animal imaginario; no representa fauna local, Vaka Ama ni técnica ancestral. Raster key poses; Chromium verified, physical devices not tested."
+    }
+  },
+  {
+    "order": 58,
+    "id": "R14",
+    "title": "R14 · Carrera con plátanos",
+    "category": "Rapa Nui",
+    "pack": "new",
+    "batch": "rapanui-03",
+    "rapanuiOrder": 14,
+    "version": 1,
+    "status": "approved",
+    "frames": 16,
+    "durations": [
+      500,
+      320,
+      320,
+      320,
+      320,
+      320,
+      320,
+      320,
+      320,
+      320,
+      320,
+      320,
+      320,
+      320,
+      320,
+      620
+    ],
+    "cycles": 1,
+    "still": 14,
+    "source": "new-scenes/sources/R14-v1.png",
+    "src": "new-scenes/atlases/moa-R14-v1.png",
+    "generator": "Integrated image_gen",
+    "reference": "references/moa-neutral.png",
+    "prompt": "new-scenes/prompts/R14.txt",
+    "context": "Viñeta inspirada en Aka Venga: vara y dos racimos simplificados, sin peso ni circuito reales. No representa una competencia vigente en Rano Raraku ni reconstruye vestuario ancestral.",
+    "culturalReferences": [
+      {
+        "url": "https://imaginarapanui.com/dia-de-los-deportes-ancestrales-rapa-nui/",
+        "supports": "Viñeta inspirada en Aka Venga: vara y dos racimos simplificados, sin peso ni circuito reales. No representa una competencia vigente en Rano Raraku ni reconstruye vestuario ancestral."
+      }
+    ],
+    "review": "Sources and every delivered frame reviewed on light, dark and blue at real size; enlarged browser captures and temporal samples passed.",
+    "sourceColumns": [
+      0,
+      419,
+      829,
+      1228,
+      1642
+    ],
+    "packaging": {
+      "sourceSize": [
+        1642,
+        958
+      ],
+      "rowCuts": [
+        0,
+        244,
+        476,
+        709,
+        958
+      ],
+      "columnCuts": [
+        0,
+        419,
+        829,
+        1228,
+        1642
+      ],
+      "rowBaselineRegistration": [
+        [
+          0,
+          39
+        ],
+        [
+          4,
+          39
+        ],
+        [
+          10,
+          39
+        ],
+        [
+          2,
+          39
+        ],
+        [
+          0,
+          48
+        ],
+        [
+          4,
+          48
+        ],
+        [
+          10,
+          48
+        ],
+        [
+          2,
+          48
+        ],
+        [
+          0,
+          48
+        ],
+        [
+          4,
+          48
+        ],
+        [
+          10,
+          48
+        ],
+        [
+          2,
+          48
+        ],
+        [
+          0,
+          55
+        ],
+        [
+          4,
+          55
+        ],
+        [
+          10,
+          55
+        ],
+        [
+          2,
+          55
+        ]
+      ],
+      "unionCrop": [
+        56,
+        53,
+        370,
+        277
+      ],
+      "sharedScale": 0.6696428571428571,
+      "frameSize": [
+        288,
+        168
+      ],
+      "origin": [
+        0,
+        0
+      ],
+      "trajectory": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          0
+        ]
+      ]
+    },
+    "frameFiles": [
+      "new-scenes/frames/R14-v1/000.png",
+      "new-scenes/frames/R14-v1/001.png",
+      "new-scenes/frames/R14-v1/002.png",
+      "new-scenes/frames/R14-v1/003.png",
+      "new-scenes/frames/R14-v1/004.png",
+      "new-scenes/frames/R14-v1/005.png",
+      "new-scenes/frames/R14-v1/006.png",
+      "new-scenes/frames/R14-v1/007.png",
+      "new-scenes/frames/R14-v1/008.png",
+      "new-scenes/frames/R14-v1/009.png",
+      "new-scenes/frames/R14-v1/010.png",
+      "new-scenes/frames/R14-v1/011.png",
+      "new-scenes/frames/R14-v1/012.png",
+      "new-scenes/frames/R14-v1/013.png",
+      "new-scenes/frames/R14-v1/014.png",
+      "new-scenes/frames/R14-v1/015.png"
+    ],
+    "sourceSha256": "fd0407171c4e6bce28facda92cad8c988c61cfb9078cfa54fa168b23215076ac",
+    "frameSha256": [
+      "f73d04aaec698fd142b0bc81e904367e1d5ef603a4c6af837ccd8b9b6a2aa43f",
+      "a4ce1e8a7f5b90a1eb422cf70d914291a24404104b6dd7424d0a86d1fc74b901",
+      "15ece69835ac584a97d6708d6ce12db18a463fd22beff916fdfb180f52380e36",
+      "948cf4616f9332ae1bec094607379433eb2b8fc2f7ff34fe38bc117c2d2797df",
+      "9601284e7b88a0e39949823d6a1aafd66ca8095e31001ebb61d018d4f6430c72",
+      "03aa360ec722f8a2918c1437a65896fdeb6e58c7b92d11c67579e2d2f6e87266",
+      "0002100ba59f60233b27e52b8d76a1b5088793121694c3049ce5f97f202ff704",
+      "5379a811377ddfba8b5b027974bcc16588ea734db1ca61903573bf83451100a8",
+      "d3dfab768a95226fd6676dfbb795c73b5cd26634c664267dad78e98e0eb81765",
+      "b0e3f0d81962db7824aa2cfada0a71d5d17673f69d74cd7d9c65146625ba82af",
+      "2a87ad870185ad7fc67186acab4c70d3763a80d41228200827972eb6aee6380c",
+      "7d4307921273784437a203f49f6227a26859528c8f164a9c3fcb1e43a4733c9e",
+      "12bd805366943630cfc9e3748f7ab500bc077d3e1dfb4b56366dce44269305e6",
+      "97954289b8c3b8e6fa75fb56260471643d9fd557f55aa27861b2d65208f73680",
+      "d9e6e33c97685d38f4b417397e5040acc7e231d7d373b952acc3c04ca19469eb",
+      "99c4b13c92343f7c3ea1d7581b728949077c0bafef79a6b496de824f10df216f"
+    ],
+    "bytes": 133175,
+    "sha256": "60c47c4a2249fc92bee444d3fb3ae4a00463236c93da27cfd5579fc11d2724de",
+    "sourceBytes": 1377360,
+    "qa": {
+      "reviewer": "Codex visual and technical review; principal reviewer controls merge",
+      "date": "2026-10-12",
+      "frameByFrame": true,
+      "backgrounds": [
+        "light",
+        "dark",
+        "blue"
+      ],
+      "scales": [
+        1,
+        3
+      ],
+      "browserTemporalSamples": 16,
+      "evidence": "evidence/R14/",
+      "remainingLimitation": "Viñeta inspirada en Aka Venga: vara y dos racimos simplificados, sin peso ni circuito reales. No representa una competencia vigente en Rano Raraku ni reconstruye vestuario ancestral. Raster key poses; Chromium verified, physical devices not tested."
+    }
+  },
+  {
+    "order": 59,
+    "id": "R15",
+    "title": "R15 · Compartiendo umu",
+    "category": "Rapa Nui",
+    "pack": "new",
+    "batch": "rapanui-03",
+    "rapanuiOrder": 15,
+    "version": 3,
+    "status": "approved",
+    "frames": 12,
+    "durations": [
+      500,
+      350,
+      350,
+      350,
+      350,
+      350,
+      350,
+      350,
+      350,
+      350,
+      350,
+      600
+    ],
+    "cycles": 1,
+    "still": 10,
+    "source": "new-scenes/sources/R15-v3.png",
+    "src": "new-scenes/atlases/moa-R15-v3.png",
+    "generator": "Integrated image_gen",
+    "reference": "references/moa-neutral.png",
+    "prompt": "new-scenes/prompts/R15.txt",
+    "context": "Reparto ficticio de porciones de camote ya cocido sobre hoja de plátano; no muestra preparación ni atribuye ceremonia o receta.",
+    "culturalReferences": [
+      {
+        "url": "https://2023.serindigena.org/insular/rapa-nui/gastronomia/",
+        "supports": "Reparto ficticio de porciones de camote ya cocido sobre hoja de plátano; no muestra preparación ni atribuye ceremonia o receta."
+      }
+    ],
+    "review": "Sources and every delivered frame reviewed on light, dark and blue at real size; enlarged browser captures and temporal samples passed.",
+    "correctionPrompts": [
+      "new-scenes/prompts/R15-correction.txt",
+      "new-scenes/prompts/R15-correction-2.txt"
+    ],
+    "rejectedSources": [
+      {
+        "source": "new-scenes/sources/R15-v1.png",
+        "reason": "Porción y plato sin continuidad."
+      },
+      {
+        "source": "new-scenes/sources/R15-v2.png",
+        "reason": "Celdas demasiado juntas para una extracción sin recortes."
+      }
+    ],
+    "sourceColumns": [
+      0,
+      426,
+      826,
+      1223,
+      1642
+    ],
+    "packaging": {
+      "sourceSize": [
+        1642,
+        958
+      ],
+      "rowCuts": [
+        0,
+        333,
+        624,
+        958
+      ],
+      "columnCuts": [
+        0,
+        426,
+        826,
+        1223,
+        1642
+      ],
+      "rowBaselineRegistration": [
+        [
+          0,
+          50
+        ],
+        [
+          13,
+          50
+        ],
+        [
+          14,
+          50
+        ],
+        [
+          3,
+          50
+        ],
+        [
+          0,
+          94
+        ],
+        [
+          13,
+          94
+        ],
+        [
+          14,
+          94
+        ],
+        [
+          3,
+          94
+        ],
+        [
+          0,
+          94
+        ],
+        [
+          13,
+          94
+        ],
+        [
+          14,
+          94
+        ],
+        [
+          3,
+          94
+        ]
+      ],
+      "unionCrop": [
+        16,
+        120,
+        407,
+        360
+      ],
+      "sharedScale": 0.5831202046035806,
+      "frameSize": [
+        288,
+        168
+      ],
+      "origin": [
+        0,
+        0
+      ],
+      "trajectory": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          0
+        ]
+      ]
+    },
+    "frameFiles": [
+      "new-scenes/frames/R15-v3/000.png",
+      "new-scenes/frames/R15-v3/001.png",
+      "new-scenes/frames/R15-v3/002.png",
+      "new-scenes/frames/R15-v3/003.png",
+      "new-scenes/frames/R15-v3/004.png",
+      "new-scenes/frames/R15-v3/005.png",
+      "new-scenes/frames/R15-v3/006.png",
+      "new-scenes/frames/R15-v3/007.png",
+      "new-scenes/frames/R15-v3/008.png",
+      "new-scenes/frames/R15-v3/009.png",
+      "new-scenes/frames/R15-v3/010.png",
+      "new-scenes/frames/R15-v3/011.png"
+    ],
+    "sourceSha256": "8f0df9dcad3b1a84da9a5535834cf5ba7e4faf139ea5377ab76b963fc86f5779",
+    "frameSha256": [
+      "9d4bffaa61e42d5c982ec57a6b1cc016489a5763274f0f74bff8c1d2bb43a6ad",
+      "691e3afd8fd287d4207240f26ab46d2775ba8cb61c6c9c13cdc042176881030c",
+      "2f55dbe3b812726a87b3223ff56ffab3fd600b606ab2c99f5d31ea5ac0d67817",
+      "70e458708b44efe306e73383b036622401bed55e08076c4e24e520f2cfc05385",
+      "50603288e8f7e83994a31a0560ac56bbe9a6d7b6e7a913c71ef9df4ad5fc4d2f",
+      "eb47391a858d5717b48ba57c98fd5f9f3b03e5b9365daa6648536eb31f6c824c",
+      "267fae6ddab7c595b48f9a841f9b83a8fa3b3d1c5ec880c30259d5734ed77839",
+      "c2909a61368b2084cc655d0fe6d02b5ef910d327a9774fdcf33ce1bfea99c8d1",
+      "6ffeb2dc1846f68d72315cf010b6698600a6351a3f9571e18b706df378f45b5c",
+      "47f3a70a644f767bd217951cac1e3472940274fd572ad628d495056f6c9dd68e",
+      "58d0ea1838da676b851f65fa3fccee354ded31fcb3caabca98aa27f445c58d38",
+      "5a38951fec89c6bd8db43a1b0b628f17bfacbc39623e8db0c789daae1974a4ad"
+    ],
+    "bytes": 108070,
+    "sha256": "7efac72e1e900213535bbc58bc02c5e97de7cc97bcc8725dc114e0e54880629f",
+    "sourceBytes": 1708432,
+    "qa": {
+      "reviewer": "Codex visual and technical review; principal reviewer controls merge",
+      "date": "2026-10-12",
+      "frameByFrame": true,
+      "backgrounds": [
+        "light",
+        "dark",
+        "blue"
+      ],
+      "scales": [
+        1,
+        3
+      ],
+      "browserTemporalSamples": 12,
+      "evidence": "evidence/R15/",
+      "remainingLimitation": "Reparto ficticio de porciones de camote ya cocido sobre hoja de plátano; no muestra preparación ni atribuye ceremonia o receta. Raster key poses; Chromium verified, physical devices not tested."
+    }
   }
 ]
