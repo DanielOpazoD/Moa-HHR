@@ -9,8 +9,8 @@ Son viñetas artísticas de un personaje ficticio, no reconstrucciones etnográf
 | Bloque | Códigos | Acciones                                               | Estado                      |
 | ------ | ------- | ------------------------------------------------------ | --------------------------- |
 | 1      | R01–R05 | Flores, brisa, piña, poʻe, ukulele                     | Integrado en PR #8 |
-| 2      | R06–R10 | Sau-sau, kai-kai, manavai, toromiro, tortuga           | Revisado; R07 adaptado     |
-| 3      | R11–R15 | Costa limpia, pesca, remos, carrera con plátanos, umu  | Pendiente                   |
+| 2      | R06–R10 | Sau-sau, kai-kai, manavai, toromiro, tortuga           | Integrado en PR #9; R07 adaptado     |
+| 3      | R11–R15 | Costa limpia, pesca, remos, carrera con plátanos, umu  | Revisado; preparado para PR                   |
 | 4      | R16–R20 | Tejido, celebración, memoria cotidiana, sendero, Tahai | Pendiente                   |
 
 ## Referencias del bloque 1
@@ -36,3 +36,13 @@ Bloque 1: 64 poses, 374.642 bytes; máximo 120.889 por atlas. Catálogo acumulad
 - **R08 — Pequeño manavai.** [CONAF, Jardín Demostrativo Manavai](https://www.conaf.cl/jardin-demostrativo-manavai-conservacion-de-la-biodiversidad-de-rapa-nui/), texto y fotografía inspeccionados: recinto circular de piedras volcánicas, humedad y protección frente al viento. Se representa un jardín contemporáneo pequeño con una planta de hojas anchas; Moa no interviene un monumento arqueológico. La altura y capacidad protectora están simplificadas visualmente. El enlace externo `manavairapanui.org` redirigió a contenido ajeno al proyecto al consultarlo: se excluyó como evidencia y se usa CONAF.
 - **R09 — Cuidando toromiro.** [Plan de Conservación del Toromiro](https://plantoromiro.org/educacion/vision-general-del-toromiro/) y fotografía de plántula atribuida allí a Óscar Fernández/Jardín Botánico Nacional; [Fundación R. A. Philippi](https://fundacionphilippi.cl/catalogo/sophora-toromiro/) para hojas compuestas y folíolos elípticos pequeños. Se conserva esa morfología, sin flores en la plántula ni crecimiento instantáneo. Trasplante, riego y protector son una viñeta de vivero, no un protocolo técnico ni una recomendación de plantación silvestre. No se reproduce el dato de longitud foliar ambiguo de la página del Plan.
 - **R10 — Encuentro con tortuga.** [Municipalidad de Rapa Nui, recordatorio de no tocar ni alimentar](https://www.facebook.com/MuniRapaNui/posts/lamentable-p%C3%A9rdida-de-tortuga-en-el-sector-de-motu-hava-producto-de-una-h%C3%A9lice-d/2310939702313591/) y [reproducción periodística del decálogo Sernatur](https://www.biobiochile.cl/noticias/turismo-y-viajes/destinos/2019/09/24/no-tocar-moais-y-tortugas-no-grabar-con-drones-gobierno-publica-reglas-para-turistas-en-rapa-nui.shtml). Observación desde tierra, sin tocar, alimentar o perseguir; tortuga marina con aletas, sin atribuir especie. Distancia visual comprimida para el sprite, no escala métrica de aproximación.
+
+## Referencias del bloque 3
+
+Consultadas el 12 de octubre de 2026.
+
+- **R11 — Costa limpia entre amigos.** [Municipalidad de Rapa Nui: jornada de limpieza costera](https://www.facebook.com/MuniRapaNui/videos/hoy-la-municipalidad-de-rapanui-haretavana-particip%C3%B3-y-colabor%C3%B3-en-la-limpieza-c/372204323724741/). Acción contemporánea ficticia con una botella y guantes; no procedimiento para residuos peligrosos.
+- **R12 — Una pequeña alga.** [Portal local de competencias](https://www.rapanui.net/secciones/3144) permite distinguir las modalidades locales de la escena: aquí hay caña recreativa contemporánea y un desenlace cómico inventado, no Here Koreha, Patia Mata Rou o Hi Kua. No se atribuye especie al alga.
+- **R13 — Encontrando el ritmo al remar.** La misma fuente describe Vaka Ama en embarcación de totora. La escena usa deliberadamente una canoa moderna y chalecos; no representa esa modalidad. El compañero animal es imaginario, no fauna de la isla. Coordinación abreviada, no clase de navegación.
+- **R14 — Carrera con plátanos.** [Imagina Rapa Nui: deportes](https://imaginarapanui.com/dia-de-los-deportes-ancestrales-rapa-nui/) describe una vara sobre los hombros con racimos en ambos extremos; [Municipalidad](https://x.com/muni_rapanui/status/1226635968821841922) documenta Aka Venga. Vara, racimos, carga y vestuario simplificados para Moa; sin peso real ni recorrido arqueológico. No se afirma vigencia de la antigua prueba dentro de Rano Raraku. Dos fotografías no pudieron descargarse (403 y 406); no se sortearon esos bloqueos ni se usaron como referencia visual.
+- **R15 — Compartiendo umu.** [Portal de las Culturas Originarias: gastronomía](https://2023.serindigena.org/insular/rapa-nui/gastronomia/) documenta cocción con piedras y hojas de plátano y alimentos como camote. Se muestra únicamente reparto ficticio de porciones cocidas sobre una hoja; sin proceso de cocción ni rito atribuido.

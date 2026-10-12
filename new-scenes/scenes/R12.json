@@ -1,0 +1,191 @@
+{
+  "order": 56,
+  "id": "R12",
+  "title": "R12 · Una pequeña alga",
+  "category": "Rapa Nui",
+  "pack": "new",
+  "batch": "rapanui-03",
+  "rapanuiOrder": 12,
+  "version": 1,
+  "status": "approved",
+  "frames": 12,
+  "durations": [
+    500,
+    350,
+    350,
+    350,
+    350,
+    350,
+    350,
+    350,
+    350,
+    350,
+    350,
+    600
+  ],
+  "cycles": 1,
+  "still": 10,
+  "source": "new-scenes/sources/R12-v1.png",
+  "src": "new-scenes/atlases/moa-R12-v1.png",
+  "generator": "Integrated image_gen",
+  "reference": "references/moa-neutral.png",
+  "prompt": "new-scenes/prompts/R12.txt",
+  "context": "Pesca recreativa contemporánea y desenlace cómico inventado; no representa técnicas, especies ni competencias tradicionales.",
+  "culturalReferences": [
+    {
+      "url": "https://www.rapanui.net/secciones/3144",
+      "supports": "Pesca recreativa contemporánea y desenlace cómico inventado; no representa técnicas, especies ni competencias tradicionales."
+    }
+  ],
+  "review": "Sources and every delivered frame reviewed on light, dark and blue at real size; enlarged browser captures and temporal samples passed.",
+  "sourceColumns": [
+    0,
+    412,
+    823,
+    1233,
+    1642
+  ],
+  "packaging": {
+    "sourceSize": [
+      1642,
+      958
+    ],
+    "rowCuts": [
+      0,
+      325,
+      638,
+      958
+    ],
+    "columnCuts": [
+      0,
+      412,
+      823,
+      1233,
+      1642
+    ],
+    "rowBaselineRegistration": [
+      [
+        0,
+        41
+      ],
+      [
+        0,
+        41
+      ],
+      [
+        1,
+        41
+      ],
+      [
+        1,
+        41
+      ],
+      [
+        0,
+        55
+      ],
+      [
+        0,
+        55
+      ],
+      [
+        1,
+        55
+      ],
+      [
+        1,
+        55
+      ],
+      [
+        0,
+        61
+      ],
+      [
+        0,
+        61
+      ],
+      [
+        1,
+        61
+      ],
+      [
+        1,
+        61
+      ]
+    ],
+    "unionCrop": [
+      15,
+      71,
+      396,
+      352
+    ],
+    "sharedScale": 0.5338078291814946,
+    "frameSize": [
+      288,
+      168
+    ],
+    "origin": [
+      0,
+      0
+    ],
+    "trajectory": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ]
+    ]
+  },
+  "frameFiles": [
+    "new-scenes/frames/R12-v1/000.png",
+    "new-scenes/frames/R12-v1/001.png",
+    "new-scenes/frames/R12-v1/002.png",
+    "new-scenes/frames/R12-v1/003.png",
+    "new-scenes/frames/R12-v1/004.png",
+    "new-scenes/frames/R12-v1/005.png",
+    "new-scenes/frames/R12-v1/006.png",
+    "new-scenes/frames/R12-v1/007.png",
+    "new-scenes/frames/R12-v1/008.png",
+    "new-scenes/frames/R12-v1/009.png",
+    "new-scenes/frames/R12-v1/010.png",
+    "new-scenes/frames/R12-v1/011.png"
+  ],
+  "sourceSha256": "8a1543e35a32a9432afd1569a5d3984a00aa2941927f82ecfcd45c5e2a4ad95c",
+  "frameSha256": [
+    "75a24676180b5e339ce11302936f80cbf6224b3b0af70f78bd71452435d3d69f",
+    "ab583f49ac3acb04d3bce0e02a86025861605047ca306200c9fb14b8264d370f",
+    "70daeff8527ba456be1274291d1d693a58bee6767eb2ebedcf4e428020cb11fb",
+    "fd1114afadf57fe97ddd6d75b8b16414b0013347dfeb992f9bf5309d9f40218f",
+    "d15b9a4223143b81bcf4d49c6aa354b44d69d927a2fe5ca8f5d9fa133047c534",
+    "5a817ebba6714df4e325dbf7cfffdff241545352c35bcea469eb283fa1eaf590",
+    "4685b9f656d9f6b231705f7754369261734d6acdab517f9c86a53366e414e7c6",
+    "2062c4591db7ebf2feafb711e3b5bea48142de1245870815001ec4b6af65d566",
+    "337b800315d70bf0c49eac6482f3abdd5c047343c888a6ae7bae00514c07d4ce",
+    "00e728c204c6673c2467ae407051da014a99121045cf2a6a17c7b30df49e2768",
+    "e1fa722bc69268ad571aa6ccf421d5cd2392065b9b25a27552067620766fc07d",
+    "7c39e3b30be9dbe8b32a0c49966de189dae113eb040a477621b7fc7bc13f488b"
+  ],
+  "bytes": 73182,
+  "sha256": "b3ee71fe52517370c3201ef389d4a43c13528321e4d099a8cdfe4a7620f93f5f",
+  "sourceBytes": 1233728,
+  "qa": {
+    "reviewer": "Codex visual and technical review; principal reviewer controls merge",
+    "date": "2026-10-12",
+    "frameByFrame": true,
+    "backgrounds": [
+      "light",
+      "dark",
+      "blue"
+    ],
+    "scales": [
+      1,
+      3
+    ],
+    "browserTemporalSamples": 12,
+    "evidence": "evidence/R12/",
+    "remainingLimitation": "Pesca recreativa contemporánea y desenlace cómico inventado; no representa técnicas, especies ni competencias tradicionales. Raster key poses; Chromium verified, physical devices not tested."
+  }
+}
