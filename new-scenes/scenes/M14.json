@@ -1,0 +1,200 @@
+{
+  "order": 78,
+  "id": "M14",
+  "title": "M14 · Salto por una manzana",
+  "category": "Cultura popular mundial",
+  "pack": "new",
+  "batch": "world-03",
+  "worldOrder": 14,
+  "version": 3,
+  "status": "approved",
+  "frames": 12,
+  "durations": [
+    500,
+    350,
+    350,
+    350,
+    350,
+    350,
+    350,
+    350,
+    350,
+    350,
+    350,
+    600
+  ],
+  "cycles": 1,
+  "still": 11,
+  "source": "new-scenes/sources/M14-v3.png",
+  "src": "new-scenes/atlases/moa-M14-v3.png",
+  "generator": "Integrated image_gen",
+  "reference": "references/moa-neutral.png",
+  "prompt": "new-scenes/prompts/M14.txt",
+  "context": "Homenaje ficticio a los juegos de plataformas de Mario: un salto entre bloques y una manzana. Moa conserva su diseño, sin disfraz ni escenario de un juego concreto.",
+  "inspirationReferences": [],
+  "review": "Sources and every delivered frame reviewed on light, dark and blue at real size; enlarged browser captures and temporal samples passed.",
+  "sourceColumns": [
+    0,
+    410,
+    821,
+    1232,
+    1642
+  ],
+  "packaging": {
+    "sourceSize": [
+      1642,
+      958
+    ],
+    "rowCuts": [
+      0,
+      333,
+      657,
+      958
+    ],
+    "columnCuts": [
+      0,
+      410,
+      821,
+      1232,
+      1642
+    ],
+    "rowBaselineRegistration": [
+      [
+        0,
+        40
+      ],
+      [
+        0,
+        40
+      ],
+      [
+        0,
+        40
+      ],
+      [
+        0,
+        40
+      ],
+      [
+        0,
+        54
+      ],
+      [
+        0,
+        54
+      ],
+      [
+        0,
+        54
+      ],
+      [
+        0,
+        54
+      ],
+      [
+        0,
+        91
+      ],
+      [
+        0,
+        91
+      ],
+      [
+        0,
+        91
+      ],
+      [
+        0,
+        91
+      ]
+    ],
+    "unionCrop": [
+      32,
+      69,
+      379,
+      361
+    ],
+    "sharedScale": 0.5136986301369864,
+    "frameSize": [
+      288,
+      168
+    ],
+    "origin": [
+      0,
+      0
+    ],
+    "trajectory": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ]
+    ]
+  },
+  "frameFiles": [
+    "new-scenes/frames/M14-v3/000.png",
+    "new-scenes/frames/M14-v3/001.png",
+    "new-scenes/frames/M14-v3/002.png",
+    "new-scenes/frames/M14-v3/003.png",
+    "new-scenes/frames/M14-v3/004.png",
+    "new-scenes/frames/M14-v3/005.png",
+    "new-scenes/frames/M14-v3/006.png",
+    "new-scenes/frames/M14-v3/007.png",
+    "new-scenes/frames/M14-v3/008.png",
+    "new-scenes/frames/M14-v3/009.png",
+    "new-scenes/frames/M14-v3/010.png",
+    "new-scenes/frames/M14-v3/011.png"
+  ],
+  "sourceSha256": "455d21eca33cf08c7fa2d732ed035d6608c3d9231bd5297b25dbdcfe95d530d4",
+  "frameSha256": [
+    "3615ed4b9bdaa82e85f7388b3afcfa03c9f8bb85699d21061c4e583dfd78e0e7",
+    "9b3a6dd3918f2ee7c993bec5e5505e469a5250d1f11a5ce96d3f104454027fad",
+    "117045f6c7bb79ab719f121c110aff3037c09e4441e0cef45e2821f61c2794a3",
+    "98792c943ab70e59b9d990b825541d87f405bc72933f08b9692c9d36bd9b29bd",
+    "73ab0c27a142bd959919e321fc77caaa7f396a5188dac47899886fdce445b2ae",
+    "8c69f68ec7653974b79e015ca17b77ffc8bf4cba86d8f4c1399c1c1510280187",
+    "7598817f39c045354b9761e1072e9e65224c17b34b633179fb69cc0c7a54941d",
+    "659f0826939cd175fa862a1d32a3fcdb324943f62d58145aa63ad68eadcab4a7",
+    "d5ff1b122db8b2b272eaf3881ad872409356ac1c6aa61993d1d2de4845f73fb9",
+    "89567f56a8427d7fefa9fa64a69f54a307b5fc6f98f07e3e9098a969ee1fb194",
+    "d6874a37671a6d2e9b677b0f34b90705cb44c19946aef1a5ba1f9e8e16f8beeb",
+    "4520964bc8158f184fdb28f33c4520633a2105dbec63b2782ce5df73c896e970"
+  ],
+  "bytes": 49443,
+  "sha256": "8a9a8e42e6cab24dc8cc0eadf6cbee4283ae4cd2b9ccf9dfde8fa80dbaa12cb4",
+  "correctionPrompts": [
+    "new-scenes/prompts/M14-correction.txt",
+    "new-scenes/prompts/M14-correction-2.txt"
+  ],
+  "rejectedSources": [
+    {
+      "source": "new-scenes/sources/M14-v1.png",
+      "reason": "La manzana desaparece antes de recogerse y los bloques cambian de ancho."
+    },
+    {
+      "source": "new-scenes/sources/M14-v2.png",
+      "reason": "Persiste el cambio de tamaño y separación de las plataformas."
+    }
+  ],
+  "sourceBytes": 881496,
+  "qa": {
+    "reviewer": "Codex visual and technical review; principal reviewer controls merge",
+    "date": "2026-10-12",
+    "frameByFrame": true,
+    "backgrounds": [
+      "light",
+      "dark",
+      "blue"
+    ],
+    "scales": [
+      1,
+      3
+    ],
+    "browserTemporalSamples": 12,
+    "evidence": "evidence/M14/",
+    "remainingLimitation": "Homenaje ficticio a los juegos de plataformas de Mario: un salto entre bloques y una manzana. Moa conserva su diseño, sin disfraz ni escenario de un juego concreto. Raster key poses; Chromium verified, physical devices not tested."
+  }
+}

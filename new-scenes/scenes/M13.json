@@ -1,0 +1,200 @@
+{
+  "order": 77,
+  "id": "M13",
+  "title": "M13 · Un pequeño compañero",
+  "category": "Cultura popular mundial",
+  "pack": "new",
+  "batch": "world-03",
+  "worldOrder": 13,
+  "version": 2,
+  "status": "approved",
+  "frames": 12,
+  "durations": [
+    500,
+    350,
+    350,
+    350,
+    350,
+    350,
+    350,
+    350,
+    350,
+    350,
+    350,
+    600
+  ],
+  "cycles": 1,
+  "still": 11,
+  "source": "new-scenes/sources/M13-v2.png",
+  "src": "new-scenes/atlases/moa-M13-v2.png",
+  "generator": "Integrated image_gen",
+  "reference": "references/moa-neutral.png",
+  "prompt": "new-scenes/prompts/M13.txt",
+  "context": "Homenaje ficticio a la amistad con criaturas coleccionables de Pokémon. La criatura verde y la cápsula lavanda son diseños propios, sin representar una especie existente.",
+  "inspirationReferences": [
+    {
+      "url": "https://www.pokemon.com/us",
+      "supports": "Homenaje ficticio a la amistad con criaturas coleccionables de Pokémon. La criatura verde y la cápsula lavanda son diseños propios, sin representar una especie existente."
+    }
+  ],
+  "review": "Sources and every delivered frame reviewed on light, dark and blue at real size; enlarged browser captures and temporal samples passed.",
+  "sourceColumns": [
+    0,
+    415,
+    829,
+    1224,
+    1642
+  ],
+  "packaging": {
+    "sourceSize": [
+      1642,
+      958
+    ],
+    "rowCuts": [
+      0,
+      336,
+      636,
+      958
+    ],
+    "columnCuts": [
+      0,
+      415,
+      829,
+      1224,
+      1642
+    ],
+    "rowBaselineRegistration": [
+      [
+        1,
+        36
+      ],
+      [
+        2,
+        36
+      ],
+      [
+        11,
+        36
+      ],
+      [
+        0,
+        36
+      ],
+      [
+        1,
+        68
+      ],
+      [
+        2,
+        68
+      ],
+      [
+        11,
+        68
+      ],
+      [
+        0,
+        68
+      ],
+      [
+        1,
+        70
+      ],
+      [
+        2,
+        70
+      ],
+      [
+        11,
+        70
+      ],
+      [
+        0,
+        70
+      ]
+    ],
+    "unionCrop": [
+      56,
+      77,
+      374,
+      363
+    ],
+    "sharedScale": 0.5244755244755245,
+    "frameSize": [
+      288,
+      168
+    ],
+    "origin": [
+      0,
+      0
+    ],
+    "trajectory": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ]
+    ]
+  },
+  "frameFiles": [
+    "new-scenes/frames/M13-v2/000.png",
+    "new-scenes/frames/M13-v2/001.png",
+    "new-scenes/frames/M13-v2/002.png",
+    "new-scenes/frames/M13-v2/003.png",
+    "new-scenes/frames/M13-v2/004.png",
+    "new-scenes/frames/M13-v2/005.png",
+    "new-scenes/frames/M13-v2/006.png",
+    "new-scenes/frames/M13-v2/007.png",
+    "new-scenes/frames/M13-v2/008.png",
+    "new-scenes/frames/M13-v2/009.png",
+    "new-scenes/frames/M13-v2/010.png",
+    "new-scenes/frames/M13-v2/011.png"
+  ],
+  "sourceSha256": "6ab1fda4a49131a03fb2c1154d2b65d24fdc694fa0bb9a5b4ada4d11efecf32b",
+  "frameSha256": [
+    "55669b7ed18d25d610436c04ec94ce54a5f11736ce29846d3a1ef513f35eb1da",
+    "99eae36ef9d1706da27289534c46a05d52f81af4dd372c357518cb5da8207345",
+    "a8b2d481fb6ee32f3e58a55d8592f02a61691a38460b1de19a493c470f6849ec",
+    "8a891c00aaf81d6490b077b369a5733c562ecbc7d828dfd0a93b63d0ec0c8a4b",
+    "7e54437fd389f2f1121651a2c8814d25f37e82e2ba76083c3be29303fe984758",
+    "ce1758867eb06c2ac9c9944f3c627ad205a5af451a5132ba1df6c427478fbc3b",
+    "7c891ca86e1046b62ca15817fa54fe8cfa8886868a607c27dd564cbd27583eda",
+    "d5db972151b8765acf91bdc8098966c1e288c1c0673cf65aab2483c413bfb0ac",
+    "993e9da526de9f661893b98469cedb44e8df51ac613b28c6a87dc273918c43be",
+    "7aecde05ad19c61c6484af6f6979767bdad7980d4725672dbcd8b531b070b1c7",
+    "ed73900ab39a42e1f43cf2cb0803ce4e84bbfb18ba6ea44a7632019eeda0e2d7",
+    "83a88163da52a4a3b8debeb2c9aa694debd4493484b40d2b3cb6188a2dc3b11d"
+  ],
+  "bytes": 60479,
+  "sha256": "23ead9ef590a215eecfed7fb0cd351822e58b67a6df8f084d62078a87cc34aeb",
+  "correctionPrompts": [
+    "new-scenes/prompts/M13-correction.txt"
+  ],
+  "rejectedSources": [
+    {
+      "source": "new-scenes/sources/M13-v1.png",
+      "reason": "La bisagra de la cápsula cambiaba de lado al abrirse."
+    }
+  ],
+  "sourceBytes": 1094443,
+  "qa": {
+    "reviewer": "Codex visual and technical review; principal reviewer controls merge",
+    "date": "2026-10-12",
+    "frameByFrame": true,
+    "backgrounds": [
+      "light",
+      "dark",
+      "blue"
+    ],
+    "scales": [
+      1,
+      3
+    ],
+    "browserTemporalSamples": 12,
+    "evidence": "evidence/M13/",
+    "remainingLimitation": "Homenaje ficticio a la amistad con criaturas coleccionables de Pokémon. La criatura verde y la cápsula lavanda son diseños propios, sin representar una especie existente. Raster key poses; Chromium verified, physical devices not tested."
+  }
+}

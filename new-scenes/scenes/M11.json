@@ -1,0 +1,210 @@
+{
+  "order": 75,
+  "id": "M11",
+  "title": "M11 · Merienda en misión",
+  "category": "Cultura popular mundial",
+  "pack": "new",
+  "batch": "world-03",
+  "worldOrder": 11,
+  "version": 4,
+  "status": "approved",
+  "frames": 12,
+  "durations": [
+    500,
+    350,
+    350,
+    350,
+    350,
+    350,
+    350,
+    350,
+    350,
+    350,
+    350,
+    600
+  ],
+  "cycles": 1,
+  "still": 11,
+  "source": "new-scenes/sources/M11-v4.png",
+  "src": "new-scenes/atlases/moa-M11-v4.png",
+  "generator": "Integrated image_gen",
+  "reference": "references/moa-neutral.png",
+  "prompt": "new-scenes/prompts/M11.txt",
+  "context": "Homenaje ficticio a Mission: Impossible con arnés teatral, galleta y campanilla. La suspensión es una simplificación gráfica, no una guía de acrobacias.",
+  "inspirationReferences": [
+    {
+      "url": "https://www.paramount.com/movies/mission-impossible",
+      "supports": "Homenaje ficticio a Mission: Impossible con arnés teatral, galleta y campanilla. La suspensión es una simplificación gráfica, no una guía de acrobacias."
+    }
+  ],
+  "review": "Sources and every delivered frame reviewed on light, dark and blue at real size; enlarged browser captures and temporal samples passed.",
+  "sourceColumns": [
+    0,
+    422,
+    819,
+    1221,
+    1642
+  ],
+  "packaging": {
+    "sourceSize": [
+      1642,
+      958
+    ],
+    "rowCuts": [
+      0,
+      329,
+      637,
+      958
+    ],
+    "columnCuts": [
+      0,
+      422,
+      819,
+      1221,
+      1642
+    ],
+    "rowBaselineRegistration": [
+      [
+        0,
+        41
+      ],
+      [
+        12,
+        41
+      ],
+      [
+        10,
+        41
+      ],
+      [
+        0,
+        41
+      ],
+      [
+        0,
+        61
+      ],
+      [
+        12,
+        61
+      ],
+      [
+        10,
+        61
+      ],
+      [
+        0,
+        61
+      ],
+      [
+        0,
+        67
+      ],
+      [
+        12,
+        67
+      ],
+      [
+        10,
+        67
+      ],
+      [
+        0,
+        67
+      ]
+    ],
+    "unionCrop": [
+      47,
+      77,
+      380,
+      356
+    ],
+    "sharedScale": 0.5376344086021505,
+    "frameSize": [
+      288,
+      168
+    ],
+    "origin": [
+      0,
+      0
+    ],
+    "trajectory": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ]
+    ]
+  },
+  "frameFiles": [
+    "new-scenes/frames/M11-v4/000.png",
+    "new-scenes/frames/M11-v4/001.png",
+    "new-scenes/frames/M11-v4/002.png",
+    "new-scenes/frames/M11-v4/003.png",
+    "new-scenes/frames/M11-v4/004.png",
+    "new-scenes/frames/M11-v4/005.png",
+    "new-scenes/frames/M11-v4/006.png",
+    "new-scenes/frames/M11-v4/007.png",
+    "new-scenes/frames/M11-v4/008.png",
+    "new-scenes/frames/M11-v4/009.png",
+    "new-scenes/frames/M11-v4/010.png",
+    "new-scenes/frames/M11-v4/011.png"
+  ],
+  "sourceSha256": "c85aa6e05ed1d5f62dcc2353d6a301af9fc2d9b8d63f458809c35d0c220f3cd8",
+  "frameSha256": [
+    "d24852fafdc099c92bbc5189dcc8f4f21ecd44bcb12873f6c77de2474500d929",
+    "31dcd46b98b99d105ddcf4a1d1be39e710240c276bf851ba60fa64623933d609",
+    "b8d2d45f81e392fdafad5859f430f3f4febf049bc6d81fc701949b6c4e036893",
+    "711ecca0bdb420318ff135e5a447314c1eece668a7553398bcfdc2fdbf7f9c15",
+    "8a74c80dfee29a19564a2dbbc7b25b589bb884ff7e16953c5e3a8f86c17befeb",
+    "8e3c4bc57e9339cbe26b5b69416220859d2d8d7d7ea299f648dbc7e412ddfa39",
+    "cb3cb45738b6746871aa13cb4434e0024ab272c7e451f22d57b2cd3dcf5adbb0",
+    "504b9d7d8119c9f457681ef68b05b32c12d86e22da2027fbdb5a912ff3ef4ea5",
+    "8909b0179a324760b1cca1de58db802bf071f6296ab88713a80473c4bb075e2f",
+    "236dc47d9cec214e8eb4df9d1052cac3e0c86c4b09fb33b47760a562ab5536b9",
+    "d5a3973f9c049f295407676f85526b50dbcd9b8ba4708b864abe9b641ebff1b3",
+    "ca071f54262ccd4f4e3be9e9b5d0255462af4d50c1045bc1d79a14b056476c7a"
+  ],
+  "bytes": 80178,
+  "sha256": "1227fcd84251eef83387c990697e7c64ba298acd9680bcb10dc23eef32ba65aa",
+  "correctionPrompts": [
+    "new-scenes/prompts/M11-correction.txt",
+    "new-scenes/prompts/M11-correction-2.txt",
+    "new-scenes/prompts/M11-correction-3.txt"
+  ],
+  "rejectedSources": [
+    {
+      "source": "new-scenes/sources/M11-v1.png",
+      "reason": "La suspensión se lee demasiado cerca de la cabeza."
+    },
+    {
+      "source": "new-scenes/sources/M11-v2.png",
+      "reason": "Persiste la lectura ambigua del punto de suspensión."
+    },
+    {
+      "source": "new-scenes/sources/M11-v3.png",
+      "reason": "Arnés legible, pero falta la ola visible del pecho."
+    }
+  ],
+  "sourceBytes": 1277452,
+  "qa": {
+    "reviewer": "Codex visual and technical review; principal reviewer controls merge",
+    "date": "2026-10-12",
+    "frameByFrame": true,
+    "backgrounds": [
+      "light",
+      "dark",
+      "blue"
+    ],
+    "scales": [
+      1,
+      3
+    ],
+    "browserTemporalSamples": 12,
+    "evidence": "evidence/M11/",
+    "remainingLimitation": "Homenaje ficticio a Mission: Impossible con arnés teatral, galleta y campanilla. La suspensión es una simplificación gráfica, no una guía de acrobacias. Raster key poses; Chromium verified, physical devices not tested."
+  }
+}
