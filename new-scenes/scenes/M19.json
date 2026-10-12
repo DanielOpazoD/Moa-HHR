@@ -1,0 +1,195 @@
+{
+  "order": 83,
+  "id": "M19",
+  "title": "M19 · Paraguas compartido",
+  "category": "Cultura popular mundial",
+  "pack": "new",
+  "batch": "world-04",
+  "worldOrder": 19,
+  "version": 2,
+  "status": "approved",
+  "frames": 12,
+  "durations": [
+    500,
+    350,
+    350,
+    350,
+    350,
+    350,
+    350,
+    350,
+    350,
+    350,
+    350,
+    600
+  ],
+  "cycles": 1,
+  "still": 11,
+  "source": "new-scenes/sources/M19-v2.png",
+  "src": "new-scenes/atlases/moa-M19-v2.png",
+  "generator": "Integrated image_gen",
+  "reference": "references/moa-neutral.png",
+  "prompt": "new-scenes/prompts/M19.txt",
+  "context": "Homenaje ficticio a la ternura de Totoro: Moa comparte un paraguas con un compañero lavanda original y ambos reaccionan a una gota. No representa al personaje del filme.",
+  "inspirationReferences": [],
+  "review": "Sources and every delivered frame reviewed on light, dark and blue at real size; enlarged browser captures and temporal samples passed.",
+  "sourceColumns": [
+    0,
+    422,
+    821,
+    1231,
+    1641
+  ],
+  "packaging": {
+    "sourceSize": [
+      1641,
+      958
+    ],
+    "rowCuts": [
+      0,
+      331,
+      645,
+      958
+    ],
+    "columnCuts": [
+      0,
+      422,
+      821,
+      1231,
+      1641
+    ],
+    "rowBaselineRegistration": [
+      [
+        0,
+        36
+      ],
+      [
+        11,
+        36
+      ],
+      [
+        6,
+        36
+      ],
+      [
+        6,
+        36
+      ],
+      [
+        0,
+        59
+      ],
+      [
+        11,
+        59
+      ],
+      [
+        6,
+        59
+      ],
+      [
+        6,
+        59
+      ],
+      [
+        0,
+        93
+      ],
+      [
+        11,
+        93
+      ],
+      [
+        6,
+        93
+      ],
+      [
+        6,
+        93
+      ]
+    ],
+    "unionCrop": [
+      67,
+      70,
+      370,
+      359
+    ],
+    "sharedScale": 0.5190311418685121,
+    "frameSize": [
+      288,
+      168
+    ],
+    "origin": [
+      0,
+      0
+    ],
+    "trajectory": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ]
+    ]
+  },
+  "frameFiles": [
+    "new-scenes/frames/M19-v2/000.png",
+    "new-scenes/frames/M19-v2/001.png",
+    "new-scenes/frames/M19-v2/002.png",
+    "new-scenes/frames/M19-v2/003.png",
+    "new-scenes/frames/M19-v2/004.png",
+    "new-scenes/frames/M19-v2/005.png",
+    "new-scenes/frames/M19-v2/006.png",
+    "new-scenes/frames/M19-v2/007.png",
+    "new-scenes/frames/M19-v2/008.png",
+    "new-scenes/frames/M19-v2/009.png",
+    "new-scenes/frames/M19-v2/010.png",
+    "new-scenes/frames/M19-v2/011.png"
+  ],
+  "sourceSha256": "5727d609608ae2cadb1ccaa11ca8d6ab93aa0a742cd18ee340067914f17c9fe8",
+  "frameSha256": [
+    "f73952fa6603eb3f7202ed25d3cc76dc74da921325a39bfb2ad8ae20bef93930",
+    "69df8f81440d00fef527ae4a79c4a4bc0f2eeece41c1c7d223de592b2683e236",
+    "a5d664a51ae94219371dc4a55ae8875886352142e39a5e03b3e51d8844e76886",
+    "36e63530c52b62c79bad86710c3a4f9aa9cd877245a2c307e1147e53cdb0bc89",
+    "4682feeb6ade940e6ef477b891bbd0666548db98e790ee1aec94cae2afcfaf88",
+    "1bb38921479097af19f174bd5a09172b833e77d640006d4d3c7ada74d92d9f22",
+    "c544a0d492e8e27804274e2813c2be87d6d745e2946e023a189ff49f2afd8012",
+    "37be4c638cea25ff8f9b63fa01203dd12c52078dd93a70e76f5168d86a81ba14",
+    "4e2f036d04408d1add1e22856b75d37b3253f2d7023c0433000a48adda1555e3",
+    "301f1817f7f841c2b78058fe6a7ec9fd5732bf8d29dfd3d5e000bdabf7927489",
+    "0633a091e7cc3748f01b7dd5da87e3c525969668d3c2e1054e435550eeb3c0ea",
+    "a14c013bf032671f23e6a190b4a86f6f6b4d8573486b92c58a27b8c638ae6b2b"
+  ],
+  "bytes": 72757,
+  "sha256": "a96d21d475ecc6070255d7dbec195ad9c6e4100dd57dd71c798fceae30964ea0",
+  "correctionPrompts": [
+    "new-scenes/prompts/M19-correction.txt"
+  ],
+  "rejectedSources": [
+    {
+      "source": "new-scenes/sources/M19-v1.png",
+      "reason": "Márgenes inferiores escasos y símbolos de vientre innecesarios en el compañero."
+    }
+  ],
+  "sourceBytes": 1221892,
+  "qa": {
+    "reviewer": "Codex visual and technical review; principal reviewer controls merge",
+    "date": "2026-10-12",
+    "frameByFrame": true,
+    "backgrounds": [
+      "light",
+      "dark",
+      "blue"
+    ],
+    "scales": [
+      1,
+      3
+    ],
+    "browserTemporalSamples": 12,
+    "evidence": "evidence/M19/",
+    "remainingLimitation": "Homenaje ficticio a la ternura de Totoro: Moa comparte un paraguas con un compañero lavanda original y ambos reaccionan a una gota. No representa al personaje del filme. Raster key poses; Chromium verified, physical devices not tested."
+  }
+}
