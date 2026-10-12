@@ -2314,5 +2314,752 @@
       "evidence": "evidence/birthday/",
       "remainingLimitation": "Illustrated raster key poses, not vector rigging or a smooth interpolated character. Dense group/text details are clearer enlarged."
     }
+  },
+  {
+    "order": 15,
+    "id": "shy-wave",
+    "title": "Saludo tímido → entusiasmo",
+    "category": "Expresión",
+    "pack": "new",
+    "batch": "gestures-01",
+    "expansionOrder": 1,
+    "version": 1,
+    "status": "approved",
+    "frames": 8,
+    "durations": [
+      600,
+      450,
+      450,
+      550,
+      700,
+      550,
+      400,
+      800
+    ],
+    "cycles": 1,
+    "still": 5,
+    "source": "new-scenes/sources/shy-wave-v1.png",
+    "src": "new-scenes/atlases/moa-shy-wave-v1.png",
+    "generator": "Integrated image_gen",
+    "reference": "references/moa-neutral.png",
+    "prompt": "new-scenes/prompts/shy-wave.txt",
+    "review": "Timidez inicial con manos juntas y mirada lateral evoluciona a saludo abierto; distinta del entusiasmo inmediato de wave-v2. Ocho poses revisadas en los tres fondos y en navegador.",
+    "packaging": {
+      "sourceSize": [
+        1643,
+        957
+      ],
+      "rowCuts": [
+        0,
+        490,
+        957
+      ],
+      "columnCuts": [
+        0,
+        410,
+        820,
+        1230,
+        1640
+      ],
+      "rowBaselineRegistration": [
+        [
+          0,
+          64
+        ],
+        [
+          0,
+          64
+        ],
+        [
+          0,
+          64
+        ],
+        [
+          0,
+          64
+        ],
+        [
+          0,
+          134
+        ],
+        [
+          0,
+          134
+        ],
+        [
+          0,
+          134
+        ],
+        [
+          0,
+          134
+        ]
+      ],
+      "unionCrop": [
+        29,
+        174,
+        388,
+        517
+      ],
+      "sharedScale": 0.43731778425655976,
+      "frameSize": [
+        288,
+        168
+      ],
+      "origin": [
+        0,
+        0
+      ],
+      "trajectory": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          0
+        ]
+      ]
+    },
+    "frameFiles": [
+      "new-scenes/frames/shy-wave-v1/000.png",
+      "new-scenes/frames/shy-wave-v1/001.png",
+      "new-scenes/frames/shy-wave-v1/002.png",
+      "new-scenes/frames/shy-wave-v1/003.png",
+      "new-scenes/frames/shy-wave-v1/004.png",
+      "new-scenes/frames/shy-wave-v1/005.png",
+      "new-scenes/frames/shy-wave-v1/006.png",
+      "new-scenes/frames/shy-wave-v1/007.png"
+    ],
+    "sourceSha256": "8c5e7c457da825b53bcf4f57b7119c3ea2d8373000a97b54c2c5e3a86c72a83c",
+    "frameSha256": [
+      "52ecbcfe05705918aa72605d9c0ff3ed7fd149cb44df5b294c2338559ccd804e",
+      "a1fdc46bd2c6c6d723868683c415f2950286610f674ff199419106d80b35875c",
+      "63a88d406a62c32a7e43227cda4b40558830f3db027c83d962d1d625e60ccdc6",
+      "e362fedbbe7cffdbd544ee13540e29d71e3ba0494b54f0ad1b7e6f04d46b9248",
+      "35111cc1902283f3b59a2b99ba278e7a22c3991342f4da2bc1c5ff7ba88e9300",
+      "d959d6c8088dc0574209d8e2248302b1c81a02082f9e7fd17747193c74a8984b",
+      "f8e8cb846aa8292c7592a06227ca4d9dbad91ead42602570d6e340eb0a06d27d",
+      "cffab7df3b416e3d88963b3d1c925007ee0de99d6e3fee2339233221feb15385"
+    ],
+    "bytes": 36261,
+    "sha256": "237eb429d75553480f98c3fa37f1e26ec3ba3cafbd8deaf14779b8efffe054be",
+    "sourceBytes": 898986,
+    "qa": {
+      "reviewer": "Codex visual and technical review; final reviewer handles merge",
+      "date": "2026-10-12",
+      "frameByFrame": true,
+      "backgrounds": [
+        "light",
+        "dark",
+        "blue"
+      ],
+      "scales": [
+        1,
+        3
+      ],
+      "browserTemporalSamples": 8,
+      "evidence": "evidence/shy-wave/",
+      "remainingLimitation": "Raster key poses, not a vector rig; Chromium verified, physical devices not tested."
+    }
+  },
+  {
+    "order": 16,
+    "id": "calm-breath",
+    "title": "Respiración tranquila",
+    "category": "Expresión",
+    "pack": "new",
+    "batch": "gestures-01",
+    "expansionOrder": 2,
+    "version": 1,
+    "status": "approved",
+    "frames": 8,
+    "durations": [
+      640,
+      480,
+      480,
+      587,
+      747,
+      587,
+      427,
+      852
+    ],
+    "cycles": 1,
+    "still": 4,
+    "source": "new-scenes/sources/calm-breath-v1.png",
+    "src": "new-scenes/atlases/moa-calm-breath-v1.png",
+    "generator": "Integrated image_gen",
+    "reference": "references/moa-neutral.png",
+    "prompt": "new-scenes/prompts/calm-breath.txt",
+    "review": "Pecho, hombros y codos cambian de dibujo con ojos cerrados; no se escala el personaje. Respiración lúdica, sin frecuencias ni instrucciones.",
+    "packaging": {
+      "sourceSize": [
+        1642,
+        958
+      ],
+      "rowCuts": [
+        0,
+        495,
+        958
+      ],
+      "columnCuts": [
+        0,
+        410,
+        820,
+        1230,
+        1640
+      ],
+      "rowBaselineRegistration": [
+        [
+          0,
+          62
+        ],
+        [
+          0,
+          62
+        ],
+        [
+          0,
+          62
+        ],
+        [
+          0,
+          62
+        ],
+        [
+          0,
+          106
+        ],
+        [
+          0,
+          106
+        ],
+        [
+          0,
+          106
+        ],
+        [
+          0,
+          106
+        ]
+      ],
+      "unionCrop": [
+        43,
+        127,
+        361,
+        522
+      ],
+      "sharedScale": 0.379746835443038,
+      "frameSize": [
+        288,
+        168
+      ],
+      "origin": [
+        0,
+        0
+      ],
+      "trajectory": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          0
+        ]
+      ]
+    },
+    "frameFiles": [
+      "new-scenes/frames/calm-breath-v1/000.png",
+      "new-scenes/frames/calm-breath-v1/001.png",
+      "new-scenes/frames/calm-breath-v1/002.png",
+      "new-scenes/frames/calm-breath-v1/003.png",
+      "new-scenes/frames/calm-breath-v1/004.png",
+      "new-scenes/frames/calm-breath-v1/005.png",
+      "new-scenes/frames/calm-breath-v1/006.png",
+      "new-scenes/frames/calm-breath-v1/007.png"
+    ],
+    "sourceSha256": "9da11ca496343727e43a57a8964a04cdbd13872ad286050dea7d39e0141486b5",
+    "frameSha256": [
+      "f24af2c9f7117f15c5fc6c4a9632a89f94399a342e77594dbb5fc55fcaeea571",
+      "fb080f7a666d846c1484adec6bf47dbc99273390f373ba442db313b2cf4c40ff",
+      "5b7b5c318132eef893a33ae397283d21c41d96a66b802359af8c04f50bb624d2",
+      "c39e74a0bde4da654ec4eb6f4f01fe8a360854d12b2b6be897718929330f692e",
+      "32a1520b9907c0e421faa2e6245cebbab1e0da557c56eccd0b5bb47a09ba6e64",
+      "5bae65357e263098fb527152cf8a59a8277a405c109bab2920b61d8870a78614",
+      "027e9d2b07d0d03e6a44c827f0ea38dbc5ad18263862d315e38564e9c1762697",
+      "25abb31db6f0ccc478015963bcd710c8ea5c3f943a6d23b1ee42644656533580"
+    ],
+    "bytes": 31848,
+    "sha256": "2504e0899b7a142b209d38810c04462c240f2359d42c03f53984b8263fa7c091",
+    "sourceBytes": 1018308,
+    "qa": {
+      "reviewer": "Codex visual and technical review; final reviewer handles merge",
+      "date": "2026-10-12",
+      "frameByFrame": true,
+      "backgrounds": [
+        "light",
+        "dark",
+        "blue"
+      ],
+      "scales": [
+        1,
+        3
+      ],
+      "browserTemporalSamples": 8,
+      "evidence": "evidence/calm-breath/",
+      "remainingLimitation": "Raster key poses, not a vector rig; Chromium verified, physical devices not tested."
+    }
+  },
+  {
+    "order": 17,
+    "id": "surprise",
+    "title": "Sorpresa y recuperación",
+    "category": "Expresión",
+    "pack": "new",
+    "batch": "gestures-01",
+    "expansionOrder": 3,
+    "version": 1,
+    "status": "approved",
+    "frames": 8,
+    "durations": [
+      560,
+      420,
+      420,
+      513,
+      653,
+      513,
+      373,
+      748
+    ],
+    "cycles": 1,
+    "still": 3,
+    "source": "new-scenes/sources/surprise-v1.png",
+    "src": "new-scenes/atlases/moa-surprise-v1.png",
+    "generator": "Integrated image_gen",
+    "reference": "references/moa-neutral.png",
+    "prompt": "new-scenes/prompts/surprise.txt",
+    "review": "Mirada, manos junto a mejillas, pico de sorpresa y alivio; codos y expresión legibles.",
+    "packaging": {
+      "sourceSize": [
+        1642,
+        958
+      ],
+      "rowCuts": [
+        0,
+        482,
+        958
+      ],
+      "columnCuts": [
+        0,
+        410,
+        820,
+        1230,
+        1640
+      ],
+      "rowBaselineRegistration": [
+        [
+          0,
+          49
+        ],
+        [
+          0,
+          49
+        ],
+        [
+          0,
+          49
+        ],
+        [
+          0,
+          49
+        ],
+        [
+          0,
+          79
+        ],
+        [
+          0,
+          79
+        ],
+        [
+          0,
+          79
+        ],
+        [
+          0,
+          79
+        ]
+      ],
+      "unionCrop": [
+        51,
+        100,
+        353,
+        509
+      ],
+      "sharedScale": 0.36674816625916873,
+      "frameSize": [
+        288,
+        168
+      ],
+      "origin": [
+        0,
+        0
+      ],
+      "trajectory": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          0
+        ]
+      ]
+    },
+    "frameFiles": [
+      "new-scenes/frames/surprise-v1/000.png",
+      "new-scenes/frames/surprise-v1/001.png",
+      "new-scenes/frames/surprise-v1/002.png",
+      "new-scenes/frames/surprise-v1/003.png",
+      "new-scenes/frames/surprise-v1/004.png",
+      "new-scenes/frames/surprise-v1/005.png",
+      "new-scenes/frames/surprise-v1/006.png",
+      "new-scenes/frames/surprise-v1/007.png"
+    ],
+    "sourceSha256": "b975cf25872fef691cd41685ea82c10354e3281e8fba45ddbc6d679444ff6bfa",
+    "frameSha256": [
+      "518a523ad3e4acf94b4f4fe8a46650b54fe946fe05790d8e68a72c696ff7dbca",
+      "b395b6c27f36a214fb581e77c08346dbdba4aacf9ade78d387aa7f6a0d183e6d",
+      "0801bb4deda6488f57eed29facc074e4827dafaeb39ca5e9a0850125309aa058",
+      "3e23bfa5a23cb8eee63a5279b0f7d0c22d541e0841df4c1ae37e3cbfdc0776e6",
+      "91b919e57e0e530001196749f58d0bd0903b6f0ee85daffacf7f862bed6cbee9",
+      "7dcd965159743dba97fe1d2b26d45615740eaf5288ba51ba0401428c6bf2d99b",
+      "c8adb9c22ce4bc9b992b56a1bd3a873db3aad53baf909d8bd84b4b80134fcf1d",
+      "8679eb26cd1902ce6947552a87101e7165a705ecfd0f7fa23ff177ac107a8f00"
+    ],
+    "bytes": 29479,
+    "sha256": "0f24829f8baf95fe89dd4b84913e422474274349c14d40f14e02e1bbd1d3c0c9",
+    "sourceBytes": 1114885,
+    "qa": {
+      "reviewer": "Codex visual and technical review; final reviewer handles merge",
+      "date": "2026-10-12",
+      "frameByFrame": true,
+      "backgrounds": [
+        "light",
+        "dark",
+        "blue"
+      ],
+      "scales": [
+        1,
+        3
+      ],
+      "browserTemporalSamples": 8,
+      "evidence": "evidence/surprise/",
+      "remainingLimitation": "Raster key poses, not a vector rig; Chromium verified, physical devices not tested."
+    }
+  },
+  {
+    "order": 18,
+    "id": "bashful",
+    "title": "Vergüenza y sonrisa escondida",
+    "category": "Expresión",
+    "pack": "new",
+    "batch": "gestures-01",
+    "expansionOrder": 4,
+    "version": 1,
+    "status": "approved",
+    "frames": 8,
+    "durations": [
+      640,
+      480,
+      480,
+      587,
+      747,
+      587,
+      427,
+      852
+    ],
+    "cycles": 1,
+    "still": 4,
+    "source": "new-scenes/sources/bashful-v1.png",
+    "src": "new-scenes/atlases/moa-bashful-v1.png",
+    "generator": "Integrated image_gen",
+    "reference": "references/moa-neutral.png",
+    "prompt": "new-scenes/prompts/bashful.txt",
+    "review": "Mirada lateral y sonrisa parcialmente escondida entre manos; ojos y orejas visibles. Cortes de origen explícitos evitan contaminación de vecinos.",
+    "sourceColumns": [
+      68,
+      448,
+      828,
+      1208,
+      1588
+    ],
+    "packaging": {
+      "sourceSize": [
+        1642,
+        958
+      ],
+      "rowCuts": [
+        0,
+        478,
+        958
+      ],
+      "columnCuts": [
+        68,
+        448,
+        828,
+        1208,
+        1588
+      ],
+      "rowBaselineRegistration": [
+        [
+          0,
+          39
+        ],
+        [
+          0,
+          39
+        ],
+        [
+          0,
+          39
+        ],
+        [
+          0,
+          39
+        ],
+        [
+          0,
+          71
+        ],
+        [
+          0,
+          71
+        ],
+        [
+          0,
+          71
+        ],
+        [
+          0,
+          71
+        ]
+      ],
+      "unionCrop": [
+        26,
+        83,
+        351,
+        507
+      ],
+      "sharedScale": 0.35377358490566035,
+      "frameSize": [
+        288,
+        168
+      ],
+      "origin": [
+        0,
+        0
+      ],
+      "trajectory": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          0
+        ]
+      ]
+    },
+    "frameFiles": [
+      "new-scenes/frames/bashful-v1/000.png",
+      "new-scenes/frames/bashful-v1/001.png",
+      "new-scenes/frames/bashful-v1/002.png",
+      "new-scenes/frames/bashful-v1/003.png",
+      "new-scenes/frames/bashful-v1/004.png",
+      "new-scenes/frames/bashful-v1/005.png",
+      "new-scenes/frames/bashful-v1/006.png",
+      "new-scenes/frames/bashful-v1/007.png"
+    ],
+    "sourceSha256": "874c2b4011c7c544fd8b574fb2131dcbb6ce4274af1eca6adfba999fdbcd3c9f",
+    "frameSha256": [
+      "a904bc85f9a3e69d9cf2d03ff31dc92ec9dbda9ca39918e7e5119ef3af622e55",
+      "21cdd57d55d5dc41d453a239af823c358e28e85aeb9cdeb5a36429e7bb35bd63",
+      "d1207720f9140bdca9eba0d6eb4658348325e9ab198533056987607ab58993be",
+      "88374ed43bf33e91329a4454db8c410cff954fc7fc4f78470f42be432248640d",
+      "568c56d639511b82928295b793d3ad684c082a63fdbf72334b7c76170629bed5",
+      "f6419fd3156025c133e0a8c7c83f6ef24ead4222f4f5890aa252295d9b473a91",
+      "9d95562b5610705979de600507835f2b133d6ced0433b8f00ee7f82f6aba5a53",
+      "b641edf878cf4e60d3ced5770f7a41fc6e39e852a32b5fb27ca2cd4d0daf747d"
+    ],
+    "bytes": 30006,
+    "sha256": "5a9b81701aeeded2116ddc7a98ad935083a4e8200b8c28e21be08b730a50b1e3",
+    "sourceBytes": 1137222,
+    "qa": {
+      "reviewer": "Codex visual and technical review; final reviewer handles merge",
+      "date": "2026-10-12",
+      "frameByFrame": true,
+      "backgrounds": [
+        "light",
+        "dark",
+        "blue"
+      ],
+      "scales": [
+        1,
+        3
+      ],
+      "browserTemporalSamples": 8,
+      "evidence": "evidence/bashful/",
+      "remainingLimitation": "Raster key poses, not a vector rig; Chromium verified, physical devices not tested."
+    }
+  },
+  {
+    "order": 19,
+    "id": "quiet-pride",
+    "title": "Orgullo discreto",
+    "category": "Expresión",
+    "pack": "new",
+    "batch": "gestures-01",
+    "expansionOrder": 5,
+    "version": 2,
+    "status": "approved",
+    "frames": 8,
+    "durations": [
+      587,
+      440,
+      440,
+      538,
+      684,
+      538,
+      391,
+      782
+    ],
+    "cycles": 1,
+    "still": 4,
+    "source": "new-scenes/sources/quiet-pride-v2.png",
+    "src": "new-scenes/atlases/moa-quiet-pride-v2.png",
+    "generator": "Integrated image_gen",
+    "reference": "references/moa-neutral.png",
+    "prompt": "new-scenes/prompts/quiet-pride.txt",
+    "review": "Postura erguida y asentimiento pequeño. Fuente v2 corrige brazo: mantiene mano en cadera durante poses 3–6 y la baja progresivamente.",
+    "packaging": {
+      "sourceSize": [
+        1642,
+        958
+      ],
+      "rowCuts": [
+        0,
+        480,
+        958
+      ],
+      "columnCuts": [
+        0,
+        410,
+        820,
+        1230,
+        1640
+      ],
+      "rowBaselineRegistration": [
+        [
+          0,
+          49
+        ],
+        [
+          0,
+          49
+        ],
+        [
+          0,
+          49
+        ],
+        [
+          0,
+          49
+        ],
+        [
+          0,
+          74
+        ],
+        [
+          0,
+          74
+        ],
+        [
+          0,
+          74
+        ],
+        [
+          0,
+          74
+        ]
+      ],
+      "unionCrop": [
+        42,
+        92,
+        368,
+        507
+      ],
+      "sharedScale": 0.3614457831325301,
+      "frameSize": [
+        288,
+        168
+      ],
+      "origin": [
+        0,
+        0
+      ],
+      "trajectory": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          0
+        ]
+      ]
+    },
+    "frameFiles": [
+      "new-scenes/frames/quiet-pride-v2/000.png",
+      "new-scenes/frames/quiet-pride-v2/001.png",
+      "new-scenes/frames/quiet-pride-v2/002.png",
+      "new-scenes/frames/quiet-pride-v2/003.png",
+      "new-scenes/frames/quiet-pride-v2/004.png",
+      "new-scenes/frames/quiet-pride-v2/005.png",
+      "new-scenes/frames/quiet-pride-v2/006.png",
+      "new-scenes/frames/quiet-pride-v2/007.png"
+    ],
+    "sourceSha256": "c5495fe10c4429170dc7a98970b19b868986a4e921a1f82652044c17b496b969",
+    "frameSha256": [
+      "d891f7678c3bd109ba1e971b7424947b1b12dae9c789ceee3583c6a2260844b7",
+      "a7151a14c2540e4419d88b894aaa407463ffb851acd420705cf9dafe0f50355a",
+      "1506ad739006fdb5588cb4a12861f2db326c70a34430ec138bfc5939566f9450",
+      "98a4cdab161180b54613099c7319f98f8df0838a68f9a8ce7294991131c5108c",
+      "382b3c001c4aec7c3b6fc00c168b278a0b5bc614d2c6fb604617d52e7ce8606e",
+      "b621c920b0bd42ae92193f5f7971145283b4870a93afe3c25e59bbec84790620",
+      "558f3646d94cd0e82443c080867acd20b2764d1c41b94c033ed564b40d75d7a0",
+      "e008090c7195e1309c6ad2d7e2dff4a447ba2bd7b34a34ccb3228e8fdd7bc6cf"
+    ],
+    "bytes": 30913,
+    "sha256": "e8bf7adc5611a62634e45d510a5bdd11eae6cca7b4538563e87e7f921a7a1493",
+    "sourceBytes": 1162597,
+    "qa": {
+      "reviewer": "Codex visual and technical review; final reviewer handles merge",
+      "date": "2026-10-12",
+      "frameByFrame": true,
+      "backgrounds": [
+        "light",
+        "dark",
+        "blue"
+      ],
+      "scales": [
+        1,
+        3
+      ],
+      "browserTemporalSamples": 8,
+      "evidence": "evidence/quiet-pride/",
+      "remainingLimitation": "Raster key poses, not a vector rig; Chromium verified, physical devices not tested."
+    }
   }
 ]

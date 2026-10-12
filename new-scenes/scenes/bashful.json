@@ -1,0 +1,155 @@
+{
+  "order": 18,
+  "id": "bashful",
+  "title": "Vergüenza y sonrisa escondida",
+  "category": "Expresión",
+  "pack": "new",
+  "batch": "gestures-01",
+  "expansionOrder": 4,
+  "version": 1,
+  "status": "approved",
+  "frames": 8,
+  "durations": [
+    640,
+    480,
+    480,
+    587,
+    747,
+    587,
+    427,
+    852
+  ],
+  "cycles": 1,
+  "still": 4,
+  "source": "new-scenes/sources/bashful-v1.png",
+  "src": "new-scenes/atlases/moa-bashful-v1.png",
+  "generator": "Integrated image_gen",
+  "reference": "references/moa-neutral.png",
+  "prompt": "new-scenes/prompts/bashful.txt",
+  "review": "Mirada lateral y sonrisa parcialmente escondida entre manos; ojos y orejas visibles. Cortes de origen explícitos evitan contaminación de vecinos.",
+  "sourceColumns": [
+    68,
+    448,
+    828,
+    1208,
+    1588
+  ],
+  "packaging": {
+    "sourceSize": [
+      1642,
+      958
+    ],
+    "rowCuts": [
+      0,
+      478,
+      958
+    ],
+    "columnCuts": [
+      68,
+      448,
+      828,
+      1208,
+      1588
+    ],
+    "rowBaselineRegistration": [
+      [
+        0,
+        39
+      ],
+      [
+        0,
+        39
+      ],
+      [
+        0,
+        39
+      ],
+      [
+        0,
+        39
+      ],
+      [
+        0,
+        71
+      ],
+      [
+        0,
+        71
+      ],
+      [
+        0,
+        71
+      ],
+      [
+        0,
+        71
+      ]
+    ],
+    "unionCrop": [
+      26,
+      83,
+      351,
+      507
+    ],
+    "sharedScale": 0.35377358490566035,
+    "frameSize": [
+      288,
+      168
+    ],
+    "origin": [
+      0,
+      0
+    ],
+    "trajectory": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ]
+    ]
+  },
+  "frameFiles": [
+    "new-scenes/frames/bashful-v1/000.png",
+    "new-scenes/frames/bashful-v1/001.png",
+    "new-scenes/frames/bashful-v1/002.png",
+    "new-scenes/frames/bashful-v1/003.png",
+    "new-scenes/frames/bashful-v1/004.png",
+    "new-scenes/frames/bashful-v1/005.png",
+    "new-scenes/frames/bashful-v1/006.png",
+    "new-scenes/frames/bashful-v1/007.png"
+  ],
+  "sourceSha256": "874c2b4011c7c544fd8b574fb2131dcbb6ce4274af1eca6adfba999fdbcd3c9f",
+  "frameSha256": [
+    "a904bc85f9a3e69d9cf2d03ff31dc92ec9dbda9ca39918e7e5119ef3af622e55",
+    "21cdd57d55d5dc41d453a239af823c358e28e85aeb9cdeb5a36429e7bb35bd63",
+    "d1207720f9140bdca9eba0d6eb4658348325e9ab198533056987607ab58993be",
+    "88374ed43bf33e91329a4454db8c410cff954fc7fc4f78470f42be432248640d",
+    "568c56d639511b82928295b793d3ad684c082a63fdbf72334b7c76170629bed5",
+    "f6419fd3156025c133e0a8c7c83f6ef24ead4222f4f5890aa252295d9b473a91",
+    "9d95562b5610705979de600507835f2b133d6ced0433b8f00ee7f82f6aba5a53",
+    "b641edf878cf4e60d3ced5770f7a41fc6e39e852a32b5fb27ca2cd4d0daf747d"
+  ],
+  "bytes": 30006,
+  "sha256": "5a9b81701aeeded2116ddc7a98ad935083a4e8200b8c28e21be08b730a50b1e3",
+  "sourceBytes": 1137222,
+  "qa": {
+    "reviewer": "Codex visual and technical review; final reviewer handles merge",
+    "date": "2026-10-12",
+    "frameByFrame": true,
+    "backgrounds": [
+      "light",
+      "dark",
+      "blue"
+    ],
+    "scales": [
+      1,
+      3
+    ],
+    "browserTemporalSamples": 8,
+    "evidence": "evidence/bashful/",
+    "remainingLimitation": "Raster key poses, not a vector rig; Chromium verified, physical devices not tested."
+  }
+}

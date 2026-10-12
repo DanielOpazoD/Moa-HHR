@@ -1,8 +1,9 @@
 // Browser evidence: actual gallery controls, timed frame sampling and finite completion.
 import { chromium } from "playwright-core";
 import fs from "node:fs/promises";
+const requested = new Set(process.argv.slice(2));
 const scenes = JSON.parse(await fs.readFile("scenes.json", "utf8")).filter(
-  (s) => s.pack === "new",
+  (s) => s.pack === "new" && (!requested.size || requested.has(s.id)),
 );
 const browser = await chromium.launch({ headless: true });
 const page = await browser.newPage({ viewport: { width: 1280, height: 960 } });
@@ -58,11 +59,9 @@ for (const scene of scenes) {
     );
     for (const scale of ["1", "3"]) {
       await page.locator("#scale").selectOption(scale);
-      await page
-        .locator("#stage-shell")
-        .screenshot({
-          path: `evidence/${scene.id}/browser-${bg}-${scale}x.png`,
-        });
+      await page.locator("#stage-shell").screenshot({
+        path: `evidence/${scene.id}/browser-${bg}-${scale}x.png`,
+      });
     }
   }
   report.push({
@@ -83,7 +82,9 @@ await page.screenshot({ path: "evidence/gallery-desktop.png", fullPage: true });
 await page.setViewportSize({ width: 390, height: 844 });
 await page.screenshot({ path: "evidence/gallery-mobile.png", fullPage: true });
 await fs.writeFile(
-  "evidence/browser-playback.json",
+  requested.size
+    ? `evidence/browser-playback-${[...requested].join("-")}.json`
+    : "evidence/browser-playback.json",
   JSON.stringify(
     {
       browser: await browser.version(),

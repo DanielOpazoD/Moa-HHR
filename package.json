@@ -7,7 +7,8 @@
     "test:browser": "playwright test",
     "serve": "python3 -m http.server 4173",
     "test:editable": "python3 scripts/check-editable.py",
-    "review": "node scripts/review-browser.mjs"
+    "review": "node scripts/review-browser.mjs",
+    "test:offline": "node scripts/check-offline.mjs"
   },
   "devDependencies": {
     "@playwright/test": "1.58.2"

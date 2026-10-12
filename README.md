@@ -1,6 +1,6 @@
 # Moa · biblioteca de movimiento
 
-Archivo autónomo de los **18 atlas originales v2** y **14 escenas nuevas revisadas**, con 156 poses raster editables. Los originales se conservan byte a byte; las escenas nuevas viven en otro paquete. Sin datos clínicos, servicios ni dependencias del hospital.
+Archivo autónomo de los **18 atlas originales v2** y **19 escenas nuevas**, con fuentes y poses raster editables. Los originales se conservan byte a byte; las escenas nuevas viven en otro paquete. Sin datos clínicos, servicios ni dependencias del hospital.
 
 ## Abrir la galería
 
@@ -13,7 +13,8 @@ Abra [index.html](index.html) a través del servidor. Busque por nombre, filtre 
 
 ## Índices
 
-- [Informe de revisión y límites](docs/QA.md)
+- [Expansión de 30 actuaciones y bloques de revisión](docs/EXPANSION.md)
+- [Informe de revisión del primer paquete y límites](docs/QA.md)
 - [Cómo retocar o añadir poses](docs/EDITING.md)
 - [Plan y criterios de las 14 escenas](docs/SCENES.md)
 - [Catálogo reproducible](scenes.json) y [manifiesto de escenas nuevas](new-scenes/manifest.json)
@@ -46,6 +47,6 @@ El empaquetador preserva los PNG fuente; aplica registro por fila, recorte y esc
 
 ## Revisión sin conexión
 
-[Descargar la galería HTML autónoma](review/moa-scenes.html) y abrirla localmente. Incluye las 14 escenas nuevas y el reposo maestro embebidos. Se regenera con `python3 scripts/export-review.py`; esta exportación de revisión descarga todo su contenido como un archivo y es independiente de la galería principal con carga selectiva.
+[Descargar la galería HTML autónoma](review/moa-scenes.html) y abrirla localmente. Incluye las escenas nuevas disponibles y el reposo maestro embebidos. Se regenera con `python3 scripts/export-review.py`; esta exportación de revisión descarga todo su contenido como un archivo y es independiente de la galería principal con carga selectiva.
 
-La carga de esta exportación y de la [lámina general](evidence/collection-overview.png) a Library quedó bloqueada por autenticación HTTP 401 en este entorno; no se creó ningún ID nuevo. Los archivos permanecen disponibles en este PR para revisión y futura carga autorizada.
+Las exportaciones y láminas de cada bloque están disponibles en el repositorio. La conversación principal gestiona su publicación en Library con su conexión autorizada.

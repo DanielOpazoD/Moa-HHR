@@ -1,4 +1,6 @@
-# Revisión final · 12 octubre 2026
+# Revisión del paquete inicial · 12 octubre 2026
+
+Este informe corresponde al PR #1 y sus 14 escenas. Los bloques posteriores tienen evidencia e informes enlazados desde [EXPANSION.md](EXPANSION.md).
 
 Resultado: 18 originales preservados y 14 escenas nuevas reproducibles, 156 poses nuevas. `approved` significa revisión visual y técnica de esta sesión; no implica aprobación del usuario, merge ni despliegue. El PR sigue en borrador.
 
