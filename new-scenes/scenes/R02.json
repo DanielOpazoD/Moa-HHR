@@ -1,0 +1,184 @@
+{
+  "order": 46,
+  "id": "R02",
+  "title": "R02 · Viento de la isla",
+  "category": "Rapa Nui",
+  "pack": "new",
+  "batch": "rapanui-01",
+  "rapanuiOrder": 2,
+  "version": 1,
+  "status": "approved",
+  "frames": 12,
+  "durations": [
+    500,
+    350,
+    350,
+    350,
+    350,
+    350,
+    350,
+    350,
+    350,
+    350,
+    350,
+    600
+  ],
+  "cycles": 1,
+  "still": 10,
+  "source": "new-scenes/sources/R02-v1.png",
+  "src": "new-scenes/atlases/moa-R02-v1.png",
+  "generator": "Integrated image_gen",
+  "reference": "references/moa-neutral.png",
+  "prompt": "new-scenes/prompts/R02.txt",
+  "context": "Viñeta cotidiana ficticia; el pañuelo no representa indumentaria tradicional.",
+  "culturalReferences": [
+    {
+      "url": "https://www.explora.com/explora-lodge-easter-island-new/",
+      "supports": "Exposed coastal grasslands and ocean setting only; not scarf or cultural practice."
+    }
+  ],
+  "review": "Scarf tail lifts, torso braces, hands secure knot, relaxed ending.",
+  "packaging": {
+    "sourceSize": [
+      1642,
+      958
+    ],
+    "rowCuts": [
+      0,
+      328,
+      631,
+      958
+    ],
+    "columnCuts": [
+      0,
+      410,
+      820,
+      1230,
+      1640
+    ],
+    "rowBaselineRegistration": [
+      [
+        0,
+        37
+      ],
+      [
+        0,
+        37
+      ],
+      [
+        0,
+        37
+      ],
+      [
+        0,
+        37
+      ],
+      [
+        0,
+        61
+      ],
+      [
+        0,
+        61
+      ],
+      [
+        0,
+        61
+      ],
+      [
+        0,
+        61
+      ],
+      [
+        0,
+        58
+      ],
+      [
+        0,
+        58
+      ],
+      [
+        0,
+        58
+      ],
+      [
+        0,
+        58
+      ]
+    ],
+    "unionCrop": [
+      61,
+      66,
+      363,
+      355
+    ],
+    "sharedScale": 0.5190311418685121,
+    "frameSize": [
+      288,
+      168
+    ],
+    "origin": [
+      0,
+      0
+    ],
+    "trajectory": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ]
+    ]
+  },
+  "frameFiles": [
+    "new-scenes/frames/R02-v1/000.png",
+    "new-scenes/frames/R02-v1/001.png",
+    "new-scenes/frames/R02-v1/002.png",
+    "new-scenes/frames/R02-v1/003.png",
+    "new-scenes/frames/R02-v1/004.png",
+    "new-scenes/frames/R02-v1/005.png",
+    "new-scenes/frames/R02-v1/006.png",
+    "new-scenes/frames/R02-v1/007.png",
+    "new-scenes/frames/R02-v1/008.png",
+    "new-scenes/frames/R02-v1/009.png",
+    "new-scenes/frames/R02-v1/010.png",
+    "new-scenes/frames/R02-v1/011.png"
+  ],
+  "sourceSha256": "88945304e7585bd56c6d092d4052a26f896c6b4ccc82f47fb9ac9dd613a63de1",
+  "frameSha256": [
+    "1a58f16f328b4fa87fe39223691400fc4ecefa6121366dcf85dc8c6cef488b01",
+    "23cdc48ca4473e93a04e2e8bc842e6acc3677382dc049ecde3aa3dfcc0738671",
+    "026f23c9a7283e1e469d3d28396728ed2ba9572c30aa1865bc586050e0e8fd6a",
+    "7a8c4926d83a985accfe99876d328665406dbf6b9cb298c29b398d3663c00c08",
+    "9613f9a43acaa7747351bd092579e9e39ce681587b367a64985ccba27ff36f11",
+    "e1f6c01f87641666247195188ba9a17afa29dc8664734e50bbb619d8fc416e6b",
+    "22077f551b78cabe392ed1eada04116e6096d4a66b26f5dc832dda6a4d9e2a0f",
+    "e050d5845b060ff57caaebb99aa0bb76b508508ee9ce311b586bee8c8f91204d",
+    "e28d199f1f2d76fb770bbc9c45488e5dea09c75caa2820f214158d3407e4e1f4",
+    "c17fc16d6148d8e751c1a7205349cab170a4a4c2344c13f57d08ab495981c715",
+    "07040620cd53d5c5b56d48e975b65fb07486fd67bd1c6181e705c941b854d2a4",
+    "c49a3b6dac62bacafa72b58911719f5381270c313f39a99e431e382167cbdd39"
+  ],
+  "bytes": 54846,
+  "sha256": "c4fc997364b5f1fca989a4670275794d1c065d8a71eb12512bf15aceec624c87",
+  "sourceBytes": 1111131,
+  "qa": {
+    "reviewer": "Codex visual and technical review; principal reviewer controls merge",
+    "date": "2026-10-12",
+    "frameByFrame": true,
+    "backgrounds": [
+      "light",
+      "dark",
+      "blue"
+    ],
+    "scales": [
+      1,
+      3
+    ],
+    "browserTemporalSamples": 12,
+    "evidence": "evidence/R02/",
+    "remainingLimitation": "Artistic vignette, not certified ethnographic reconstruction. Raster key poses; Chromium verified, physical devices not tested."
+  }
+}

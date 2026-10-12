@@ -1,0 +1,198 @@
+{
+  "order": 47,
+  "id": "R03",
+  "title": "R03 · Piña compartida",
+  "category": "Rapa Nui",
+  "pack": "new",
+  "batch": "rapanui-01",
+  "rapanuiOrder": 3,
+  "version": 3,
+  "status": "approved",
+  "frames": 12,
+  "durations": [
+    500,
+    350,
+    350,
+    350,
+    350,
+    350,
+    350,
+    350,
+    350,
+    350,
+    350,
+    600
+  ],
+  "cycles": 1,
+  "still": 10,
+  "source": "new-scenes/sources/R03-v3.png",
+  "src": "new-scenes/atlases/moa-R03-v3.png",
+  "generator": "Integrated image_gen",
+  "reference": "references/moa-neutral.png",
+  "prompt": "new-scenes/prompts/R03.txt",
+  "context": "Piña documentada entre las frutas de la isla; acción de compartir ficticia, sin significado ritual.",
+  "culturalReferences": [
+    {
+      "url": "https://2023.serindigena.org/insular/rapa-nui/gastronomia/",
+      "supports": "Piña documentada entre las frutas de la isla; acción de compartir ficticia, sin significado ritual."
+    }
+  ],
+  "review": "Plate remains image-right; first wedge eaten, second picked and offered. Whole pineapple persists.",
+  "correctionPrompts": [
+    "new-scenes/prompts/R03-correction.txt",
+    "new-scenes/prompts/R03-correction-2.txt"
+  ],
+  "rejectedSources": [
+    {
+      "path": "new-scenes/sources/R03-v1.png",
+      "reason": "Plate and eating hand swap."
+    },
+    {
+      "path": "new-scenes/sources/R03-v2.png",
+      "reason": "Plate missing in frame7 and second wedge picked prematurely."
+    }
+  ],
+  "packaging": {
+    "sourceSize": [
+      1642,
+      958
+    ],
+    "rowCuts": [
+      0,
+      321,
+      631,
+      958
+    ],
+    "columnCuts": [
+      0,
+      410,
+      820,
+      1230,
+      1640
+    ],
+    "rowBaselineRegistration": [
+      [
+        0,
+        37
+      ],
+      [
+        0,
+        37
+      ],
+      [
+        0,
+        37
+      ],
+      [
+        0,
+        37
+      ],
+      [
+        0,
+        44
+      ],
+      [
+        0,
+        44
+      ],
+      [
+        0,
+        44
+      ],
+      [
+        0,
+        44
+      ],
+      [
+        0,
+        45
+      ],
+      [
+        0,
+        45
+      ],
+      [
+        0,
+        45
+      ],
+      [
+        0,
+        45
+      ]
+    ],
+    "unionCrop": [
+      44,
+      48,
+      391,
+      353
+    ],
+    "sharedScale": 0.4918032786885246,
+    "frameSize": [
+      288,
+      168
+    ],
+    "origin": [
+      0,
+      0
+    ],
+    "trajectory": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ]
+    ]
+  },
+  "frameFiles": [
+    "new-scenes/frames/R03-v3/000.png",
+    "new-scenes/frames/R03-v3/001.png",
+    "new-scenes/frames/R03-v3/002.png",
+    "new-scenes/frames/R03-v3/003.png",
+    "new-scenes/frames/R03-v3/004.png",
+    "new-scenes/frames/R03-v3/005.png",
+    "new-scenes/frames/R03-v3/006.png",
+    "new-scenes/frames/R03-v3/007.png",
+    "new-scenes/frames/R03-v3/008.png",
+    "new-scenes/frames/R03-v3/009.png",
+    "new-scenes/frames/R03-v3/010.png",
+    "new-scenes/frames/R03-v3/011.png"
+  ],
+  "sourceSha256": "3ea9f22ce7dbc337166e9b249faf017dd296a3817b999c13ecfa82a80d8207a9",
+  "frameSha256": [
+    "658d51b215bd9478f188ac3fc83d91548025a6ed13f8c415c5a88b01889fcb9d",
+    "12cc7e87cf53a4d46934ff9f6626ea90e5611ce2f58979370dada1b9039d41ff",
+    "3a91a8baa872a40e341bbefd59e2612dfd14d0581774609e42a0fd58513175d3",
+    "21d2143ae6dd5a136feb3dd91db67cef88546716ad2b159b3d8c82e20f492c1d",
+    "409624b8079f76850381ab25e6d8114156a6dc8fbf6402ab5b7e226f769035bf",
+    "bbcb58d8e3a1fed355d82d433a9c0a23c0d068575e7c978c9c126cad133dc758",
+    "0815b85d60fa94758feac217b7746c0353cc8a1d3cb8261492379b66a00edf43",
+    "4821ab6baf40560564a3f93e0e5032d9eff364ed75632eeadfe17ceb40e77f92",
+    "f53223de21b93f4677591b37617bf017ef056e17005bb9ca2e5a0a373de8538c",
+    "ab7a3fbe9783795eb06150d01e8976f1d67b8ef59d0eed077a1cb8fb066ecd5f",
+    "abc3c0e8db6c4970f5fdc4f6b584506a55f3d88f890ed2b7675adbf90bc8141a",
+    "a8267e6788852dc29b3bce77f7fe2e14418dd05568f2f90e1e49bf997704a40d"
+  ],
+  "bytes": 62700,
+  "sha256": "f5afb22b7d68fe19dcddd604f9d92d0855a8b7c9bf827ee2d03cb3734342948b",
+  "sourceBytes": 1388737,
+  "qa": {
+    "reviewer": "Codex visual and technical review; principal reviewer controls merge",
+    "date": "2026-10-12",
+    "frameByFrame": true,
+    "backgrounds": [
+      "light",
+      "dark",
+      "blue"
+    ],
+    "scales": [
+      1,
+      3
+    ],
+    "browserTemporalSamples": 12,
+    "evidence": "evidence/R03/",
+    "remainingLimitation": "Artistic vignette, not certified ethnographic reconstruction. Raster key poses; Chromium verified, physical devices not tested."
+  }
+}

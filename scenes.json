@@ -4135,5 +4135,513 @@
       "evidence": "evidence/night-shift/",
       "remainingLimitation": "Raster key poses, not a vector rig; Chromium verified, physical devices not tested."
     }
+  },
+  {
+    "order": 45,
+    "id": "R01",
+    "title": "R01 · Bienvenida con flores",
+    "category": "Rapa Nui",
+    "pack": "new",
+    "batch": "rapanui-01",
+    "rapanuiOrder": 1,
+    "version": 3,
+    "status": "approved",
+    "frames": 12,
+    "durations": [
+      500,
+      350,
+      350,
+      350,
+      350,
+      350,
+      350,
+      350,
+      350,
+      350,
+      350,
+      600
+    ],
+    "cycles": 1,
+    "still": 10,
+    "source": "new-scenes/sources/R01-v3.png",
+    "src": "new-scenes/atlases/moa-R01-v3.png",
+    "generator": "Integrated image_gen",
+    "reference": "references/moa-neutral.png",
+    "prompt": "new-scenes/prompts/R01.txt",
+    "context": "Regalo cotidiano ficticio; no representa un ritual de recepción ni una especie floral determinada.",
+    "culturalReferences": [
+      {
+        "url": "docs/RAPA-NUI.md",
+        "supports": "Regalo cotidiano ficticio; no representa un ritual de recepción ni una especie floral determinada."
+      }
+    ],
+    "review": "Crown raised, offered with articulated arms and small bow, then greeting with consistent hand. Wave emblem restored.",
+    "correctionPrompts": [
+      "new-scenes/prompts/R01-correction.txt",
+      "new-scenes/prompts/R01-correction-2.txt"
+    ],
+    "rejectedSources": [
+      {
+        "path": "new-scenes/sources/R01-v1.png",
+        "reason": "Missing chest wave and final hand swap."
+      },
+      {
+        "path": "new-scenes/sources/R01-v2.png",
+        "reason": "Offering gesture too weak; articulated arms improved in v3."
+      }
+    ],
+    "frameFiles": [
+      "new-scenes/frames/R01-v3/000.png",
+      "new-scenes/frames/R01-v3/001.png",
+      "new-scenes/frames/R01-v3/002.png",
+      "new-scenes/frames/R01-v3/003.png",
+      "new-scenes/frames/R01-v3/004.png",
+      "new-scenes/frames/R01-v3/005.png",
+      "new-scenes/frames/R01-v3/006.png",
+      "new-scenes/frames/R01-v3/007.png",
+      "new-scenes/frames/R01-v3/008.png",
+      "new-scenes/frames/R01-v3/009.png",
+      "new-scenes/frames/R01-v3/010.png",
+      "new-scenes/frames/R01-v3/011.png"
+    ],
+    "sourceSha256": "f2f36f0b7cc8ca2923e136d9a9fcde81be05f052642b02372903d2e8d0bcd432",
+    "frameSha256": [
+      "a9d59bc8395e027d507bc24f7b1cd2e02f3f353741ccc6c5d787b06201ba36e1",
+      "af3043240efb10c5d7e077bd22aac998f6d96d8f859187e37cb68e33674fe445",
+      "5e0d0a07ece59dededc2fcdd1cf058c9187bbefe945969b0f34f9e1006d372a9",
+      "c298d55ec8a8c4f79318306568a10ed73c579128008b8fcdf8f3a14c8522f564",
+      "18879e8e36ec7c5dc11d89083beb476720ec3bc073e90cb508b775dc1840b5cd",
+      "03b0a1939fc8f0f6a285c5a2193cf5183ccca393640e92d9238ffbec1cc16c64",
+      "697ff2bf29156da3074d58100dfff1fdbe34335d41ff46a4fe7494a31cbc6ddf",
+      "805b2d0546e8c1d235996e5a9fff1eb8fc33385f24c815ba551ce1bd5c3184fa",
+      "ca3088fb1a78d9c63c9d3d16f5b1f8d10cf236e0b81fbe3838912522612fce7d",
+      "2f0fc7ada510e4ef5350328bba019de618a7f519d51973cedd427800156c48ae",
+      "ec9ff1a292b7ab85e706ccc9538ad734ddd55cdfec73817e50057c7da08a1b8e",
+      "f98896371552d71722327a921bb92fa8eb0caa22bc2b079d524da48a7c2c57b5"
+    ],
+    "bytes": 54573,
+    "sha256": "3483fc5af8923c037b3b5206e0a1ac53453e1ffded1ff3ccf6f111181b31d348",
+    "sourceBytes": 1334468,
+    "qa": {
+      "reviewer": "Codex visual and technical review; principal reviewer controls merge",
+      "date": "2026-10-12",
+      "frameByFrame": true,
+      "backgrounds": [
+        "light",
+        "dark",
+        "blue"
+      ],
+      "scales": [
+        1,
+        3
+      ],
+      "browserTemporalSamples": 12,
+      "evidence": "evidence/R01/",
+      "remainingLimitation": "Artistic vignette, not certified ethnographic reconstruction. Raster key poses; Chromium verified, physical devices not tested."
+    }
+  },
+  {
+    "order": 46,
+    "id": "R02",
+    "title": "R02 · Viento de la isla",
+    "category": "Rapa Nui",
+    "pack": "new",
+    "batch": "rapanui-01",
+    "rapanuiOrder": 2,
+    "version": 1,
+    "status": "approved",
+    "frames": 12,
+    "durations": [
+      500,
+      350,
+      350,
+      350,
+      350,
+      350,
+      350,
+      350,
+      350,
+      350,
+      350,
+      600
+    ],
+    "cycles": 1,
+    "still": 10,
+    "source": "new-scenes/sources/R02-v1.png",
+    "src": "new-scenes/atlases/moa-R02-v1.png",
+    "generator": "Integrated image_gen",
+    "reference": "references/moa-neutral.png",
+    "prompt": "new-scenes/prompts/R02.txt",
+    "context": "Viñeta cotidiana ficticia; el pañuelo no representa indumentaria tradicional.",
+    "culturalReferences": [
+      {
+        "url": "https://www.explora.com/explora-lodge-easter-island-new/",
+        "supports": "Exposed coastal grasslands and ocean setting only; not scarf or cultural practice."
+      }
+    ],
+    "review": "Scarf tail lifts, torso braces, hands secure knot, relaxed ending.",
+    "frameFiles": [
+      "new-scenes/frames/R02-v1/000.png",
+      "new-scenes/frames/R02-v1/001.png",
+      "new-scenes/frames/R02-v1/002.png",
+      "new-scenes/frames/R02-v1/003.png",
+      "new-scenes/frames/R02-v1/004.png",
+      "new-scenes/frames/R02-v1/005.png",
+      "new-scenes/frames/R02-v1/006.png",
+      "new-scenes/frames/R02-v1/007.png",
+      "new-scenes/frames/R02-v1/008.png",
+      "new-scenes/frames/R02-v1/009.png",
+      "new-scenes/frames/R02-v1/010.png",
+      "new-scenes/frames/R02-v1/011.png"
+    ],
+    "sourceSha256": "88945304e7585bd56c6d092d4052a26f896c6b4ccc82f47fb9ac9dd613a63de1",
+    "frameSha256": [
+      "1a58f16f328b4fa87fe39223691400fc4ecefa6121366dcf85dc8c6cef488b01",
+      "23cdc48ca4473e93a04e2e8bc842e6acc3677382dc049ecde3aa3dfcc0738671",
+      "026f23c9a7283e1e469d3d28396728ed2ba9572c30aa1865bc586050e0e8fd6a",
+      "7a8c4926d83a985accfe99876d328665406dbf6b9cb298c29b398d3663c00c08",
+      "9613f9a43acaa7747351bd092579e9e39ce681587b367a64985ccba27ff36f11",
+      "e1f6c01f87641666247195188ba9a17afa29dc8664734e50bbb619d8fc416e6b",
+      "22077f551b78cabe392ed1eada04116e6096d4a66b26f5dc832dda6a4d9e2a0f",
+      "e050d5845b060ff57caaebb99aa0bb76b508508ee9ce311b586bee8c8f91204d",
+      "e28d199f1f2d76fb770bbc9c45488e5dea09c75caa2820f214158d3407e4e1f4",
+      "c17fc16d6148d8e751c1a7205349cab170a4a4c2344c13f57d08ab495981c715",
+      "07040620cd53d5c5b56d48e975b65fb07486fd67bd1c6181e705c941b854d2a4",
+      "c49a3b6dac62bacafa72b58911719f5381270c313f39a99e431e382167cbdd39"
+    ],
+    "bytes": 54846,
+    "sha256": "c4fc997364b5f1fca989a4670275794d1c065d8a71eb12512bf15aceec624c87",
+    "sourceBytes": 1111131,
+    "qa": {
+      "reviewer": "Codex visual and technical review; principal reviewer controls merge",
+      "date": "2026-10-12",
+      "frameByFrame": true,
+      "backgrounds": [
+        "light",
+        "dark",
+        "blue"
+      ],
+      "scales": [
+        1,
+        3
+      ],
+      "browserTemporalSamples": 12,
+      "evidence": "evidence/R02/",
+      "remainingLimitation": "Artistic vignette, not certified ethnographic reconstruction. Raster key poses; Chromium verified, physical devices not tested."
+    }
+  },
+  {
+    "order": 47,
+    "id": "R03",
+    "title": "R03 · Piña compartida",
+    "category": "Rapa Nui",
+    "pack": "new",
+    "batch": "rapanui-01",
+    "rapanuiOrder": 3,
+    "version": 3,
+    "status": "approved",
+    "frames": 12,
+    "durations": [
+      500,
+      350,
+      350,
+      350,
+      350,
+      350,
+      350,
+      350,
+      350,
+      350,
+      350,
+      600
+    ],
+    "cycles": 1,
+    "still": 10,
+    "source": "new-scenes/sources/R03-v3.png",
+    "src": "new-scenes/atlases/moa-R03-v3.png",
+    "generator": "Integrated image_gen",
+    "reference": "references/moa-neutral.png",
+    "prompt": "new-scenes/prompts/R03.txt",
+    "context": "Piña documentada entre las frutas de la isla; acción de compartir ficticia, sin significado ritual.",
+    "culturalReferences": [
+      {
+        "url": "https://2023.serindigena.org/insular/rapa-nui/gastronomia/",
+        "supports": "Piña documentada entre las frutas de la isla; acción de compartir ficticia, sin significado ritual."
+      }
+    ],
+    "review": "Plate remains image-right; first wedge eaten, second picked and offered. Whole pineapple persists.",
+    "correctionPrompts": [
+      "new-scenes/prompts/R03-correction.txt",
+      "new-scenes/prompts/R03-correction-2.txt"
+    ],
+    "rejectedSources": [
+      {
+        "path": "new-scenes/sources/R03-v1.png",
+        "reason": "Plate and eating hand swap."
+      },
+      {
+        "path": "new-scenes/sources/R03-v2.png",
+        "reason": "Plate missing in frame7 and second wedge picked prematurely."
+      }
+    ],
+    "frameFiles": [
+      "new-scenes/frames/R03-v3/000.png",
+      "new-scenes/frames/R03-v3/001.png",
+      "new-scenes/frames/R03-v3/002.png",
+      "new-scenes/frames/R03-v3/003.png",
+      "new-scenes/frames/R03-v3/004.png",
+      "new-scenes/frames/R03-v3/005.png",
+      "new-scenes/frames/R03-v3/006.png",
+      "new-scenes/frames/R03-v3/007.png",
+      "new-scenes/frames/R03-v3/008.png",
+      "new-scenes/frames/R03-v3/009.png",
+      "new-scenes/frames/R03-v3/010.png",
+      "new-scenes/frames/R03-v3/011.png"
+    ],
+    "sourceSha256": "3ea9f22ce7dbc337166e9b249faf017dd296a3817b999c13ecfa82a80d8207a9",
+    "frameSha256": [
+      "658d51b215bd9478f188ac3fc83d91548025a6ed13f8c415c5a88b01889fcb9d",
+      "12cc7e87cf53a4d46934ff9f6626ea90e5611ce2f58979370dada1b9039d41ff",
+      "3a91a8baa872a40e341bbefd59e2612dfd14d0581774609e42a0fd58513175d3",
+      "21d2143ae6dd5a136feb3dd91db67cef88546716ad2b159b3d8c82e20f492c1d",
+      "409624b8079f76850381ab25e6d8114156a6dc8fbf6402ab5b7e226f769035bf",
+      "bbcb58d8e3a1fed355d82d433a9c0a23c0d068575e7c978c9c126cad133dc758",
+      "0815b85d60fa94758feac217b7746c0353cc8a1d3cb8261492379b66a00edf43",
+      "4821ab6baf40560564a3f93e0e5032d9eff364ed75632eeadfe17ceb40e77f92",
+      "f53223de21b93f4677591b37617bf017ef056e17005bb9ca2e5a0a373de8538c",
+      "ab7a3fbe9783795eb06150d01e8976f1d67b8ef59d0eed077a1cb8fb066ecd5f",
+      "abc3c0e8db6c4970f5fdc4f6b584506a55f3d88f890ed2b7675adbf90bc8141a",
+      "a8267e6788852dc29b3bce77f7fe2e14418dd05568f2f90e1e49bf997704a40d"
+    ],
+    "bytes": 62700,
+    "sha256": "f5afb22b7d68fe19dcddd604f9d92d0855a8b7c9bf827ee2d03cb3734342948b",
+    "sourceBytes": 1388737,
+    "qa": {
+      "reviewer": "Codex visual and technical review; principal reviewer controls merge",
+      "date": "2026-10-12",
+      "frameByFrame": true,
+      "backgrounds": [
+        "light",
+        "dark",
+        "blue"
+      ],
+      "scales": [
+        1,
+        3
+      ],
+      "browserTemporalSamples": 12,
+      "evidence": "evidence/R03/",
+      "remainingLimitation": "Artistic vignette, not certified ethnographic reconstruction. Raster key poses; Chromium verified, physical devices not tested."
+    }
+  },
+  {
+    "order": 48,
+    "id": "R04",
+    "title": "R04 · Poʻe para todos",
+    "category": "Rapa Nui",
+    "pack": "new",
+    "batch": "rapanui-01",
+    "rapanuiOrder": 4,
+    "version": 1,
+    "status": "approved",
+    "frames": 16,
+    "durations": [
+      500,
+      320,
+      320,
+      320,
+      320,
+      320,
+      320,
+      320,
+      320,
+      320,
+      320,
+      320,
+      320,
+      320,
+      320,
+      620
+    ],
+    "cycles": 1,
+    "still": 14,
+    "source": "new-scenes/sources/R04-v1.png",
+    "src": "new-scenes/atlases/moa-R04-v1.png",
+    "generator": "Integrated image_gen",
+    "reference": "references/moa-neutral.png",
+    "prompt": "new-scenes/prompts/R04.txt",
+    "context": "Poʻe horneado según referencia gastronómica; reparto y reciprocidad ficticios, sin ritual ni receta.",
+    "culturalReferences": [
+      {
+        "url": "https://2023.serindigena.org/insular/rapa-nui/gastronomia/",
+        "supports": "Poʻe horneado según referencia gastronómica; reparto y reciprocidad ficticios, sin ritual ni receta."
+      }
+    ],
+    "review": "Two portions distributed, empty platter noticed, friend divides one portion and shares. Three actors persist.",
+    "sourceColumns": [
+      0,
+      424,
+      826,
+      1228,
+      1641
+    ],
+    "frameFiles": [
+      "new-scenes/frames/R04-v1/000.png",
+      "new-scenes/frames/R04-v1/001.png",
+      "new-scenes/frames/R04-v1/002.png",
+      "new-scenes/frames/R04-v1/003.png",
+      "new-scenes/frames/R04-v1/004.png",
+      "new-scenes/frames/R04-v1/005.png",
+      "new-scenes/frames/R04-v1/006.png",
+      "new-scenes/frames/R04-v1/007.png",
+      "new-scenes/frames/R04-v1/008.png",
+      "new-scenes/frames/R04-v1/009.png",
+      "new-scenes/frames/R04-v1/010.png",
+      "new-scenes/frames/R04-v1/011.png",
+      "new-scenes/frames/R04-v1/012.png",
+      "new-scenes/frames/R04-v1/013.png",
+      "new-scenes/frames/R04-v1/014.png",
+      "new-scenes/frames/R04-v1/015.png"
+    ],
+    "sourceSha256": "aa0b34d57a575bc80d88dcdca53c14cd0f91f609f27c2b2d91c3b6b87d6a79d3",
+    "frameSha256": [
+      "ec912d0333e4dda79fbe3a7d63825c5aec40c5d19e2db978d9a79bf48e6c26a5",
+      "796684e120894a2ab51efca3a25798d96bfc3506e6cd9f8066d2b0b8cc876701",
+      "a5d62f26c78bb0fc98414206b80c9c37a9030735163f4fd5abba9eeab5d7e352",
+      "787d05eb49cbb20e4d579a9e90b70e146dea4cbc17511069dc3d2ce081008a2e",
+      "eb2a001be23dcc7b93f15cc200bdca7c2707b64ebdce2bef4452eb6cd40b16ab",
+      "4bfcd2f7220b1880dbfa87e70d1447d54781a1b6417f99b114db188868ede80a",
+      "c85e9997efef8d116ce1b26135b48856a412b614ad796b53d93dae566ba09a51",
+      "57a79bee3959b206586cc52d36fd0413b87bc7287893ff08e6ee3fb0b35a6186",
+      "57f409210d118c56326eececbdc758f3cadff01bd48e50d77fecbf4a442e166f",
+      "f4aaa2afc5f4fc9405d86e0cbd62d62bfcc7759cd14f21e78d08e4711dbae50b",
+      "893e44ce6f28008d5a36ae541518c3b16d99ed5cd250fe44926b51de7b1686e7",
+      "772597b6b963d27b5ad9220d2b87ee38d585a9812fe89ad5280e59c31f13aefb",
+      "61d2eb0dc06448c6f146b7e188ea9e8e386857c447cf885ce928c89f3ee37f17",
+      "c22262056e133ebeba0da377a09ba194c0848251093df1ff53b4b85bd91578fa",
+      "34af6bafa915412e658f3018dc73fdaaef8b65657a41d90893d09bbf2f4e8a1c",
+      "0956023bc4e98f068d9ff90dbd2afdc5a10ad0eca8a1285f9aba36f8c004d704"
+    ],
+    "bytes": 120889,
+    "sha256": "fc4d34b3e9a07c88de690983a4f46e03abca70ce277d043194b9ef552621ab3b",
+    "sourceBytes": 1850949,
+    "qa": {
+      "reviewer": "Codex visual and technical review; principal reviewer controls merge",
+      "date": "2026-10-12",
+      "frameByFrame": true,
+      "backgrounds": [
+        "light",
+        "dark",
+        "blue"
+      ],
+      "scales": [
+        1,
+        3
+      ],
+      "browserTemporalSamples": 16,
+      "evidence": "evidence/R04/",
+      "remainingLimitation": "Artistic vignette, not certified ethnographic reconstruction. Raster key poses; Chromium verified, physical devices not tested."
+    }
+  },
+  {
+    "order": 49,
+    "id": "R05",
+    "title": "R05 · Ukulele al atardecer",
+    "category": "Rapa Nui",
+    "pack": "new",
+    "batch": "rapanui-01",
+    "rapanuiOrder": 5,
+    "version": 1,
+    "status": "approved",
+    "frames": 12,
+    "durations": [
+      500,
+      350,
+      350,
+      350,
+      350,
+      350,
+      350,
+      350,
+      350,
+      350,
+      350,
+      600
+    ],
+    "cycles": 1,
+    "still": 10,
+    "source": "new-scenes/sources/R05-v1.png",
+    "src": "new-scenes/atlases/moa-R05-v1.png",
+    "generator": "Integrated image_gen",
+    "reference": "references/moa-neutral.png",
+    "prompt": "new-scenes/prompts/R05.txt",
+    "context": "Instrumento inspirado en referencia de Rapa Nui; cuerdas y digitación simplificadas. Sin canción, audio ni enseñanza de acordes.",
+    "culturalReferences": [
+      {
+        "url": "https://rapamusic.com/en/products/ukelele-asonu-con-funda",
+        "supports": "Instrumento inspirado en referencia de Rapa Nui; cuerdas y digitación simplificadas. Sin canción, audio ni enseñanza de acordes."
+      },
+      {
+        "url": "https://www.smallislandbigsong.com/fullscreen-page/comp-jdx1cgyd/1962f384-2f23-438c-87b7-16ecabdb1e49/10/%3Fi=10&p=lzby4&s=style-jdx1nxid",
+        "supports": "Instrument photo inspected: solid flared body, concave bottom, long headstock, paired strings."
+      }
+    ],
+    "review": "Referenced solid-body ukulele, adjustment and strumming with gentle sway; tiny strings simplified.",
+    "sourceColumns": [
+      0,
+      437,
+      830,
+      1215,
+      1642
+    ],
+    "frameFiles": [
+      "new-scenes/frames/R05-v1/000.png",
+      "new-scenes/frames/R05-v1/001.png",
+      "new-scenes/frames/R05-v1/002.png",
+      "new-scenes/frames/R05-v1/003.png",
+      "new-scenes/frames/R05-v1/004.png",
+      "new-scenes/frames/R05-v1/005.png",
+      "new-scenes/frames/R05-v1/006.png",
+      "new-scenes/frames/R05-v1/007.png",
+      "new-scenes/frames/R05-v1/008.png",
+      "new-scenes/frames/R05-v1/009.png",
+      "new-scenes/frames/R05-v1/010.png",
+      "new-scenes/frames/R05-v1/011.png"
+    ],
+    "sourceSha256": "ed6408a67b34b849bf07ffb9340b10e5ce52135c59ff3f8fe7740edf186a29f5",
+    "frameSha256": [
+      "44e2979013b3ceae55d688aef653a16f76392b8dba3310f1037d6bc21bee182a",
+      "ded5685c9cabdd23b9047a84259304625504f3deaa26d1b38f87ac3dcaac8454",
+      "099db99693ebf0e9bf4cb69a4326311ed8b1cc39d162b2a27a76382a1296cb54",
+      "b3500dd3690789460aee3218cb42f144157cae5dc3ef0228ca3fd4254303e180",
+      "c46ac73b7dcbee37292cac9d873ca09535de4da7467111b8fbf2bac2fd0e9251",
+      "a46ebf23063c356de192d86b46fc1c29ad73df5aaed0742af653842c071eb7ba",
+      "0979c13bba266fce2857b00ec7c1dda9fd78b7c54b29243b5d303014531f3ed5",
+      "2d940d63b2ccebb6218f8bc10eadcfe7b999e5837b93f004c242c3821cf165aa",
+      "a3612f71d46a12130ae5be3d0d7241aec7a6035cfb6ce8f35aa95c941c78b937",
+      "8ccd9c3768c1adfacf2808862e1a5bfc75c2b48595e822d036f5591f5f3e16a0",
+      "c56a89176f900e2d477b5832bc5d52ca3d13993479ee0423c6c29ee6121a8e37",
+      "8ec9dcc1bc694663ef504d3bbc2f8504fc6510bdfd050a74727e99315bf3dabd"
+    ],
+    "bytes": 81634,
+    "sha256": "189d8e903a5fc03eeb7499f264a64af6570f68f359181b92f71d23d9b6fe3f9f",
+    "sourceBytes": 1373140,
+    "qa": {
+      "reviewer": "Codex visual and technical review; principal reviewer controls merge",
+      "date": "2026-10-12",
+      "frameByFrame": true,
+      "backgrounds": [
+        "light",
+        "dark",
+        "blue"
+      ],
+      "scales": [
+        1,
+        3
+      ],
+      "browserTemporalSamples": 12,
+      "evidence": "evidence/R05/",
+      "remainingLimitation": "Artistic vignette, not certified ethnographic reconstruction. Raster key poses; Chromium verified, physical devices not tested."
+    }
   }
 ]

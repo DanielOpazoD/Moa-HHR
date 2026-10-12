@@ -1,6 +1,6 @@
 # Moa · biblioteca de movimiento
 
-Archivo autónomo de los **18 atlas originales v2** y **44 escenas nuevas**, con fuentes y poses raster editables. Los originales se conservan byte a byte; las escenas nuevas viven en otro paquete. Sin datos clínicos, servicios ni dependencias del hospital.
+Archivo autónomo de los **18 atlas originales v2** y **49 escenas nuevas**, con fuentes y poses raster editables. Los originales se conservan byte a byte; las escenas nuevas viven en otro paquete. Sin datos clínicos, servicios ni dependencias del hospital.
 
 ## Abrir la galería
 
@@ -12,6 +12,8 @@ python3 -m http.server 4173
 Abra [index.html](index.html) a través del servidor. Busque por nombre, filtre categoría/paquete y seleccione una escena. La selección es quieta; Reproducir inicia una acción finita. Puede inspeccionar cuadros, usar tres fondos y ampliar 3×. No requiere build ni paquetes para ejecutarse.
 
 ## Índices
+
+- [Veinte viñetas Rapa Nui: referencias y estado por bloque](docs/RAPA-NUI.md)
 
 - [Expansión de 30 actuaciones y bloques de revisión](docs/EXPANSION.md)
 - [Informe de revisión del primer paquete y límites](docs/QA.md)
