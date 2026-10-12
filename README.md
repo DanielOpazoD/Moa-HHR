@@ -43,3 +43,9 @@ python3 scripts/catalog.py
 ```
 
 El empaquetador preserva los PNG fuente; aplica registro por fila, recorte y escala compartidos, nunca escala cada pose por separado. Los atlas nuevos no sobrescriben un original. CI comprueba hashes originales, límites, alfa, cuadros distintos, geometría, timing e interacción real en Chromium. Ver el estado de revisión de cada escena antes de reutilizarla.
+
+## Revisión sin conexión
+
+[Descargar la galería HTML autónoma](review/moa-scenes.html) y abrirla localmente. Incluye las 14 escenas nuevas y el reposo maestro embebidos. Se regenera con `python3 scripts/export-review.py`; esta exportación de revisión descarga todo su contenido como un archivo y es independiente de la galería principal con carga selectiva.
+
+La carga de esta exportación y de la [lámina general](evidence/collection-overview.png) a Library quedó bloqueada por autenticación HTTP 401 en este entorno; no se creó ningún ID nuevo. Los archivos permanecen disponibles en este PR para revisión y futura carga autorizada.
