@@ -8909,5 +8909,1032 @@
       "evidence": "evidence/R05/",
       "remainingLimitation": "Artistic vignette, not certified ethnographic reconstruction. Raster key poses; Chromium verified, physical devices not tested."
     }
+  },
+  {
+    "order": 50,
+    "id": "R06",
+    "title": "R06 · Aprendiendo sau-sau",
+    "category": "Rapa Nui",
+    "pack": "new",
+    "batch": "rapanui-02",
+    "rapanuiOrder": 6,
+    "version": 1,
+    "status": "approved",
+    "frames": 16,
+    "durations": [
+      500,
+      320,
+      320,
+      320,
+      320,
+      320,
+      320,
+      320,
+      320,
+      320,
+      320,
+      320,
+      320,
+      320,
+      320,
+      620
+    ],
+    "cycles": 1,
+    "still": 14,
+    "source": "new-scenes/sources/R06-v1.png",
+    "src": "new-scenes/atlases/moa-R06-v1.png",
+    "generator": "Integrated image_gen",
+    "reference": "references/moa-neutral.png",
+    "prompt": "new-scenes/prompts/R06.txt",
+    "context": "Ensayo artístico abreviado: balanceos y vestuario simplificados desde referencias locales; no reconstrucción ancestral ni clase completa.",
+    "culturalReferences": [
+      {
+        "url": "https://imaginarapanui.com/en/sau-sau-typical-rapa-nui-dance/",
+        "supports": "Ensayo artístico abreviado: balanceos y vestuario simplificados desde referencias locales; no reconstrucción ancestral ni clase completa."
+      }
+    ],
+    "review": "Frame-by-frame source and delivered PNG review; light/dark/blue at real size; enlarged browser captures and timed frame samples passed.",
+    "packaging": {
+      "sourceSize": [
+        1642,
+        958
+      ],
+      "rowCuts": [
+        0,
+        252,
+        487,
+        713,
+        958
+      ],
+      "columnCuts": [
+        0,
+        410,
+        820,
+        1230,
+        1640
+      ],
+      "rowBaselineRegistration": [
+        [
+          0,
+          34
+        ],
+        [
+          0,
+          34
+        ],
+        [
+          0,
+          34
+        ],
+        [
+          0,
+          34
+        ],
+        [
+          0,
+          53
+        ],
+        [
+          0,
+          53
+        ],
+        [
+          0,
+          53
+        ],
+        [
+          0,
+          53
+        ],
+        [
+          0,
+          53
+        ],
+        [
+          0,
+          53
+        ],
+        [
+          0,
+          53
+        ],
+        [
+          0,
+          53
+        ],
+        [
+          0,
+          57
+        ],
+        [
+          0,
+          57
+        ],
+        [
+          0,
+          57
+        ],
+        [
+          0,
+          57
+        ]
+      ],
+      "unionCrop": [
+        26,
+        52,
+        406,
+        282
+      ],
+      "sharedScale": 0.6,
+      "frameSize": [
+        288,
+        168
+      ],
+      "origin": [
+        0,
+        0
+      ],
+      "trajectory": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          0
+        ]
+      ]
+    },
+    "frameFiles": [
+      "new-scenes/frames/R06-v1/000.png",
+      "new-scenes/frames/R06-v1/001.png",
+      "new-scenes/frames/R06-v1/002.png",
+      "new-scenes/frames/R06-v1/003.png",
+      "new-scenes/frames/R06-v1/004.png",
+      "new-scenes/frames/R06-v1/005.png",
+      "new-scenes/frames/R06-v1/006.png",
+      "new-scenes/frames/R06-v1/007.png",
+      "new-scenes/frames/R06-v1/008.png",
+      "new-scenes/frames/R06-v1/009.png",
+      "new-scenes/frames/R06-v1/010.png",
+      "new-scenes/frames/R06-v1/011.png",
+      "new-scenes/frames/R06-v1/012.png",
+      "new-scenes/frames/R06-v1/013.png",
+      "new-scenes/frames/R06-v1/014.png",
+      "new-scenes/frames/R06-v1/015.png"
+    ],
+    "sourceSha256": "4bafda6044d66b849d71bf91bde96ae1d5290e4b3b5e69cf6d9502f0aafb302a",
+    "frameSha256": [
+      "ce67f18c297accccc8e932c58cde014291a46b26bd67da57b11a84bd79ecd280",
+      "4e4bb465eafd9fdf5bfed137b0ea67cfe19a96f7fd7092d56cac6adda1f01700",
+      "fb097e178f3fe33168847ab2af6dfeb05ff4a92ac26f9314ce240b4df62fe04d",
+      "095edfd440b1faf816217f68c69225553520d5fe0b53d7eecaa16c67fd56af7c",
+      "00ff56621ee54394dd8ff0cd6f32e2e43de3bba9024f7369839cf69da3b467ba",
+      "ff9ada3cb9c82794f3025e6f75ee6cb1d73800abb433d088dd31b039335cd339",
+      "f7a6d020c1c633d4b513a3bfabc5e13998d388d1706fb0b13a65a1a9aa11f90b",
+      "5ff8d1f24fe227abd53491f26cc10289986e2a915aee166259aa0d9b86f66553",
+      "8b7f8ce29b96042e82ee86cdbc472259b2aa13d57081a13ceec8e292b58e808e",
+      "dbee38f4215ef8cdfd0f953dd37099efc47f300bbe97d2ebe7e5e313617f1122",
+      "ff3b75594ee2ed896242175e08b1aa38258fa9c34a0cc897cd2f30b658ed3828",
+      "7bb6e09badc9c1253b5b97ecf1cc383c8ee7d3f7186c2a2fc92ef1c6e842bf62",
+      "881f02f8d7460ed036096f3ab9b4d4c65fb2041937ce5d6f53ba8801969d74dc",
+      "394fdda56ff10457c66c4a5590030683a8268ef6d6ae97f4dbf7554eb74a5bad",
+      "d65153c073258ae0baa2e70d26ac15f452458e52f504e3fd5bf251aa187b5c36",
+      "678b897657512f2abf514849fd5e8b3d6594561fef71659d5f85c1da0e84e831"
+    ],
+    "bytes": 127169,
+    "sha256": "e91d0977faaf8b539d675d80915a5595bb01c96d798beec317af82f776e9e391",
+    "sourceBytes": 1704479,
+    "qa": {
+      "reviewer": "Codex visual and technical review; principal reviewer controls merge",
+      "date": "2026-10-12",
+      "frameByFrame": true,
+      "backgrounds": [
+        "light",
+        "dark",
+        "blue"
+      ],
+      "scales": [
+        1,
+        3
+      ],
+      "browserTemporalSamples": 16,
+      "evidence": "evidence/R06/",
+      "remainingLimitation": "Ensayo artístico abreviado: balanceos y vestuario simplificados desde referencias locales; no reconstrucción ancestral ni clase completa. Raster key poses; Chromium verified, physical devices not tested."
+    }
+  },
+  {
+    "order": 51,
+    "id": "R07",
+    "title": "R07 · Observando el inicio del kai-kai",
+    "category": "Rapa Nui",
+    "pack": "new",
+    "batch": "rapanui-02",
+    "rapanuiOrder": 7,
+    "version": 4,
+    "status": "approved",
+    "frames": 8,
+    "durations": [
+      600,
+      450,
+      450,
+      450,
+      450,
+      450,
+      450,
+      700
+    ],
+    "cycles": 1,
+    "still": 6,
+    "source": "new-scenes/sources/R07-v4.png",
+    "src": "new-scenes/atlases/moa-R07-v4.png",
+    "generator": "Integrated image_gen",
+    "reference": "references/moa-neutral.png",
+    "prompt": "new-scenes/prompts/R07.txt",
+    "context": "Adaptación: observa solo el lazo inicial documentado; no figura terminada, tutorial ni recitación. Posiciones digitales simplificadas a esta escala.",
+    "culturalReferences": [
+      {
+        "url": "https://www.sigpa.cl/ficha-elemento/kai-kai-de-rapa-nui",
+        "supports": "Adaptación: observa solo el lazo inicial documentado; no figura terminada, tutorial ni recitación. Posiciones digitales simplificadas a esta escala."
+      },
+      {
+        "url": "https://moevarua.com/wp-content/uploads/2019/07/Revista-moeVarua-Junio-2015.pdf",
+        "supports": "PDF página 12: referencia comparativa Utami; tres intentos descartados, no se representa la figura final."
+      }
+    ],
+    "review": "Frame-by-frame source and delivered PNG review; light/dark/blue at real size; enlarged browser captures and timed frame samples passed.",
+    "sourceColumns": [
+      0,
+      429,
+      831,
+      1246,
+      1643
+    ],
+    "packaging": {
+      "sourceSize": [
+        1643,
+        957
+      ],
+      "rowCuts": [
+        0,
+        479,
+        957
+      ],
+      "columnCuts": [
+        0,
+        429,
+        831,
+        1246,
+        1643
+      ],
+      "rowBaselineRegistration": [
+        [
+          0,
+          66
+        ],
+        [
+          13,
+          66
+        ],
+        [
+          7,
+          66
+        ],
+        [
+          16,
+          66
+        ],
+        [
+          0,
+          100
+        ],
+        [
+          13,
+          100
+        ],
+        [
+          7,
+          100
+        ],
+        [
+          16,
+          100
+        ]
+      ],
+      "unionCrop": [
+        8,
+        140,
+        423,
+        505
+      ],
+      "sharedScale": 0.410958904109589,
+      "frameSize": [
+        288,
+        168
+      ],
+      "origin": [
+        0,
+        0
+      ],
+      "trajectory": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          0
+        ]
+      ]
+    },
+    "frameFiles": [
+      "new-scenes/frames/R07-v4/000.png",
+      "new-scenes/frames/R07-v4/001.png",
+      "new-scenes/frames/R07-v4/002.png",
+      "new-scenes/frames/R07-v4/003.png",
+      "new-scenes/frames/R07-v4/004.png",
+      "new-scenes/frames/R07-v4/005.png",
+      "new-scenes/frames/R07-v4/006.png",
+      "new-scenes/frames/R07-v4/007.png"
+    ],
+    "sourceSha256": "f2469e5c56b8ac79959e19985642c286f57fa8aa0e9c35f88c2043dcb9075f1d",
+    "frameSha256": [
+      "7c1336a0448e80183333d2af60f6b059c3d34c07578f35735a23863da9c50bc5",
+      "f7d04d5de6949f9fc716f1bea20d1fc69aa58dd18d73dcd423efdbe12bb05497",
+      "53898778575c8ebf1a2ab36ff4d6e4484f32cfb82386bc00284d2a730ba31cdd",
+      "fb8b911e9eca14e7caf3ec28cd7ae39e58e7b482e43922b4fd61ef205b236066",
+      "90d9d8144d16dcb814b8e56bb99dbea7f0e26cf32f6c3701834efbfe267c5296",
+      "f0eba06f8b8794fe98d6ca9bfbf87ba128b1797ca763beafc3299df27241f610",
+      "0951115974cbe848f9008e48163ae026b254e2d0319e16d1b9be43e691df4f28",
+      "45a719b6a884b48ac71aa2cfb1cda06b61bef3479501cbf1009af62d89ee7615"
+    ],
+    "bytes": 47418,
+    "sha256": "b0f52d31ed8400948657715d4bcf0bf3de769e6f89340c3d97e9a3656104f1ef",
+    "correctionPrompts": [
+      "new-scenes/prompts/R07-correction.txt",
+      "new-scenes/prompts/R07-correction-2.txt",
+      "new-scenes/prompts/R07-adaptation.txt"
+    ],
+    "rejectedSources": [
+      {
+        "source": "new-scenes/sources/R07-v1.png",
+        "reason": "Figura Utami incorrecta y artefactos naranjas."
+      },
+      {
+        "source": "new-scenes/sources/R07-v2.png",
+        "reason": "Persisten cruces que no corresponden a Utami."
+      },
+      {
+        "source": "new-scenes/sources/R07-v3.png",
+        "reason": "Topología incorrecta y pérdida de la ola; se adapta a observación del lazo inicial."
+      }
+    ],
+    "sourceBytes": 1339674,
+    "qa": {
+      "reviewer": "Codex visual and technical review; principal reviewer controls merge",
+      "date": "2026-10-12",
+      "frameByFrame": true,
+      "backgrounds": [
+        "light",
+        "dark",
+        "blue"
+      ],
+      "scales": [
+        1,
+        3
+      ],
+      "browserTemporalSamples": 8,
+      "evidence": "evidence/R07/",
+      "remainingLimitation": "Adaptación: observa solo el lazo inicial documentado; no figura terminada, tutorial ni recitación. Posiciones digitales simplificadas a esta escala. Raster key poses; Chromium verified, physical devices not tested."
+    }
+  },
+  {
+    "order": 52,
+    "id": "R08",
+    "title": "R08 · Pequeño manavai",
+    "category": "Rapa Nui",
+    "pack": "new",
+    "batch": "rapanui-02",
+    "rapanuiOrder": 8,
+    "version": 2,
+    "status": "approved",
+    "frames": 12,
+    "durations": [
+      500,
+      350,
+      350,
+      350,
+      350,
+      350,
+      350,
+      350,
+      350,
+      350,
+      350,
+      600
+    ],
+    "cycles": 1,
+    "still": 10,
+    "source": "new-scenes/sources/R08-v2.png",
+    "src": "new-scenes/atlases/moa-R08-v2.png",
+    "generator": "Integrated image_gen",
+    "reference": "references/moa-neutral.png",
+    "prompt": "new-scenes/prompts/R08.txt",
+    "context": "Jardín contemporáneo de piedra inspirado en CONAF; no se interviene un sitio arqueológico. Protección y cuidado simplificados.",
+    "culturalReferences": [
+      {
+        "url": "https://www.conaf.cl/jardin-demostrativo-manavai-conservacion-de-la-biodiversidad-de-rapa-nui/",
+        "supports": "Jardín contemporáneo de piedra inspirado en CONAF; no se interviene un sitio arqueológico. Protección y cuidado simplificados."
+      }
+    ],
+    "review": "Frame-by-frame source and delivered PNG review; light/dark/blue at real size; enlarged browser captures and timed frame samples passed.",
+    "sourceColumns": [
+      0,
+      418,
+      827,
+      1224,
+      1642
+    ],
+    "packaging": {
+      "sourceSize": [
+        1642,
+        958
+      ],
+      "rowCuts": [
+        0,
+        364,
+        659,
+        958
+      ],
+      "columnCuts": [
+        0,
+        418,
+        827,
+        1224,
+        1642
+      ],
+      "rowBaselineRegistration": [
+        [
+          0,
+          47
+        ],
+        [
+          4,
+          47
+        ],
+        [
+          10,
+          47
+        ],
+        [
+          0,
+          47
+        ],
+        [
+          0,
+          107
+        ],
+        [
+          4,
+          107
+        ],
+        [
+          10,
+          107
+        ],
+        [
+          0,
+          107
+        ],
+        [
+          0,
+          109
+        ],
+        [
+          4,
+          109
+        ],
+        [
+          10,
+          109
+        ],
+        [
+          0,
+          109
+        ]
+      ],
+      "unionCrop": [
+        5,
+        123,
+        413,
+        391
+      ],
+      "sharedScale": 0.5588235294117647,
+      "frameSize": [
+        288,
+        168
+      ],
+      "origin": [
+        0,
+        0
+      ],
+      "trajectory": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          0
+        ]
+      ]
+    },
+    "frameFiles": [
+      "new-scenes/frames/R08-v2/000.png",
+      "new-scenes/frames/R08-v2/001.png",
+      "new-scenes/frames/R08-v2/002.png",
+      "new-scenes/frames/R08-v2/003.png",
+      "new-scenes/frames/R08-v2/004.png",
+      "new-scenes/frames/R08-v2/005.png",
+      "new-scenes/frames/R08-v2/006.png",
+      "new-scenes/frames/R08-v2/007.png",
+      "new-scenes/frames/R08-v2/008.png",
+      "new-scenes/frames/R08-v2/009.png",
+      "new-scenes/frames/R08-v2/010.png",
+      "new-scenes/frames/R08-v2/011.png"
+    ],
+    "sourceSha256": "40541961d096f41ddd8620111a9d8467339949eb77584a260e3903465fe9415c",
+    "frameSha256": [
+      "494670007587c1d2cc18b5867f7f924e6a649737f02a6eb92f0f0c62ce7359da",
+      "bb3fece0ff2ff378052612c1d082ed5eeb80d826503538a9780f971db2b50b01",
+      "0d3a8f8863350c911d2eb10a94ca6c0c8fab36746f5a9824a569bf40e1c55685",
+      "a20997395e9a1cd1186af2e9931d4b517778fe72fde72061cf626f2c21f850c8",
+      "7578b1ae189e568e6cb7e2071b9a985facb61733e609021e9f11b5bd8a03540c",
+      "c3117a9d95fb3b88485090b5da43a7ff9d101879255787ffe7c51a5966281c1e",
+      "691713513de8d166c626f9b1453d24641879907fd93b2d9a3ae70d91258f31be",
+      "fe0e86d4a78693c7c99e49748a0c22b8f3dd5b465aa93851ca5c6cd23f3396f6",
+      "f86ec967529e38a8b0b59ee304775a14cee67f1399311a561e1b495613244130",
+      "aabfae3d6b8c2462ecf754566368563b36d4920c3ccdfde4b412641f876852e1",
+      "6efc4f868567da7a8e42e2981d3cd1733854fb5852875784e0669b12eb0c1a24",
+      "59303a6453d3917cd2afe63901326c133f9aad6da9241edb45749ed0777a1828"
+    ],
+    "bytes": 109795,
+    "sha256": "dcdf889f82f5a39c07189c698dcb8cd8f3167fc7ff8dd5114af86e26653ad971",
+    "correctionPrompts": [
+      "new-scenes/prompts/R08-correction.txt"
+    ],
+    "rejectedSources": [
+      {
+        "path": "new-scenes/sources/R08-v1.png",
+        "reason": "Remove floating mark."
+      }
+    ],
+    "sourceBytes": 1486338,
+    "qa": {
+      "reviewer": "Codex visual and technical review; principal reviewer controls merge",
+      "date": "2026-10-12",
+      "frameByFrame": true,
+      "backgrounds": [
+        "light",
+        "dark",
+        "blue"
+      ],
+      "scales": [
+        1,
+        3
+      ],
+      "browserTemporalSamples": 12,
+      "evidence": "evidence/R08/",
+      "remainingLimitation": "Jardín contemporáneo de piedra inspirado en CONAF; no se interviene un sitio arqueológico. Protección y cuidado simplificados. Raster key poses; Chromium verified, physical devices not tested."
+    }
+  },
+  {
+    "order": 53,
+    "id": "R09",
+    "title": "R09 · Cuidando toromiro",
+    "category": "Rapa Nui",
+    "pack": "new",
+    "batch": "rapanui-02",
+    "rapanuiOrder": 9,
+    "version": 3,
+    "status": "approved",
+    "frames": 16,
+    "durations": [
+      500,
+      320,
+      320,
+      320,
+      320,
+      320,
+      320,
+      320,
+      320,
+      320,
+      320,
+      320,
+      320,
+      320,
+      320,
+      620
+    ],
+    "cycles": 1,
+    "still": 14,
+    "source": "new-scenes/sources/R09-v3.png",
+    "src": "new-scenes/atlases/moa-R09-v3.png",
+    "generator": "Integrated image_gen",
+    "reference": "references/moa-neutral.png",
+    "prompt": "new-scenes/prompts/R09.txt",
+    "context": "Plántula de hojas compuestas referenciada; cuidado de vivero ficticio y abreviado, no protocolo de reintroducción silvestre.",
+    "culturalReferences": [
+      {
+        "url": "https://plantoromiro.org/educacion/vision-general-del-toromiro/",
+        "supports": "Plántula de hojas compuestas referenciada; cuidado de vivero ficticio y abreviado, no protocolo de reintroducción silvestre."
+      },
+      {
+        "url": "https://fundacionphilippi.cl/catalogo/sophora-toromiro/",
+        "supports": "Compound foliage with numerous small elliptic leaflets; source photo seedling inspected."
+      }
+    ],
+    "review": "Frame-by-frame source and delivered PNG review; light/dark/blue at real size; enlarged browser captures and timed frame samples passed.",
+    "sourceColumns": [
+      0,
+      413,
+      819,
+      1220,
+      1642
+    ],
+    "correctionPrompts": [
+      "new-scenes/prompts/R09-correction.txt",
+      "new-scenes/prompts/R09-correction-2.txt"
+    ],
+    "rejectedSources": [
+      {
+        "path": "new-scenes/sources/R09-v1.png",
+        "reason": "Guard missing in frame4."
+      },
+      {
+        "path": "new-scenes/sources/R09-v2.png",
+        "reason": "Rows3 and4 touch; unsafe extraction."
+      }
+    ],
+    "packaging": {
+      "sourceSize": [
+        1642,
+        958
+      ],
+      "rowCuts": [
+        0,
+        268,
+        500,
+        724,
+        958
+      ],
+      "columnCuts": [
+        0,
+        413,
+        819,
+        1220,
+        1642
+      ],
+      "rowBaselineRegistration": [
+        [
+          4,
+          44
+        ],
+        [
+          8,
+          44
+        ],
+        [
+          10,
+          44
+        ],
+        [
+          0,
+          44
+        ],
+        [
+          4,
+          72
+        ],
+        [
+          8,
+          72
+        ],
+        [
+          10,
+          72
+        ],
+        [
+          0,
+          72
+        ],
+        [
+          4,
+          66
+        ],
+        [
+          8,
+          66
+        ],
+        [
+          10,
+          66
+        ],
+        [
+          0,
+          66
+        ],
+        [
+          4,
+          82
+        ],
+        [
+          8,
+          82
+        ],
+        [
+          10,
+          82
+        ],
+        [
+          0,
+          82
+        ]
+      ],
+      "unionCrop": [
+        24,
+        78,
+        400,
+        293
+      ],
+      "sharedScale": 0.6063829787234043,
+      "frameSize": [
+        288,
+        168
+      ],
+      "origin": [
+        0,
+        0
+      ],
+      "trajectory": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          0
+        ]
+      ]
+    },
+    "frameFiles": [
+      "new-scenes/frames/R09-v3/000.png",
+      "new-scenes/frames/R09-v3/001.png",
+      "new-scenes/frames/R09-v3/002.png",
+      "new-scenes/frames/R09-v3/003.png",
+      "new-scenes/frames/R09-v3/004.png",
+      "new-scenes/frames/R09-v3/005.png",
+      "new-scenes/frames/R09-v3/006.png",
+      "new-scenes/frames/R09-v3/007.png",
+      "new-scenes/frames/R09-v3/008.png",
+      "new-scenes/frames/R09-v3/009.png",
+      "new-scenes/frames/R09-v3/010.png",
+      "new-scenes/frames/R09-v3/011.png",
+      "new-scenes/frames/R09-v3/012.png",
+      "new-scenes/frames/R09-v3/013.png",
+      "new-scenes/frames/R09-v3/014.png",
+      "new-scenes/frames/R09-v3/015.png"
+    ],
+    "sourceSha256": "1bb045c53ed8f783f085c74d09da25cd2da77d45f8f5a2b42bb1cc8434b12469",
+    "frameSha256": [
+      "da3c97c00b17c5465e56b664dfc6b66e176a094fbdd1687a527bd21e2547b818",
+      "c95f00c101b07ae6bf082862edf491c94acdb528f808d776be8a2e20376390f8",
+      "0a52bcdedfd4f71b55014c59d99572a6e6700fa707cf640585beaa30f49ed266",
+      "1db39ba4563bd37139d889eecad95ed19f4930d39ad121c8b9d6f5ff95756c47",
+      "d5e2c1b8810d5fa58f359c8b94bf68b92ce03adbd85a5e79933938fd79ac6380",
+      "02757c9ec5cc403a11bd48b0860e6164328afa2c500673a61a99de4e62093044",
+      "7244fee0f0d02d72073674e95ed5fab8e4c1d70a5118d9fd862d2500fdc63dce",
+      "53faee2803ad6a018c349ccdb2f4d2a79239e2f60f392ce4a9b22cd88bbadba7",
+      "4a244b3f3bde43082be5b1712b50b38aa72fe9d1b6b5d2654a9d16951fd18b0d",
+      "c886208802f523491428e437382387059846dde85eef67db68e3e95e5d0376e8",
+      "abeb13755aa7b3e4c38ef196379131bd86cc1c25864576cb64b4cca4f1b582cb",
+      "6b9bd1a9253c9edf3614fad094faefbda76fb76d431ede984f6903c4d239b207",
+      "bbf506c47d671547cb4aad5346e6cbe169fbc8ebe0a91328519479ef2351fdc5",
+      "84148b438f5f8fe4c64704bc3081301e0b8bc15a76d5f310bb285252d38195d6",
+      "8063231ae86c7a50ad6e10cced85daac6505733d35de78ede2aef6c0e491bad5",
+      "a5c2eaa2a191fa214ecfb2aa9d8f949ae22b096641f1ebb71a851a344886221d"
+    ],
+    "bytes": 130345,
+    "sha256": "618d5912e7b31b05bf9b1d8afca1955d5698218ac0109e760ac2c5f29e1d92ae",
+    "sourceBytes": 1540678,
+    "qa": {
+      "reviewer": "Codex visual and technical review; principal reviewer controls merge",
+      "date": "2026-10-12",
+      "frameByFrame": true,
+      "backgrounds": [
+        "light",
+        "dark",
+        "blue"
+      ],
+      "scales": [
+        1,
+        3
+      ],
+      "browserTemporalSamples": 16,
+      "evidence": "evidence/R09/",
+      "remainingLimitation": "Plántula de hojas compuestas referenciada; cuidado de vivero ficticio y abreviado, no protocolo de reintroducción silvestre. Raster key poses; Chromium verified, physical devices not tested."
+    }
+  },
+  {
+    "order": 54,
+    "id": "R10",
+    "title": "R10 · Encuentro con tortuga",
+    "category": "Rapa Nui",
+    "pack": "new",
+    "batch": "rapanui-02",
+    "rapanuiOrder": 10,
+    "version": 1,
+    "status": "approved",
+    "frames": 12,
+    "durations": [
+      500,
+      350,
+      350,
+      350,
+      350,
+      350,
+      350,
+      350,
+      350,
+      350,
+      350,
+      600
+    ],
+    "cycles": 1,
+    "still": 10,
+    "source": "new-scenes/sources/R10-v1.png",
+    "src": "new-scenes/atlases/moa-R10-v1.png",
+    "generator": "Integrated image_gen",
+    "reference": "references/moa-neutral.png",
+    "prompt": "new-scenes/prompts/R10.txt",
+    "context": "Observación desde tierra, sin tocar ni alimentar. Distancia escénica simplificada, no escala métrica.",
+    "culturalReferences": [
+      {
+        "url": "https://www.facebook.com/MuniRapaNui/posts/lamentable-p%C3%A9rdida-de-tortuga-en-el-sector-de-motu-hava-producto-de-una-h%C3%A9lice-d/2310939702313591/",
+        "supports": "Observación desde tierra, sin tocar ni alimentar. Distancia escénica simplificada, no escala métrica."
+      }
+    ],
+    "review": "Frame-by-frame source and delivered PNG review; light/dark/blue at real size; enlarged browser captures and timed frame samples passed.",
+    "sourceColumns": [
+      0,
+      428,
+      833,
+      1235,
+      1642
+    ],
+    "packaging": {
+      "sourceSize": [
+        1642,
+        958
+      ],
+      "rowCuts": [
+        0,
+        376,
+        671,
+        958
+      ],
+      "columnCuts": [
+        0,
+        428,
+        833,
+        1235,
+        1642
+      ],
+      "rowBaselineRegistration": [
+        [
+          0,
+          64
+        ],
+        [
+          11,
+          64
+        ],
+        [
+          13,
+          64
+        ],
+        [
+          10,
+          64
+        ],
+        [
+          0,
+          127
+        ],
+        [
+          11,
+          127
+        ],
+        [
+          13,
+          127
+        ],
+        [
+          10,
+          127
+        ],
+        [
+          0,
+          139
+        ],
+        [
+          11,
+          139
+        ],
+        [
+          13,
+          139
+        ],
+        [
+          10,
+          139
+        ]
+      ],
+      "unionCrop": [
+        19,
+        162,
+        419,
+        404
+      ],
+      "sharedScale": 0.57,
+      "frameSize": [
+        288,
+        168
+      ],
+      "origin": [
+        0,
+        0
+      ],
+      "trajectory": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          0
+        ]
+      ]
+    },
+    "frameFiles": [
+      "new-scenes/frames/R10-v1/000.png",
+      "new-scenes/frames/R10-v1/001.png",
+      "new-scenes/frames/R10-v1/002.png",
+      "new-scenes/frames/R10-v1/003.png",
+      "new-scenes/frames/R10-v1/004.png",
+      "new-scenes/frames/R10-v1/005.png",
+      "new-scenes/frames/R10-v1/006.png",
+      "new-scenes/frames/R10-v1/007.png",
+      "new-scenes/frames/R10-v1/008.png",
+      "new-scenes/frames/R10-v1/009.png",
+      "new-scenes/frames/R10-v1/010.png",
+      "new-scenes/frames/R10-v1/011.png"
+    ],
+    "sourceSha256": "02262a9e3fd66eee158a18866c93809ec930c388a9bab6aa7cfdce5b29d91507",
+    "frameSha256": [
+      "9f873ea8b901765bcac80e6a01ec079588b2ebe923b7f7ce73dc1515470e9021",
+      "565a0fea9f5f958ebdebce1dbae39b777a2fee1f02f7529a428511c75aad7605",
+      "589976b030cdd601d9e327a3d41f555161a634dd58bed8c4a3483c7787195f75",
+      "a813d30e15ef7281fa64bfa0e6ddc4a89fb2446a5e820fe57a12d8e83e83b969",
+      "7bffeaedc7e8ae1dbfb1e64f0d4d485dc1365fb1989b5f5cb7bda0592ff20d4d",
+      "68d6ee3c32d861500776194c287c9a6949c48f718311661d446fc52412293d62",
+      "7d2f6d034ae230344d43cdc25a47455bc5c6b79ce97c631950ca95c50e017318",
+      "39bdfef81f2ad23680dc4d6184d0c8a3f1958ab25a0f2c5ad0e352a171ff93e3",
+      "618e3d89d637cf14af6bdb8b6007746a691186d17751c027e2a2798e8fabf735",
+      "4ba00e84c4ed84d5d828821cf121c8dadf162eb1c4845a534cc37201412a1d8e",
+      "3ca43266fdc11d5727169743bc99ad57183c34fa17ce43b01faf20fe2d82222d",
+      "2f6710101c8070e0f10c7879df2edef9c74d818b2281c2f9de9f10d1c67eab5a"
+    ],
+    "bytes": 87641,
+    "sha256": "d40f9924b340f86c49468fe07c8ac70e65d2076f0c1703b036931a85d9a4e0ef",
+    "sourceBytes": 1221372,
+    "qa": {
+      "reviewer": "Codex visual and technical review; principal reviewer controls merge",
+      "date": "2026-10-12",
+      "frameByFrame": true,
+      "backgrounds": [
+        "light",
+        "dark",
+        "blue"
+      ],
+      "scales": [
+        1,
+        3
+      ],
+      "browserTemporalSamples": 12,
+      "evidence": "evidence/R10/",
+      "remainingLimitation": "Observación desde tierra, sin tocar ni alimentar. Distancia escénica simplificada, no escala métrica. Raster key poses; Chromium verified, physical devices not tested."
+    }
   }
 ]
