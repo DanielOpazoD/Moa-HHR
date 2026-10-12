@@ -12968,5 +12968,1040 @@
       "evidence": "evidence/M05/",
       "remainingLimitation": "Homenaje ficticio a Daft Punk: cascos transparentes y sintetizador inventados para conservar las caras; luces suaves constantes, sin sonido, marcas o patrocinio. Raster key poses; Chromium verified, physical devices not tested."
     }
+  },
+  {
+    "order": 70,
+    "id": "M06",
+    "title": "M06 · Danza gótica",
+    "category": "Cultura popular mundial",
+    "pack": "new",
+    "batch": "world-02",
+    "worldOrder": 6,
+    "version": 1,
+    "status": "approved",
+    "frames": 12,
+    "durations": [
+      500,
+      350,
+      350,
+      350,
+      350,
+      350,
+      350,
+      350,
+      350,
+      350,
+      350,
+      600
+    ],
+    "cycles": 1,
+    "still": 11,
+    "source": "new-scenes/sources/M06-v1.png",
+    "src": "new-scenes/atlases/moa-M06-v1.png",
+    "generator": "Integrated image_gen",
+    "reference": "references/moa-neutral.png",
+    "prompt": "new-scenes/prompts/M06.txt",
+    "context": "Homenaje ficticio a Wednesday, con gestos angulares propios; no reproduce una coreografía completa ni la cara de una actriz.",
+    "inspirationReferences": [
+      {
+        "url": "https://www.netflix.com/title/81231974",
+        "supports": "Homenaje ficticio a Wednesday, con gestos angulares propios; no reproduce una coreografía completa ni la cara de una actriz."
+      }
+    ],
+    "review": "Sources and every delivered frame reviewed on light, dark and blue at real size; enlarged browser captures and temporal samples passed.",
+    "sourceColumns": [
+      0,
+      429,
+      834,
+      1234,
+      1642
+    ],
+    "packaging": {
+      "sourceSize": [
+        1642,
+        958
+      ],
+      "rowCuts": [
+        0,
+        325,
+        630,
+        958
+      ],
+      "columnCuts": [
+        0,
+        429,
+        834,
+        1234,
+        1642
+      ],
+      "rowBaselineRegistration": [
+        [
+          0,
+          49
+        ],
+        [
+          12,
+          49
+        ],
+        [
+          14,
+          49
+        ],
+        [
+          10,
+          49
+        ],
+        [
+          0,
+          64
+        ],
+        [
+          12,
+          64
+        ],
+        [
+          14,
+          64
+        ],
+        [
+          10,
+          64
+        ],
+        [
+          0,
+          59
+        ],
+        [
+          12,
+          59
+        ],
+        [
+          14,
+          59
+        ],
+        [
+          10,
+          59
+        ]
+      ],
+      "unionCrop": [
+        81,
+        77,
+        360,
+        356
+      ],
+      "sharedScale": 0.5376344086021505,
+      "frameSize": [
+        288,
+        168
+      ],
+      "origin": [
+        0,
+        0
+      ],
+      "trajectory": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          0
+        ]
+      ]
+    },
+    "frameFiles": [
+      "new-scenes/frames/M06-v1/000.png",
+      "new-scenes/frames/M06-v1/001.png",
+      "new-scenes/frames/M06-v1/002.png",
+      "new-scenes/frames/M06-v1/003.png",
+      "new-scenes/frames/M06-v1/004.png",
+      "new-scenes/frames/M06-v1/005.png",
+      "new-scenes/frames/M06-v1/006.png",
+      "new-scenes/frames/M06-v1/007.png",
+      "new-scenes/frames/M06-v1/008.png",
+      "new-scenes/frames/M06-v1/009.png",
+      "new-scenes/frames/M06-v1/010.png",
+      "new-scenes/frames/M06-v1/011.png"
+    ],
+    "sourceSha256": "8bc242a35edcd4940849464366bcae83f1f02bf498972b2542fce7b83568c5ef",
+    "frameSha256": [
+      "2a4dc6c93268d843b49492d56c309b5f8251ec972f527541af6724acb5402432",
+      "bb5516ac19a5a9ed20f04cefb5bca11718c2d219b4d5e842fe65f94a26533113",
+      "1e7ad0147d441ce04266c4484e7f561054554e8cf662607a8fbcab5a9fb8d8a0",
+      "30519b33362ae5a54adbf3f2017961feb12b7731e4c17f4178e4d576769360d4",
+      "2f04446695f0b04f3a24155036c776ca33c9b142281802144513d88a508bd070",
+      "b756f370f8fb387621f5df5b4faca6da8d0ec269d213dee6a88af6d6c8ddc20a",
+      "1111c1b4fa8d5345e794b6faa76b3b1e36208ca98673b3d0639850e730ccea7a",
+      "c55e80f080d3378a62bc2f48abd4057fe21849f5a887308e657d7e33984ff8a3",
+      "74edc7f47d131f4ddd447cb80ddca86079b294fce2a0f16caa931622a4bab18a",
+      "cc4ba7a78d076533ebd2decfa06b494892edc48930acc5913e50204160fc2f77",
+      "12c718a5699e275954ae5815336630dc390ad5089fe53c28bce5994c2a4bfdbb",
+      "f4324a480160978142ad80814081b8dd5832fd8ad284d45adc52c6edcefd3c7a"
+    ],
+    "bytes": 55421,
+    "sha256": "c67dcb9875c09dfffb2061a48f3dc581a3a7a9d4b3bc8b7aeac3980eb4a9fb3b",
+    "sourceBytes": 996306,
+    "qa": {
+      "reviewer": "Codex visual and technical review; principal reviewer controls merge",
+      "date": "2026-10-12",
+      "frameByFrame": true,
+      "backgrounds": [
+        "light",
+        "dark",
+        "blue"
+      ],
+      "scales": [
+        1,
+        3
+      ],
+      "browserTemporalSamples": 12,
+      "evidence": "evidence/M06/",
+      "remainingLimitation": "Homenaje ficticio a Wednesday, con gestos angulares propios; no reproduce una coreografía completa ni la cara de una actriz. Raster key poses; Chromium verified, physical devices not tested."
+    }
+  },
+  {
+    "order": 71,
+    "id": "M07",
+    "title": "M07 · Bombín y bastón",
+    "category": "Cultura popular mundial",
+    "pack": "new",
+    "batch": "world-02",
+    "worldOrder": 7,
+    "version": 3,
+    "status": "approved",
+    "frames": 12,
+    "durations": [
+      500,
+      350,
+      350,
+      350,
+      350,
+      350,
+      350,
+      350,
+      350,
+      350,
+      350,
+      600
+    ],
+    "cycles": 1,
+    "still": 11,
+    "source": "new-scenes/sources/M07-v3.png",
+    "src": "new-scenes/atlases/moa-M07-v3.png",
+    "generator": "Integrated image_gen",
+    "reference": "references/moa-neutral.png",
+    "prompt": "new-scenes/prompts/M07.txt",
+    "context": "Homenaje ficticio a Charlot mediante bombín, saludo y pequeño enganche del bastón en un taburete; no replica una escena de una película.",
+    "inspirationReferences": [
+      {
+        "url": "https://www.charliechaplin.com/en/tv/infos?page=16",
+        "supports": "Homenaje ficticio a Charlot mediante bombín, saludo y pequeño enganche del bastón en un taburete; no replica una escena de una película."
+      }
+    ],
+    "review": "Sources and every delivered frame reviewed on light, dark and blue at real size; enlarged browser captures and temporal samples passed.",
+    "sourceColumns": [
+      0,
+      422,
+      817,
+      1203,
+      1642
+    ],
+    "packaging": {
+      "sourceSize": [
+        1642,
+        958
+      ],
+      "rowCuts": [
+        0,
+        344,
+        655,
+        958
+      ],
+      "columnCuts": [
+        0,
+        422,
+        817,
+        1203,
+        1642
+      ],
+      "rowBaselineRegistration": [
+        [
+          8,
+          42
+        ],
+        [
+          22,
+          42
+        ],
+        [
+          26,
+          42
+        ],
+        [
+          0,
+          42
+        ],
+        [
+          8,
+          61
+        ],
+        [
+          22,
+          61
+        ],
+        [
+          26,
+          61
+        ],
+        [
+          0,
+          61
+        ],
+        [
+          8,
+          93
+        ],
+        [
+          22,
+          93
+        ],
+        [
+          26,
+          93
+        ],
+        [
+          0,
+          93
+        ]
+      ],
+      "unionCrop": [
+        33,
+        66,
+        408,
+        371
+      ],
+      "sharedScale": 0.4918032786885246,
+      "frameSize": [
+        288,
+        168
+      ],
+      "origin": [
+        0,
+        0
+      ],
+      "trajectory": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          0
+        ]
+      ]
+    },
+    "frameFiles": [
+      "new-scenes/frames/M07-v3/000.png",
+      "new-scenes/frames/M07-v3/001.png",
+      "new-scenes/frames/M07-v3/002.png",
+      "new-scenes/frames/M07-v3/003.png",
+      "new-scenes/frames/M07-v3/004.png",
+      "new-scenes/frames/M07-v3/005.png",
+      "new-scenes/frames/M07-v3/006.png",
+      "new-scenes/frames/M07-v3/007.png",
+      "new-scenes/frames/M07-v3/008.png",
+      "new-scenes/frames/M07-v3/009.png",
+      "new-scenes/frames/M07-v3/010.png",
+      "new-scenes/frames/M07-v3/011.png"
+    ],
+    "sourceSha256": "19f30a7a47022b5e58b387a67c9c5cf674ee834ebb72f61a93b3a7183b27026c",
+    "frameSha256": [
+      "ba2472ffaf86ff50572cea7191004d19e6c4b94637ae421cb15ca61483e9b362",
+      "5aba3de445fa87c2ce48860a794a435281c038765494d8e449b24f6029431e43",
+      "b71a5085ab5e30bd393ee88ade9164fcae89e9e2bd073cde003eef2918737cb8",
+      "454653df929365ae23a57c5ba9f3c64970f165c7a9217a083da76a652a7a2aa7",
+      "8a06a4a2f2d86b16d6b6806f6c44b291eada229e5281226ec489fc18bcef92d4",
+      "1a2626f3bc5565f70fa08a9b32631df92180720bdadc314aea4b76f266fc3ac8",
+      "2917008744fe4241ee09a0d117e4e6e5672c1c2ff6c399b9205b11eef53a0e1e",
+      "4d42ba0492169258c552e2ffa5677f32e5a4738084a588bb9acb1de4f28c35fb",
+      "afd7861190684e3756a1226344bdcff8f48b6086de0d42916fcdace20f61a382",
+      "93e9c986af971375c01b7367dec5f0551740a114e3bc7e7f25550d3063454620",
+      "95c750b12b28127c205a67729cb40e19408892aadec6eaf88cd4960692a8c985",
+      "25a83efda67e6b5dfb257e1c8d3649fcf71e10e809c8253f69c93b5d726fb5ae"
+    ],
+    "bytes": 65701,
+    "sha256": "06151d0760c30cce18d56221878d17abf166eef128e14007b00a144680aeee23",
+    "correctionPrompts": [
+      "new-scenes/prompts/M07-correction.txt",
+      "new-scenes/prompts/M07-correction-2.txt"
+    ],
+    "rejectedSources": [
+      {
+        "source": "new-scenes/sources/M07-v1.png",
+        "reason": "Bastón deformado y margen inferior escaso."
+      },
+      {
+        "source": "new-scenes/sources/M07-v2.png",
+        "reason": "Persiste el cambio de geometría del bastón."
+      }
+    ],
+    "sourceBytes": 1159603,
+    "qa": {
+      "reviewer": "Codex visual and technical review; principal reviewer controls merge",
+      "date": "2026-10-12",
+      "frameByFrame": true,
+      "backgrounds": [
+        "light",
+        "dark",
+        "blue"
+      ],
+      "scales": [
+        1,
+        3
+      ],
+      "browserTemporalSamples": 12,
+      "evidence": "evidence/M07/",
+      "remainingLimitation": "Homenaje ficticio a Charlot mediante bombín, saludo y pequeño enganche del bastón en un taburete; no replica una escena de una película. Raster key poses; Chromium verified, physical devices not tested."
+    }
+  },
+  {
+    "order": 72,
+    "id": "M08",
+    "title": "M08 · Victoria en los peldaños",
+    "category": "Cultura popular mundial",
+    "pack": "new",
+    "batch": "world-02",
+    "worldOrder": 8,
+    "version": 3,
+    "status": "approved",
+    "frames": 12,
+    "durations": [
+      500,
+      350,
+      350,
+      350,
+      350,
+      350,
+      350,
+      350,
+      350,
+      350,
+      350,
+      600
+    ],
+    "cycles": 1,
+    "still": 11,
+    "source": "new-scenes/sources/M08-v3.png",
+    "src": "new-scenes/atlases/moa-M08-v3.png",
+    "generator": "Integrated image_gen",
+    "reference": "references/moa-neutral.png",
+    "prompt": "new-scenes/prompts/M08.txt",
+    "context": "Homenaje ficticio al entrenamiento de Rocky: carrera breve, subida de dos peldaños y celebración. No es una pauta de ejercicio ni reproduce una película.",
+    "inspirationReferences": [
+      {
+        "url": "https://www.mgm.com/movies/rocky",
+        "supports": "Homenaje ficticio al entrenamiento de Rocky: carrera breve, subida de dos peldaños y celebración. No es una pauta de ejercicio ni reproduce una película."
+      }
+    ],
+    "review": "Sources and every delivered frame reviewed on light, dark and blue at real size; enlarged browser captures and temporal samples passed.",
+    "sourceColumns": [
+      0,
+      445,
+      840,
+      1265,
+      1642
+    ],
+    "packaging": {
+      "sourceSize": [
+        1642,
+        958
+      ],
+      "rowCuts": [
+        0,
+        338,
+        651,
+        958
+      ],
+      "columnCuts": [
+        0,
+        445,
+        840,
+        1265,
+        1642
+      ],
+      "rowBaselineRegistration": [
+        [
+          0,
+          36
+        ],
+        [
+          25,
+          36
+        ],
+        [
+          10,
+          36
+        ],
+        [
+          34,
+          36
+        ],
+        [
+          0,
+          54
+        ],
+        [
+          25,
+          54
+        ],
+        [
+          10,
+          54
+        ],
+        [
+          34,
+          54
+        ],
+        [
+          0,
+          74
+        ],
+        [
+          25,
+          74
+        ],
+        [
+          10,
+          74
+        ],
+        [
+          34,
+          74
+        ]
+      ],
+      "unionCrop": [
+        54,
+        62,
+        386,
+        365
+      ],
+      "sharedScale": 0.49504950495049505,
+      "frameSize": [
+        288,
+        168
+      ],
+      "origin": [
+        0,
+        0
+      ],
+      "trajectory": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          0
+        ]
+      ]
+    },
+    "frameFiles": [
+      "new-scenes/frames/M08-v3/000.png",
+      "new-scenes/frames/M08-v3/001.png",
+      "new-scenes/frames/M08-v3/002.png",
+      "new-scenes/frames/M08-v3/003.png",
+      "new-scenes/frames/M08-v3/004.png",
+      "new-scenes/frames/M08-v3/005.png",
+      "new-scenes/frames/M08-v3/006.png",
+      "new-scenes/frames/M08-v3/007.png",
+      "new-scenes/frames/M08-v3/008.png",
+      "new-scenes/frames/M08-v3/009.png",
+      "new-scenes/frames/M08-v3/010.png",
+      "new-scenes/frames/M08-v3/011.png"
+    ],
+    "sourceSha256": "719bccc04a5cf5d221299fa58209da6525fa2c8acfdff632e36ad7e16b00df99",
+    "frameSha256": [
+      "bdd0fb454e4cf68bda25bcb38e3bba232ec6d6753567027dc231917c2ee9e1b9",
+      "ab16ed969a8fc25b42acd14189495ded668875ce67ee201a3d8075278a26fd69",
+      "336a0692e7b15df3f6d5be46280006f5144f0c35df8776bc18e82d16cd4ebf0f",
+      "8c6a638618446017c351f41b67bc392170568fc7e1eb1e22f23ab0c22d949fdd",
+      "6b39d10f130d052ae425e9b636ea685efefca582880c9865033b0b1bca95b5c3",
+      "904355f8ae5bff5712583caf3581427f5e46cec4fa471d71dc5ae416e90107a3",
+      "c243bff4f33ca4ea15a5e5a4fa23d0679e9f9c8efaebc78cf83363be3219d1d6",
+      "6d0cd742d38f258c66b7471449245867acfc8caa388858923677fc154c95b76f",
+      "2672144e7206e241d19313081c78af82636706445bca0254febf43f9f252e0bd",
+      "5a1a791cacd10af78cd2f0dc9a7510553f2e7f0389ba54158626f975fa22cac4",
+      "4ea506333494aa935a0a521a070ac3fd06268de3ef21b3f329255aae8a59cd7b",
+      "cd7984c764cd26583d6193bc7092bf6d696cebc5eb03ec45db31a68f61e11947"
+    ],
+    "bytes": 48216,
+    "sha256": "73f2f50cbffd11f6959f0cbc9226fb4fa18036776069b7520f3f7b2f8a3450e7",
+    "correctionPrompts": [
+      "new-scenes/prompts/M08-correction.txt",
+      "new-scenes/prompts/M08-correction-2.txt"
+    ],
+    "rejectedSources": [
+      {
+        "source": "new-scenes/sources/M08-v1.png",
+        "reason": "No alcanza el peldaño superior y zancadas demasiado similares."
+      },
+      {
+        "source": "new-scenes/sources/M08-v2.png",
+        "reason": "La subida y la alternancia seguían poco claras; se replantea con dos peldaños y doce poses."
+      }
+    ],
+    "sourceBytes": 910842,
+    "qa": {
+      "reviewer": "Codex visual and technical review; principal reviewer controls merge",
+      "date": "2026-10-12",
+      "frameByFrame": true,
+      "backgrounds": [
+        "light",
+        "dark",
+        "blue"
+      ],
+      "scales": [
+        1,
+        3
+      ],
+      "browserTemporalSamples": 12,
+      "evidence": "evidence/M08/",
+      "remainingLimitation": "Homenaje ficticio al entrenamiento de Rocky: carrera breve, subida de dos peldaños y celebración. No es una pauta de ejercicio ni reproduce una película. Raster key poses; Chromium verified, physical devices not tested."
+    }
+  },
+  {
+    "order": 73,
+    "id": "M09",
+    "title": "M09 · La fuerza de una galleta",
+    "category": "Cultura popular mundial",
+    "pack": "new",
+    "batch": "world-02",
+    "worldOrder": 9,
+    "version": 2,
+    "status": "approved",
+    "frames": 16,
+    "durations": [
+      500,
+      320,
+      320,
+      320,
+      320,
+      320,
+      320,
+      320,
+      320,
+      320,
+      320,
+      320,
+      320,
+      320,
+      320,
+      620
+    ],
+    "cycles": 1,
+    "still": 15,
+    "source": "new-scenes/sources/M09-v2.png",
+    "src": "new-scenes/atlases/moa-M09-v2.png",
+    "generator": "Integrated image_gen",
+    "reference": "references/moa-neutral.png",
+    "prompt": "new-scenes/prompts/M09.txt",
+    "context": "Broma ficticia inspirada en la Fuerza de Star Wars: un amigo oculto ayuda a acercar la galleta. Sin armas ni poderes reales.",
+    "inspirationReferences": [
+      {
+        "url": "https://www.starwars.com/databank/the-force",
+        "supports": "Broma ficticia inspirada en la Fuerza de Star Wars: un amigo oculto ayuda a acercar la galleta. Sin armas ni poderes reales."
+      }
+    ],
+    "review": "Sources and every delivered frame reviewed on light, dark and blue at real size; enlarged browser captures and temporal samples passed.",
+    "sourceColumns": [
+      0,
+      436,
+      840,
+      1235,
+      1642
+    ],
+    "packaging": {
+      "sourceSize": [
+        1642,
+        958
+      ],
+      "rowCuts": [
+        0,
+        262,
+        494,
+        717,
+        958
+      ],
+      "columnCuts": [
+        0,
+        436,
+        840,
+        1235,
+        1642
+      ],
+      "rowBaselineRegistration": [
+        [
+          0,
+          50
+        ],
+        [
+          16,
+          50
+        ],
+        [
+          20,
+          50
+        ],
+        [
+          14,
+          50
+        ],
+        [
+          0,
+          72
+        ],
+        [
+          16,
+          72
+        ],
+        [
+          20,
+          72
+        ],
+        [
+          14,
+          72
+        ],
+        [
+          0,
+          73
+        ],
+        [
+          16,
+          73
+        ],
+        [
+          20,
+          73
+        ],
+        [
+          14,
+          73
+        ],
+        [
+          0,
+          85
+        ],
+        [
+          16,
+          85
+        ],
+        [
+          20,
+          85
+        ],
+        [
+          14,
+          85
+        ]
+      ],
+      "unionCrop": [
+        54,
+        91,
+        388,
+        288
+      ],
+      "sharedScale": 0.6826347305389222,
+      "frameSize": [
+        288,
+        168
+      ],
+      "origin": [
+        0,
+        0
+      ],
+      "trajectory": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          0
+        ]
+      ]
+    },
+    "frameFiles": [
+      "new-scenes/frames/M09-v2/000.png",
+      "new-scenes/frames/M09-v2/001.png",
+      "new-scenes/frames/M09-v2/002.png",
+      "new-scenes/frames/M09-v2/003.png",
+      "new-scenes/frames/M09-v2/004.png",
+      "new-scenes/frames/M09-v2/005.png",
+      "new-scenes/frames/M09-v2/006.png",
+      "new-scenes/frames/M09-v2/007.png",
+      "new-scenes/frames/M09-v2/008.png",
+      "new-scenes/frames/M09-v2/009.png",
+      "new-scenes/frames/M09-v2/010.png",
+      "new-scenes/frames/M09-v2/011.png",
+      "new-scenes/frames/M09-v2/012.png",
+      "new-scenes/frames/M09-v2/013.png",
+      "new-scenes/frames/M09-v2/014.png",
+      "new-scenes/frames/M09-v2/015.png"
+    ],
+    "sourceSha256": "be96e80859348b4d3a694bbf87a0e714f8c5ee224a298edebfac55e067fbf663",
+    "frameSha256": [
+      "930b0129174fbe3edbb12f899e6476ac717cfbae9072714bfbf2fe3c538d01a0",
+      "2b3695700ac34e72acacf3e33f0a67715ebf8080759a71acea2cb71503b86dcb",
+      "3dc88f9d30751814f99c5afbabe3899bacd65e8f52a7cb0f34a356a05eb74136",
+      "0c5c8b1bdfcbe7447dccbdac21dba9f4af0a8d6f2883f7e5e9117dd680f0eb83",
+      "968d1a57f42cfaa82c0f2fb23e6aa78ba4544ee34a9466e796f3abd4b62a2432",
+      "57c3a8bb2825ceb708a2c8e8a96de09f06d2a21116d501b6a5b2710a253b308b",
+      "bbc231b62a626758bd8bffb0c9344ab9f3631ee4fa294c8e618b8ac089afaa9f",
+      "66c95655b8f41794e1a099e50277f7b08da7bee677a815fa512f73f355c53112",
+      "83f3dcd749fe3687da3f50f167bdd9ea3bcbe8057fce6e57b0b79f8ca192b850",
+      "bf3814e204912208a2be846f5fb0824217b57312089dd34492c47a17f1a910b4",
+      "29f88420b0c8d551350efb031eb6f2cf4518970953517861629172f94d52f58e",
+      "21cd7beac1c173023827680e6ec846aeb61a2af86dc4cf0937819deaa776b6f8",
+      "e8e9855d9a7e57bb2a9cda2eccfddd169b738ebfdd156482dc32fd979cd3c2fc",
+      "2886fa612b59032e472ede38ff6796c35fc614f9329b2c5714c21d9bb78fa99a",
+      "19f63cb68eb328838e437ac00b1a35e50ae9c9175c25f62afd74a934d233ce2a",
+      "b990a688cadaed03f676943a16979944e918f3555c3cc2e26f9b4a91a541ec17"
+    ],
+    "bytes": 105375,
+    "sha256": "5c893611a958756f0a27201d1a839f5cdda40dda9bdb79021f190ce9015a3acc",
+    "correctionPrompts": [
+      "new-scenes/prompts/M09-correction.txt"
+    ],
+    "rejectedSources": [
+      {
+        "source": "new-scenes/sources/M09-v1.png",
+        "reason": "Mesa demasiado cerca del borde y ojos sin borde blanco en varios cuadros."
+      }
+    ],
+    "sourceBytes": 1245658,
+    "qa": {
+      "reviewer": "Codex visual and technical review; principal reviewer controls merge",
+      "date": "2026-10-12",
+      "frameByFrame": true,
+      "backgrounds": [
+        "light",
+        "dark",
+        "blue"
+      ],
+      "scales": [
+        1,
+        3
+      ],
+      "browserTemporalSamples": 16,
+      "evidence": "evidence/M09/",
+      "remainingLimitation": "Broma ficticia inspirada en la Fuerza de Star Wars: un amigo oculto ayuda a acercar la galleta. Sin armas ni poderes reales. Raster key poses; Chromium verified, physical devices not tested."
+    }
+  },
+  {
+    "order": 74,
+    "id": "M10",
+    "title": "M10 · Esquiva doméstica",
+    "category": "Cultura popular mundial",
+    "pack": "new",
+    "batch": "world-02",
+    "worldOrder": 10,
+    "version": 3,
+    "status": "approved",
+    "frames": 12,
+    "durations": [
+      500,
+      350,
+      350,
+      350,
+      350,
+      350,
+      350,
+      350,
+      350,
+      350,
+      350,
+      600
+    ],
+    "cycles": 1,
+    "still": 11,
+    "source": "new-scenes/sources/M10-v3.png",
+    "src": "new-scenes/atlases/moa-M10-v3.png",
+    "generator": "Integrated image_gen",
+    "reference": "references/moa-neutral.png",
+    "prompt": "new-scenes/prompts/M10.txt",
+    "context": "Homenaje ficticio a la cámara lenta de The Matrix: Moa esquiva un calcetín blando y después lo recoge. Sin armas ni proyectiles peligrosos.",
+    "inspirationReferences": [
+      {
+        "url": "https://www.warnerbros.com/movies/matrix",
+        "supports": "Homenaje ficticio a la cámara lenta de The Matrix: Moa esquiva un calcetín blando y después lo recoge. Sin armas ni proyectiles peligrosos."
+      }
+    ],
+    "review": "Sources and every delivered frame reviewed on light, dark and blue at real size; enlarged browser captures and temporal samples passed.",
+    "correctionPrompts": [
+      "new-scenes/prompts/M10-correction.txt",
+      "new-scenes/prompts/M10-correction-2.txt"
+    ],
+    "rejectedSources": [
+      {
+        "source": "new-scenes/sources/M10-v1.png",
+        "reason": "Trayectoria del calcetín retrocede y quedan trazos de movimiento; se replantea en doce poses."
+      },
+      {
+        "source": "new-scenes/sources/M10-v2.png",
+        "reason": "El calcetín invade la separación entre columnas; empaquetado rechazado."
+      }
+    ],
+    "sourceColumns": [
+      0,
+      436,
+      861,
+      1248,
+      1642
+    ],
+    "packaging": {
+      "sourceSize": [
+        1642,
+        958
+      ],
+      "rowCuts": [
+        0,
+        372,
+        655,
+        958
+      ],
+      "columnCuts": [
+        0,
+        436,
+        861,
+        1248,
+        1642
+      ],
+      "rowBaselineRegistration": [
+        [
+          0,
+          73
+        ],
+        [
+          5,
+          73
+        ],
+        [
+          24,
+          73
+        ],
+        [
+          21,
+          73
+        ],
+        [
+          0,
+          151
+        ],
+        [
+          5,
+          151
+        ],
+        [
+          24,
+          151
+        ],
+        [
+          21,
+          151
+        ],
+        [
+          0,
+          146
+        ],
+        [
+          5,
+          146
+        ],
+        [
+          24,
+          146
+        ],
+        [
+          21,
+          146
+        ]
+      ],
+      "unionCrop": [
+        29,
+        169,
+        425,
+        399
+      ],
+      "sharedScale": 0.5757575757575758,
+      "frameSize": [
+        288,
+        168
+      ],
+      "origin": [
+        0,
+        0
+      ],
+      "trajectory": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          0
+        ]
+      ]
+    },
+    "frameFiles": [
+      "new-scenes/frames/M10-v3/000.png",
+      "new-scenes/frames/M10-v3/001.png",
+      "new-scenes/frames/M10-v3/002.png",
+      "new-scenes/frames/M10-v3/003.png",
+      "new-scenes/frames/M10-v3/004.png",
+      "new-scenes/frames/M10-v3/005.png",
+      "new-scenes/frames/M10-v3/006.png",
+      "new-scenes/frames/M10-v3/007.png",
+      "new-scenes/frames/M10-v3/008.png",
+      "new-scenes/frames/M10-v3/009.png",
+      "new-scenes/frames/M10-v3/010.png",
+      "new-scenes/frames/M10-v3/011.png"
+    ],
+    "sourceSha256": "84fc47850c1fc9fa35d9ffca9754eec0e13354be7a2323f60f5c2dad33735a6f",
+    "frameSha256": [
+      "bfbd3cf644bb79605e03838eddd741cb30e64fb2b79a62151a486d1fe45633dd",
+      "4216934a19355885f82667cd656d300a5f1e5a199364c128d1eb9aa8862f565d",
+      "2a8bb33d4a93e590c1a5e5c12f7702b290f6e8842d5b3917fa7a85e143bbb7eb",
+      "77cf44d897412c3297a4d45ba91cb46802ca8c25987e543f3cb773f0c469932c",
+      "c775be4af4b9ffeb48ec27ffa3b4ad4c3b64b204203cbe6d38468365f299410f",
+      "df73942b870e3cb6d68c4e704dad924ad7a6540390cef679bf041b735da80d0e",
+      "d5c303663380c1cd15acbf0548d9b889503d08ffc4aeba976f0996a8485fb1c6",
+      "e661c738e13a80b0efcf9f290448404129fd017613967c06b8f38a1408b20d78",
+      "5df953c12c6860f18962d890ff8e980ddccfd476773891d8d0fa2514fc3bfbb7",
+      "a2e9841a0e3d8901e1064532ec0cc81e502ff480227675c88a08386a74c9bb8c",
+      "7acc8f55cd37f27ac5c2e4eb0386673c7dadb8d3da6add41fb10ef7bf92918f9",
+      "89e148f34b79835bcd87d2639250718be702547cc24293ed37764a1d64394f92"
+    ],
+    "bytes": 59793,
+    "sha256": "b4e7a2bcd7f732175a74744ab00ebb64734a75787d7e760960dee9bc89a98735",
+    "sourceBytes": 897127,
+    "qa": {
+      "reviewer": "Codex visual and technical review; principal reviewer controls merge",
+      "date": "2026-10-12",
+      "frameByFrame": true,
+      "backgrounds": [
+        "light",
+        "dark",
+        "blue"
+      ],
+      "scales": [
+        1,
+        3
+      ],
+      "browserTemporalSamples": 12,
+      "evidence": "evidence/M10/",
+      "remainingLimitation": "Homenaje ficticio a la cámara lenta de The Matrix: Moa esquiva un calcetín blando y después lo recoge. Sin armas ni proyectiles peligrosos. Raster key poses; Chromium verified, physical devices not tested."
+    }
   }
 ]

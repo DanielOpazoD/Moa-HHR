@@ -1,0 +1,205 @@
+{
+  "order": 74,
+  "id": "M10",
+  "title": "M10 · Esquiva doméstica",
+  "category": "Cultura popular mundial",
+  "pack": "new",
+  "batch": "world-02",
+  "worldOrder": 10,
+  "version": 3,
+  "status": "approved",
+  "frames": 12,
+  "durations": [
+    500,
+    350,
+    350,
+    350,
+    350,
+    350,
+    350,
+    350,
+    350,
+    350,
+    350,
+    600
+  ],
+  "cycles": 1,
+  "still": 11,
+  "source": "new-scenes/sources/M10-v3.png",
+  "src": "new-scenes/atlases/moa-M10-v3.png",
+  "generator": "Integrated image_gen",
+  "reference": "references/moa-neutral.png",
+  "prompt": "new-scenes/prompts/M10.txt",
+  "context": "Homenaje ficticio a la cámara lenta de The Matrix: Moa esquiva un calcetín blando y después lo recoge. Sin armas ni proyectiles peligrosos.",
+  "inspirationReferences": [
+    {
+      "url": "https://www.warnerbros.com/movies/matrix",
+      "supports": "Homenaje ficticio a la cámara lenta de The Matrix: Moa esquiva un calcetín blando y después lo recoge. Sin armas ni proyectiles peligrosos."
+    }
+  ],
+  "review": "Sources and every delivered frame reviewed on light, dark and blue at real size; enlarged browser captures and temporal samples passed.",
+  "correctionPrompts": [
+    "new-scenes/prompts/M10-correction.txt",
+    "new-scenes/prompts/M10-correction-2.txt"
+  ],
+  "rejectedSources": [
+    {
+      "source": "new-scenes/sources/M10-v1.png",
+      "reason": "Trayectoria del calcetín retrocede y quedan trazos de movimiento; se replantea en doce poses."
+    },
+    {
+      "source": "new-scenes/sources/M10-v2.png",
+      "reason": "El calcetín invade la separación entre columnas; empaquetado rechazado."
+    }
+  ],
+  "sourceColumns": [
+    0,
+    436,
+    861,
+    1248,
+    1642
+  ],
+  "packaging": {
+    "sourceSize": [
+      1642,
+      958
+    ],
+    "rowCuts": [
+      0,
+      372,
+      655,
+      958
+    ],
+    "columnCuts": [
+      0,
+      436,
+      861,
+      1248,
+      1642
+    ],
+    "rowBaselineRegistration": [
+      [
+        0,
+        73
+      ],
+      [
+        5,
+        73
+      ],
+      [
+        24,
+        73
+      ],
+      [
+        21,
+        73
+      ],
+      [
+        0,
+        151
+      ],
+      [
+        5,
+        151
+      ],
+      [
+        24,
+        151
+      ],
+      [
+        21,
+        151
+      ],
+      [
+        0,
+        146
+      ],
+      [
+        5,
+        146
+      ],
+      [
+        24,
+        146
+      ],
+      [
+        21,
+        146
+      ]
+    ],
+    "unionCrop": [
+      29,
+      169,
+      425,
+      399
+    ],
+    "sharedScale": 0.5757575757575758,
+    "frameSize": [
+      288,
+      168
+    ],
+    "origin": [
+      0,
+      0
+    ],
+    "trajectory": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ]
+    ]
+  },
+  "frameFiles": [
+    "new-scenes/frames/M10-v3/000.png",
+    "new-scenes/frames/M10-v3/001.png",
+    "new-scenes/frames/M10-v3/002.png",
+    "new-scenes/frames/M10-v3/003.png",
+    "new-scenes/frames/M10-v3/004.png",
+    "new-scenes/frames/M10-v3/005.png",
+    "new-scenes/frames/M10-v3/006.png",
+    "new-scenes/frames/M10-v3/007.png",
+    "new-scenes/frames/M10-v3/008.png",
+    "new-scenes/frames/M10-v3/009.png",
+    "new-scenes/frames/M10-v3/010.png",
+    "new-scenes/frames/M10-v3/011.png"
+  ],
+  "sourceSha256": "84fc47850c1fc9fa35d9ffca9754eec0e13354be7a2323f60f5c2dad33735a6f",
+  "frameSha256": [
+    "bfbd3cf644bb79605e03838eddd741cb30e64fb2b79a62151a486d1fe45633dd",
+    "4216934a19355885f82667cd656d300a5f1e5a199364c128d1eb9aa8862f565d",
+    "2a8bb33d4a93e590c1a5e5c12f7702b290f6e8842d5b3917fa7a85e143bbb7eb",
+    "77cf44d897412c3297a4d45ba91cb46802ca8c25987e543f3cb773f0c469932c",
+    "c775be4af4b9ffeb48ec27ffa3b4ad4c3b64b204203cbe6d38468365f299410f",
+    "df73942b870e3cb6d68c4e704dad924ad7a6540390cef679bf041b735da80d0e",
+    "d5c303663380c1cd15acbf0548d9b889503d08ffc4aeba976f0996a8485fb1c6",
+    "e661c738e13a80b0efcf9f290448404129fd017613967c06b8f38a1408b20d78",
+    "5df953c12c6860f18962d890ff8e980ddccfd476773891d8d0fa2514fc3bfbb7",
+    "a2e9841a0e3d8901e1064532ec0cc81e502ff480227675c88a08386a74c9bb8c",
+    "7acc8f55cd37f27ac5c2e4eb0386673c7dadb8d3da6add41fb10ef7bf92918f9",
+    "89e148f34b79835bcd87d2639250718be702547cc24293ed37764a1d64394f92"
+  ],
+  "bytes": 59793,
+  "sha256": "b4e7a2bcd7f732175a74744ab00ebb64734a75787d7e760960dee9bc89a98735",
+  "sourceBytes": 897127,
+  "qa": {
+    "reviewer": "Codex visual and technical review; principal reviewer controls merge",
+    "date": "2026-10-12",
+    "frameByFrame": true,
+    "backgrounds": [
+      "light",
+      "dark",
+      "blue"
+    ],
+    "scales": [
+      1,
+      3
+    ],
+    "browserTemporalSamples": 12,
+    "evidence": "evidence/M10/",
+    "remainingLimitation": "Homenaje ficticio a la cámara lenta de The Matrix: Moa esquiva un calcetín blando y después lo recoge. Sin armas ni proyectiles peligrosos. Raster key poses; Chromium verified, physical devices not tested."
+  }
+}

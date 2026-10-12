@@ -7,7 +7,7 @@ Homenajes ficticios con actuación propia, sin colaboración, patrocinio o aval 
 | Bloque | Escenas | Actuaciones | Estado |
 | --- | --- | --- | --- |
 | 1 | M01–M05 | Moonwalk, estadio, metal, aventura con bajo, dúo electrónico | Revisado; evidencia en [QA](QA-world-01.md) |
-| 2 | M06–M10 | Danza gótica, bombín y bastón, entrenamiento, galleta, calcetines | Pendiente |
+| 2 | M06–M10 | Danza gótica, bombín y bastón, entrenamiento, galleta, calcetines | Revisado; evidencia en [QA](QA-world-02.md) |
 | 3 | M11–M15 | Arnés, zapatillas, criatura original, plataformas, cofre | Pendiente |
 | 4 | M16–M20 | Casa de cubos, piezas encajables, cubo de colores, paraguas, utilería | Pendiente |
 
@@ -22,3 +22,11 @@ Entre 8 y 24 poses reales por escena, 3–6 segundos y final explícito. Revisar
 - **M03:** concepto original de Daniel sobre guitarra imaginaria y un mechón postizo. No reproduce una persona, canción o actuación específica.
 - **M04:** [Iron Maiden: presentación oficial del grupo](https://www.ironmaiden.com/the-band/), que identifica a Steve Harris como bajista. La capa y la roca escénica son ficción de aventura, sin Eddie, marcas o recreación de un concierto concreto.
 - **M05:** [Daft Punk: Alive 2007](https://daftpunk.com/alive2007/). Homenaje al dúo electrónico; cascos transparentes, dispositivo y movimientos inventados para conservar las caras. Sin audio, logotipos ni luces intermitentes.
+
+## Inspiraciones del segundo bloque
+
+- **M06:** [Wednesday en Netflix](https://www.netflix.com/title/81231974), cuyo episodio 4 sitúa el baile Rave'N. La secuencia de Moa usa gestos angulares propios, sin copiar una coreografía completa ni una actriz.
+- **M07:** [Archivo oficial de Charlie Chaplin](https://www.charliechaplin.com/en/tv/infos?page=16), que describe el bombín y bastón como elementos de su figura cómica. El taburete y el pequeño enganche son una situación inventada.
+- **M08:** [Rocky, MGM](https://www.mgm.com/movies/rocky). Inspiración cinematográfica indicada por Daniel; subida y celebración originales, sin boxeo ni pauta deportiva.
+- **M09:** [La Fuerza, Star Wars Databank](https://www.starwars.com/databank/the-force), que incluye la levitación de objetos entre las facultades ficticias. Aquí la ayuda proviene de un amigo y se revela como broma doméstica.
+- **M10:** [The Matrix, Warner Bros.](https://www.warnerbros.com/movies/matrix). Homenaje de vestuario y cámara lenta solicitado por Daniel; la acción usa un calcetín y una cesta, sin armas ni reproducción de una escena completa.
