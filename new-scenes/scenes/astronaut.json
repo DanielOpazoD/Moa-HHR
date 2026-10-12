@@ -1,0 +1,219 @@
+{
+  "order": 43,
+  "id": "astronaut",
+  "title": "Astronauta y libreta",
+  "category": "Movimiento",
+  "pack": "new",
+  "batch": "gestures-06",
+  "expansionOrder": 29,
+  "version": 1,
+  "status": "approved",
+  "frames": 16,
+  "durations": [
+    472,
+    337,
+    337,
+    337,
+    337,
+    337,
+    337,
+    337,
+    337,
+    337,
+    337,
+    337,
+    337,
+    337,
+    337,
+    610
+  ],
+  "cycles": 1,
+  "still": 8,
+  "source": "new-scenes/sources/astronaut-v1.png",
+  "src": "new-scenes/atlases/moa-astronaut-v1.png",
+  "generator": "Integrated image_gen",
+  "reference": "references/moa-neutral.png",
+  "prompt": "new-scenes/prompts/astronaut.txt",
+  "review": "Crouch, articulated slow hop, catches one notebook and lands. Shared row baseline retains airborne row offset; no synthetic duplicate frames.",
+  "sourceColumns": [
+    40,
+    470,
+    850,
+    1240,
+    1642
+  ],
+  "sourceRowBaselines": [
+    245,
+    512,
+    721,
+    943
+  ],
+  "packaging": {
+    "sourceSize": [
+      1642,
+      958
+    ],
+    "rowCuts": [
+      0,
+      254,
+      493,
+      725,
+      958
+    ],
+    "columnCuts": [
+      40,
+      470,
+      850,
+      1240,
+      1642
+    ],
+    "rowBaselineRegistration": [
+      [
+        0,
+        31
+      ],
+      [
+        25,
+        31
+      ],
+      [
+        20,
+        31
+      ],
+      [
+        14,
+        31
+      ],
+      [
+        0,
+        18
+      ],
+      [
+        25,
+        18
+      ],
+      [
+        20,
+        18
+      ],
+      [
+        14,
+        18
+      ],
+      [
+        0,
+        48
+      ],
+      [
+        25,
+        48
+      ],
+      [
+        20,
+        48
+      ],
+      [
+        14,
+        48
+      ],
+      [
+        0,
+        58
+      ],
+      [
+        25,
+        58
+      ],
+      [
+        20,
+        58
+      ],
+      [
+        14,
+        58
+      ]
+    ],
+    "unionCrop": [
+      63,
+      25,
+      374,
+      281
+    ],
+    "sharedScale": 0.5859375,
+    "frameSize": [
+      288,
+      168
+    ],
+    "origin": [
+      0,
+      0
+    ],
+    "trajectory": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ]
+    ]
+  },
+  "frameFiles": [
+    "new-scenes/frames/astronaut-v1/000.png",
+    "new-scenes/frames/astronaut-v1/001.png",
+    "new-scenes/frames/astronaut-v1/002.png",
+    "new-scenes/frames/astronaut-v1/003.png",
+    "new-scenes/frames/astronaut-v1/004.png",
+    "new-scenes/frames/astronaut-v1/005.png",
+    "new-scenes/frames/astronaut-v1/006.png",
+    "new-scenes/frames/astronaut-v1/007.png",
+    "new-scenes/frames/astronaut-v1/008.png",
+    "new-scenes/frames/astronaut-v1/009.png",
+    "new-scenes/frames/astronaut-v1/010.png",
+    "new-scenes/frames/astronaut-v1/011.png",
+    "new-scenes/frames/astronaut-v1/012.png",
+    "new-scenes/frames/astronaut-v1/013.png",
+    "new-scenes/frames/astronaut-v1/014.png",
+    "new-scenes/frames/astronaut-v1/015.png"
+  ],
+  "sourceSha256": "b7d41af756b3199b612e896df1bc8306eaf61315127fddc231d8a7847f0b8c54",
+  "frameSha256": [
+    "6974cbb07ff8737e17dab7d23182b31be4998d224e6d4d5c0d669b4d3cd32d97",
+    "61df590ea23e3ad8a46ea0f572ca56265da26df1c7e369581c98b8ecaedd4a2f",
+    "d817c92b71d94f018746d101caa71f3be3ed4bcf7eb9d8e8d514ce19112f7c54",
+    "659fb23f31a5a6b7ec40bb394f408103c856a468702a136a9b9f7e7fa0c265c8",
+    "da5d03c3076fa6ffe9277aafde2c7284f18aad2ec1ccf1c5ccaba908230de19d",
+    "8493e21ffd71adccaa5bf6cd12a100dcbadbee83339041ac634f6e8f3eaf5ff9",
+    "30e9f66b75a39819485b24fa0cc4a1ab86de317865ea1fb9ff90ce51f1bf7c9a",
+    "d1c23118d048d4bc46a5e3d731482114644f568c556533d059be19548d52d8f6",
+    "616bace2bffdc23b283523e75f0939ce4a94c5f82ee5dee4b2200d8d994c7a0a",
+    "89656d91acc0d9412e968d7a7d7a4803061cdc0d95e92006640e36ed7b8f6c59",
+    "7589d9893c38a862763eb70a4f391f59976b1903eff125c9e90945bd8e26e6d0",
+    "cbb9520b696f3394c3e56ab2fbdf93c93fd83ca5613cacb258c00bf7924ab9d7",
+    "91c94e509e4d5174179b80f38bb0225c8be99787deef2559f4f620719d74cc7b",
+    "e3ef7dc8af2f6d757c7362185ba60a6b415261d425dc1a83b2c1dbe35926a0e4",
+    "bb7c0fc01a35ad98c2c61177151966ba3ebd10572c32232947529eb0b6bdfc60",
+    "65bd8a7fc97ad70f47154e24d23159581f4b2801e78bcde55caf1ba73d4e6179"
+  ],
+  "bytes": 73986,
+  "sha256": "a2dac098569176a5905598f54dcbb50174287347389e26a7748b5fce31b70cf0",
+  "sourceBytes": 1090413,
+  "qa": {
+    "reviewer": "Codex visual and technical review; final reviewer handles merge",
+    "date": "2026-10-12",
+    "frameByFrame": true,
+    "backgrounds": [
+      "light",
+      "dark",
+      "blue"
+    ],
+    "scales": [
+      1,
+      3
+    ],
+    "browserTemporalSamples": 16,
+    "evidence": "evidence/astronaut/",
+    "remainingLimitation": "Raster key poses, not a vector rig; Chromium verified, physical devices not tested."
+  }
+}

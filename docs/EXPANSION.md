@@ -28,7 +28,7 @@ Base: main `f9c796fa18c22f5acad86eb68ff47571ca5a7f7f`. Una sola sesión, sin age
 22. Entrega de turno ficticia sin datos
 23. Ecografía de peluche
 24. Acompañar a alguien triste sin invadir
-25. Entrenamiento de reanimación con maniquí/peluche
+25. Preparación para taller de reanimación con maniquí adulto, sin maniobras
 26. Empanada gigante
 27. Zanahoria y caída suave
 28. Orquesta de amigos sin audio
@@ -82,3 +82,9 @@ Bloque 4 sobre `3c41d8526c82d9effa51f97071c3912bcf52ec4c`, tras merge del [PR #4
 Llegada al turno, entrega ficticia y acompañamiento usan doce poses; ecografía lúdica de peluche y preparación del taller usan dieciséis. Pizarra sin datos, peluche inequívoco, icono simbólico en pantalla y maniquí adulto de plástico. El alcance de preparación se fijó antes de generar: no se realizan maniobras clínicas. Las notas de contexto correspondientes se muestran en la galería.
 
 Bloque 5 sobre `997d96a8716382d382e1e03564358cc81d984802`, tras merge del [PR #5](https://github.com/DanielOpazoD/Moa-HHR/pull/5) por el revisor principal. 68 poses, 451.323 bytes. [Revisión](QA-gestures-05.md) · [Lámina](../evidence/gestures-05-overview.png).
+
+## Bloque 6 · escenas completas 26–30
+
+Empanada gigante, zanahoria, orquesta, astronauta y despedida usan dieciséis poses cada una. Se conservan intentos rechazados y correcciones, sin cargarlos como atlas activos. [Revisión](QA-gestures-06.md) · [Lámina](../evidence/gestures-06-overview.png).
+
+Ampliación completa: 30 escenas animadas, 380 poses. Con las 14 iniciales: 44 escenas nuevas y 536 poses editables; 3.014.954 bytes de atlas activos separados de HHR.
