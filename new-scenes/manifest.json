@@ -1,0 +1,1106 @@
+[
+  {
+    "order": 1,
+    "id": "computer",
+    "title": "Trabajando en computador",
+    "category": "Cotidiano",
+    "pack": "new",
+    "version": 1,
+    "status": "candidate",
+    "frames": 12,
+    "durations": [
+      400.0,
+      400.0,
+      400.0,
+      400.0,
+      400.0,
+      400.0,
+      400.0,
+      400.0,
+      400.0,
+      400.0,
+      400.0,
+      400.0
+    ],
+    "cycles": 1,
+    "still": 6,
+    "source": "new-scenes/sources/computer-v1.png",
+    "src": "new-scenes/atlases/moa-computer-v1.png",
+    "generator": "Integrated image_gen",
+    "reference": "references/moa-neutral.png",
+    "review": "Pending frame-by-frame and browser review",
+    "library": {
+      "id": "libfile_1b1acfe822e8819188e92ac0923d326c",
+      "version": 0
+    },
+    "bytes": 78687,
+    "sha256": "465cacc5daf22c8dea3394a054b59c3f3e9d799c09a17af400ef940639e43810",
+    "packaging": {
+      "sourceSize": [
+        1640,
+        959
+      ],
+      "rowCuts": [
+        0,
+        333,
+        638,
+        959
+      ],
+      "rowBaselineRegistration": [
+        [
+          0,
+          38
+        ],
+        [
+          0,
+          38
+        ],
+        [
+          0,
+          38
+        ],
+        [
+          0,
+          38
+        ],
+        [
+          0,
+          69
+        ],
+        [
+          0,
+          69
+        ],
+        [
+          0,
+          69
+        ],
+        [
+          0,
+          69
+        ],
+        [
+          0,
+          72
+        ],
+        [
+          0,
+          72
+        ],
+        [
+          0,
+          72
+        ],
+        [
+          0,
+          72
+        ]
+      ],
+      "unionCrop": [
+        50,
+        84,
+        384,
+        360
+      ],
+      "sharedScale": 0.5434782608695652,
+      "frameSize": [
+        288,
+        168
+      ],
+      "origin": [
+        0,
+        0
+      ],
+      "trajectory": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          0
+        ]
+      ]
+    }
+  },
+  {
+    "order": 2,
+    "id": "checkup",
+    "title": "Examinando con fonendoscopio",
+    "category": "Cuidado",
+    "pack": "new",
+    "version": 1,
+    "status": "candidate",
+    "frames": 12,
+    "durations": [
+      400.0,
+      400.0,
+      400.0,
+      400.0,
+      400.0,
+      400.0,
+      400.0,
+      400.0,
+      400.0,
+      400.0,
+      400.0,
+      400.0
+    ],
+    "cycles": 1,
+    "still": 6,
+    "source": "new-scenes/sources/checkup-v1.png",
+    "src": "new-scenes/atlases/moa-checkup-v1.png",
+    "generator": "Integrated image_gen",
+    "reference": "references/moa-neutral.png",
+    "review": "Pending frame-by-frame and browser review",
+    "bytes": 93693,
+    "sha256": "d6006a2da3da1000bedd62b51d7900b1330afc7a98cca8199f48db4135e66f24",
+    "packaging": {
+      "sourceSize": [
+        1642,
+        958
+      ],
+      "rowCuts": [
+        0,
+        351,
+        635,
+        958
+      ],
+      "rowBaselineRegistration": [
+        [
+          0,
+          45
+        ],
+        [
+          0,
+          45
+        ],
+        [
+          0,
+          45
+        ],
+        [
+          0,
+          45
+        ],
+        [
+          0,
+          103
+        ],
+        [
+          0,
+          103
+        ],
+        [
+          0,
+          103
+        ],
+        [
+          0,
+          103
+        ],
+        [
+          0,
+          105
+        ],
+        [
+          0,
+          105
+        ],
+        [
+          0,
+          105
+        ],
+        [
+          0,
+          105
+        ]
+      ],
+      "unionCrop": [
+        42,
+        118,
+        406,
+        379
+      ],
+      "sharedScale": 0.5747126436781609,
+      "frameSize": [
+        288,
+        168
+      ],
+      "origin": [
+        0,
+        0
+      ],
+      "trajectory": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          0
+        ]
+      ]
+    }
+  },
+  {
+    "order": 3,
+    "id": "baby",
+    "title": "Dando leche a un recién nacido",
+    "category": "Cuidado",
+    "pack": "new",
+    "version": 1,
+    "status": "candidate",
+    "frames": 12,
+    "durations": [
+      450.0,
+      450.0,
+      450.0,
+      450.0,
+      450.0,
+      450.0,
+      450.0,
+      450.0,
+      450.0,
+      450.0,
+      450.0,
+      450.0
+    ],
+    "cycles": 1,
+    "still": 6,
+    "source": "new-scenes/sources/baby-v1.png",
+    "src": "new-scenes/atlases/moa-baby-v1.png",
+    "generator": "Integrated image_gen",
+    "reference": "references/moa-neutral.png",
+    "review": "Pending frame-by-frame and browser review",
+    "bytes": 68664,
+    "sha256": "cf4793864df6094732a54d65ea253b5c323cc05ccf8586eae4933ecb8bf97d35",
+    "packaging": {
+      "sourceSize": [
+        1448,
+        1086
+      ],
+      "rowCuts": [
+        0,
+        381,
+        709,
+        1086
+      ],
+      "rowBaselineRegistration": [
+        [
+          0,
+          42
+        ],
+        [
+          0,
+          42
+        ],
+        [
+          0,
+          42
+        ],
+        [
+          0,
+          42
+        ],
+        [
+          0,
+          97
+        ],
+        [
+          0,
+          97
+        ],
+        [
+          0,
+          97
+        ],
+        [
+          0,
+          97
+        ],
+        [
+          0,
+          93
+        ],
+        [
+          0,
+          93
+        ],
+        [
+          0,
+          93
+        ],
+        [
+          0,
+          93
+        ]
+      ],
+      "unionCrop": [
+        42,
+        112,
+        321,
+        408
+      ],
+      "sharedScale": 0.5067567567567568,
+      "frameSize": [
+        288,
+        168
+      ],
+      "origin": [
+        0,
+        0
+      ],
+      "trajectory": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          0
+        ]
+      ]
+    }
+  },
+  {
+    "order": 4,
+    "id": "weights",
+    "title": "Haciendo pesas",
+    "category": "Movimiento",
+    "pack": "new",
+    "version": 1,
+    "status": "candidate",
+    "frames": 12,
+    "durations": [
+      350.0,
+      350.0,
+      350.0,
+      350.0,
+      350.0,
+      350.0,
+      350.0,
+      350.0,
+      350.0,
+      350.0,
+      350.0,
+      350.0
+    ],
+    "cycles": 1,
+    "still": 6,
+    "source": "new-scenes/sources/weights-v1.png",
+    "src": "new-scenes/atlases/moa-weights-v1.png",
+    "generator": "Integrated image_gen",
+    "reference": "references/moa-neutral.png",
+    "review": "Pending frame-by-frame and browser review",
+    "bytes": 58507,
+    "sha256": "aa8381e6af88ebb7c3f0c246f51c5625c48fe7def1a9f0fe0478b46aed7b94cc",
+    "packaging": {
+      "sourceSize": [
+        1642,
+        958
+      ],
+      "rowCuts": [
+        0,
+        348,
+        626,
+        958
+      ],
+      "rowBaselineRegistration": [
+        [
+          0,
+          36
+        ],
+        [
+          0,
+          36
+        ],
+        [
+          0,
+          36
+        ],
+        [
+          0,
+          36
+        ],
+        [
+          0,
+          105
+        ],
+        [
+          0,
+          105
+        ],
+        [
+          0,
+          105
+        ],
+        [
+          0,
+          105
+        ],
+        [
+          0,
+          101
+        ],
+        [
+          0,
+          101
+        ],
+        [
+          0,
+          101
+        ],
+        [
+          0,
+          101
+        ]
+      ],
+      "unionCrop": [
+        90,
+        113,
+        339,
+        375
+      ],
+      "sharedScale": 0.5725190839694656,
+      "frameSize": [
+        288,
+        168
+      ],
+      "origin": [
+        0,
+        0
+      ],
+      "trajectory": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          0
+        ]
+      ]
+    }
+  },
+  {
+    "order": 5,
+    "id": "apple",
+    "title": "Comiendo manzana",
+    "category": "Cotidiano",
+    "pack": "new",
+    "version": 1,
+    "status": "candidate",
+    "frames": 12,
+    "durations": [
+      400.0,
+      400.0,
+      400.0,
+      400.0,
+      400.0,
+      400.0,
+      400.0,
+      400.0,
+      400.0,
+      400.0,
+      400.0,
+      400.0
+    ],
+    "cycles": 1,
+    "still": 6,
+    "source": "new-scenes/sources/apple-v1.png",
+    "src": "new-scenes/atlases/moa-apple-v1.png",
+    "generator": "Integrated image_gen",
+    "reference": "references/moa-neutral.png",
+    "review": "Second image_gen pass fixes missing bite in frames 8–12; browser review pending.",
+    "bytes": 52732,
+    "sha256": "9479a3fb40cb75d65d334b4ab710399ad4e850725f1f19f52d8d765cb424cdb4",
+    "packaging": {
+      "sourceSize": [
+        1672,
+        941
+      ],
+      "rowCuts": [
+        0,
+        331,
+        628,
+        941
+      ],
+      "rowBaselineRegistration": [
+        [
+          0,
+          34
+        ],
+        [
+          0,
+          34
+        ],
+        [
+          0,
+          34
+        ],
+        [
+          0,
+          34
+        ],
+        [
+          0,
+          67
+        ],
+        [
+          0,
+          67
+        ],
+        [
+          0,
+          67
+        ],
+        [
+          0,
+          67
+        ],
+        [
+          0,
+          65
+        ],
+        [
+          0,
+          65
+        ],
+        [
+          0,
+          65
+        ],
+        [
+          0,
+          65
+        ]
+      ],
+      "unionCrop": [
+        0,
+        69,
+        418,
+        357
+      ],
+      "sharedScale": 0.5208333333333334,
+      "frameSize": [
+        288,
+        168
+      ],
+      "origin": [
+        0,
+        0
+      ],
+      "trajectory": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          0
+        ]
+      ]
+    }
+  },
+  {
+    "order": 6,
+    "id": "empanada",
+    "title": "Empanada en Tía Berta",
+    "category": "Cotidiano",
+    "pack": "new",
+    "version": 1,
+    "status": "candidate",
+    "frames": 12,
+    "durations": [
+      400.0,
+      400.0,
+      400.0,
+      400.0,
+      400.0,
+      400.0,
+      400.0,
+      400.0,
+      400.0,
+      400.0,
+      400.0,
+      400.0
+    ],
+    "cycles": 1,
+    "still": 6,
+    "source": "new-scenes/sources/empanada-v1.png",
+    "src": "new-scenes/atlases/moa-empanada-v1.png",
+    "generator": "Integrated image_gen",
+    "reference": "references/moa-neutral.png",
+    "review": "Pending frame-by-frame and browser review",
+    "bytes": 75973,
+    "sha256": "20911f7b2dbadd6af5b0b9404a707194b0d9d015d848e65248000073cc21a4d5",
+    "packaging": {
+      "sourceSize": [
+        1642,
+        958
+      ],
+      "rowCuts": [
+        0,
+        346,
+        647,
+        958
+      ],
+      "rowBaselineRegistration": [
+        [
+          0,
+          30
+        ],
+        [
+          0,
+          30
+        ],
+        [
+          0,
+          30
+        ],
+        [
+          0,
+          30
+        ],
+        [
+          0,
+          69
+        ],
+        [
+          0,
+          69
+        ],
+        [
+          0,
+          69
+        ],
+        [
+          0,
+          69
+        ],
+        [
+          0,
+          76
+        ],
+        [
+          0,
+          76
+        ],
+        [
+          0,
+          76
+        ],
+        [
+          0,
+          76
+        ]
+      ],
+      "unionCrop": [
+        31,
+        73,
+        383,
+        373
+      ],
+      "sharedScale": 0.5,
+      "frameSize": [
+        288,
+        168
+      ],
+      "origin": [
+        0,
+        0
+      ],
+      "trajectory": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          0
+        ]
+      ]
+    }
+  },
+  {
+    "order": 7,
+    "id": "friends",
+    "title": "Jugando con amigos",
+    "category": "Movimiento",
+    "pack": "new",
+    "version": 1,
+    "status": "planned",
+    "frames": 12,
+    "durations": [
+      400.0,
+      400.0,
+      400.0,
+      400.0,
+      400.0,
+      400.0,
+      400.0,
+      400.0,
+      400.0,
+      400.0,
+      400.0,
+      400.0
+    ],
+    "cycles": 1,
+    "still": 6,
+    "source": "new-scenes/sources/friends-v1.png",
+    "src": "new-scenes/atlases/moa-friends-v1.png",
+    "generator": "Integrated image_gen",
+    "reference": "references/moa-neutral.png",
+    "review": "Pending frame-by-frame and browser review"
+  },
+  {
+    "order": 8,
+    "id": "teeth",
+    "title": "Lavándose los dientes",
+    "category": "Cotidiano",
+    "pack": "new",
+    "version": 1,
+    "status": "planned",
+    "frames": 12,
+    "durations": [
+      350.0,
+      350.0,
+      350.0,
+      350.0,
+      350.0,
+      350.0,
+      350.0,
+      350.0,
+      350.0,
+      350.0,
+      350.0,
+      350.0
+    ],
+    "cycles": 1,
+    "still": 6,
+    "source": "new-scenes/sources/teeth-v1.png",
+    "src": "new-scenes/atlases/moa-teeth-v1.png",
+    "generator": "Integrated image_gen",
+    "reference": "references/moa-neutral.png",
+    "review": "Pending frame-by-frame and browser review"
+  },
+  {
+    "order": 9,
+    "id": "disco",
+    "title": "Bailando bajo la bola de discoteca",
+    "category": "Celebración",
+    "pack": "new",
+    "version": 1,
+    "status": "planned",
+    "frames": 12,
+    "durations": [
+      400.0,
+      400.0,
+      400.0,
+      400.0,
+      400.0,
+      400.0,
+      400.0,
+      400.0,
+      400.0,
+      400.0,
+      400.0,
+      400.0
+    ],
+    "cycles": 1,
+    "still": 6,
+    "source": "new-scenes/sources/disco-v1.png",
+    "src": "new-scenes/atlases/moa-disco-v1.png",
+    "generator": "Integrated image_gen",
+    "reference": "references/moa-neutral.png",
+    "review": "Pending frame-by-frame and browser review"
+  },
+  {
+    "order": 10,
+    "id": "costume",
+    "title": "Disfraz gracioso",
+    "category": "Celebración",
+    "pack": "new",
+    "version": 1,
+    "status": "planned",
+    "frames": 8,
+    "durations": [
+      500.0,
+      500.0,
+      500.0,
+      500.0,
+      500.0,
+      500.0,
+      500.0,
+      500.0
+    ],
+    "cycles": 1,
+    "still": 4,
+    "source": "new-scenes/sources/costume-v1.png",
+    "src": "new-scenes/atlases/moa-costume-v1.png",
+    "generator": "Integrated image_gen",
+    "reference": "references/moa-neutral.png",
+    "review": "Pending frame-by-frame and browser review"
+  },
+  {
+    "order": 11,
+    "id": "noodles",
+    "title": "Tallarines cómicos",
+    "category": "Cotidiano",
+    "pack": "new",
+    "version": 1,
+    "status": "planned",
+    "frames": 12,
+    "durations": [
+      450.0,
+      450.0,
+      450.0,
+      450.0,
+      450.0,
+      450.0,
+      450.0,
+      450.0,
+      450.0,
+      450.0,
+      450.0,
+      450.0
+    ],
+    "cycles": 1,
+    "still": 6,
+    "source": "new-scenes/sources/noodles-v1.png",
+    "src": "new-scenes/atlases/moa-noodles-v1.png",
+    "generator": "Integrated image_gen",
+    "reference": "references/moa-neutral.png",
+    "review": "Pending frame-by-frame and browser review"
+  },
+  {
+    "order": 12,
+    "id": "thinking",
+    "title": "Pensando",
+    "category": "Expresión",
+    "pack": "new",
+    "version": 1,
+    "status": "candidate",
+    "frames": 8,
+    "durations": [
+      525.0,
+      525.0,
+      525.0,
+      525.0,
+      525.0,
+      525.0,
+      525.0,
+      525.0
+    ],
+    "cycles": 1,
+    "still": 4,
+    "source": "new-scenes/sources/thinking-v1.png",
+    "src": "new-scenes/atlases/moa-thinking-v1.png",
+    "generator": "Integrated image_gen",
+    "reference": "references/moa-neutral.png",
+    "review": "Pending frame-by-frame and browser review",
+    "bytes": 34155,
+    "sha256": "dda978b64f1d35279e872383324f2958172e6084c9d9a705054bff75a74464d4",
+    "packaging": {
+      "sourceSize": [
+        1641,
+        958
+      ],
+      "rowCuts": [
+        0,
+        522,
+        958
+      ],
+      "rowBaselineRegistration": [
+        [
+          0,
+          94
+        ],
+        [
+          0,
+          94
+        ],
+        [
+          0,
+          94
+        ],
+        [
+          0,
+          94
+        ],
+        [
+          0,
+          204
+        ],
+        [
+          0,
+          204
+        ],
+        [
+          0,
+          204
+        ],
+        [
+          0,
+          204
+        ]
+      ],
+      "unionCrop": [
+        95,
+        274,
+        308,
+        549
+      ],
+      "sharedScale": 0.5454545454545454,
+      "frameSize": [
+        288,
+        168
+      ],
+      "origin": [
+        0,
+        0
+      ],
+      "trajectory": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          0
+        ]
+      ]
+    }
+  },
+  {
+    "order": 13,
+    "id": "melancholy",
+    "title": "Melancólico",
+    "category": "Expresión",
+    "pack": "new",
+    "version": 1,
+    "status": "candidate",
+    "frames": 8,
+    "durations": [
+      600.0,
+      600.0,
+      600.0,
+      600.0,
+      600.0,
+      600.0,
+      600.0,
+      600.0
+    ],
+    "cycles": 1,
+    "still": 4,
+    "source": "new-scenes/sources/melancholy-v1.png",
+    "src": "new-scenes/atlases/moa-melancholy-v1.png",
+    "generator": "Integrated image_gen",
+    "reference": "references/moa-neutral.png",
+    "review": "Pending frame-by-frame and browser review",
+    "bytes": 34268,
+    "sha256": "c73b458b7f9f9cde608be869883bb2af7fa68757b368a55810547987dcba5f74",
+    "packaging": {
+      "sourceSize": [
+        1672,
+        940
+      ],
+      "rowCuts": [
+        0,
+        521,
+        940
+      ],
+      "rowBaselineRegistration": [
+        [
+          0,
+          78
+        ],
+        [
+          0,
+          78
+        ],
+        [
+          0,
+          78
+        ],
+        [
+          0,
+          78
+        ],
+        [
+          0,
+          184
+        ],
+        [
+          0,
+          184
+        ],
+        [
+          0,
+          184
+        ],
+        [
+          0,
+          184
+        ]
+      ],
+      "unionCrop": [
+        93,
+        238,
+        327,
+        547
+      ],
+      "sharedScale": 0.4854368932038835,
+      "frameSize": [
+        288,
+        168
+      ],
+      "origin": [
+        0,
+        0
+      ],
+      "trajectory": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          0
+        ]
+      ]
+    }
+  },
+  {
+    "order": 14,
+    "id": "birthday",
+    "title": "Cumpleaños · 11 de octubre",
+    "category": "Celebración",
+    "pack": "new",
+    "version": 1,
+    "status": "planned",
+    "frames": 12,
+    "durations": [
+      500.0,
+      500.0,
+      500.0,
+      500.0,
+      500.0,
+      500.0,
+      500.0,
+      500.0,
+      500.0,
+      500.0,
+      500.0,
+      500.0
+    ],
+    "cycles": 1,
+    "still": 6,
+    "source": "new-scenes/sources/birthday-v1.png",
+    "src": "new-scenes/atlases/moa-birthday-v1.png",
+    "generator": "Integrated image_gen",
+    "reference": "references/moa-neutral.png",
+    "review": "Pending frame-by-frame and browser review"
+  }
+]
