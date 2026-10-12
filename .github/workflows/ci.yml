@@ -20,3 +20,4 @@ jobs:
       - run: npm test
       - run: npm run test:editable
       - run: npm run test:browser
+      - run: npm run test:offline

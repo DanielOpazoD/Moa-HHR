@@ -1,7 +1,7 @@
 """Export the existing gallery as one offline review file; no new art or runtime dependency."""
 
 from pathlib import Path
-import base64, json
+import base64, json, subprocess
 
 root = Path(__file__).resolve().parents[1]
 
@@ -53,7 +53,10 @@ html = (
         '<script type="module">' + player + "\n" + app + "</script>",
     )
 )
-base = "https://github.com/DanielOpazoD/Moa-HHR/blob/feat/moa-library-scenes/"
+branch = subprocess.check_output(
+    ["git", "branch", "--show-current"], cwd=root, text=True
+).strip()
+base = f"https://github.com/DanielOpazoD/Moa-HHR/blob/{branch}/"
 for path in [
     "docs/SCENES.md",
     "docs/inventory.json",
@@ -62,10 +65,10 @@ for path in [
     html = html.replace('href="' + path + '"', 'href="' + base + path + '"')
 html = html.replace(
     "<title>Moa · Biblioteca de movimiento</title>",
-    "<title>Moa · Revisión de 14 escenas</title>",
+    f"<title>Moa · Revisión de {len(scenes)} escenas</title>",
 ).replace(
     "Atlas originales preservados y nuevas escenas en revisión.",
-    "14 escenas nuevas revisadas, con PNG originales y cuadros editables conservados en el PR #1.",
+    f"{len(scenes)} escenas nuevas; fuentes y cuadros editables conservados en el repositorio.",
 )
 output = root / "review/moa-scenes.html"
 output.parent.mkdir(exist_ok=True)

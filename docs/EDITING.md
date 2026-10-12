@@ -20,6 +20,7 @@ Todo es PNG + JSON. Las poses son raster: cambiar anatomía requiere editar o re
 ```sh
 python3 scripts/rebuild.py new-scenes/scenes/thinking.json
 python3 scripts/catalog.py
+python3 scripts/export-review.py
 npm test
 npm run test:browser
 ```
