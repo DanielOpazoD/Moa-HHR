@@ -8,7 +8,7 @@ Homenajes ficticios con actuación propia, sin colaboración, patrocinio o aval 
 | --- | --- | --- | --- |
 | 1 | M01–M05 | Moonwalk, estadio, metal, aventura con bajo, dúo electrónico | Revisado; evidencia en [QA](QA-world-01.md) |
 | 2 | M06–M10 | Danza gótica, bombín y bastón, entrenamiento, galleta, calcetines | Revisado; evidencia en [QA](QA-world-02.md) |
-| 3 | M11–M15 | Arnés, zapatillas, criatura original, plataformas, cofre | Pendiente |
+| 3 | M11–M15 | Arnés, zapatillas, criatura original, plataformas, cofre | Revisado; evidencia en [QA](QA-world-03.md) |
 | 4 | M16–M20 | Casa de cubos, piezas encajables, cubo de colores, paraguas, utilería | Pendiente |
 
 ## Criterios de revisión
@@ -30,3 +30,11 @@ Entre 8 y 24 poses reales por escena, 3–6 segundos y final explícito. Revisar
 - **M08:** [Rocky, MGM](https://www.mgm.com/movies/rocky). Inspiración cinematográfica indicada por Daniel; subida y celebración originales, sin boxeo ni pauta deportiva.
 - **M09:** [La Fuerza, Star Wars Databank](https://www.starwars.com/databank/the-force), que incluye la levitación de objetos entre las facultades ficticias. Aquí la ayuda proviene de un amigo y se revela como broma doméstica.
 - **M10:** [The Matrix, Warner Bros.](https://www.warnerbros.com/movies/matrix). Homenaje de vestuario y cámara lenta solicitado por Daniel; la acción usa un calcetín y una cesta, sin armas ni reproducción de una escena completa.
+
+## Inspiraciones del tercer bloque
+
+- **M11:** [Mission: Impossible, Paramount](https://www.paramount.com/movies/mission-impossible). La merienda, la campanilla y el arnés de utilería son una situación cómica inventada; no reproduce una acrobacia ni enseña suspensión.
+- **M12:** transformación dramática de anime como concepto general solicitado por Daniel. No remite a una serie o personaje específico; solo cambian las zapatillas.
+- **M13:** amistad con criaturas coleccionables como homenaje solicitado a Pokémon. La criatura de hojas y la cápsula lavanda son propias; no representan una especie existente ni un activo del juego.
+- **M14:** homenaje solicitado a los juegos de plataformas de Mario. Salto, bloques lisos y manzana originales, sin vestuario, logotipos ni escenario de una entrega concreta.
+- **M15:** homenaje solicitado a la apertura de cofres en Zelda. Moa descubre una cuchara corriente, con gestos propios y sin música o símbolos del juego.

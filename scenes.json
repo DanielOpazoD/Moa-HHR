@@ -7302,5 +7302,531 @@
       "evidence": "evidence/M10/",
       "remainingLimitation": "Homenaje ficticio a la cámara lenta de The Matrix: Moa esquiva un calcetín blando y después lo recoge. Sin armas ni proyectiles peligrosos. Raster key poses; Chromium verified, physical devices not tested."
     }
+  },
+  {
+    "order": 75,
+    "id": "M11",
+    "title": "M11 · Merienda en misión",
+    "category": "Cultura popular mundial",
+    "pack": "new",
+    "batch": "world-03",
+    "worldOrder": 11,
+    "version": 4,
+    "status": "approved",
+    "frames": 12,
+    "durations": [
+      500,
+      350,
+      350,
+      350,
+      350,
+      350,
+      350,
+      350,
+      350,
+      350,
+      350,
+      600
+    ],
+    "cycles": 1,
+    "still": 11,
+    "source": "new-scenes/sources/M11-v4.png",
+    "src": "new-scenes/atlases/moa-M11-v4.png",
+    "generator": "Integrated image_gen",
+    "reference": "references/moa-neutral.png",
+    "prompt": "new-scenes/prompts/M11.txt",
+    "context": "Homenaje ficticio a Mission: Impossible con arnés teatral, galleta y campanilla. La suspensión es una simplificación gráfica, no una guía de acrobacias.",
+    "inspirationReferences": [
+      {
+        "url": "https://www.paramount.com/movies/mission-impossible",
+        "supports": "Homenaje ficticio a Mission: Impossible con arnés teatral, galleta y campanilla. La suspensión es una simplificación gráfica, no una guía de acrobacias."
+      }
+    ],
+    "review": "Sources and every delivered frame reviewed on light, dark and blue at real size; enlarged browser captures and temporal samples passed.",
+    "sourceColumns": [
+      0,
+      422,
+      819,
+      1221,
+      1642
+    ],
+    "frameFiles": [
+      "new-scenes/frames/M11-v4/000.png",
+      "new-scenes/frames/M11-v4/001.png",
+      "new-scenes/frames/M11-v4/002.png",
+      "new-scenes/frames/M11-v4/003.png",
+      "new-scenes/frames/M11-v4/004.png",
+      "new-scenes/frames/M11-v4/005.png",
+      "new-scenes/frames/M11-v4/006.png",
+      "new-scenes/frames/M11-v4/007.png",
+      "new-scenes/frames/M11-v4/008.png",
+      "new-scenes/frames/M11-v4/009.png",
+      "new-scenes/frames/M11-v4/010.png",
+      "new-scenes/frames/M11-v4/011.png"
+    ],
+    "sourceSha256": "c85aa6e05ed1d5f62dcc2353d6a301af9fc2d9b8d63f458809c35d0c220f3cd8",
+    "frameSha256": [
+      "d24852fafdc099c92bbc5189dcc8f4f21ecd44bcb12873f6c77de2474500d929",
+      "31dcd46b98b99d105ddcf4a1d1be39e710240c276bf851ba60fa64623933d609",
+      "b8d2d45f81e392fdafad5859f430f3f4febf049bc6d81fc701949b6c4e036893",
+      "711ecca0bdb420318ff135e5a447314c1eece668a7553398bcfdc2fdbf7f9c15",
+      "8a74c80dfee29a19564a2dbbc7b25b589bb884ff7e16953c5e3a8f86c17befeb",
+      "8e3c4bc57e9339cbe26b5b69416220859d2d8d7d7ea299f648dbc7e412ddfa39",
+      "cb3cb45738b6746871aa13cb4434e0024ab272c7e451f22d57b2cd3dcf5adbb0",
+      "504b9d7d8119c9f457681ef68b05b32c12d86e22da2027fbdb5a912ff3ef4ea5",
+      "8909b0179a324760b1cca1de58db802bf071f6296ab88713a80473c4bb075e2f",
+      "236dc47d9cec214e8eb4df9d1052cac3e0c86c4b09fb33b47760a562ab5536b9",
+      "d5a3973f9c049f295407676f85526b50dbcd9b8ba4708b864abe9b641ebff1b3",
+      "ca071f54262ccd4f4e3be9e9b5d0255462af4d50c1045bc1d79a14b056476c7a"
+    ],
+    "bytes": 80178,
+    "sha256": "1227fcd84251eef83387c990697e7c64ba298acd9680bcb10dc23eef32ba65aa",
+    "correctionPrompts": [
+      "new-scenes/prompts/M11-correction.txt",
+      "new-scenes/prompts/M11-correction-2.txt",
+      "new-scenes/prompts/M11-correction-3.txt"
+    ],
+    "rejectedSources": [
+      {
+        "source": "new-scenes/sources/M11-v1.png",
+        "reason": "La suspensión se lee demasiado cerca de la cabeza."
+      },
+      {
+        "source": "new-scenes/sources/M11-v2.png",
+        "reason": "Persiste la lectura ambigua del punto de suspensión."
+      },
+      {
+        "source": "new-scenes/sources/M11-v3.png",
+        "reason": "Arnés legible, pero falta la ola visible del pecho."
+      }
+    ],
+    "sourceBytes": 1277452,
+    "qa": {
+      "reviewer": "Codex visual and technical review; principal reviewer controls merge",
+      "date": "2026-10-12",
+      "frameByFrame": true,
+      "backgrounds": [
+        "light",
+        "dark",
+        "blue"
+      ],
+      "scales": [
+        1,
+        3
+      ],
+      "browserTemporalSamples": 12,
+      "evidence": "evidence/M11/",
+      "remainingLimitation": "Homenaje ficticio a Mission: Impossible con arnés teatral, galleta y campanilla. La suspensión es una simplificación gráfica, no una guía de acrobacias. Raster key poses; Chromium verified, physical devices not tested."
+    }
+  },
+  {
+    "order": 76,
+    "id": "M12",
+    "title": "M12 · Transformación de zapatillas",
+    "category": "Cultura popular mundial",
+    "pack": "new",
+    "batch": "world-03",
+    "worldOrder": 12,
+    "version": 3,
+    "status": "approved",
+    "frames": 12,
+    "durations": [
+      500,
+      350,
+      350,
+      350,
+      350,
+      350,
+      350,
+      350,
+      350,
+      350,
+      350,
+      600
+    ],
+    "cycles": 1,
+    "still": 11,
+    "source": "new-scenes/sources/M12-v3.png",
+    "src": "new-scenes/atlases/moa-M12-v3.png",
+    "generator": "Integrated image_gen",
+    "reference": "references/moa-neutral.png",
+    "prompt": "new-scenes/prompts/M12.txt",
+    "context": "Broma original inspirada en transformaciones de anime: la actuación dramática solo cambia las zapatillas. Aura tenue, sin flashes ni personaje de una serie concreta.",
+    "inspirationReferences": [],
+    "review": "Sources and every delivered frame reviewed on light, dark and blue at real size; enlarged browser captures and temporal samples passed.",
+    "sourceColumns": [
+      0,
+      463,
+      822,
+      1183,
+      1642
+    ],
+    "frameFiles": [
+      "new-scenes/frames/M12-v3/000.png",
+      "new-scenes/frames/M12-v3/001.png",
+      "new-scenes/frames/M12-v3/002.png",
+      "new-scenes/frames/M12-v3/003.png",
+      "new-scenes/frames/M12-v3/004.png",
+      "new-scenes/frames/M12-v3/005.png",
+      "new-scenes/frames/M12-v3/006.png",
+      "new-scenes/frames/M12-v3/007.png",
+      "new-scenes/frames/M12-v3/008.png",
+      "new-scenes/frames/M12-v3/009.png",
+      "new-scenes/frames/M12-v3/010.png",
+      "new-scenes/frames/M12-v3/011.png"
+    ],
+    "sourceSha256": "9b9bce28caf8961378cd96df9239a4d34cad27ac256651d1b9dcd176c502c3e5",
+    "frameSha256": [
+      "618db4ed8a5727eeb8d97a59cd67b327225571e778b5d010457e971c92ff79cb",
+      "ba9d45f884e00ae34a228e8883bb50e49014e09caf2a5512a432490de1179857",
+      "c911f05f63b9f9296739361f5c3c5116ac3539f44c3c8ffb4096725f342164bb",
+      "2975b3d25517623656de853460cd7bd0e0007c14b6044b57fb3c3615b0124549",
+      "f5c87837e6b22e719be4604b01893755b6dca84f563b925b865d4151b494ec40",
+      "b968b1024df647dc58bdfc772bf533cbd31b80b16b53f0e6a7c290897e68c63d",
+      "35b2d81e9c1a34c98de3386b78f8d990cf5d6ce7c690faded196a60ca91d4af1",
+      "cc2b53a80d426c8ae9a481292b3c87f7824a1c29151aadeae65a4ee63e832878",
+      "3eb97f4b067132210913fa9739f345bcfca7e359abe49bf7236d7f8a8df1448d",
+      "71b7359e78dfe873612252e65ab134c81cc82b751ee83d5603882e67fd12aab4",
+      "b7b45c16262944d5e2240c3c5ee0e908cdc9d3444b61e9e16903abfbec650540",
+      "2c694ab4b51be94a86444ccc0d9c75bfe1774842b55b45d7929a48a011f3931b"
+    ],
+    "bytes": 57982,
+    "sha256": "26be6d4c6eafffe347325f0bb86d1acb308368133589c68a332a519c5fc6184b",
+    "correctionPrompts": [
+      "new-scenes/prompts/M12-correction.txt",
+      "new-scenes/prompts/M12-correction-2.txt"
+    ],
+    "rejectedSources": [
+      {
+        "source": "new-scenes/sources/M12-v1.png",
+        "reason": "Aura demasiado brillante y extensa."
+      },
+      {
+        "source": "new-scenes/sources/M12-v2.png",
+        "reason": "El aura seguía conectando celdas vecinas."
+      }
+    ],
+    "sourceBytes": 966819,
+    "qa": {
+      "reviewer": "Codex visual and technical review; principal reviewer controls merge",
+      "date": "2026-10-12",
+      "frameByFrame": true,
+      "backgrounds": [
+        "light",
+        "dark",
+        "blue"
+      ],
+      "scales": [
+        1,
+        3
+      ],
+      "browserTemporalSamples": 12,
+      "evidence": "evidence/M12/",
+      "remainingLimitation": "Broma original inspirada en transformaciones de anime: la actuación dramática solo cambia las zapatillas. Aura tenue, sin flashes ni personaje de una serie concreta. Raster key poses; Chromium verified, physical devices not tested."
+    }
+  },
+  {
+    "order": 77,
+    "id": "M13",
+    "title": "M13 · Un pequeño compañero",
+    "category": "Cultura popular mundial",
+    "pack": "new",
+    "batch": "world-03",
+    "worldOrder": 13,
+    "version": 2,
+    "status": "approved",
+    "frames": 12,
+    "durations": [
+      500,
+      350,
+      350,
+      350,
+      350,
+      350,
+      350,
+      350,
+      350,
+      350,
+      350,
+      600
+    ],
+    "cycles": 1,
+    "still": 11,
+    "source": "new-scenes/sources/M13-v2.png",
+    "src": "new-scenes/atlases/moa-M13-v2.png",
+    "generator": "Integrated image_gen",
+    "reference": "references/moa-neutral.png",
+    "prompt": "new-scenes/prompts/M13.txt",
+    "context": "Homenaje ficticio a la amistad con criaturas coleccionables de Pokémon. La criatura verde y la cápsula lavanda son diseños propios, sin representar una especie existente.",
+    "inspirationReferences": [
+      {
+        "url": "https://www.pokemon.com/us",
+        "supports": "Homenaje ficticio a la amistad con criaturas coleccionables de Pokémon. La criatura verde y la cápsula lavanda son diseños propios, sin representar una especie existente."
+      }
+    ],
+    "review": "Sources and every delivered frame reviewed on light, dark and blue at real size; enlarged browser captures and temporal samples passed.",
+    "sourceColumns": [
+      0,
+      415,
+      829,
+      1224,
+      1642
+    ],
+    "frameFiles": [
+      "new-scenes/frames/M13-v2/000.png",
+      "new-scenes/frames/M13-v2/001.png",
+      "new-scenes/frames/M13-v2/002.png",
+      "new-scenes/frames/M13-v2/003.png",
+      "new-scenes/frames/M13-v2/004.png",
+      "new-scenes/frames/M13-v2/005.png",
+      "new-scenes/frames/M13-v2/006.png",
+      "new-scenes/frames/M13-v2/007.png",
+      "new-scenes/frames/M13-v2/008.png",
+      "new-scenes/frames/M13-v2/009.png",
+      "new-scenes/frames/M13-v2/010.png",
+      "new-scenes/frames/M13-v2/011.png"
+    ],
+    "sourceSha256": "6ab1fda4a49131a03fb2c1154d2b65d24fdc694fa0bb9a5b4ada4d11efecf32b",
+    "frameSha256": [
+      "55669b7ed18d25d610436c04ec94ce54a5f11736ce29846d3a1ef513f35eb1da",
+      "99eae36ef9d1706da27289534c46a05d52f81af4dd372c357518cb5da8207345",
+      "a8b2d481fb6ee32f3e58a55d8592f02a61691a38460b1de19a493c470f6849ec",
+      "8a891c00aaf81d6490b077b369a5733c562ecbc7d828dfd0a93b63d0ec0c8a4b",
+      "7e54437fd389f2f1121651a2c8814d25f37e82e2ba76083c3be29303fe984758",
+      "ce1758867eb06c2ac9c9944f3c627ad205a5af451a5132ba1df6c427478fbc3b",
+      "7c891ca86e1046b62ca15817fa54fe8cfa8886868a607c27dd564cbd27583eda",
+      "d5db972151b8765acf91bdc8098966c1e288c1c0673cf65aab2483c413bfb0ac",
+      "993e9da526de9f661893b98469cedb44e8df51ac613b28c6a87dc273918c43be",
+      "7aecde05ad19c61c6484af6f6979767bdad7980d4725672dbcd8b531b070b1c7",
+      "ed73900ab39a42e1f43cf2cb0803ce4e84bbfb18ba6ea44a7632019eeda0e2d7",
+      "83a88163da52a4a3b8debeb2c9aa694debd4493484b40d2b3cb6188a2dc3b11d"
+    ],
+    "bytes": 60479,
+    "sha256": "23ead9ef590a215eecfed7fb0cd351822e58b67a6df8f084d62078a87cc34aeb",
+    "correctionPrompts": [
+      "new-scenes/prompts/M13-correction.txt"
+    ],
+    "rejectedSources": [
+      {
+        "source": "new-scenes/sources/M13-v1.png",
+        "reason": "La bisagra de la cápsula cambiaba de lado al abrirse."
+      }
+    ],
+    "sourceBytes": 1094443,
+    "qa": {
+      "reviewer": "Codex visual and technical review; principal reviewer controls merge",
+      "date": "2026-10-12",
+      "frameByFrame": true,
+      "backgrounds": [
+        "light",
+        "dark",
+        "blue"
+      ],
+      "scales": [
+        1,
+        3
+      ],
+      "browserTemporalSamples": 12,
+      "evidence": "evidence/M13/",
+      "remainingLimitation": "Homenaje ficticio a la amistad con criaturas coleccionables de Pokémon. La criatura verde y la cápsula lavanda son diseños propios, sin representar una especie existente. Raster key poses; Chromium verified, physical devices not tested."
+    }
+  },
+  {
+    "order": 78,
+    "id": "M14",
+    "title": "M14 · Salto por una manzana",
+    "category": "Cultura popular mundial",
+    "pack": "new",
+    "batch": "world-03",
+    "worldOrder": 14,
+    "version": 3,
+    "status": "approved",
+    "frames": 12,
+    "durations": [
+      500,
+      350,
+      350,
+      350,
+      350,
+      350,
+      350,
+      350,
+      350,
+      350,
+      350,
+      600
+    ],
+    "cycles": 1,
+    "still": 11,
+    "source": "new-scenes/sources/M14-v3.png",
+    "src": "new-scenes/atlases/moa-M14-v3.png",
+    "generator": "Integrated image_gen",
+    "reference": "references/moa-neutral.png",
+    "prompt": "new-scenes/prompts/M14.txt",
+    "context": "Homenaje ficticio a los juegos de plataformas de Mario: un salto entre bloques y una manzana. Moa conserva su diseño, sin disfraz ni escenario de un juego concreto.",
+    "inspirationReferences": [],
+    "review": "Sources and every delivered frame reviewed on light, dark and blue at real size; enlarged browser captures and temporal samples passed.",
+    "sourceColumns": [
+      0,
+      410,
+      821,
+      1232,
+      1642
+    ],
+    "frameFiles": [
+      "new-scenes/frames/M14-v3/000.png",
+      "new-scenes/frames/M14-v3/001.png",
+      "new-scenes/frames/M14-v3/002.png",
+      "new-scenes/frames/M14-v3/003.png",
+      "new-scenes/frames/M14-v3/004.png",
+      "new-scenes/frames/M14-v3/005.png",
+      "new-scenes/frames/M14-v3/006.png",
+      "new-scenes/frames/M14-v3/007.png",
+      "new-scenes/frames/M14-v3/008.png",
+      "new-scenes/frames/M14-v3/009.png",
+      "new-scenes/frames/M14-v3/010.png",
+      "new-scenes/frames/M14-v3/011.png"
+    ],
+    "sourceSha256": "455d21eca33cf08c7fa2d732ed035d6608c3d9231bd5297b25dbdcfe95d530d4",
+    "frameSha256": [
+      "3615ed4b9bdaa82e85f7388b3afcfa03c9f8bb85699d21061c4e583dfd78e0e7",
+      "9b3a6dd3918f2ee7c993bec5e5505e469a5250d1f11a5ce96d3f104454027fad",
+      "117045f6c7bb79ab719f121c110aff3037c09e4441e0cef45e2821f61c2794a3",
+      "98792c943ab70e59b9d990b825541d87f405bc72933f08b9692c9d36bd9b29bd",
+      "73ab0c27a142bd959919e321fc77caaa7f396a5188dac47899886fdce445b2ae",
+      "8c69f68ec7653974b79e015ca17b77ffc8bf4cba86d8f4c1399c1c1510280187",
+      "7598817f39c045354b9761e1072e9e65224c17b34b633179fb69cc0c7a54941d",
+      "659f0826939cd175fa862a1d32a3fcdb324943f62d58145aa63ad68eadcab4a7",
+      "d5ff1b122db8b2b272eaf3881ad872409356ac1c6aa61993d1d2de4845f73fb9",
+      "89567f56a8427d7fefa9fa64a69f54a307b5fc6f98f07e3e9098a969ee1fb194",
+      "d6874a37671a6d2e9b677b0f34b90705cb44c19946aef1a5ba1f9e8e16f8beeb",
+      "4520964bc8158f184fdb28f33c4520633a2105dbec63b2782ce5df73c896e970"
+    ],
+    "bytes": 49443,
+    "sha256": "8a9a8e42e6cab24dc8cc0eadf6cbee4283ae4cd2b9ccf9dfde8fa80dbaa12cb4",
+    "correctionPrompts": [
+      "new-scenes/prompts/M14-correction.txt",
+      "new-scenes/prompts/M14-correction-2.txt"
+    ],
+    "rejectedSources": [
+      {
+        "source": "new-scenes/sources/M14-v1.png",
+        "reason": "La manzana desaparece antes de recogerse y los bloques cambian de ancho."
+      },
+      {
+        "source": "new-scenes/sources/M14-v2.png",
+        "reason": "Persiste el cambio de tamaño y separación de las plataformas."
+      }
+    ],
+    "sourceBytes": 881496,
+    "qa": {
+      "reviewer": "Codex visual and technical review; principal reviewer controls merge",
+      "date": "2026-10-12",
+      "frameByFrame": true,
+      "backgrounds": [
+        "light",
+        "dark",
+        "blue"
+      ],
+      "scales": [
+        1,
+        3
+      ],
+      "browserTemporalSamples": 12,
+      "evidence": "evidence/M14/",
+      "remainingLimitation": "Homenaje ficticio a los juegos de plataformas de Mario: un salto entre bloques y una manzana. Moa conserva su diseño, sin disfraz ni escenario de un juego concreto. Raster key poses; Chromium verified, physical devices not tested."
+    }
+  },
+  {
+    "order": 79,
+    "id": "M15",
+    "title": "M15 · El tesoro diminuto",
+    "category": "Cultura popular mundial",
+    "pack": "new",
+    "batch": "world-03",
+    "worldOrder": 15,
+    "version": 1,
+    "status": "approved",
+    "frames": 12,
+    "durations": [
+      500,
+      350,
+      350,
+      350,
+      350,
+      350,
+      350,
+      350,
+      350,
+      350,
+      350,
+      600
+    ],
+    "cycles": 1,
+    "still": 11,
+    "source": "new-scenes/sources/M15-v1.png",
+    "src": "new-scenes/atlases/moa-M15-v1.png",
+    "generator": "Integrated image_gen",
+    "reference": "references/moa-neutral.png",
+    "prompt": "new-scenes/prompts/M15.txt",
+    "context": "Homenaje ficticio a la apertura solemne de cofres en Zelda; la sorpresa es una cuchara corriente. Sin música, logotipos ni recreación de una entrega específica.",
+    "inspirationReferences": [],
+    "review": "Sources and every delivered frame reviewed on light, dark and blue at real size; enlarged browser captures and temporal samples passed.",
+    "sourceColumns": [
+      0,
+      408,
+      825,
+      1233,
+      1641
+    ],
+    "frameFiles": [
+      "new-scenes/frames/M15-v1/000.png",
+      "new-scenes/frames/M15-v1/001.png",
+      "new-scenes/frames/M15-v1/002.png",
+      "new-scenes/frames/M15-v1/003.png",
+      "new-scenes/frames/M15-v1/004.png",
+      "new-scenes/frames/M15-v1/005.png",
+      "new-scenes/frames/M15-v1/006.png",
+      "new-scenes/frames/M15-v1/007.png",
+      "new-scenes/frames/M15-v1/008.png",
+      "new-scenes/frames/M15-v1/009.png",
+      "new-scenes/frames/M15-v1/010.png",
+      "new-scenes/frames/M15-v1/011.png"
+    ],
+    "sourceSha256": "6fa1783c564157bd04d48074f156e15946d0deaead9f70a6ecb93dfe3e8df5ba",
+    "frameSha256": [
+      "905250d4f98e7e1df7b3d9833997d13120037e4e5a2006b583495fed068c0040",
+      "cd02fbbd4a3fb71f28afd82888a936fa6e54a29874ca52ce83a58b75327b0869",
+      "126b58b330a63ca3c00040e7753dae8ab4011e31adf0003c0b9516e34025d9c8",
+      "87750ab4f1ea1ec56d5d6af2d3d8e9e4ba1a89913d48dabc75933283e77c94fc",
+      "479e4413482d24dcfdcc1ffc6490f78565538eebd4e7e9903716cf307f489be8",
+      "afaa54d61a0339b2a216f090b331808baaede21660e0d35b21e8db9738bf0cce",
+      "779ee0f2e13030bf3a8751a5a3a8bd354a7dae13fac09f91c2c0256fa8b2af8f",
+      "3548cdfb5a8de43c0769882229cf9207175c5c8848cb5dcec149bf09a77e6422",
+      "8e31ffaa7fb0c4745058e03709776b37bdc22b85ca7d12ffecad4fba1753c821",
+      "d33f9eb195653ec554ffd0cf5f3d8e2b33251d15850cfd09da6d9d54675bd814",
+      "aed982aa37f37a1eaed583a913753a768b1082416f9668e5227ebd5abb5cb93e",
+      "a98778281e7c800d050c9a5957c3a21f69bf6fdb444d4b45cbe8e7d83a57b2c4"
+    ],
+    "bytes": 73416,
+    "sha256": "53845cd43cf6c72b21e7d46c3b6c015ab6734560b220a3912f7b916b4b6f0554",
+    "sourceBytes": 1348688,
+    "qa": {
+      "reviewer": "Codex visual and technical review; principal reviewer controls merge",
+      "date": "2026-10-12",
+      "frameByFrame": true,
+      "backgrounds": [
+        "light",
+        "dark",
+        "blue"
+      ],
+      "scales": [
+        1,
+        3
+      ],
+      "browserTemporalSamples": 12,
+      "evidence": "evidence/M15/",
+      "remainingLimitation": "Homenaje ficticio a la apertura solemne de cofres en Zelda; la sorpresa es una cuchara corriente. Sin música, logotipos ni recreación de una entrega específica. Raster key poses; Chromium verified, physical devices not tested."
+    }
   }
 ]
