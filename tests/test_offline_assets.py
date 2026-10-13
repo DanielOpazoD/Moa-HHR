@@ -38,3 +38,19 @@ class OfflineAssets(unittest.TestCase):
         self.assertEqual(len(result), 11)
         self.assertNotIn("frameFiles", result)
         self.assertIn("frameFiles", source)
+
+    def test_offline_groups_cover_new_scenes_once_without_changing_catalog(self):
+        from offline_assets import offline_groups
+        catalog = [dict(id='original', pack='original'),
+                   dict(id='B29', pack='new', batch='adventures-05'),
+                   dict(id='D01', pack='new', batch='chile-remix-01'),
+                   dict(id='old', pack='new')]
+        before = [dict(s) for s in catalog]
+        groups = offline_groups(catalog)
+        ids = [s['id'] for _, _, scenes, _, _ in groups for s in scenes]
+        self.assertEqual(set(ids), {'B29', 'D01', 'old'})
+        self.assertEqual(len(ids), len(set(ids)))
+        self.assertEqual([s['id'] for s in groups[1][2]], ['D01'])
+        self.assertEqual(catalog, before)
+        self.assertEqual(groups[0][3], groups[1][0])
+        self.assertEqual(groups[1][3], groups[0][0])

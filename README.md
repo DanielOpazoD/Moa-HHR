@@ -1,6 +1,6 @@
 # Moa · biblioteca de movimiento
 
-Archivo autónomo de los **18 atlas originales v2** y **171 escenas nuevas**, con fuentes y poses raster editables. Los originales se conservan byte a byte; las escenas nuevas viven en otro paquete. Sin datos clínicos, servicios ni dependencias del hospital.
+Archivo autónomo de los **18 atlas originales v2** y **177 escenas nuevas**, con fuentes y poses raster editables. Los originales se conservan byte a byte; las escenas nuevas viven en otro paquete. Sin datos clínicos, servicios ni dependencias del hospital.
 
 ## Abrir la galería
 
@@ -53,7 +53,7 @@ El empaquetador preserva los PNG fuente; aplica registro por fila, recorte y esc
 
 ## Revisión sin conexión
 
-[Descargar la galería HTML autónoma](review/moa-scenes.html) y abrirla localmente. Incluye las escenas nuevas disponibles y el reposo maestro embebidos. Se regenera con `python3 scripts/export-review.py`; esta exportación de revisión descarga todo su contenido como un archivo y es independiente de la galería principal con carga selectiva.
+Las descargas autónomas se distribuyen en dos archivos: [colecciones anteriores](review/moa-scenes.html) y [Chile: memes y encuentros](review/moa-chile-remix.html). Cada uno abre sin conexión y conserva sus cuadros embebidos. La galería principal index.html mantiene todas las escenas unificadas. Ambos archivos se regeneran con `python3 scripts/export-review.py`; dividir la descarga evita que cada nueva colección obligue a transferir un HTML cada vez más pesado.
 
 Las exportaciones y láminas de cada bloque están disponibles en el repositorio. La conversación principal gestiona su publicación en Library con su conexión autorizada.
 

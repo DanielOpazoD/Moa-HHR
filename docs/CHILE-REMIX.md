@@ -4,7 +4,7 @@ Serie aprobada por el usuario el 13 de octubre de 2026. Producción y revisión 
 
 Son viñetas ficticias. Los nombres identifican homenajes artísticos; no hay colaboración, patrocinio ni respaldo de las personas o entidades representadas. No se usan grabaciones, voces, letras ni fotografías de terceros en el paquete. Los derechos de personajes y semejanzas no se conceden por este repositorio.
 
-## Publicadas en este árbol: 6/30
+## Publicadas en este árbol: 12/30
 
 - **D01 · Peinado para atrás** · 12 poses · 5.9 s · [fuente](../new-scenes/sources/D01-v1.png) · [cuadros](../new-scenes/frames/D01-v1/) · [tiempos JSON](../new-scenes/scenes/D01.json) · [prompt](../new-scenes/prompts/D01.txt) · [secuencia](../evidence/D01/light-frames.png).
 - **D02 · No estoy ni ahí… hasta la marraqueta** · 12 poses · 5.9 s · [fuente](../new-scenes/sources/D02-v2.png) · [cuadros](../new-scenes/frames/D02-v2/) · [tiempos JSON](../new-scenes/scenes/D02.json) · [prompt](../new-scenes/prompts/D02.txt) · [secuencia](../evidence/D02/light-frames.png).
@@ -12,6 +12,12 @@ Son viñetas ficticias. Los nombres identifican homenajes artísticos; no hay co
 - **D04 · El al tiro de Moa** · 12 poses · 5.9 s · [fuente](../new-scenes/sources/D04-v1.png) · [cuadros](../new-scenes/frames/D04-v1/) · [tiempos JSON](../new-scenes/scenes/D04.json) · [prompt](../new-scenes/prompts/D04.txt) · [secuencia](../evidence/D04/light-frames.png).
 - **D05 · El pudú y la foto oficial** · 12 poses · 5.9 s · [fuente](../new-scenes/sources/D05-v1.png) · [cuadros](../new-scenes/frames/D05-v1/) · [tiempos JSON](../new-scenes/scenes/D05.json) · [prompt](../new-scenes/prompts/D05.txt) · [secuencia](../evidence/D05/light-frames.png).
 - **D06 · Moa y Fiu inventan un saludo** · 18 poses · 5.85 s · [fuente](../new-scenes/sources/D06-v1.png) · [cuadros](../new-scenes/frames/D06-v1/) · [tiempos JSON](../new-scenes/scenes/D06.json) · [prompt](../new-scenes/prompts/D06.txt) · [secuencia](../evidence/D06/light-frames.png).
+- **D07 · Germán Garmendia y el tutorial imposible** · 12 poses · 5.9 s · [fuente](../new-scenes/sources/D07-v1.png) · [cuadros](../new-scenes/frames/D07-v1/) · [tiempos JSON](../new-scenes/scenes/D07.json) · [prompt](../new-scenes/prompts/D07.txt) · [secuencia](../evidence/D07/light-frames.png).
+- **D08 · Pollo Castillo y el perchero revelado** · 12 poses · 5.9 s · [fuente](../new-scenes/sources/D08-v1.png) · [cuadros](../new-scenes/frames/D08-v1/) · [tiempos JSON](../new-scenes/scenes/D08.json) · [prompt](../new-scenes/prompts/D08.txt) · [secuencia](../evidence/D08/light-frames.png).
+- **D09 · Ignacia Antonia y la transición de vestuario** · 12 poses · 5.9 s · [fuente](../new-scenes/sources/D09-v3.png) · [cuadros](../new-scenes/frames/D09-v3/) · [tiempos JSON](../new-scenes/scenes/D09.json) · [prompt](../new-scenes/prompts/D09.txt) · [secuencia](../evidence/D09/light-frames.png).
+- **D10 · Naya Fácil y el aro de luz rebelde** · 12 poses · 5.9 s · [fuente](../new-scenes/sources/D10-v2.png) · [cuadros](../new-scenes/frames/D10-v2/) · [tiempos JSON](../new-scenes/scenes/D10.json) · [prompt](../new-scenes/prompts/D10.txt) · [secuencia](../evidence/D10/light-frames.png).
+- **D11 · Claudio Michaux y la reacción contenida** · 12 poses · 5.9 s · [fuente](../new-scenes/sources/D11-v1.png) · [cuadros](../new-scenes/frames/D11-v1/) · [tiempos JSON](../new-scenes/scenes/D11.json) · [prompt](../new-scenes/prompts/D11.txt) · [secuencia](../evidence/D11/light-frames.png).
+- **D12 · Vesta Lugg y la pasarela diminuta** · 12 poses · 5.9 s · [fuente](../new-scenes/sources/D12-v1.png) · [cuadros](../new-scenes/frames/D12-v1/) · [tiempos JSON](../new-scenes/scenes/D12.json) · [prompt](../new-scenes/prompts/D12.txt) · [secuencia](../evidence/D12/light-frames.png).
 
 ## Edición y límites
 

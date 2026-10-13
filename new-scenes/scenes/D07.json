@@ -1,0 +1,167 @@
+{
+  "id": "D07",
+  "order": 507,
+  "title": "D07 · Germán Garmendia y el tutorial imposible",
+  "category": "Chile: memes y encuentros",
+  "pack": "new",
+  "batch": "chile-remix-02",
+  "version": 1,
+  "status": "approved",
+  "frames": 12,
+  "durations": [
+    450,
+    450,
+    450,
+    450,
+    450,
+    450,
+    450,
+    450,
+    450,
+    450,
+    500,
+    900
+  ],
+  "cycles": 1,
+  "still": 11,
+  "source": "new-scenes/sources/D07-v1.png",
+  "src": "new-scenes/atlases/moa-D07-v1.png",
+  "generator": "Integrated image_gen directly operated by primary assistant",
+  "reference": "references/moa-neutral.png",
+  "prompt": "new-scenes/prompts/D07.txt",
+  "context": "Viñeta ficticia de humor. Los encuentros son homenajes artísticos, sin colaboración o respaldo de las personas representadas. Sin audio ni letras de canciones.",
+  "review": "Primary assistant visually reviews source and delivered frames. Full CI required before merge.",
+  "sourceGridColumns": 4,
+  "sourceColumns": [
+    0,
+    365,
+    748,
+    1091,
+    1448
+  ],
+  "packaging": {
+    "sourceSize": [
+      1448,
+      1086
+    ],
+    "rowCuts": [
+      0,
+      361,
+      713,
+      1086
+    ],
+    "columnCuts": [
+      0,
+      365,
+      748,
+      1091,
+      1448
+    ],
+    "rowBaselineRegistration": [
+      [
+        9,
+        66
+      ],
+      [
+        0,
+        66
+      ],
+      [
+        20,
+        66
+      ],
+      [
+        13,
+        66
+      ],
+      [
+        9,
+        73
+      ],
+      [
+        0,
+        73
+      ],
+      [
+        20,
+        73
+      ],
+      [
+        13,
+        73
+      ],
+      [
+        9,
+        67
+      ],
+      [
+        0,
+        67
+      ],
+      [
+        20,
+        67
+      ],
+      [
+        13,
+        67
+      ]
+    ],
+    "unionCrop": [
+      17,
+      95,
+      376,
+      399
+    ],
+    "sharedScale": 0.4934210526315789,
+    "frameSize": [
+      288,
+      168
+    ],
+    "origin": [
+      0,
+      0
+    ],
+    "trajectory": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ]
+    ]
+  },
+  "frameFiles": [
+    "new-scenes/frames/D07-v1/000.png",
+    "new-scenes/frames/D07-v1/001.png",
+    "new-scenes/frames/D07-v1/002.png",
+    "new-scenes/frames/D07-v1/003.png",
+    "new-scenes/frames/D07-v1/004.png",
+    "new-scenes/frames/D07-v1/005.png",
+    "new-scenes/frames/D07-v1/006.png",
+    "new-scenes/frames/D07-v1/007.png",
+    "new-scenes/frames/D07-v1/008.png",
+    "new-scenes/frames/D07-v1/009.png",
+    "new-scenes/frames/D07-v1/010.png",
+    "new-scenes/frames/D07-v1/011.png"
+  ],
+  "sourceSha256": "f0ddcca201dda0eca0fc1f2c77f0e07d5bb9647abab778cec7df38fb3086080e",
+  "frameSha256": [
+    "b3991fd8a7a19669442c7107eb776e8bfce6c113804567ff5baed50b03c811f2",
+    "2aad8980255159e23ab1994bc774485a4c00a5faaa739b71566599b08972d86a",
+    "d059d6a4321956d163d0a6b6efc79ff3a2cb828db82e40bfb23e2bf52623411e",
+    "68b079e45ea0a18544788f1922d82f30c64f9d22c2c2c706f1e4c6795139eebc",
+    "2db8d4aa56e505a2b916a3c10a4d573a116da34b9e9bc33377ae20507017e8da",
+    "98b6201682b8c44e92f9ba6ce163273380ee4256b60d3453421406a899017fc2",
+    "6d13178dbd714ae8e2636527d5ca0f51773aea2296def39b66573640f9fd4e4d",
+    "0d01a156d382783420b7482e293a51130fe67530979b665a82b56ac7efe4dcb0",
+    "b6bdb94c9c05bceb3b0091f1b65d86477461ff822fbd02562803f95a498fc219",
+    "24c1b101ee3039e7fddd10faaafde86c4ee159077a371201f86104b95ad3b475",
+    "fd67dfb75fd9d912a930b3634111b1915a76a4fb36cbae4d988778a7bffd5874",
+    "3ae60380d155af4a0b2028a642a24f2ee5498401651cf2bb844d0aa092e6fa4d"
+  ],
+  "bytes": 88181,
+  "sha256": "26a76d7455050d65a4f827fabeb215d1708d0b71763146d731c179cf3dfef4d3"
+}
