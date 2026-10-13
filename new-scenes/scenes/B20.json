@@ -1,0 +1,169 @@
+{
+  "order": 420,
+  "id": "B20",
+  "title": "B20 · El portal demasiado pequeño",
+  "category": "Moa aventuras",
+  "pack": "new",
+  "batch": "adventures-05",
+  "version": 2,
+  "status": "approved",
+  "frames": 12,
+  "durations": [
+    450,
+    400,
+    400,
+    450,
+    450,
+    400,
+    400,
+    450,
+    500,
+    500,
+    600,
+    850
+  ],
+  "cycles": 1,
+  "still": 11,
+  "source": "new-scenes/sources/B20-v2.png",
+  "src": "new-scenes/atlases/moa-B20-v2.png",
+  "generator": "Integrated image_gen directly operated by primary assistant",
+  "reference": "references/moa-neutral.png",
+  "prompt": "new-scenes/prompts/B20.txt",
+  "context": "Viñeta ficticia de humor y acompañamiento. No es una instrucción clínica ni representa operaciones reales.",
+  "review": "Primary assistant inspected source and packed sequences on light background; alpha and three-background previews validated. GitHub CI required before merge; local browser socket restriction.",
+  "sourceColumns": [
+    0,
+    384,
+    768,
+    1152,
+    1536
+  ],
+  "rejectedSources": [
+    "new-scenes/sources/B20-v1.png"
+  ],
+  "packaging": {
+    "sourceSize": [
+      1536,
+      1024
+    ],
+    "rowCuts": [
+      0,
+      391,
+      712,
+      1024
+    ],
+    "columnCuts": [
+      0,
+      384,
+      768,
+      1152,
+      1536
+    ],
+    "rowBaselineRegistration": [
+      [
+        0,
+        64
+      ],
+      [
+        0,
+        64
+      ],
+      [
+        0,
+        64
+      ],
+      [
+        0,
+        64
+      ],
+      [
+        0,
+        132
+      ],
+      [
+        0,
+        132
+      ],
+      [
+        0,
+        132
+      ],
+      [
+        0,
+        132
+      ],
+      [
+        0,
+        141
+      ],
+      [
+        0,
+        141
+      ],
+      [
+        0,
+        141
+      ],
+      [
+        0,
+        141
+      ]
+    ],
+    "unionCrop": [
+      3,
+      168,
+      384,
+      418
+    ],
+    "sharedScale": 0.5984251968503937,
+    "frameSize": [
+      288,
+      168
+    ],
+    "origin": [
+      0,
+      0
+    ],
+    "trajectory": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ]
+    ]
+  },
+  "frameFiles": [
+    "new-scenes/frames/B20-v2/000.png",
+    "new-scenes/frames/B20-v2/001.png",
+    "new-scenes/frames/B20-v2/002.png",
+    "new-scenes/frames/B20-v2/003.png",
+    "new-scenes/frames/B20-v2/004.png",
+    "new-scenes/frames/B20-v2/005.png",
+    "new-scenes/frames/B20-v2/006.png",
+    "new-scenes/frames/B20-v2/007.png",
+    "new-scenes/frames/B20-v2/008.png",
+    "new-scenes/frames/B20-v2/009.png",
+    "new-scenes/frames/B20-v2/010.png",
+    "new-scenes/frames/B20-v2/011.png"
+  ],
+  "sourceSha256": "89320e2c3d41a9d401d2dd5bcb3627e9249de73e587eb730b1f6e3c8999cc98a",
+  "frameSha256": [
+    "f67dd91dba51134b4e34b24092d838d31d4a189ea0941919cb580b6339f2a82f",
+    "a6254a5852bb80958b5248926596ae6440a1d2e758bdfb792784a40bbd6ef386",
+    "ca2a70933c9e9b6b816f14bae23bc77e454d76049ddf33faa545fb42bea62082",
+    "dd7f4a92103316ec965ca71a6df7716a943478c1ab2e20309e117e5b403d2a73",
+    "b2d7ccfd0c6b4ea4c3bfdccdf9cafa0b2ae27bbf27e641c65cf0bee2d37436dc",
+    "90e96106bcd4f4c5f031304974b0cc63d1b3810bf4231aa4af11a3fc99a93664",
+    "a64ba50c8c0b4996b433e9a2264226d68b483be7ee38f42c36853dc611aae90e",
+    "fb776cad9d4719487f26633459ea10360e5c295b09bef8fb512a3697598505c7",
+    "8205fcfcb29db378cd45b28d9018708e502b2a2c4153064afa634c55ee5f0c2b",
+    "671975f42a2ec8ac13be39d3ae891d89851a2a273537a2e15388396f438ef43c",
+    "e7c7002a580bfa4f0a36c49a951333be24456a02f1b43ee2c40d9fb3660b1ae6",
+    "a3118198f8242a7e5647a05bb65990640db28b7f4e9f1c383adc55067741d857"
+  ],
+  "bytes": 118746,
+  "sha256": "f0a7771cf5c7bebe116716d44d78ad97727381a97e67af66b0e9cf2aa6102886"
+}

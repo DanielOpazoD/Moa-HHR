@@ -58,3 +58,8 @@ El empaquetador preserva los PNG fuente; aplica registro por fila, recorte y esc
 Las exportaciones y láminas de cada bloque están disponibles en el repositorio. La conversación principal gestiona su publicación en Library con su conexión autorizada.
 
 - [Encuentros con invitados: IDs aprobados y referencia pendiente C21](docs/CHILE-ENCUENTROS.md).
+
+- [Moa aventuras: índice de las 30 escenas B01–B30](docs/MOA-AVENTURAS.md).
+- [Moa compañero: índice de las 15 escenas A01–A15](docs/MOA-COMPANERO.md).
+
+El selector de categorías se construye desde el catálogo, por lo que incluye todas las colecciones presentes. La exportación offline conserva píxeles RGBA exactos mediante PNG o WebP sin pérdida; los PNG editables y los metadatos completos permanecen en el repositorio.

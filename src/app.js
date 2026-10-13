@@ -89,6 +89,14 @@ try {
   q("status").textContent = "Catálogo no disponible. Recarga para reintentar.";
 }
 
+// Derive choices from the loaded catalogue, including future animation collections.
+q("category").replaceChildren(
+  new Option("Todas", "all"),
+  ...[...new Set(scenes.map((scene) => scene.category))]
+    .sort((a, b) => a.localeCompare(b, "es"))
+    .map((category) => new Option(category, category)),
+);
+
 for (const [id, step] of [
   ["previous", -1],
   ["next", 1],

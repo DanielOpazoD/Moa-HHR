@@ -1,0 +1,166 @@
+{
+  "order": 418,
+  "id": "B18",
+  "title": "B18 · El ascensor a la Luna",
+  "category": "Moa aventuras",
+  "pack": "new",
+  "batch": "adventures-05",
+  "version": 1,
+  "status": "approved",
+  "frames": 12,
+  "durations": [
+    450,
+    400,
+    400,
+    450,
+    450,
+    400,
+    400,
+    450,
+    500,
+    500,
+    600,
+    850
+  ],
+  "cycles": 1,
+  "still": 11,
+  "source": "new-scenes/sources/B18-v1.png",
+  "src": "new-scenes/atlases/moa-B18-v1.png",
+  "generator": "Integrated image_gen directly operated by primary assistant",
+  "reference": "references/moa-neutral.png",
+  "prompt": "new-scenes/prompts/B18.txt",
+  "context": "Viñeta ficticia de humor y acompañamiento. No es una instrucción clínica ni representa operaciones reales.",
+  "review": "Primary assistant inspected source and packed sequences on light background; alpha and three-background previews validated. GitHub CI required before merge; local browser socket restriction.",
+  "sourceColumns": [
+    0,
+    362,
+    724,
+    1086,
+    1448
+  ],
+  "packaging": {
+    "sourceSize": [
+      1448,
+      1086
+    ],
+    "rowCuts": [
+      0,
+      359,
+      697,
+      1086
+    ],
+    "columnCuts": [
+      0,
+      362,
+      724,
+      1086,
+      1448
+    ],
+    "rowBaselineRegistration": [
+      [
+        0,
+        74
+      ],
+      [
+        0,
+        74
+      ],
+      [
+        0,
+        74
+      ],
+      [
+        0,
+        74
+      ],
+      [
+        0,
+        99
+      ],
+      [
+        0,
+        99
+      ],
+      [
+        0,
+        99
+      ],
+      [
+        0,
+        99
+      ],
+      [
+        0,
+        87
+      ],
+      [
+        0,
+        87
+      ],
+      [
+        0,
+        87
+      ],
+      [
+        0,
+        87
+      ]
+    ],
+    "unionCrop": [
+      14,
+      110,
+      333,
+      417
+    ],
+    "sharedScale": 0.48859934853420195,
+    "frameSize": [
+      288,
+      168
+    ],
+    "origin": [
+      0,
+      0
+    ],
+    "trajectory": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ]
+    ]
+  },
+  "frameFiles": [
+    "new-scenes/frames/B18-v1/000.png",
+    "new-scenes/frames/B18-v1/001.png",
+    "new-scenes/frames/B18-v1/002.png",
+    "new-scenes/frames/B18-v1/003.png",
+    "new-scenes/frames/B18-v1/004.png",
+    "new-scenes/frames/B18-v1/005.png",
+    "new-scenes/frames/B18-v1/006.png",
+    "new-scenes/frames/B18-v1/007.png",
+    "new-scenes/frames/B18-v1/008.png",
+    "new-scenes/frames/B18-v1/009.png",
+    "new-scenes/frames/B18-v1/010.png",
+    "new-scenes/frames/B18-v1/011.png"
+  ],
+  "sourceSha256": "5252bb76ff8722826451cb53f5faf11053181453ed33f87acbb978d15b3d2d7c",
+  "frameSha256": [
+    "3df3fdf0bedb4b32926b544d55468f8ff90be6c76e98f23111c286d216152d31",
+    "2bc07b393e5787cdb7f9d878f75cdff2a76341457f391f42b3c7cc3bdeb5ded1",
+    "b6a322143484972284f3df04783c91e1b01199b775567067ae8b39ce5ddb9b2a",
+    "1d9440f7e8b175d8a0891974ca18ad68dd5373b3008fd29bb1a186afc30c15df",
+    "8a0493580f8299315d266d25906eb9ee7884490a1ae19edd44864ac98cc39415",
+    "e4f17f9908d6fda2b13bbd1e41f37a4184f7fb8acd412e91016132c4e9b84856",
+    "effb2862426dc540832ef7dd99d938aae5630d57c0ffe168f3ecd97c81a34b49",
+    "1b9b839ee74b8cc37dfa758c6f1a30b7bf4f09b2ece4c31f6e7587c4e71ea750",
+    "faf8af6968c88eda24bcc218c9b046a2e0c1db0a3ce7c2711f96c25de5044754",
+    "e2fb56204997e04a077e8ef5d7ccb0c2193c1d54d98f13e8a8567e7cd6e6dc0f",
+    "20bb524decedb3b02ce3aec9df206e1f57021aaad35e45756e7f50e9826e72c5",
+    "0f23dda4866d9f13c7dfdea7b5e20464b61e8f4845acc459d348d4e6fd1c252b"
+  ],
+  "bytes": 74426,
+  "sha256": "6600b0d4ae816c921ec2256634cd092539e1ebbbb81f5506cf686dfae5a88fcf"
+}
