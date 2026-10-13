@@ -1,0 +1,166 @@
+{
+  "order": 415,
+  "id": "B15",
+  "title": "B15 · La luciérnaga perdida",
+  "category": "Moa aventuras",
+  "pack": "new",
+  "batch": "adventures-04",
+  "version": 1,
+  "status": "approved",
+  "frames": 12,
+  "durations": [
+    450,
+    400,
+    400,
+    450,
+    450,
+    400,
+    400,
+    450,
+    500,
+    500,
+    600,
+    850
+  ],
+  "cycles": 1,
+  "still": 11,
+  "source": "new-scenes/sources/B15-v1.png",
+  "src": "new-scenes/atlases/moa-B15-v1.png",
+  "generator": "Integrated image_gen directly operated by primary assistant",
+  "reference": "references/moa-neutral.png",
+  "prompt": "new-scenes/prompts/B15.txt",
+  "context": "Viñeta ficticia de humor y acompañamiento. No es una instrucción clínica ni representa operaciones reales.",
+  "review": "Primary assistant inspected source and packed sequences on light background; alpha and three-background previews validated. GitHub CI required before merge; local browser socket restriction.",
+  "sourceColumns": [
+    0,
+    388,
+    768,
+    1152,
+    1536
+  ],
+  "packaging": {
+    "sourceSize": [
+      1536,
+      1024
+    ],
+    "rowCuts": [
+      0,
+      361,
+      688,
+      1024
+    ],
+    "columnCuts": [
+      0,
+      388,
+      768,
+      1152,
+      1536
+    ],
+    "rowBaselineRegistration": [
+      [
+        0,
+        67
+      ],
+      [
+        4,
+        67
+      ],
+      [
+        2,
+        67
+      ],
+      [
+        2,
+        67
+      ],
+      [
+        0,
+        103
+      ],
+      [
+        4,
+        103
+      ],
+      [
+        2,
+        103
+      ],
+      [
+        2,
+        103
+      ],
+      [
+        0,
+        104
+      ],
+      [
+        4,
+        104
+      ],
+      [
+        2,
+        104
+      ],
+      [
+        2,
+        104
+      ]
+    ],
+    "unionCrop": [
+      33,
+      138,
+      388,
+      388
+    ],
+    "sharedScale": 0.6,
+    "frameSize": [
+      288,
+      168
+    ],
+    "origin": [
+      0,
+      0
+    ],
+    "trajectory": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ]
+    ]
+  },
+  "frameFiles": [
+    "new-scenes/frames/B15-v1/000.png",
+    "new-scenes/frames/B15-v1/001.png",
+    "new-scenes/frames/B15-v1/002.png",
+    "new-scenes/frames/B15-v1/003.png",
+    "new-scenes/frames/B15-v1/004.png",
+    "new-scenes/frames/B15-v1/005.png",
+    "new-scenes/frames/B15-v1/006.png",
+    "new-scenes/frames/B15-v1/007.png",
+    "new-scenes/frames/B15-v1/008.png",
+    "new-scenes/frames/B15-v1/009.png",
+    "new-scenes/frames/B15-v1/010.png",
+    "new-scenes/frames/B15-v1/011.png"
+  ],
+  "sourceSha256": "bdf21daf54df7c2ddd405bf94c680dcd1141a5467770c73bebbbb9d1a6da5a37",
+  "frameSha256": [
+    "8e7298c931b2c64219a026b890c4938eec1e5acc420494aa5938db45657996af",
+    "83e5d8c3c58f02de154a8ec5bbdbcc889a9eae5cda5861affc635d842c0156f7",
+    "de43b526583473b6ba242e5b3c2774e8d58280f0e9b2cd5174fc494560c3925f",
+    "40bfe3e5866e2c10067555f89a92b34fc4b8aea76d2c9d0e5fdf08dd4dd911b1",
+    "a22eaa5470f0d59c8e54625f57a57e5df20cec2bd2b86818678112c6b957d6a3",
+    "04ad5e978143a734ad0bf7019ecbde9ab2dd2c311afd023bac9f46b06ad41ce4",
+    "efe57a869c21e000174160d7ccbeae0d8e44d3b679ee7ad471f54d8abdda0ede",
+    "d47c5419bbaa41c2935aec5e5c100a975e5b875abd4bd07b87beef5e92491c6e",
+    "d1547efb58925793d7eb1684689675a229f003bee861043990714660e118612b",
+    "834c092f39ab7e59054d3b9199c366b096643d9917242b31b0d11480b21db1b4",
+    "b487cf19df6a14509ba35909c95ad70f31a2a3beb124111d1fe038adf3226214",
+    "1dbe4c051c4ece8db277562992f947ceea723bb0695f80bfbc582ace9be56025"
+  ],
+  "bytes": 100977,
+  "sha256": "885ecf7d4b39b0b759d64e6729bdce8a1de50a11f6fec0b3d11efc603bbceea0"
+}
