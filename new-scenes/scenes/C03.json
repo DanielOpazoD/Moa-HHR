@@ -1,0 +1,186 @@
+{
+  "order": 87,
+  "id": "C03",
+  "title": "C03 · Sopaipilla en día de lluvia",
+  "category": "Cultura popular chilena",
+  "pack": "new",
+  "batch": "chile-01",
+  "chileOrder": 3,
+  "version": 1,
+  "status": "approved",
+  "frames": 12,
+  "durations": [
+    500,
+    350,
+    350,
+    350,
+    350,
+    350,
+    350,
+    350,
+    350,
+    350,
+    350,
+    600
+  ],
+  "cycles": 1,
+  "still": 11,
+  "source": "new-scenes/sources/C03-v1.png",
+  "src": "new-scenes/atlases/moa-C03-v1.png",
+  "generator": "Integrated image_gen",
+  "reference": "references/moa-neutral.png",
+  "prompt": "new-scenes/prompts/C03.txt",
+  "context": "Sopaipilla con pebre y sorpresa amable por picante; ventana de lluvia simbólica.",
+  "inspirationReferences": [],
+  "review": "All source and delivered frames reviewed on three backgrounds at real size; browser review tracked in evidence.",
+  "sourceColumns": [
+    0,
+    436,
+    827,
+    1227,
+    1642
+  ],
+  "packaging": {
+    "sourceSize": [
+      1642,
+      958
+    ],
+    "rowCuts": [
+      0,
+      341,
+      637,
+      958
+    ],
+    "columnCuts": [
+      0,
+      436,
+      827,
+      1227,
+      1642
+    ],
+    "rowBaselineRegistration": [
+      [
+        0,
+        48
+      ],
+      [
+        22,
+        48
+      ],
+      [
+        18,
+        48
+      ],
+      [
+        10,
+        48
+      ],
+      [
+        0,
+        95
+      ],
+      [
+        22,
+        95
+      ],
+      [
+        18,
+        95
+      ],
+      [
+        10,
+        95
+      ],
+      [
+        0,
+        87
+      ],
+      [
+        22,
+        87
+      ],
+      [
+        18,
+        87
+      ],
+      [
+        10,
+        87
+      ]
+    ],
+    "unionCrop": [
+      38,
+      113,
+      403,
+      368
+    ],
+    "sharedScale": 0.5882352941176471,
+    "frameSize": [
+      288,
+      168
+    ],
+    "origin": [
+      0,
+      0
+    ],
+    "trajectory": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ]
+    ]
+  },
+  "frameFiles": [
+    "new-scenes/frames/C03-v1/000.png",
+    "new-scenes/frames/C03-v1/001.png",
+    "new-scenes/frames/C03-v1/002.png",
+    "new-scenes/frames/C03-v1/003.png",
+    "new-scenes/frames/C03-v1/004.png",
+    "new-scenes/frames/C03-v1/005.png",
+    "new-scenes/frames/C03-v1/006.png",
+    "new-scenes/frames/C03-v1/007.png",
+    "new-scenes/frames/C03-v1/008.png",
+    "new-scenes/frames/C03-v1/009.png",
+    "new-scenes/frames/C03-v1/010.png",
+    "new-scenes/frames/C03-v1/011.png"
+  ],
+  "sourceSha256": "39aa9697ca4eb516895c4477b419017711f5e35aa8658977efb8d1750e65df36",
+  "frameSha256": [
+    "5492f432cafb1604fc1d769a6716dca64c851ada02e38e71fc615de2ce89c5c9",
+    "cf51f27a92e2d8ae4df693205f5def27df4791038765363d286aa239d88c5b5b",
+    "0d12d632b71ac5f4272a01eb24df834c2fab8090f1151c92d0f0f76795f7b630",
+    "31c2a8a1c50b0b97256a47197c6bc765149f38a2a362f133b5f4dc0022c1c5e7",
+    "badc9d3fbbad25a1ed890ef8cd30184b981b7bf05d5a0b437e7714cf10e35807",
+    "1c55f652508245dec854800d036ec4ae120f547b572ac176eb9c29e2447fff8c",
+    "aded592e3bc69bb0525a8a781819fdcccc1707e12b96e581c90ff26fade49017",
+    "d35830a79bcf94151e754d7a11338677fd0c1f3ee0a1a58913ae37de9369a42c",
+    "d2c20c71c475a75018485264997ccef3cc2236decd353fe075f76873e7859f31",
+    "183c9108569ca099a1284eb6dc57ebd4fb54c1adbd51758b355cea9d38111b52",
+    "b868ca78a4ade1b79500011d95c7aad2fc3655e21a80c4b19fe501fe92be68e4",
+    "1657ef71eda1b2e2fffb44ba7222e0b2031ba8235422a35a62218a3a610db7b9"
+  ],
+  "bytes": 98525,
+  "sha256": "bf1753b6f3d6c0a6013e563aa72bee16f89a85a5b7e215ad2897b2fc8581893b",
+  "sourceBytes": 1424435,
+  "qa": {
+    "reviewer": "Codex visual and technical review; principal reviewer controls merge",
+    "date": "2026-10-13",
+    "frameByFrame": true,
+    "backgrounds": [
+      "light",
+      "dark",
+      "blue"
+    ],
+    "scales": [
+      1,
+      3
+    ],
+    "browserTemporalSamples": 12,
+    "evidence": "evidence/C03/",
+    "remainingLimitation": "Sopaipilla con pebre y sorpresa amable por picante; ventana de lluvia simbólica. Raster key poses; Chromium verified, physical devices not tested."
+  }
+}

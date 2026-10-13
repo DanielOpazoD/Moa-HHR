@@ -15999,5 +15999,806 @@
       "evidence": "evidence/M20/",
       "remainingLimitation": "Homenaje ficticio a This is fine con formas de tela sobre una caja de ventilación: Moa apaga el efecto, desplaza la mesa y vuelve al café. Sin fuego real, humo ni daño. Raster key poses; Chromium verified, physical devices not tested."
     }
+  },
+  {
+    "order": 85,
+    "id": "C01",
+    "title": "C01 · Cueca con personalidad",
+    "category": "Cultura popular chilena",
+    "pack": "new",
+    "batch": "chile-01",
+    "chileOrder": 1,
+    "version": 1,
+    "status": "approved",
+    "frames": 16,
+    "durations": [
+      500,
+      320,
+      320,
+      320,
+      320,
+      320,
+      320,
+      320,
+      320,
+      320,
+      320,
+      320,
+      320,
+      320,
+      320,
+      620
+    ],
+    "cycles": 1,
+    "still": 15,
+    "source": "new-scenes/sources/C01-v1.png",
+    "src": "new-scenes/atlases/moa-C01-v1.png",
+    "generator": "Integrated image_gen",
+    "reference": "references/moa-neutral.png",
+    "prompt": "new-scenes/prompts/C01.txt",
+    "context": "Viñeta abreviada de pañuelo y escobillado; vestuario huaso simplificado, no un pie completo ni lección de danza.",
+    "inspirationReferences": [
+      {
+        "url": "https://www.memoriachilena.gob.cl/602/w3-article-46710.html",
+        "supports": "Fotografía histórica: parejas separadas, sombrero y falda; vestuario adaptado a Moa."
+      },
+      {
+        "url": "https://colegiosaopaulo.cl/wp-content/uploads/2021/09/Ma22_Educacionfisica_5%C2%B0B.pdf",
+        "supports": "Módulo de educación física: escobillado con cepillado de pies junto al suelo."
+      }
+    ],
+    "review": "All source and delivered frames reviewed on three backgrounds at real size; browser review tracked in evidence.",
+    "sourceColumns": [
+      0,
+      415,
+      809,
+      1224,
+      1642
+    ],
+    "packaging": {
+      "sourceSize": [
+        1642,
+        958
+      ],
+      "rowCuts": [
+        0,
+        270,
+        492,
+        712,
+        958
+      ],
+      "columnCuts": [
+        0,
+        415,
+        809,
+        1224,
+        1642
+      ],
+      "rowBaselineRegistration": [
+        [
+          1,
+          37
+        ],
+        [
+          12,
+          37
+        ],
+        [
+          1,
+          37
+        ],
+        [
+          0,
+          37
+        ],
+        [
+          1,
+          80
+        ],
+        [
+          12,
+          80
+        ],
+        [
+          1,
+          80
+        ],
+        [
+          0,
+          80
+        ],
+        [
+          1,
+          80
+        ],
+        [
+          12,
+          80
+        ],
+        [
+          1,
+          80
+        ],
+        [
+          0,
+          80
+        ],
+        [
+          1,
+          83
+        ],
+        [
+          12,
+          83
+        ],
+        [
+          1,
+          83
+        ],
+        [
+          0,
+          83
+        ]
+      ],
+      "unionCrop": [
+        20,
+        78,
+        394,
+        297
+      ],
+      "sharedScale": 0.6096256684491979,
+      "frameSize": [
+        288,
+        168
+      ],
+      "origin": [
+        0,
+        0
+      ],
+      "trajectory": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          0
+        ]
+      ]
+    },
+    "frameFiles": [
+      "new-scenes/frames/C01-v1/000.png",
+      "new-scenes/frames/C01-v1/001.png",
+      "new-scenes/frames/C01-v1/002.png",
+      "new-scenes/frames/C01-v1/003.png",
+      "new-scenes/frames/C01-v1/004.png",
+      "new-scenes/frames/C01-v1/005.png",
+      "new-scenes/frames/C01-v1/006.png",
+      "new-scenes/frames/C01-v1/007.png",
+      "new-scenes/frames/C01-v1/008.png",
+      "new-scenes/frames/C01-v1/009.png",
+      "new-scenes/frames/C01-v1/010.png",
+      "new-scenes/frames/C01-v1/011.png",
+      "new-scenes/frames/C01-v1/012.png",
+      "new-scenes/frames/C01-v1/013.png",
+      "new-scenes/frames/C01-v1/014.png",
+      "new-scenes/frames/C01-v1/015.png"
+    ],
+    "sourceSha256": "b2673247622635ef3f432ff658a3d142195ac1cb30ad578a1ff9b8af31e0dc12",
+    "frameSha256": [
+      "061f2d188d4a8ec8c7d3c87057d349333aa62211c9685ff1db51241c25f7d517",
+      "0a0819bfebc06bd8d6b144c2ce286bab0eec3719fb321df9c28a2bfa89e54180",
+      "be68056472d0d5152887c1ef48b25379a0c6cc368de62df55cf034b344abc6c8",
+      "34c6bdb82e526b6d38f0d0f8c8e837af5804d0a7018a8fa0095b6a7aa89b1a93",
+      "65a14350aa439124408cea755ebbb0f7780bad0dd4bd0441352b9c449aa90b21",
+      "2b971f03734af01c0ced41776ec6de6c09aaf6bdc33cf2a6e0b97491ae03e476",
+      "be5ccfbdf8676aac48ae360b7e71bfa0439fe318daa84c3e37b3648d898bb1f5",
+      "179af2b98d92501b15eb2fac558e828419cbeaff3e630a8e4bf86179eb90681e",
+      "2fc910cc3f16cc3da8a209fdc1e23d2ca397a9477924872be34edd8206e1398a",
+      "2f4449479d72bb617055dcea4bc070e9ea20196a764cff997d8e92c619a88a86",
+      "d1addf3fd009a40a3ad9fcd01ae51dfa9fcdf6765fd71f51bab51dcf0d8bd6b9",
+      "8bba18de17ca8b3ba92bd3498f486c993a1bbfe6c14d3a4d20022fa3d731565e",
+      "ca4af6ad07a090fedf7645e1d7d46ee907d064062f9389291c73f363736fa8f6",
+      "2489dd5cbb8fe5c0c5e08cf49aedb0b47bb2572fb18b0154ccf7741dd91e542c",
+      "05df55737958410afeb8256f5516dba0c3f2085e9967e2e0b2eb71032b4568ff",
+      "85bbca2158790432f0774a77add04022b74807ca9ead24cea08b661392ddb7cc"
+    ],
+    "bytes": 130077,
+    "sha256": "99f47c81c9d1d40683fcc0db4c24b179729850cea9754115f97df2095a0a96ae",
+    "sourceBytes": 1766166,
+    "qa": {
+      "reviewer": "Codex visual and technical review; principal reviewer controls merge",
+      "date": "2026-10-13",
+      "frameByFrame": true,
+      "backgrounds": [
+        "light",
+        "dark",
+        "blue"
+      ],
+      "scales": [
+        1,
+        3
+      ],
+      "browserTemporalSamples": 16,
+      "evidence": "evidence/C01/",
+      "remainingLimitation": "Viñeta abreviada de pañuelo y escobillado; vestuario huaso simplificado, no un pie completo ni lección de danza. Raster key poses; Chromium verified, physical devices not tested."
+    }
+  },
+  {
+    "order": 86,
+    "id": "C02",
+    "title": "C02 · Completo imposible",
+    "category": "Cultura popular chilena",
+    "pack": "new",
+    "batch": "chile-01",
+    "chileOrder": 2,
+    "version": 1,
+    "status": "approved",
+    "frames": 12,
+    "durations": [
+      500,
+      350,
+      350,
+      350,
+      350,
+      350,
+      350,
+      350,
+      350,
+      350,
+      350,
+      600
+    ],
+    "cycles": 1,
+    "still": 11,
+    "source": "new-scenes/sources/C02-v1.png",
+    "src": "new-scenes/atlases/moa-C02-v1.png",
+    "generator": "Integrated image_gen",
+    "reference": "references/moa-neutral.png",
+    "prompt": "new-scenes/prompts/C02.txt",
+    "context": "Humor con completo chileno: palta, pan, plato y mordida continuos.",
+    "inspirationReferences": [],
+    "review": "All source and delivered frames reviewed on three backgrounds at real size; browser review tracked in evidence.",
+    "sourceColumns": [
+      0,
+      432,
+      827,
+      1240,
+      1642
+    ],
+    "packaging": {
+      "sourceSize": [
+        1642,
+        958
+      ],
+      "rowCuts": [
+        0,
+        331,
+        627,
+        958
+      ],
+      "columnCuts": [
+        0,
+        432,
+        827,
+        1240,
+        1642
+      ],
+      "rowBaselineRegistration": [
+        [
+          0,
+          41
+        ],
+        [
+          18,
+          41
+        ],
+        [
+          9,
+          41
+        ],
+        [
+          15,
+          41
+        ],
+        [
+          0,
+          75
+        ],
+        [
+          18,
+          75
+        ],
+        [
+          9,
+          75
+        ],
+        [
+          15,
+          75
+        ],
+        [
+          0,
+          55
+        ],
+        [
+          18,
+          55
+        ],
+        [
+          9,
+          55
+        ],
+        [
+          15,
+          55
+        ]
+      ],
+      "unionCrop": [
+        24,
+        70,
+        407,
+        359
+      ],
+      "sharedScale": 0.5190311418685121,
+      "frameSize": [
+        288,
+        168
+      ],
+      "origin": [
+        0,
+        0
+      ],
+      "trajectory": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          0
+        ]
+      ]
+    },
+    "frameFiles": [
+      "new-scenes/frames/C02-v1/000.png",
+      "new-scenes/frames/C02-v1/001.png",
+      "new-scenes/frames/C02-v1/002.png",
+      "new-scenes/frames/C02-v1/003.png",
+      "new-scenes/frames/C02-v1/004.png",
+      "new-scenes/frames/C02-v1/005.png",
+      "new-scenes/frames/C02-v1/006.png",
+      "new-scenes/frames/C02-v1/007.png",
+      "new-scenes/frames/C02-v1/008.png",
+      "new-scenes/frames/C02-v1/009.png",
+      "new-scenes/frames/C02-v1/010.png",
+      "new-scenes/frames/C02-v1/011.png"
+    ],
+    "sourceSha256": "81d1bde7acf85d2db93c00287943e7e88d87063f80725a540e68eb8b29af7761",
+    "frameSha256": [
+      "af4e6be57da31bd69ff1652597927439e38b68c4a39c4b753f82f2c9547135d0",
+      "c85c9c5c1650e09d952c6beebc617c3bd81b214e7407393530b0f3c991e5df43",
+      "eca1a7d1da684a070212e38ccb1c0d2b134daab3702d77df1310ee99bfa18731",
+      "36b4756a02ef32e76f764a77fa1ab52d197d4e552921e62fdbe6a73ef10a1ba0",
+      "d49e2c4eed1b6418cbeff6bc99b52223bfa4ec7c1f790c9799d8d8b60a903b3b",
+      "86d0936906e9d831e5b6c7dd594d9c9cc12b01396229d16d21070a7c631d5395",
+      "f8dbaffcf4a9b3f726ec0ac68caecb304bb0c0f6b2ed5816675b7ed0f2c275b5",
+      "67cc253a7f2bdfb072c63458851c157e7f889260ac852b26be86f46c216e32dd",
+      "849c823ac3c8687f92196179b35c1649c097a0bbd6cf4abfce28ffb9c7e4d0f0",
+      "b133d24dd23b04cca09ea8a53dc9a3b03e6ec0b8e0269bebff784cb437fc6f0a",
+      "d22833775ea4efc34778f3e71c2c6b517674cb53293a638e8169b3a34d1a6210",
+      "1e9e41632637e03308b61f5ed409356f51e2dabc3bdfd4c472bc8a0236cc9e55"
+    ],
+    "bytes": 87356,
+    "sha256": "aa37b7d2e19a0a20a165cdc4fce0320795bb09cf0be9b334470a61fa74044553",
+    "sourceBytes": 1450646,
+    "qa": {
+      "reviewer": "Codex visual and technical review; principal reviewer controls merge",
+      "date": "2026-10-13",
+      "frameByFrame": true,
+      "backgrounds": [
+        "light",
+        "dark",
+        "blue"
+      ],
+      "scales": [
+        1,
+        3
+      ],
+      "browserTemporalSamples": 12,
+      "evidence": "evidence/C02/",
+      "remainingLimitation": "Humor con completo chileno: palta, pan, plato y mordida continuos. Raster key poses; Chromium verified, physical devices not tested."
+    }
+  },
+  {
+    "order": 87,
+    "id": "C03",
+    "title": "C03 · Sopaipilla en día de lluvia",
+    "category": "Cultura popular chilena",
+    "pack": "new",
+    "batch": "chile-01",
+    "chileOrder": 3,
+    "version": 1,
+    "status": "approved",
+    "frames": 12,
+    "durations": [
+      500,
+      350,
+      350,
+      350,
+      350,
+      350,
+      350,
+      350,
+      350,
+      350,
+      350,
+      600
+    ],
+    "cycles": 1,
+    "still": 11,
+    "source": "new-scenes/sources/C03-v1.png",
+    "src": "new-scenes/atlases/moa-C03-v1.png",
+    "generator": "Integrated image_gen",
+    "reference": "references/moa-neutral.png",
+    "prompt": "new-scenes/prompts/C03.txt",
+    "context": "Sopaipilla con pebre y sorpresa amable por picante; ventana de lluvia simbólica.",
+    "inspirationReferences": [],
+    "review": "All source and delivered frames reviewed on three backgrounds at real size; browser review tracked in evidence.",
+    "sourceColumns": [
+      0,
+      436,
+      827,
+      1227,
+      1642
+    ],
+    "packaging": {
+      "sourceSize": [
+        1642,
+        958
+      ],
+      "rowCuts": [
+        0,
+        341,
+        637,
+        958
+      ],
+      "columnCuts": [
+        0,
+        436,
+        827,
+        1227,
+        1642
+      ],
+      "rowBaselineRegistration": [
+        [
+          0,
+          48
+        ],
+        [
+          22,
+          48
+        ],
+        [
+          18,
+          48
+        ],
+        [
+          10,
+          48
+        ],
+        [
+          0,
+          95
+        ],
+        [
+          22,
+          95
+        ],
+        [
+          18,
+          95
+        ],
+        [
+          10,
+          95
+        ],
+        [
+          0,
+          87
+        ],
+        [
+          22,
+          87
+        ],
+        [
+          18,
+          87
+        ],
+        [
+          10,
+          87
+        ]
+      ],
+      "unionCrop": [
+        38,
+        113,
+        403,
+        368
+      ],
+      "sharedScale": 0.5882352941176471,
+      "frameSize": [
+        288,
+        168
+      ],
+      "origin": [
+        0,
+        0
+      ],
+      "trajectory": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          0
+        ]
+      ]
+    },
+    "frameFiles": [
+      "new-scenes/frames/C03-v1/000.png",
+      "new-scenes/frames/C03-v1/001.png",
+      "new-scenes/frames/C03-v1/002.png",
+      "new-scenes/frames/C03-v1/003.png",
+      "new-scenes/frames/C03-v1/004.png",
+      "new-scenes/frames/C03-v1/005.png",
+      "new-scenes/frames/C03-v1/006.png",
+      "new-scenes/frames/C03-v1/007.png",
+      "new-scenes/frames/C03-v1/008.png",
+      "new-scenes/frames/C03-v1/009.png",
+      "new-scenes/frames/C03-v1/010.png",
+      "new-scenes/frames/C03-v1/011.png"
+    ],
+    "sourceSha256": "39aa9697ca4eb516895c4477b419017711f5e35aa8658977efb8d1750e65df36",
+    "frameSha256": [
+      "5492f432cafb1604fc1d769a6716dca64c851ada02e38e71fc615de2ce89c5c9",
+      "cf51f27a92e2d8ae4df693205f5def27df4791038765363d286aa239d88c5b5b",
+      "0d12d632b71ac5f4272a01eb24df834c2fab8090f1151c92d0f0f76795f7b630",
+      "31c2a8a1c50b0b97256a47197c6bc765149f38a2a362f133b5f4dc0022c1c5e7",
+      "badc9d3fbbad25a1ed890ef8cd30184b981b7bf05d5a0b437e7714cf10e35807",
+      "1c55f652508245dec854800d036ec4ae120f547b572ac176eb9c29e2447fff8c",
+      "aded592e3bc69bb0525a8a781819fdcccc1707e12b96e581c90ff26fade49017",
+      "d35830a79bcf94151e754d7a11338677fd0c1f3ee0a1a58913ae37de9369a42c",
+      "d2c20c71c475a75018485264997ccef3cc2236decd353fe075f76873e7859f31",
+      "183c9108569ca099a1284eb6dc57ebd4fb54c1adbd51758b355cea9d38111b52",
+      "b868ca78a4ade1b79500011d95c7aad2fc3655e21a80c4b19fe501fe92be68e4",
+      "1657ef71eda1b2e2fffb44ba7222e0b2031ba8235422a35a62218a3a610db7b9"
+    ],
+    "bytes": 98525,
+    "sha256": "bf1753b6f3d6c0a6013e563aa72bee16f89a85a5b7e215ad2897b2fc8581893b",
+    "sourceBytes": 1424435,
+    "qa": {
+      "reviewer": "Codex visual and technical review; principal reviewer controls merge",
+      "date": "2026-10-13",
+      "frameByFrame": true,
+      "backgrounds": [
+        "light",
+        "dark",
+        "blue"
+      ],
+      "scales": [
+        1,
+        3
+      ],
+      "browserTemporalSamples": 12,
+      "evidence": "evidence/C03/",
+      "remainingLimitation": "Sopaipilla con pebre y sorpresa amable por picante; ventana de lluvia simbólica. Raster key poses; Chromium verified, physical devices not tested."
+    }
+  },
+  {
+    "order": 88,
+    "id": "C04",
+    "title": "C04 · La once compartida",
+    "category": "Cultura popular chilena",
+    "pack": "new",
+    "batch": "chile-01",
+    "chileOrder": 4,
+    "version": 4,
+    "status": "approved",
+    "frames": 12,
+    "durations": [
+      500,
+      350,
+      350,
+      350,
+      350,
+      350,
+      350,
+      350,
+      350,
+      350,
+      350,
+      600
+    ],
+    "cycles": 1,
+    "still": 11,
+    "source": "new-scenes/sources/C04-v4.png",
+    "src": "new-scenes/atlases/moa-C04-v4.png",
+    "generator": "Integrated image_gen",
+    "reference": "references/moa-neutral.png",
+    "prompt": "new-scenes/prompts/C04.txt",
+    "context": "Once ficticia: té, pan y amigos con mesa de ala abatible. Herrajes simplificados; no es plano de carpintería.",
+    "inspirationReferences": [],
+    "review": "All source and delivered frames reviewed on three backgrounds at real size; browser review tracked in evidence.",
+    "correctionPrompts": [
+      "new-scenes/prompts/C04-correction.txt",
+      "new-scenes/prompts/C04-correction-2.txt",
+      "new-scenes/prompts/C04-correction-3.txt"
+    ],
+    "rejectedSources": [
+      {
+        "source": "new-scenes/sources/C04-v1.png",
+        "reason": "Pan y objetos cambian de posición; invitada desaparece."
+      },
+      {
+        "source": "new-scenes/sources/C04-v2.png",
+        "reason": "Invitada ausente en cuadros7–8 y emblema oculto."
+      },
+      {
+        "source": "new-scenes/sources/C04-v3.png",
+        "reason": "Margen entre columnas insuficiente para extraer sin cortes."
+      }
+    ],
+    "sourceColumns": [
+      0,
+      427,
+      831,
+      1239,
+      1642
+    ],
+    "packaging": {
+      "sourceSize": [
+        1642,
+        958
+      ],
+      "rowCuts": [
+        0,
+        360,
+        648,
+        958
+      ],
+      "columnCuts": [
+        0,
+        427,
+        831,
+        1239,
+        1642
+      ],
+      "rowBaselineRegistration": [
+        [
+          0,
+          57
+        ],
+        [
+          11,
+          57
+        ],
+        [
+          9,
+          57
+        ],
+        [
+          12,
+          57
+        ],
+        [
+          0,
+          126
+        ],
+        [
+          11,
+          126
+        ],
+        [
+          9,
+          126
+        ],
+        [
+          12,
+          126
+        ],
+        [
+          0,
+          135
+        ],
+        [
+          11,
+          135
+        ],
+        [
+          9,
+          135
+        ],
+        [
+          12,
+          135
+        ]
+      ],
+      "unionCrop": [
+        30,
+        158,
+        397,
+        386
+      ],
+      "sharedScale": 0.6212534059945504,
+      "frameSize": [
+        288,
+        168
+      ],
+      "origin": [
+        0,
+        0
+      ],
+      "trajectory": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          0
+        ]
+      ]
+    },
+    "frameFiles": [
+      "new-scenes/frames/C04-v4/000.png",
+      "new-scenes/frames/C04-v4/001.png",
+      "new-scenes/frames/C04-v4/002.png",
+      "new-scenes/frames/C04-v4/003.png",
+      "new-scenes/frames/C04-v4/004.png",
+      "new-scenes/frames/C04-v4/005.png",
+      "new-scenes/frames/C04-v4/006.png",
+      "new-scenes/frames/C04-v4/007.png",
+      "new-scenes/frames/C04-v4/008.png",
+      "new-scenes/frames/C04-v4/009.png",
+      "new-scenes/frames/C04-v4/010.png",
+      "new-scenes/frames/C04-v4/011.png"
+    ],
+    "sourceSha256": "3db1991f5885cdc1ba95e2a666088d78153dd08e8f0887c66611b55f830776e3",
+    "frameSha256": [
+      "99af47d45ecc9f3db1c12ffe4c32890fd285f1577d2891ebbd2e18cf306e64c3",
+      "905dd9ac9cc50187c909d0da1f3bc53027fe1daf1623297bf27a29dd25700133",
+      "1faf53169813e2e474c288f7db11e442e9288e0cafe8fe91937b68db31b187aa",
+      "647f8645d46b9225e6f29a3a381c4869a437d580d51dbdee4d189d1511260283",
+      "812ce267816096b642a3c58c4e26e3e347f0658943466fb176221faf0691bffc",
+      "39d0204583bfbc300089338a50233633a37e7d813179b6956e6b9add0823059b",
+      "dc951bad663e48c0dcc6312664ce16cdb4cca411e1299bce4da09d030c03168c",
+      "3ddf0c8e0438276ce497375a67896a930d8cf87595bf43ace6564e2e3ac3ee7c",
+      "afdf9c931240a9f4508668be68fbc4a3d57b5700bb67b0898064fe404d18df3c",
+      "235e15e26295e191889e7c748e6b4c92a3224215db4243416434a60849c06bcc",
+      "e2848c6570912d579fbc5bf8c34f0b56f5817867f986624102c3f8e4bcbdabce",
+      "6eb4aa5a27c394fd4a62f146359e03ab9b590b72d875f9137256e3da9afadcff"
+    ],
+    "bytes": 90471,
+    "sha256": "e9ad7c84e47d45d2dc01f671fe2bcdff6e96449b31c826c4c234c49152d5ad13",
+    "sourceBytes": 1178945,
+    "qa": {
+      "reviewer": "Codex visual and technical review; principal reviewer controls merge",
+      "date": "2026-10-13",
+      "frameByFrame": true,
+      "backgrounds": [
+        "light",
+        "dark",
+        "blue"
+      ],
+      "scales": [
+        1,
+        3
+      ],
+      "browserTemporalSamples": 12,
+      "evidence": "evidence/C04/",
+      "remainingLimitation": "Once ficticia: té, pan y amigos con mesa de ala abatible. Herrajes simplificados; no es plano de carpintería. Raster key poses; Chromium verified, physical devices not tested."
+    }
   }
 ]

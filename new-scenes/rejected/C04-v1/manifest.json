@@ -1,0 +1,197 @@
+{
+  "order": 88,
+  "id": "C04",
+  "title": "C04 · La once compartida",
+  "category": "Cultura popular chilena",
+  "pack": "new",
+  "batch": "chile-01",
+  "chileOrder": 4,
+  "version": 1,
+  "status": "candidate",
+  "frames": 16,
+  "durations": [
+    500,
+    320,
+    320,
+    320,
+    320,
+    320,
+    320,
+    320,
+    320,
+    320,
+    320,
+    320,
+    320,
+    320,
+    320,
+    620
+  ],
+  "cycles": 1,
+  "still": 15,
+  "source": "new-scenes/sources/C04-v1.png",
+  "src": "new-scenes/atlases/moa-C04-v1.png",
+  "generator": "Integrated image_gen",
+  "reference": "references/moa-neutral.png",
+  "prompt": "new-scenes/prompts/C04.txt",
+  "context": "Té y pan compartidos; extensión abatible de mesa visible desde el inicio.",
+  "inspirationReferences": [],
+  "review": "Pending visual frame and browser review",
+  "sourceColumns": [
+    0,
+    411,
+    814,
+    1228,
+    1641
+  ],
+  "packaging": {
+    "sourceSize": [
+      1641,
+      958
+    ],
+    "rowCuts": [
+      0,
+      270,
+      514,
+      732,
+      958
+    ],
+    "columnCuts": [
+      0,
+      411,
+      814,
+      1228,
+      1641
+    ],
+    "rowBaselineRegistration": [
+      [
+        1,
+        44
+      ],
+      [
+        5,
+        44
+      ],
+      [
+        0,
+        44
+      ],
+      [
+        0,
+        44
+      ],
+      [
+        1,
+        67
+      ],
+      [
+        5,
+        67
+      ],
+      [
+        0,
+        67
+      ],
+      [
+        0,
+        67
+      ],
+      [
+        1,
+        91
+      ],
+      [
+        5,
+        91
+      ],
+      [
+        0,
+        91
+      ],
+      [
+        0,
+        91
+      ],
+      [
+        1,
+        87
+      ],
+      [
+        5,
+        87
+      ],
+      [
+        0,
+        87
+      ],
+      [
+        0,
+        87
+      ]
+    ],
+    "unionCrop": [
+      1,
+      86,
+      414,
+      297
+    ],
+    "sharedScale": 0.5520581113801453,
+    "frameSize": [
+      288,
+      168
+    ],
+    "origin": [
+      0,
+      0
+    ],
+    "trajectory": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ]
+    ]
+  },
+  "frameFiles": [
+    "new-scenes/frames/C04-v1/000.png",
+    "new-scenes/frames/C04-v1/001.png",
+    "new-scenes/frames/C04-v1/002.png",
+    "new-scenes/frames/C04-v1/003.png",
+    "new-scenes/frames/C04-v1/004.png",
+    "new-scenes/frames/C04-v1/005.png",
+    "new-scenes/frames/C04-v1/006.png",
+    "new-scenes/frames/C04-v1/007.png",
+    "new-scenes/frames/C04-v1/008.png",
+    "new-scenes/frames/C04-v1/009.png",
+    "new-scenes/frames/C04-v1/010.png",
+    "new-scenes/frames/C04-v1/011.png",
+    "new-scenes/frames/C04-v1/012.png",
+    "new-scenes/frames/C04-v1/013.png",
+    "new-scenes/frames/C04-v1/014.png",
+    "new-scenes/frames/C04-v1/015.png"
+  ],
+  "sourceSha256": "35b02b103cff09a082e9c396a3115b2c5082808af816c5daa20b0536334f680e",
+  "frameSha256": [
+    "3ae4f2557bb2ce9cd134b6b15aba34275b1a5757e064806f9bd2e3f51bbc73a6",
+    "91834077b5444978c9050430993915c2f39907462ab0157ee4cfbec951025a56",
+    "802ad14cb84c21322abe9c58ce3ab5069d606314b3c243ff41d51ff663c631f5",
+    "cc996c22e34d7ab021587966fad074aacdb547ad6d5b25a311eb778965bd2c1e",
+    "7fdd3b09dad7b7a541bbc9b61aa948bee074822c5f80df0baa219f21ec1ab440",
+    "5a3293631368199e3baaffc7b0c69956c9a9c7dc26a0431cb2d221bbf7892a6f",
+    "151ee9a1010088e4338ed3af6b7e05c7a142c69c7729810613bcd6d4bc19a73f",
+    "b36c2000d5f60ed5c3f60596d269481a24dd18a8a0c1490872e7f0717f95ce89",
+    "472988cc8f8ebe8ec457858b989b5a7ae94f495f6808a69e31c26e9e8eab8016",
+    "21204ac89c1b1c0d6dacc8a7426e0ff937dad6ccbb9da31cc07c784521a1b375",
+    "42df6bdb1cbe3a94fadaa6c43d5a0c3ed8dc42b54f9584aaba92dd5efa525f42",
+    "3d49e574a0472c07a3913a54d6f0d3c1b7d0610639b36eaa5cfe8649f1f334c7",
+    "5b3da514dc15b71f39da5bc61477a0b95bb590c3f2072f19d6b21b9f31a635f2",
+    "ebc81b6bfd092a65932562f1d004e5b925d14992e5068dafe442118770689364",
+    "5799c8a84f0aae66c1aa4e14a03a98a76723d672e6d1343597503d01fdf1cc3d",
+    "e9ea7a8503436ecc28b91d17bce8185e3ebbc4aaf4753fda66f7dd29051ff222"
+  ],
+  "bytes": 111567,
+  "sha256": "9235e34d13db999ef5d532b644c21b7525f0e1d466d35d9f95a32d9641591791"
+}
