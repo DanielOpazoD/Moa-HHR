@@ -13,7 +13,7 @@ Maestro: PNG real de la guía aprobada, inspeccionado antes de generar. Fuentes 
 ## Estado por bloque
 
 - C01–C04: revisión visual y técnica completada; [informe](QA-chile-01.md).
-- C05–C08: pendientes de producción.
+- C05–C08: revisión visual y técnica completada; [informe](QA-chile-02.md).
 - C09–C12: pendientes de producción; C11 requiere referencia visual del mecanismo antes de generar.
 
 ## Índice disponible
@@ -24,3 +24,12 @@ Maestro: PNG real de la guía aprobada, inspeccionado antes de generar. Fuentes 
 | [C02 · Completo imposible](../new-scenes/scenes/C02.json) | 12 | 4600 ms | 87356 B | [PNG](../new-scenes/frames/C02-v1/) |
 | [C03 · Sopaipilla en día de lluvia](../new-scenes/scenes/C03.json) | 12 | 4600 ms | 98525 B | [PNG](../new-scenes/frames/C03-v1/) |
 | [C04 · La once compartida](../new-scenes/scenes/C04.json) | 12 | 4600 ms | 90471 B | [PNG](../new-scenes/frames/C04-v4/) |
+
+C05–C08 se basan en las situaciones aprobadas por el usuario. C07 alude al remate de sorpresa de Condorito con personajes originales; C08 usa un títere naranja propio como guiño a 31 Minutos, sin reproducir voces, canciones o logos. No se afirma aval ni colaboración. Lanzamiento del trompo y manejo de volantín son abreviaciones lúdicas, no instrucciones prácticas.
+
+| Escena | Poses | Duración | Atlas | Poses editables |
+|---|---:|---:|---:|---|
+| [C05 · Trompo experto, casi](../new-scenes/scenes/C05.json) | 12 | 4600 ms | 69134 B | [PNG](../new-scenes/frames/C05-v1/) |
+| [C06 · Volantín rebelde](../new-scenes/scenes/C06.json) | 12 | 4600 ms | 55201 B | [PNG](../new-scenes/frames/C06-v1/) |
+| [C07 · Remate de Moa](../new-scenes/scenes/C07.json) | 12 | 4600 ms | 90688 B | [PNG](../new-scenes/frames/C07-v1/) |
+| [C08 · Calcetín superhéroe](../new-scenes/scenes/C08.json) | 12 | 4600 ms | 77057 B | [PNG](../new-scenes/frames/C08-v4/) |
