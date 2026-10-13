@@ -1,0 +1,137 @@
+{
+  "order": 305,
+  "id": "A05",
+  "title": "A05 · Gracias silenciosas",
+  "category": "Moa compañero",
+  "pack": "new",
+  "batch": "companion-01",
+  "version": 1,
+  "status": "approved",
+  "frames": 8,
+  "durations": [
+    500,
+    500,
+    500,
+    500,
+    500,
+    500,
+    500,
+    500
+  ],
+  "cycles": 1,
+  "still": 7,
+  "source": "new-scenes/sources/A05-v1.png",
+  "src": "new-scenes/atlases/moa-A05-v1.png",
+  "generator": "Integrated image_gen directly operated by primary assistant",
+  "reference": "references/moa-neutral.png",
+  "prompt": "new-scenes/prompts/A05.txt",
+  "context": "Animación de acompañamiento ficticia. Los estados de guardado y sincronización requieren confirmación real de la aplicación; esta biblioteca no los conecta a eventos.",
+  "review": "Primary assistant inspected source and packed sequences on light background; alpha and three-background previews validated. GitHub CI required before merge; local browser socket restriction.",
+  "sourceColumns": [
+    0,
+    444,
+    887,
+    1330,
+    1774
+  ],
+  "packaging": {
+    "sourceSize": [
+      1774,
+      887
+    ],
+    "rowCuts": [
+      0,
+      455,
+      887
+    ],
+    "columnCuts": [
+      0,
+      444,
+      887,
+      1330,
+      1774
+    ],
+    "rowBaselineRegistration": [
+      [
+        0,
+        58
+      ],
+      [
+        0,
+        58
+      ],
+      [
+        0,
+        58
+      ],
+      [
+        0,
+        58
+      ],
+      [
+        0,
+        86
+      ],
+      [
+        0,
+        86
+      ],
+      [
+        0,
+        86
+      ],
+      [
+        0,
+        86
+      ]
+    ],
+    "unionCrop": [
+      83,
+      119,
+      359,
+      482
+    ],
+    "sharedScale": 0.4132231404958678,
+    "frameSize": [
+      288,
+      168
+    ],
+    "origin": [
+      0,
+      0
+    ],
+    "trajectory": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ]
+    ]
+  },
+  "frameFiles": [
+    "new-scenes/frames/A05-v1/000.png",
+    "new-scenes/frames/A05-v1/001.png",
+    "new-scenes/frames/A05-v1/002.png",
+    "new-scenes/frames/A05-v1/003.png",
+    "new-scenes/frames/A05-v1/004.png",
+    "new-scenes/frames/A05-v1/005.png",
+    "new-scenes/frames/A05-v1/006.png",
+    "new-scenes/frames/A05-v1/007.png"
+  ],
+  "sourceSha256": "3718a324361f588a99d31887fc90488d7d7c9d07161f5ec5e3cdf2ec54a62b6e",
+  "frameSha256": [
+    "53562d2429a0975fcc65983d828624b1fc406e7a14ee3b65c6dcb8a9aa86ed03",
+    "53a2762cb63415daaaebb653ae06ddc9b42f94d704c01c5df9a2818224ce9cb3",
+    "e990985097f780baab131e3a572c0f2ea6645814a3c8573ca5590897d88476c1",
+    "76a8bbf1697146056ed15726830a6c46b4a1d119b1480939df08d4f40336f0ec",
+    "2dc95dec9adf50685dcf1a010e511d700af72b4cd39c86f636814a5e7758d61b",
+    "49ae3bf3215e700ec7bb05679547a9ba7a599a3099b6dd3a213740b9b037465e",
+    "14547e86cf0bfd16c1f546e2f71eab15776de989c3753326973094917f81e810",
+    "e3a7e3df11f56fc14faceb1237d5f892a0109547e9e0a895678be571d8d9c231"
+  ],
+  "bytes": 27635,
+  "sha256": "3c991e8867689339d3ce0842e1fa243914e3151abe3452827db780121ddb1891"
+}
