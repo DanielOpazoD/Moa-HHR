@@ -16800,5 +16800,768 @@
       "evidence": "evidence/C04/",
       "remainingLimitation": "Once ficticia: té, pan y amigos con mesa de ala abatible. Herrajes simplificados; no es plano de carpintería. Raster key poses; Chromium verified, physical devices not tested."
     }
+  },
+  {
+    "order": 89,
+    "id": "C05",
+    "title": "C05 · Trompo experto, casi",
+    "category": "Cultura popular chilena",
+    "pack": "new",
+    "batch": "chile-02",
+    "chileOrder": 5,
+    "version": 1,
+    "status": "approved",
+    "frames": 12,
+    "durations": [
+      500,
+      350,
+      350,
+      350,
+      350,
+      350,
+      350,
+      350,
+      350,
+      350,
+      350,
+      600
+    ],
+    "cycles": 1,
+    "still": 11,
+    "source": "new-scenes/sources/C05-v1.png",
+    "src": "new-scenes/atlases/moa-C05-v1.png",
+    "generator": "Integrated image_gen",
+    "reference": "references/moa-neutral.png",
+    "prompt": "new-scenes/prompts/C05.txt",
+    "context": "Trompo de juguete: Moa imita el giro y recupera equilibrio; lanzamiento abreviado, no tutorial.",
+    "inspirationReferences": [],
+    "review": "Every source and delivered frame visually reviewed; three backgrounds, real size and enlarged.",
+    "sourceColumns": [
+      0,
+      395,
+      817,
+      1217,
+      1642
+    ],
+    "packaging": {
+      "sourceSize": [
+        1642,
+        958
+      ],
+      "rowCuts": [
+        0,
+        344,
+        642,
+        958
+      ],
+      "columnCuts": [
+        0,
+        395,
+        817,
+        1217,
+        1642
+      ],
+      "rowBaselineRegistration": [
+        [
+          15,
+          50
+        ],
+        [
+          1,
+          50
+        ],
+        [
+          12,
+          50
+        ],
+        [
+          0,
+          50
+        ],
+        [
+          15,
+          84
+        ],
+        [
+          1,
+          84
+        ],
+        [
+          12,
+          84
+        ],
+        [
+          0,
+          84
+        ],
+        [
+          15,
+          93
+        ],
+        [
+          1,
+          93
+        ],
+        [
+          12,
+          93
+        ],
+        [
+          0,
+          93
+        ]
+      ],
+      "unionCrop": [
+        21,
+        88,
+        403,
+        371
+      ],
+      "sharedScale": 0.5300353356890459,
+      "frameSize": [
+        288,
+        168
+      ],
+      "origin": [
+        0,
+        0
+      ],
+      "trajectory": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          0
+        ]
+      ]
+    },
+    "frameFiles": [
+      "new-scenes/frames/C05-v1/000.png",
+      "new-scenes/frames/C05-v1/001.png",
+      "new-scenes/frames/C05-v1/002.png",
+      "new-scenes/frames/C05-v1/003.png",
+      "new-scenes/frames/C05-v1/004.png",
+      "new-scenes/frames/C05-v1/005.png",
+      "new-scenes/frames/C05-v1/006.png",
+      "new-scenes/frames/C05-v1/007.png",
+      "new-scenes/frames/C05-v1/008.png",
+      "new-scenes/frames/C05-v1/009.png",
+      "new-scenes/frames/C05-v1/010.png",
+      "new-scenes/frames/C05-v1/011.png"
+    ],
+    "sourceSha256": "b94a4c967d2137f494d0dc5e42adc8ae1c83d46d54ef2687d7d04b4c534f21d3",
+    "frameSha256": [
+      "5e0050ef13220c3c009a8091687ea1449847d60e62eee0f205f905d36c30350c",
+      "f35d4fc660e7e375e5a771b16814f0a13167eebcd6b5ee7bc8c04ad1476d2bb0",
+      "49050c23bd53ca31271f9defc7d1558db2899ce43841368ac3dff1964008389d",
+      "16dfbffd6bb499ccb38a72112f33ea58b42d9131ce4d16185850879a31ad6f33",
+      "60f68c4badec389df5e60452f4172f2f3fd99d03081243c17ea6d6a48d03b017",
+      "cb3df38ca8d911fc3beabddf93cde9c0f75f36e143968e26be79ca67862b7645",
+      "0370ddeb5f7f7214da288ee7ff4ec70de200d83ebfc0cd8fd5347b70b016a645",
+      "f7a00fcf3c5200046cb2f18ef4c6b14b15e49fc984533813aa190ebbf8b167cc",
+      "0ee7e4518bd7e4b62dbe6230bce5c38a3aaa804adf1c13b41e320a9618422f19",
+      "813540f1be65450e49c8e7bd68f9b3a157abd20c6b42351d0a9eefda61020036",
+      "e289827efa6d57e0fb414a33df530716182f8a68713b4df11edd57f29132b1c9",
+      "aab5160177450d01e482e900e1217fc2bd810a500bb8308e0e78c8591991a67f"
+    ],
+    "bytes": 69134,
+    "sha256": "4df80a74121989a559f28c87e434fe542f824dafec3d6915f3613f1a6762ddc0",
+    "sourceBytes": 1128728,
+    "qa": {
+      "reviewer": "Codex visual and technical review; principal reviewer controls merge",
+      "date": "2026-10-13",
+      "frameByFrame": true,
+      "backgrounds": [
+        "light",
+        "dark",
+        "blue"
+      ],
+      "scales": [
+        1,
+        3
+      ],
+      "browserTemporalSamples": 12,
+      "evidence": "evidence/C05/",
+      "remainingLimitation": "Trompo de juguete: Moa imita el giro y recupera equilibrio; lanzamiento abreviado, no tutorial. Raster key poses; Chromium verified, physical devices not tested."
+    }
+  },
+  {
+    "order": 90,
+    "id": "C06",
+    "title": "C06 · Volantín rebelde",
+    "category": "Cultura popular chilena",
+    "pack": "new",
+    "batch": "chile-02",
+    "chileOrder": 6,
+    "version": 1,
+    "status": "approved",
+    "frames": 12,
+    "durations": [
+      500,
+      350,
+      350,
+      350,
+      350,
+      350,
+      350,
+      350,
+      350,
+      350,
+      350,
+      600
+    ],
+    "cycles": 1,
+    "still": 11,
+    "source": "new-scenes/sources/C06-v1.png",
+    "src": "new-scenes/atlases/moa-C06-v1.png",
+    "generator": "Integrated image_gen",
+    "reference": "references/moa-neutral.png",
+    "prompt": "new-scenes/prompts/C06.txt",
+    "context": "Volantín con hilo corriente de algodón, tirón suave y recuperación, sin cables ni hilo cortante.",
+    "inspirationReferences": [],
+    "review": "Every source and delivered frame visually reviewed; three backgrounds, real size and enlarged.",
+    "sourceColumns": [
+      0,
+      409,
+      804,
+      1217,
+      1642
+    ],
+    "packaging": {
+      "sourceSize": [
+        1642,
+        958
+      ],
+      "rowCuts": [
+        0,
+        322,
+        635,
+        958
+      ],
+      "columnCuts": [
+        0,
+        409,
+        804,
+        1217,
+        1642
+      ],
+      "rowBaselineRegistration": [
+        [
+          8,
+          33
+        ],
+        [
+          15,
+          33
+        ],
+        [
+          6,
+          33
+        ],
+        [
+          0,
+          33
+        ],
+        [
+          8,
+          45
+        ],
+        [
+          15,
+          45
+        ],
+        [
+          6,
+          45
+        ],
+        [
+          0,
+          45
+        ],
+        [
+          8,
+          61
+        ],
+        [
+          15,
+          61
+        ],
+        [
+          6,
+          61
+        ],
+        [
+          0,
+          61
+        ]
+      ],
+      "unionCrop": [
+        43,
+        49,
+        378,
+        350
+      ],
+      "sharedScale": 0.4983388704318937,
+      "frameSize": [
+        288,
+        168
+      ],
+      "origin": [
+        0,
+        0
+      ],
+      "trajectory": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          0
+        ]
+      ]
+    },
+    "frameFiles": [
+      "new-scenes/frames/C06-v1/000.png",
+      "new-scenes/frames/C06-v1/001.png",
+      "new-scenes/frames/C06-v1/002.png",
+      "new-scenes/frames/C06-v1/003.png",
+      "new-scenes/frames/C06-v1/004.png",
+      "new-scenes/frames/C06-v1/005.png",
+      "new-scenes/frames/C06-v1/006.png",
+      "new-scenes/frames/C06-v1/007.png",
+      "new-scenes/frames/C06-v1/008.png",
+      "new-scenes/frames/C06-v1/009.png",
+      "new-scenes/frames/C06-v1/010.png",
+      "new-scenes/frames/C06-v1/011.png"
+    ],
+    "sourceSha256": "d03b102ed280b9a9fe231f639e184276d6e608a545b716486817e98be5c45749",
+    "frameSha256": [
+      "7f3d75d5f999a5b393e83113ea8edb6281d666b44de12b805ecd4a974be252cd",
+      "21ac50ab31987c8f2bded61be369b5868d1840a9d31cb804284be1aa7351d450",
+      "2f63ef72a40fffbfbbe71c66efc312049c89e8c21173faf81c2b3b8e1a4fb99a",
+      "edcf82cbe47a9acebcff99d4bd2285b7ba1861fbef1ef74d8c6f428a8ce041da",
+      "65786e7b0f97c40e3f83a9a210b7668c9271c2f9ac9481d5cda5b4064c6eb4cb",
+      "52a4fce558b959a58b2fa4c70286064492c74149e822d1d4485edcbf63e5fe2d",
+      "af278f3a61bb7f9b543d8cb27dcf6dac3ec2c4e71eefb200c5fae539acd3acb6",
+      "d195a46edf936345c7c71ee2ec8d2731af2063380d47fa71707b118871dd39ce",
+      "b582dc8faf6347c3d8eaa51b5295236a857c4ecdad098f4a1735825f09bd38a1",
+      "b3b94560bb43eb1e11de3921626f0c19260fa08bba98d5501cf64123373e95f6",
+      "7d66fc97a8cd96793d4cccda90d5239f5328bf66b03897f52ab9fccc12176e75",
+      "9b451664d46a8428d76f0bf457216553a3e1ecabc423d44dc29bf846099bfc99"
+    ],
+    "bytes": 55201,
+    "sha256": "2f6a0097e49335bc5ad04226a64f02b9a0d32c569d981c6176d6ea92bb10dbbe",
+    "sourceBytes": 952985,
+    "qa": {
+      "reviewer": "Codex visual and technical review; principal reviewer controls merge",
+      "date": "2026-10-13",
+      "frameByFrame": true,
+      "backgrounds": [
+        "light",
+        "dark",
+        "blue"
+      ],
+      "scales": [
+        1,
+        3
+      ],
+      "browserTemporalSamples": 12,
+      "evidence": "evidence/C06/",
+      "remainingLimitation": "Volantín con hilo corriente de algodón, tirón suave y recuperación, sin cables ni hilo cortante. Raster key poses; Chromium verified, physical devices not tested."
+    }
+  },
+  {
+    "order": 91,
+    "id": "C07",
+    "title": "C07 · Remate de Moa",
+    "category": "Cultura popular chilena",
+    "pack": "new",
+    "batch": "chile-02",
+    "chileOrder": 7,
+    "version": 1,
+    "status": "approved",
+    "frames": 12,
+    "durations": [
+      500,
+      350,
+      350,
+      350,
+      350,
+      350,
+      350,
+      350,
+      350,
+      350,
+      350,
+      600
+    ],
+    "cycles": 1,
+    "still": 11,
+    "source": "new-scenes/sources/C07-v1.png",
+    "src": "new-scenes/atlases/moa-C07-v1.png",
+    "generator": "Integrated image_gen",
+    "reference": "references/moa-neutral.png",
+    "prompt": "new-scenes/prompts/C07.txt",
+    "context": "Guiño al remate cómico de Condorito con Moa y amigo original: zapato como sombrero, sorpresa y asiento amable.",
+    "inspirationReferences": [],
+    "review": "Every source and delivered frame visually reviewed; three backgrounds, real size and enlarged.",
+    "sourceColumns": [
+      0,
+      426,
+      821,
+      1227,
+      1642
+    ],
+    "packaging": {
+      "sourceSize": [
+        1642,
+        958
+      ],
+      "rowCuts": [
+        0,
+        373,
+        678,
+        958
+      ],
+      "columnCuts": [
+        0,
+        426,
+        821,
+        1227,
+        1642
+      ],
+      "rowBaselineRegistration": [
+        [
+          0,
+          49
+        ],
+        [
+          15,
+          49
+        ],
+        [
+          10,
+          49
+        ],
+        [
+          5,
+          49
+        ],
+        [
+          0,
+          119
+        ],
+        [
+          15,
+          119
+        ],
+        [
+          10,
+          119
+        ],
+        [
+          5,
+          119
+        ],
+        [
+          0,
+          154
+        ],
+        [
+          15,
+          154
+        ],
+        [
+          10,
+          154
+        ],
+        [
+          5,
+          154
+        ]
+      ],
+      "unionCrop": [
+        15,
+        144,
+        408,
+        400
+      ],
+      "sharedScale": 0.5801526717557252,
+      "frameSize": [
+        288,
+        168
+      ],
+      "origin": [
+        0,
+        0
+      ],
+      "trajectory": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          0
+        ]
+      ]
+    },
+    "frameFiles": [
+      "new-scenes/frames/C07-v1/000.png",
+      "new-scenes/frames/C07-v1/001.png",
+      "new-scenes/frames/C07-v1/002.png",
+      "new-scenes/frames/C07-v1/003.png",
+      "new-scenes/frames/C07-v1/004.png",
+      "new-scenes/frames/C07-v1/005.png",
+      "new-scenes/frames/C07-v1/006.png",
+      "new-scenes/frames/C07-v1/007.png",
+      "new-scenes/frames/C07-v1/008.png",
+      "new-scenes/frames/C07-v1/009.png",
+      "new-scenes/frames/C07-v1/010.png",
+      "new-scenes/frames/C07-v1/011.png"
+    ],
+    "sourceSha256": "afb507b892564c5f44997a3a752333c8593badda5afe58f6afc8a6787b295bda",
+    "frameSha256": [
+      "e480bcc9d421fda26797a1736b9c9a7379681afff6dfa65406452a6522d3ad08",
+      "5ee362bdb081850828d7c2220d096bce8e12667c2dda4e640616dc6a8f83962a",
+      "a9a640b3d0df2a0c33e3f9dc557ba1d2f3ef5656ee339dada312b6b331ce034f",
+      "d824fbddb3d1c6d256b20644d49619b64c0ae876739a46e6f049ab1159df731f",
+      "6dbbafeaf4959272b6bc696aa4e3da19c82bd445899ac1f10a3b57473e6280a6",
+      "da963995886cc7ae3f1e8d4522504dc017b2428359d5c688634e02b3e9253aff",
+      "aa5ae1c4f6eca1c7dbfd48adb4064e5742c45e691ccf560e47783f1e352ad10c",
+      "9c838ac8d55c29e3978298e55f7e10d2e9b8158f121f1254996b263b8dc32e17",
+      "7ca0d9aff5b264324e8bcc3c21f18fa23b970e635ab82e7b14e98827f2965bdc",
+      "9d4e35edcb281d309e2bb7b6c3dfbd7d52b1588703d4d266812164aca567ec1c",
+      "00c8707a46e32c97bd8d2531aea1a0cd8c029843ac7b8844ff930c30e3b379c3",
+      "8368619e3b8122f6befff5640ca71927180f911c1df26a586509176eeccd0e5a"
+    ],
+    "bytes": 90688,
+    "sha256": "56b08ab9efde42bdcae7c261f082148ce217067d3369ca116cc81c42b388ac1c",
+    "sourceBytes": 1313068,
+    "qa": {
+      "reviewer": "Codex visual and technical review; principal reviewer controls merge",
+      "date": "2026-10-13",
+      "frameByFrame": true,
+      "backgrounds": [
+        "light",
+        "dark",
+        "blue"
+      ],
+      "scales": [
+        1,
+        3
+      ],
+      "browserTemporalSamples": 12,
+      "evidence": "evidence/C07/",
+      "remainingLimitation": "Guiño al remate cómico de Condorito con Moa y amigo original: zapato como sombrero, sorpresa y asiento amable. Raster key poses; Chromium verified, physical devices not tested."
+    }
+  },
+  {
+    "order": 92,
+    "id": "C08",
+    "title": "C08 · Calcetín superhéroe",
+    "category": "Cultura popular chilena",
+    "pack": "new",
+    "batch": "chile-02",
+    "chileOrder": 8,
+    "version": 4,
+    "status": "approved",
+    "frames": 12,
+    "durations": [
+      500,
+      350,
+      350,
+      350,
+      350,
+      350,
+      350,
+      350,
+      350,
+      350,
+      350,
+      600
+    ],
+    "cycles": 1,
+    "still": 11,
+    "source": "new-scenes/sources/C08-v4.png",
+    "src": "new-scenes/atlases/moa-C08-v4.png",
+    "generator": "Integrated image_gen",
+    "reference": "references/moa-neutral.png",
+    "prompt": "new-scenes/prompts/C08.txt",
+    "context": "Guiño a 31 Minutos: títere de calcetín naranja original que ayuda a recuperar una pelota; sin voces, canciones ni logos.",
+    "inspirationReferences": [],
+    "review": "Every source and delivered frame visually reviewed; three backgrounds, real size and enlarged.",
+    "correctionPrompts": [
+      "new-scenes/prompts/C08-correction.txt",
+      "new-scenes/prompts/C08-correction-2.txt",
+      "new-scenes/prompts/C08-correction-3.txt"
+    ],
+    "rejectedSources": [
+      {
+        "source": "new-scenes/sources/C08-v1.png",
+        "reason": "Banco desaparece y títere cambia de mano."
+      },
+      {
+        "source": "new-scenes/sources/C08-v2.png",
+        "reason": "Persisten cambios de mano; se replantea disposición."
+      },
+      {
+        "source": "new-scenes/sources/C08-v3.png",
+        "reason": "Pelota ausente bajo banco en cuadro4."
+      }
+    ],
+    "sourceColumns": [
+      0,
+      420,
+      819,
+      1224,
+      1643
+    ],
+    "packaging": {
+      "sourceSize": [
+        1643,
+        957
+      ],
+      "rowCuts": [
+        0,
+        365,
+        646,
+        957
+      ],
+      "columnCuts": [
+        0,
+        420,
+        819,
+        1224,
+        1643
+      ],
+      "rowBaselineRegistration": [
+        [
+          0,
+          57
+        ],
+        [
+          10,
+          57
+        ],
+        [
+          7,
+          57
+        ],
+        [
+          0,
+          57
+        ],
+        [
+          0,
+          135
+        ],
+        [
+          10,
+          135
+        ],
+        [
+          7,
+          135
+        ],
+        [
+          0,
+          135
+        ],
+        [
+          0,
+          123
+        ],
+        [
+          10,
+          123
+        ],
+        [
+          7,
+          123
+        ],
+        [
+          0,
+          123
+        ]
+      ],
+      "unionCrop": [
+        6,
+        139,
+        412,
+        391
+      ],
+      "sharedScale": 0.5615763546798029,
+      "frameSize": [
+        288,
+        168
+      ],
+      "origin": [
+        0,
+        0
+      ],
+      "trajectory": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          0
+        ]
+      ]
+    },
+    "frameFiles": [
+      "new-scenes/frames/C08-v4/000.png",
+      "new-scenes/frames/C08-v4/001.png",
+      "new-scenes/frames/C08-v4/002.png",
+      "new-scenes/frames/C08-v4/003.png",
+      "new-scenes/frames/C08-v4/004.png",
+      "new-scenes/frames/C08-v4/005.png",
+      "new-scenes/frames/C08-v4/006.png",
+      "new-scenes/frames/C08-v4/007.png",
+      "new-scenes/frames/C08-v4/008.png",
+      "new-scenes/frames/C08-v4/009.png",
+      "new-scenes/frames/C08-v4/010.png",
+      "new-scenes/frames/C08-v4/011.png"
+    ],
+    "sourceSha256": "da4986cb002b83bbf9446df2de6e9766cf080f95f58fa3e176e1b4c6451584a2",
+    "frameSha256": [
+      "c361aa61657c3e21797bfa34696d36eebd6fb967765d39abf2b776d31f5c37fb",
+      "31dd32162ad0bf75dba43a8490e3adb60b96bdc84680c94d886c2ceb6ca5767b",
+      "059b65619c19caf6ee7ac045f4f1739cf9ad47b53a8a755f7610ab3483d08577",
+      "bf1c4df724d65f3492a2944e09df661efe8bdb8b3282d1360f2eed787b538967",
+      "14200a84445f572888fa5a4f01a7fdfba9a63dd81f519785e597184a4ba05f18",
+      "838cb2f68c0adf9c8ecdec49a9a371cdc4a99e749a0303d1427dc56ec3effe01",
+      "a20f9072087521ab27c405a828c4688a12cf873fe30c171d26404fe24a22d936",
+      "d1c288fda100ac1bc3b1f0fbbe3eea1b3787b6f010c7bac7a5ffc5b569beea01",
+      "10de6ae59ca77277dcf056f4ae1c02a9be4ff6d3669c1469f49fe6e2f09ae621",
+      "5d28c54d16db32b9595797e720a02002153b2fb0cea9f974aab27063bed57eba",
+      "929cf9b703d2fcca6e2a791c49a119d73e76c3770f77158a84b60048cfe8794d",
+      "e0d2d26d34d993a46877e8a9ccc7114fef42230f9ed422d76326d0c5d2b8ec90"
+    ],
+    "bytes": 77057,
+    "sha256": "c8ff41f186e2612c3f4effb10ca733f6e44e512ab710a6b5196f3f53808413c4",
+    "sourceBytes": 1125739,
+    "qa": {
+      "reviewer": "Codex visual and technical review; principal reviewer controls merge",
+      "date": "2026-10-13",
+      "frameByFrame": true,
+      "backgrounds": [
+        "light",
+        "dark",
+        "blue"
+      ],
+      "scales": [
+        1,
+        3
+      ],
+      "browserTemporalSamples": 12,
+      "evidence": "evidence/C08/",
+      "remainingLimitation": "Guiño a 31 Minutos: títere de calcetín naranja original que ayuda a recuperar una pelota; sin voces, canciones ni logos. Raster key poses; Chromium verified, physical devices not tested."
+    }
   }
 ]
