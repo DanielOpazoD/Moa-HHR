@@ -1,0 +1,199 @@
+{
+  "order": 104,
+  "id": "C20",
+  "title": "C20 · Una estrella y el asombro",
+  "category": "Cultura popular chilena",
+  "pack": "new",
+  "batch": "chile-05",
+  "chileOrder": 20,
+  "version": 2,
+  "status": "approved",
+  "frames": 12,
+  "durations": [
+    500,
+    350,
+    350,
+    350,
+    350,
+    350,
+    350,
+    350,
+    350,
+    350,
+    350,
+    600
+  ],
+  "cycles": 1,
+  "still": 11,
+  "source": "new-scenes/sources/C20-v2.png",
+  "src": "new-scenes/atlases/moa-C20-v2.png",
+  "generator": "Integrated image_gen",
+  "reference": "references/moa-neutral.png",
+  "prompt": "new-scenes/prompts/C20.txt",
+  "context": "Homenaje ficticio al entusiasmo divulgador de José Maza; ilustración fantástica, sin afirmación científica.",
+  "inspirationReferences": [
+    {
+      "url": "https://das.uchile.cl/integrantes/jose-maza/",
+      "supports": "Referencia pública de contexto de la persona homenajeada; acción ficticia solicitada por el usuario, sin aval."
+    }
+  ],
+  "review": "Every source and final pose reviewed on three backgrounds at real size and enlarged; temporal evidence accompanies block.",
+  "sourceColumns": [
+    0,
+    406,
+    813,
+    1222,
+    1642
+  ],
+  "packaging": {
+    "sourceSize": [
+      1642,
+      958
+    ],
+    "rowCuts": [
+      0,
+      339,
+      642,
+      958
+    ],
+    "columnCuts": [
+      0,
+      406,
+      813,
+      1222,
+      1642
+    ],
+    "rowBaselineRegistration": [
+      [
+        7,
+        56
+      ],
+      [
+        6,
+        56
+      ],
+      [
+        5,
+        56
+      ],
+      [
+        0,
+        56
+      ],
+      [
+        7,
+        89
+      ],
+      [
+        6,
+        89
+      ],
+      [
+        5,
+        89
+      ],
+      [
+        0,
+        89
+      ],
+      [
+        7,
+        86
+      ],
+      [
+        6,
+        86
+      ],
+      [
+        5,
+        86
+      ],
+      [
+        0,
+        86
+      ]
+    ],
+    "unionCrop": [
+      11,
+      114,
+      411,
+      367
+    ],
+    "sharedScale": 0.57,
+    "frameSize": [
+      288,
+      168
+    ],
+    "origin": [
+      0,
+      0
+    ],
+    "trajectory": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ]
+    ]
+  },
+  "frameFiles": [
+    "new-scenes/frames/C20-v2/000.png",
+    "new-scenes/frames/C20-v2/001.png",
+    "new-scenes/frames/C20-v2/002.png",
+    "new-scenes/frames/C20-v2/003.png",
+    "new-scenes/frames/C20-v2/004.png",
+    "new-scenes/frames/C20-v2/005.png",
+    "new-scenes/frames/C20-v2/006.png",
+    "new-scenes/frames/C20-v2/007.png",
+    "new-scenes/frames/C20-v2/008.png",
+    "new-scenes/frames/C20-v2/009.png",
+    "new-scenes/frames/C20-v2/010.png",
+    "new-scenes/frames/C20-v2/011.png"
+  ],
+  "sourceSha256": "24ec179c66bf15942022f2fbe52b0de19869779289fcd4fde8f3b14a30e2d7dd",
+  "frameSha256": [
+    "91d71683392dfdac088f0d8f32013341b9808c7b2f7b5a7dd47b01ef1287e59c",
+    "aa327112fe30cf77c7eafdb42df267e76cc77976afb5ef9129737f12d67e49b2",
+    "ed784cda782b7dd781c5d442a03ee8e8c8257a7be413f2f3aa9b44bd5cec84b2",
+    "eed4117c23eb5448ae90d34d8dab472acbb22144b51af66889fd2ac28d6115ec",
+    "895343b40aaecf9685988bf312d618aa6f453ca7c9783ee4778fa1a5aff33ebb",
+    "06ab5348ac4296efccc5373c2c2ec8f449c621236485ba848354210aee17bc72",
+    "754c570b33ed124a8c5a5bccc28ebf5936427d2a763b69e24acd4e1948ab993f",
+    "81985430a34d6e2be08ae8aa74f210d52ac7827c37c2734f44a07671bc7e6bf9",
+    "7cdbdcb7871ae9fa8819156672456c775b8964dc287ace3fe59e3a7bf24cc941",
+    "c2aa53ce777706febdd182ea0176f9616dc72493f01f78824ea57591d29b7fad",
+    "e26cb5773d4274c91a790b537aad253750ad7c5431bc483f943a4fd41d00a925",
+    "577b3e6c6cfd6d8e8727b52b64105fd50ef989bc354c93f925d12d043d84bb73"
+  ],
+  "bytes": 82368,
+  "sha256": "c3527cd46c0d6d67a8d568ac2fae3d321f5de01f06a074a58222c012ab24804f",
+  "sourceBytes": 1498964,
+  "qa": {
+    "reviewer": "Codex visual and technical review; principal reviewer controls merge",
+    "date": "2026-10-13",
+    "frameByFrame": true,
+    "backgrounds": [
+      "light",
+      "dark",
+      "blue"
+    ],
+    "scales": [
+      1,
+      3
+    ],
+    "browserTemporalSamples": 12,
+    "evidence": "evidence/C20/",
+    "remainingLimitation": "Poses clave raster; movimiento abreviado, no actuación o técnica real. Chromium; dispositivos físicos, Firefox y Safari no probados."
+  },
+  "rejectedSources": [
+    {
+      "source": "new-scenes/sources/C20-v1.png",
+      "sha256": "79a49c936e47daeff59afc7ac48239439b1ff2cbe30700cbc31fee039f833023",
+      "prompt": "new-scenes/prompts/C20-v1.txt",
+      "reason": "Marcas de sorpresa no solicitadas y tiza ausente en cuadros finales; reemplazada por v2."
+    }
+  ]
+}

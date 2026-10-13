@@ -1,0 +1,53 @@
+{
+  "method": "Manual visual inspection; frame numbers are one-based, not computed object tracking.",
+  "frames": [
+    {
+      "frame": 1,
+      "observation": "Estrella delineada; tiza sostenida"
+    },
+    {
+      "frame": 2,
+      "observation": "Traza estrella con tiza"
+    },
+    {
+      "frame": 3,
+      "observation": "Explica con mano libre"
+    },
+    {
+      "frame": 4,
+      "observation": "Arco decorativo en pizarra"
+    },
+    {
+      "frame": 5,
+      "observation": "Estrella pasa a dorado"
+    },
+    {
+      "frame": 6,
+      "observation": "Fondo pasa a azul oscuro"
+    },
+    {
+      "frame": 7,
+      "observation": "Dos puntos dentro de pizarra"
+    },
+    {
+      "frame": 8,
+      "observation": "Cuatro puntos dentro de pizarra"
+    },
+    {
+      "frame": 9,
+      "observation": "Asombro, cuatro puntos y tiza"
+    },
+    {
+      "frame": 10,
+      "observation": "Brazos abiertos; tiza sigue en mano próxima a pizarra"
+    },
+    {
+      "frame": 11,
+      "observation": "Sonrisa, tiza abajo"
+    },
+    {
+      "frame": 12,
+      "observation": "Calma; mano libre al pecho, tiza abajo"
+    }
+  ]
+}
