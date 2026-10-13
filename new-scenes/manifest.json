@@ -18343,5 +18343,764 @@
       "evidence": "evidence/C12/",
       "remainingLimitation": "Retrato ficticio: un perro mestizo se sienta delante de Moa y termina posando con él; cámara sin flash ni fotos reales. Raster key poses; Chromium verified, physical devices not tested."
     }
+  },
+  {
+    "order": 97,
+    "id": "C13",
+    "title": "C13 · La nota imaginaria",
+    "category": "Cultura popular chilena",
+    "pack": "new",
+    "batch": "chile-04",
+    "chileOrder": 13,
+    "version": 1,
+    "status": "approved",
+    "frames": 12,
+    "durations": [
+      500,
+      350,
+      350,
+      350,
+      350,
+      350,
+      350,
+      350,
+      350,
+      350,
+      350,
+      600
+    ],
+    "cycles": 1,
+    "still": 11,
+    "source": "new-scenes/sources/C13-v1.png",
+    "src": "new-scenes/atlases/moa-C13-v1.png",
+    "generator": "Integrated image_gen",
+    "reference": "references/moa-neutral.png",
+    "prompt": "new-scenes/prompts/C13.txt",
+    "context": "Homenaje ficticio a la intensidad escénica de Mon Laferte: Moa interpreta una nota imaginaria y abraza su micrófono. Sin audio, letras ni aval.",
+    "inspirationReferences": [
+      {
+        "url": "https://www.monlaferte.com/",
+        "supports": "Referencia pública de la persona homenajeada; la acción, el vestuario y Moa son creación ficticia solicitada por el usuario, no material aprobado por la persona."
+      }
+    ],
+    "review": "Every source and final pose reviewed on three backgrounds at real size and enlarged; temporal evidence accompanies block.",
+    "sourceColumns": [
+      0,
+      442,
+      850,
+      1266,
+      1642
+    ],
+    "packaging": {
+      "sourceSize": [
+        1642,
+        958
+      ],
+      "rowCuts": [
+        0,
+        336,
+        640,
+        958
+      ],
+      "columnCuts": [
+        0,
+        442,
+        850,
+        1266,
+        1642
+      ],
+      "rowBaselineRegistration": [
+        [
+          0,
+          33
+        ],
+        [
+          17,
+          33
+        ],
+        [
+          13,
+          33
+        ],
+        [
+          33,
+          33
+        ],
+        [
+          0,
+          66
+        ],
+        [
+          17,
+          66
+        ],
+        [
+          13,
+          66
+        ],
+        [
+          33,
+          66
+        ],
+        [
+          0,
+          64
+        ],
+        [
+          17,
+          64
+        ],
+        [
+          13,
+          64
+        ],
+        [
+          33,
+          64
+        ]
+      ],
+      "unionCrop": [
+        64,
+        56,
+        395,
+        364
+      ],
+      "sharedScale": 0.487012987012987,
+      "frameSize": [
+        288,
+        168
+      ],
+      "origin": [
+        0,
+        0
+      ],
+      "trajectory": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          0
+        ]
+      ]
+    },
+    "frameFiles": [
+      "new-scenes/frames/C13-v1/000.png",
+      "new-scenes/frames/C13-v1/001.png",
+      "new-scenes/frames/C13-v1/002.png",
+      "new-scenes/frames/C13-v1/003.png",
+      "new-scenes/frames/C13-v1/004.png",
+      "new-scenes/frames/C13-v1/005.png",
+      "new-scenes/frames/C13-v1/006.png",
+      "new-scenes/frames/C13-v1/007.png",
+      "new-scenes/frames/C13-v1/008.png",
+      "new-scenes/frames/C13-v1/009.png",
+      "new-scenes/frames/C13-v1/010.png",
+      "new-scenes/frames/C13-v1/011.png"
+    ],
+    "sourceSha256": "d41c6ebe499b323b9a28cf1328dd1421c173f00ed165a3c1aec2e5e3168a9a81",
+    "frameSha256": [
+      "bc4612f4065d069169d11cb082dc78e2aafd3af7c50b4b980973edfc07bf64e4",
+      "6b32fa8193ce0ea6763d09042aa5d65d621f61ee01221da5c0f6371dec507eab",
+      "a46958ff766b3e7396f31fc9dfa860c45547744ed840b0b2c9495eb2e95716ac",
+      "ec17cca69c35db4825f953e15413b1d5781ed3ce87de9c7076ec754c0be4239b",
+      "dc52fddd8915aca59f4e4a820fd60f9f53fa2f8d6aee4829378aba96bbb9cbc8",
+      "5b2904106f60ee48a8a17431b72b7b23648934c4940caf4b1f73092cee32838e",
+      "f288a51b337e764bd43f72dc98e616914adaa6f6dcbeecd2b245d4b8bdec3737",
+      "66dc630c60e6c081df1ea2bd0a18d4a3aac770542ffcaa8da7178dba4518d21e",
+      "aac4528df2fdd84381d2aea179210dcdb26ef021ff14646fec022e89432ac27c",
+      "c815ad0ef30fd6af9ebe1bdfc869d89c682b4fbca5be6c8b6de0712b78ff9988",
+      "d6859bf32bbc8f6db65f7160a527be0cf55bbd3e52b096848ee41498d7c7f622",
+      "b91db2d540d0eb4f03a20a5c67cbe477a6fd2951ed33759a909f0708812e7415"
+    ],
+    "bytes": 61058,
+    "sha256": "bf0b0699d46f822e0a719c26401411207cfab3702179513a6ff100a534d01aee",
+    "sourceBytes": 1196347,
+    "qa": {
+      "reviewer": "Codex visual and technical review; principal reviewer controls merge",
+      "date": "2026-10-13",
+      "frameByFrame": true,
+      "backgrounds": [
+        "light",
+        "dark",
+        "blue"
+      ],
+      "scales": [
+        1,
+        3
+      ],
+      "browserTemporalSamples": 12,
+      "evidence": "evidence/C13/",
+      "remainingLimitation": "Homenaje ficticio a la intensidad escénica de Mon Laferte: Moa interpreta una nota imaginaria y abraza su micrófono. Sin audio, letras ni aval. Raster key poses; Chromium verified, physical devices not tested."
+    }
+  },
+  {
+    "order": 98,
+    "id": "C14",
+    "title": "C14 · Pasarela urbana",
+    "category": "Cultura popular chilena",
+    "pack": "new",
+    "batch": "chile-04",
+    "chileOrder": 14,
+    "version": 1,
+    "status": "approved",
+    "frames": 12,
+    "durations": [
+      500,
+      350,
+      350,
+      350,
+      350,
+      350,
+      350,
+      350,
+      350,
+      350,
+      350,
+      600
+    ],
+    "cycles": 1,
+    "still": 11,
+    "source": "new-scenes/sources/C14-v1.png",
+    "src": "new-scenes/atlases/moa-C14-v1.png",
+    "generator": "Integrated image_gen",
+    "reference": "references/moa-neutral.png",
+    "prompt": "new-scenes/prompts/C14.txt",
+    "context": "Guiño ficticio a Paloma Mami: vestuario original de Moa, pasos seguros y pose juguetona. Sin copiar atuendo ni afirmar participación.",
+    "inspirationReferences": [
+      {
+        "url": "https://www.sonymusiclatin.com/artists/paloma-mami/",
+        "supports": "Referencia pública de la persona homenajeada; la acción, el vestuario y Moa son creación ficticia solicitada por el usuario, no material aprobado por la persona."
+      }
+    ],
+    "review": "Every source and final pose reviewed on three backgrounds at real size and enlarged; temporal evidence accompanies block.",
+    "sourceColumns": [
+      0,
+      408,
+      822,
+      1235,
+      1642
+    ],
+    "packaging": {
+      "sourceSize": [
+        1642,
+        958
+      ],
+      "rowCuts": [
+        0,
+        326,
+        637,
+        958
+      ],
+      "columnCuts": [
+        0,
+        408,
+        822,
+        1235,
+        1642
+      ],
+      "rowBaselineRegistration": [
+        [
+          3,
+          35
+        ],
+        [
+          0,
+          35
+        ],
+        [
+          0,
+          35
+        ],
+        [
+          3,
+          35
+        ],
+        [
+          3,
+          49
+        ],
+        [
+          0,
+          49
+        ],
+        [
+          0,
+          49
+        ],
+        [
+          3,
+          49
+        ],
+        [
+          3,
+          50
+        ],
+        [
+          0,
+          50
+        ],
+        [
+          0,
+          50
+        ],
+        [
+          3,
+          50
+        ]
+      ],
+      "unionCrop": [
+        33,
+        59,
+        379,
+        353
+      ],
+      "sharedScale": 0.5102040816326531,
+      "frameSize": [
+        288,
+        168
+      ],
+      "origin": [
+        0,
+        0
+      ],
+      "trajectory": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          0
+        ]
+      ]
+    },
+    "frameFiles": [
+      "new-scenes/frames/C14-v1/000.png",
+      "new-scenes/frames/C14-v1/001.png",
+      "new-scenes/frames/C14-v1/002.png",
+      "new-scenes/frames/C14-v1/003.png",
+      "new-scenes/frames/C14-v1/004.png",
+      "new-scenes/frames/C14-v1/005.png",
+      "new-scenes/frames/C14-v1/006.png",
+      "new-scenes/frames/C14-v1/007.png",
+      "new-scenes/frames/C14-v1/008.png",
+      "new-scenes/frames/C14-v1/009.png",
+      "new-scenes/frames/C14-v1/010.png",
+      "new-scenes/frames/C14-v1/011.png"
+    ],
+    "sourceSha256": "75ccf9734a2b4fca2115a21970c86f397c037b3d90dee85ce78e5c3cdb26e578",
+    "frameSha256": [
+      "02fe9771f34b43d5f900521458671de485eaf41d15fbcfbd8580eca3a7c4356e",
+      "ff56b4a09ece0d56ecd3c2d39432f5b4e72165cc828ec5e5ad32e85740772feb",
+      "c7e18a15f11e0eb6325f84df207da14dfe7dd5aefaf7d9a0527bd020bc518736",
+      "c11628fc3c2116b3db33dc7124e9b49ccb8475f4eed4807263a6d8e7fdf24739",
+      "698775fc2e5459d9640421402861f8ce0b363d97e7903a0ebb6e8b2b0ac417d0",
+      "f3aa5f55ae3b0943daa25314b3f82e81a36d9b4ddf29a17f2d770dde394e69e9",
+      "9ef7ced0cab51fd388f9e6604fc8c7ee8225d3e3e2f70b6ef63dfb7bda557411",
+      "87b3707015e44831ca0ea5f25b34298867438b38494b6959b0cde542103d2cf4",
+      "0333c57e5696dd35ce9479a27c029954a8c99cd921c05f8d7c84c15daf8ae46c",
+      "20014ae52b5c65a0af8c324fe993eadc4d5cc16605ec346b72ac76ab49bdf0db",
+      "6b762958af5d9f91b8f6bdeaebf92669d105dcd4a667a89b013cc62a85f5fbec",
+      "921f93ccac5ffaf125b54f61802013aa4bf1e7f3a6f353ed743149df1e6bceb4"
+    ],
+    "bytes": 58736,
+    "sha256": "9ba4a592d93bb51db115ad66dd6bd6a8d2f4ae4b3f0f231002808405aeb99a5d",
+    "sourceBytes": 1096982,
+    "qa": {
+      "reviewer": "Codex visual and technical review; principal reviewer controls merge",
+      "date": "2026-10-13",
+      "frameByFrame": true,
+      "backgrounds": [
+        "light",
+        "dark",
+        "blue"
+      ],
+      "scales": [
+        1,
+        3
+      ],
+      "browserTemporalSamples": 12,
+      "evidence": "evidence/C14/",
+      "remainingLimitation": "Guiño ficticio a Paloma Mami: vestuario original de Moa, pasos seguros y pose juguetona. Sin copiar atuendo ni afirmar participación. Raster key poses; Chromium verified, physical devices not tested."
+    }
+  },
+  {
+    "order": 99,
+    "id": "C15",
+    "title": "C15 · Idea de freestyle",
+    "category": "Cultura popular chilena",
+    "pack": "new",
+    "batch": "chile-04",
+    "chileOrder": 15,
+    "version": 1,
+    "status": "approved",
+    "frames": 12,
+    "durations": [
+      500,
+      350,
+      350,
+      350,
+      350,
+      350,
+      350,
+      350,
+      350,
+      350,
+      350,
+      600
+    ],
+    "cycles": 1,
+    "still": 11,
+    "source": "new-scenes/sources/C15-v1.png",
+    "src": "new-scenes/atlases/moa-C15-v1.png",
+    "generator": "Integrated image_gen",
+    "reference": "references/moa-neutral.png",
+    "prompt": "new-scenes/prompts/C15.txt",
+    "context": "Guiño ficticio a El Menor: Moa piensa, encuentra una idea y remata; un compañero celebra. Sin insultos, letras ni audio.",
+    "inspirationReferences": [],
+    "review": "Every source and final pose reviewed on three backgrounds at real size and enlarged; temporal evidence accompanies block.",
+    "sourceColumns": [
+      0,
+      419,
+      833,
+      1228,
+      1642
+    ],
+    "packaging": {
+      "sourceSize": [
+        1642,
+        958
+      ],
+      "rowCuts": [
+        0,
+        338,
+        638,
+        958
+      ],
+      "columnCuts": [
+        0,
+        419,
+        833,
+        1228,
+        1642
+      ],
+      "rowBaselineRegistration": [
+        [
+          0,
+          34
+        ],
+        [
+          2,
+          34
+        ],
+        [
+          12,
+          34
+        ],
+        [
+          2,
+          34
+        ],
+        [
+          0,
+          69
+        ],
+        [
+          2,
+          69
+        ],
+        [
+          12,
+          69
+        ],
+        [
+          2,
+          69
+        ],
+        [
+          0,
+          69
+        ],
+        [
+          2,
+          69
+        ],
+        [
+          12,
+          69
+        ],
+        [
+          2,
+          69
+        ]
+      ],
+      "unionCrop": [
+        10,
+        72,
+        412,
+        365
+      ],
+      "sharedScale": 0.5119453924914675,
+      "frameSize": [
+        288,
+        168
+      ],
+      "origin": [
+        0,
+        0
+      ],
+      "trajectory": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          0
+        ]
+      ]
+    },
+    "frameFiles": [
+      "new-scenes/frames/C15-v1/000.png",
+      "new-scenes/frames/C15-v1/001.png",
+      "new-scenes/frames/C15-v1/002.png",
+      "new-scenes/frames/C15-v1/003.png",
+      "new-scenes/frames/C15-v1/004.png",
+      "new-scenes/frames/C15-v1/005.png",
+      "new-scenes/frames/C15-v1/006.png",
+      "new-scenes/frames/C15-v1/007.png",
+      "new-scenes/frames/C15-v1/008.png",
+      "new-scenes/frames/C15-v1/009.png",
+      "new-scenes/frames/C15-v1/010.png",
+      "new-scenes/frames/C15-v1/011.png"
+    ],
+    "sourceSha256": "27864fa5b767e0c916e40fb90ac7155a1ac2cfa28a290c864177faf466293ad2",
+    "frameSha256": [
+      "ae0de56e89b56ef401a9c80b172937075bdb5c62d690b45b9ac14b0d80134c54",
+      "8fe83ce9dde9350aa74b3e362f6b928f256ce5b8103a5e66d7b4ba7b13ed7bb9",
+      "e2ff81f36604116e64bfdc9404a0b6d5d0967525ee3269c2cc9d2a7579867a9a",
+      "69d2fde5cb91a36229d898d158ee331022152b9f99b0e1ef0c9e48ea2b857f3a",
+      "fee3c6cb606aa641b9cca4eb6324bd30d68c867d3c6bb1678695468e54cc9861",
+      "38f14198a0f80acdcbc81329a8c0011ab091b38d094b73481f18aacd73ed4467",
+      "d79e937ca44e31ed2fadd77e354e2335b96ec35e053a7d5edf080d4f44df4524",
+      "37a5d1d59b1664fbeb9d5ab36b35760c8ef715297038ed2aa2f055665f14c627",
+      "9c25d270e0ac3919f7360bb4a5a98d87fc1785e0e66685b130eef221bc05ff3d",
+      "154191ef5b24ae4d7df8949c99ba9a1d02349ed4c97efd793a1976eba5b33504",
+      "fbc406e33f6ba45d0d3aa21756c4cd37071a9b710d7e97b6c59b446b0c1f5ba8",
+      "66cd3a049dce625cc917f15db758c86c1e1889d2c5e0e16e7e0c6b3492cf99e4"
+    ],
+    "bytes": 89331,
+    "sha256": "23eaf2679eefd3821975a3f553e7d80104eb43b355df92d6517d7cea18f0e90f",
+    "sourceBytes": 1547423,
+    "qa": {
+      "reviewer": "Codex visual and technical review; principal reviewer controls merge",
+      "date": "2026-10-13",
+      "frameByFrame": true,
+      "backgrounds": [
+        "light",
+        "dark",
+        "blue"
+      ],
+      "scales": [
+        1,
+        3
+      ],
+      "browserTemporalSamples": 12,
+      "evidence": "evidence/C15/",
+      "remainingLimitation": "Guiño ficticio a El Menor: Moa piensa, encuentra una idea y remata; un compañero celebra. Sin insultos, letras ni audio. Raster key poses; Chromium verified, physical devices not tested."
+    }
+  },
+  {
+    "order": 100,
+    "id": "C16",
+    "title": "C16 · Alfombra roja",
+    "category": "Cultura popular chilena",
+    "pack": "new",
+    "batch": "chile-04",
+    "chileOrder": 16,
+    "version": 1,
+    "status": "approved",
+    "frames": 12,
+    "durations": [
+      500,
+      350,
+      350,
+      350,
+      350,
+      350,
+      350,
+      350,
+      350,
+      350,
+      350,
+      600
+    ],
+    "cycles": 1,
+    "still": 11,
+    "source": "new-scenes/sources/C16-v1.png",
+    "src": "new-scenes/atlases/moa-C16-v1.png",
+    "generator": "Integrated image_gen",
+    "reference": "references/moa-neutral.png",
+    "prompt": "new-scenes/prompts/C16.txt",
+    "context": "Guiño ficticio a Pedro Pascal: Moa pasa de pose seria a sonrisa y saludo tímido. Vestuario propio, sin retrato humano ni aval.",
+    "inspirationReferences": [
+      {
+        "url": "https://sagaftra.foundation/programs/15322",
+        "supports": "Referencia pública de la persona homenajeada; la acción, el vestuario y Moa son creación ficticia solicitada por el usuario, no material aprobado por la persona."
+      }
+    ],
+    "review": "Every source and final pose reviewed on three backgrounds at real size and enlarged; temporal evidence accompanies block.",
+    "sourceColumns": [
+      0,
+      423,
+      824,
+      1225,
+      1642
+    ],
+    "packaging": {
+      "sourceSize": [
+        1642,
+        958
+      ],
+      "rowCuts": [
+        0,
+        340,
+        642,
+        958
+      ],
+      "columnCuts": [
+        0,
+        423,
+        824,
+        1225,
+        1642
+      ],
+      "rowBaselineRegistration": [
+        [
+          0,
+          36
+        ],
+        [
+          11,
+          36
+        ],
+        [
+          11,
+          36
+        ],
+        [
+          3,
+          36
+        ],
+        [
+          0,
+          71
+        ],
+        [
+          11,
+          71
+        ],
+        [
+          11,
+          71
+        ],
+        [
+          3,
+          71
+        ],
+        [
+          0,
+          80
+        ],
+        [
+          11,
+          80
+        ],
+        [
+          11,
+          80
+        ],
+        [
+          3,
+          80
+        ]
+      ],
+      "unionCrop": [
+        25,
+        78,
+        403,
+        367
+      ],
+      "sharedScale": 0.5190311418685121,
+      "frameSize": [
+        288,
+        168
+      ],
+      "origin": [
+        0,
+        0
+      ],
+      "trajectory": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          0
+        ]
+      ]
+    },
+    "frameFiles": [
+      "new-scenes/frames/C16-v1/000.png",
+      "new-scenes/frames/C16-v1/001.png",
+      "new-scenes/frames/C16-v1/002.png",
+      "new-scenes/frames/C16-v1/003.png",
+      "new-scenes/frames/C16-v1/004.png",
+      "new-scenes/frames/C16-v1/005.png",
+      "new-scenes/frames/C16-v1/006.png",
+      "new-scenes/frames/C16-v1/007.png",
+      "new-scenes/frames/C16-v1/008.png",
+      "new-scenes/frames/C16-v1/009.png",
+      "new-scenes/frames/C16-v1/010.png",
+      "new-scenes/frames/C16-v1/011.png"
+    ],
+    "sourceSha256": "fd09b6dba04ad3123a593a1e118c32fae19eb0de8491720940a2057d2fcc13c1",
+    "frameSha256": [
+      "a1b533e5c33b1e237d52a5ecea07806449495269989e20b61ad0a958577fcbf6",
+      "b9ca28917e13a1025e3cd46c364a9904bbb784f6de623a78f50465442407382d",
+      "20ae8e1945b90e454c57e9060b9395522dddc8a55c8de473b7e0b7b3860ae36a",
+      "206c4350e694482effc37f19d5f60b1ff283a509e57b2e0b214e093589f26190",
+      "4ddf05964aacc2d6652e4904e7d288ba457ceb94d33af556a49145872b36a3bf",
+      "790a0e0f6f506f3d238d30335ba578c1f847b70a9a13172663fb9a1a4ef7c443",
+      "d0c711d27c4e80a89d5947c66fce4d5f41244fb6bb06e34e31cda18021282acd",
+      "83a01b309fe4643a04e913d3da4090fc8136b3f45b60e072018f915aeb0ae4bc",
+      "eb195ceec2494d3fe97b8d98dfb0f376f460b501a6a1ba2dadfd1ea96a8d080b",
+      "13f23fef55f697f6c23539ce87fbea9ea671a5287f81b8861563dbb93c1599e6",
+      "1993e5c68c311f7d137699c7843afb2db264839ebae53c2a224ee2beaf941410",
+      "76ca928816048f30ffe17a1bd9dfac68d0f1aa1136de3b15432ba3146ef54a17"
+    ],
+    "bytes": 75248,
+    "sha256": "bbb2842e7cfe27f59f28a1e677b7bc20a4f20b75b78423acb7f6db55da6d1a91",
+    "sourceBytes": 1301065,
+    "qa": {
+      "reviewer": "Codex visual and technical review; principal reviewer controls merge",
+      "date": "2026-10-13",
+      "frameByFrame": true,
+      "backgrounds": [
+        "light",
+        "dark",
+        "blue"
+      ],
+      "scales": [
+        1,
+        3
+      ],
+      "browserTemporalSamples": 12,
+      "evidence": "evidence/C16/",
+      "remainingLimitation": "Guiño ficticio a Pedro Pascal: Moa pasa de pose seria a sonrisa y saludo tímido. Vestuario propio, sin retrato humano ni aval. Raster key poses; Chromium verified, physical devices not tested."
+    }
   }
 ]
