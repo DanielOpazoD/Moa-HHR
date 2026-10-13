@@ -11050,5 +11050,238 @@
       "references/moa-neutral.png",
       "evidence/guest-references/pedro.json"
     ]
+  },
+  {
+    "order": 239,
+    "id": "C39",
+    "title": "C39 · El Profesor Rossa descubre a Moa",
+    "category": "Cultura popular chilena",
+    "pack": "new",
+    "batch": "chile-08",
+    "chileOrder": 39,
+    "version": 2,
+    "status": "approved",
+    "frames": 12,
+    "durations": [
+      500,
+      350,
+      350,
+      350,
+      350,
+      350,
+      350,
+      350,
+      350,
+      350,
+      350,
+      600
+    ],
+    "cycles": 1,
+    "still": 11,
+    "source": "new-scenes/sources/C39-v2.png",
+    "src": "new-scenes/atlases/moa-C39-v2.png",
+    "generator": "Integrated image_gen, operated directly in primary conversation",
+    "reference": "references/moa-neutral.png",
+    "prompt": "new-scenes/prompts/C39.txt",
+    "context": "Encuentro ficticio con Profesor Rossa. Caricaturas; sin aval ni participación real.",
+    "guest": "Profesor Rossa",
+    "inspirationReferences": [
+      {
+        "url": "https://www.emol.com/noticias/Espectaculos/2016/10/18/827117/Profesor-Rossa.html",
+        "supports": "Fotografía del trío inspeccionada visualmente; referencia de pelo, vestuario y personajes."
+      }
+    ],
+    "review": "Primary assistant inspected all packed frames. Chromium launch blocked locally by socket restrictions; CI required before merge.",
+    "rejectedSources": [
+      "new-scenes/sources/C39-v1.png"
+    ],
+    "frameFiles": [
+      "new-scenes/frames/C39-v2/000.png",
+      "new-scenes/frames/C39-v2/001.png",
+      "new-scenes/frames/C39-v2/002.png",
+      "new-scenes/frames/C39-v2/003.png",
+      "new-scenes/frames/C39-v2/004.png",
+      "new-scenes/frames/C39-v2/005.png",
+      "new-scenes/frames/C39-v2/006.png",
+      "new-scenes/frames/C39-v2/007.png",
+      "new-scenes/frames/C39-v2/008.png",
+      "new-scenes/frames/C39-v2/009.png",
+      "new-scenes/frames/C39-v2/010.png",
+      "new-scenes/frames/C39-v2/011.png"
+    ],
+    "sourceSha256": "ed0dca7ba09d40540583ff7ad0f67fb6eef204794071880264ed3f16833fdc00",
+    "frameSha256": [
+      "5bd7b6893bb6cbf1276d30ec8c294e84802ed7fca38a24844d175bb904d5f163",
+      "1884507d48949b8d14870f731db5341408fe9b43833ee3487747874117d0206f",
+      "2c40b88ba19ebfddce0c5957fcfe2b5ef57490e2c512503363a6f3c638325caa",
+      "8f5be6f74c28861b21ea7ee65c20c2b8daefda4652c69483606521ee85d2e81b",
+      "314db973c8ae6417140301e2bac75e7e11505d0c9a3cc3a87a13d631be0ea0e7",
+      "e4e6cc46401a168f43d56f4069d0b143eb4d2863e68c573b54ff78491e3f438e",
+      "cb04be342c421ef4812472b5a1b23342e8d02ae333aa1872398f24d710a4169c",
+      "4f7bc8883b343490155e04d6e6c7a55d9348144e5cbe8a6be0b0393abe239e21",
+      "775698bd46f95385871e3db30939d9556becb4d9971aa1c3573fb2a454f5ef2c",
+      "78428864a1ad4ac0b75f6f714605904b745f9d9a8952436e316bae0d0fb9db20",
+      "dea99b889e68c6f3783a896ac31fe5ce45a7c34c27f42d33d837647a7a88bbe6",
+      "2aa9380be9689bcd2f523047d8f7223778c22d1a2cc0cd8b7ccc238c914a9e52"
+    ],
+    "bytes": 109511,
+    "sha256": "92e7da7752555c02576245bf6bc5ce21e84c586b5f44bd58a8b254b05c050d41"
+  },
+  {
+    "order": 240,
+    "id": "C40",
+    "title": "C40 · Moa y Guru Guru, alumnos distraídos",
+    "category": "Cultura popular chilena",
+    "pack": "new",
+    "batch": "chile-08",
+    "chileOrder": 40,
+    "version": 3,
+    "status": "approved",
+    "frames": 12,
+    "durations": [
+      500,
+      350,
+      350,
+      350,
+      350,
+      350,
+      350,
+      350,
+      350,
+      350,
+      350,
+      600
+    ],
+    "cycles": 1,
+    "still": 11,
+    "source": "new-scenes/sources/C40-v3.png",
+    "src": "new-scenes/atlases/moa-C40-v3.png",
+    "generator": "Integrated image_gen, operated directly in primary conversation",
+    "reference": "references/moa-neutral.png",
+    "prompt": "new-scenes/prompts/C40.txt",
+    "context": "Encuentro ficticio con Profesor Rossa y Guru Guru. Caricaturas; sin aval ni participación real.",
+    "guest": "Profesor Rossa y Guru Guru",
+    "inspirationReferences": [
+      {
+        "url": "https://www.emol.com/noticias/Espectaculos/2016/10/18/827117/Profesor-Rossa.html",
+        "supports": "Fotografía del trío inspeccionada visualmente; referencia de pelo, vestuario y personajes."
+      }
+    ],
+    "review": "Primary assistant inspected all packed frames. Chromium launch blocked locally by socket restrictions; CI required before merge.",
+    "rejectedSources": [
+      "new-scenes/sources/C40-v1.png",
+      "new-scenes/sources/C40-v2.png"
+    ],
+    "sourceColumns": [
+      0,
+      385,
+      742,
+      1096,
+      1448
+    ],
+    "frameFiles": [
+      "new-scenes/frames/C40-v3/000.png",
+      "new-scenes/frames/C40-v3/001.png",
+      "new-scenes/frames/C40-v3/002.png",
+      "new-scenes/frames/C40-v3/003.png",
+      "new-scenes/frames/C40-v3/004.png",
+      "new-scenes/frames/C40-v3/005.png",
+      "new-scenes/frames/C40-v3/006.png",
+      "new-scenes/frames/C40-v3/007.png",
+      "new-scenes/frames/C40-v3/008.png",
+      "new-scenes/frames/C40-v3/009.png",
+      "new-scenes/frames/C40-v3/010.png",
+      "new-scenes/frames/C40-v3/011.png"
+    ],
+    "sourceSha256": "367446ac9cc0126a3beacbc38891132071ebd77039ef39a3bdbe28035382d68c",
+    "frameSha256": [
+      "c1727686c8d6f6aab5be4760e532866d3644cb39fbc29c40a3fe65fee1d50d91",
+      "2727309b9e5a296c908c52202cfd2ab1221d14e24b7158eaed09a21acf441961",
+      "30435ffc9b7d1b10fc7f98981f73fefe746fda876360ed7d4f83af7919c45b29",
+      "2208ec8de008bd39c4e6b2039a95ff9cd68ee7c454a893cb0f470b7f1caa63de",
+      "2a0d6cd2902c04b1d3b2ec0099ccb2290fe5a06de02207a5b3e1bc1749ef4159",
+      "9af657bcee14a65ccf64855ce2fd56d36127fb2bd220eacbbc06484ff7f092f9",
+      "01c232b446b56dc6e76901f1f4d2f8a2f0eda1d5d04fea12eae09b7ceb201f06",
+      "01c3f056efc6916dfa468e6c028c7f4eee611a10b10ed812a8f6734308271a55",
+      "c62a176e3a17172b3c6e460710a7f1947aef8d504400b9a2e667091bcbd9e998",
+      "f14a6269005995e3fe0b9397eb4d498ab526af8d24420509bd2c0c3298dbc440",
+      "cc47f9024da3b42a1ae41797a1dcf88f602e6fdbe6f5dc5938f7c7b0b9e5d6eb",
+      "1e5d1eb47b26ca6237cd0452ba79c29191d7e63ac866d1d94d2fb425392f3992"
+    ],
+    "bytes": 105983,
+    "sha256": "589162a18f95627c02da65915049909fddefab974ef16f4fffcd11f480c0380e"
+  },
+  {
+    "order": 242,
+    "id": "C42",
+    "title": "C42 · Felipe Avello entrevista al más callado",
+    "category": "Cultura popular chilena",
+    "pack": "new",
+    "batch": "chile-08",
+    "chileOrder": 42,
+    "version": 4,
+    "status": "approved",
+    "frames": 8,
+    "durations": [
+      500,
+      500,
+      500,
+      500,
+      500,
+      500,
+      500,
+      500
+    ],
+    "cycles": 1,
+    "still": 7,
+    "source": "new-scenes/sources/C42-v4.png",
+    "src": "new-scenes/atlases/moa-C42-v4.png",
+    "generator": "Integrated image_gen, operated directly in primary conversation",
+    "reference": "references/moa-neutral.png",
+    "prompt": "new-scenes/prompts/C42.txt",
+    "context": "Encuentro ficticio de mímica entre Felipe Avello y Moa; sin diálogo ni aval.",
+    "guest": "Felipe Avello",
+    "inspirationReferences": [
+      {
+        "url": "https://www.emol.com/noticias/Espectaculos/2018/01/26/892722/Gracias-Patagual-Felipe-Avello-arraso-con-su-presentacion-en-Festival-del-Huaso-de-Olmue.html",
+        "supports": "Fotografía inspeccionada del invitado, camisa verde estampada y rasgos."
+      }
+    ],
+    "review": "Primary assistant inspected all packed frames. Chromium launch blocked locally by socket restrictions; CI required before merge.",
+    "rejectedSources": [
+      "new-scenes/sources/C42-v1.png",
+      "new-scenes/sources/C42-v2.png",
+      "new-scenes/sources/C42-v3.png"
+    ],
+    "sourceSha256": "683e0cef339fe0c51efdc48a6c075d104856541c14e3b2e6c44cf6a0fd3798a7",
+    "frameSha256": [
+      "49080b81a26ca46c80d094ecbd7b766a7a4193e4dc501755b324bec25eab7b03",
+      "ac809486f033ff4e7e2e593a5cbf548f7e13b772fcde93c5a643a4848e866416",
+      "f3aa93fe1436d9f5efbb3e6ef117dbbfce4459ba73936883a054d7ecd39705cc",
+      "5a54343f72e262b7243c51cec1ae0d70695677658b87f05b178f0487413df15d",
+      "7e5834123c4e9e8633ef919b871cfc6ecfa54e1508a98b42f18bf422fbef3041",
+      "43f7f46394a4a328d095898233ce2b1fb7fa4c2060237297b93cc18d49b1068e",
+      "97dd343190c875a5a6cf33a11576d452519a1ff0d003e30231ef3c67c9bfd2d0",
+      "568bbaee47c4b478fbbc2680edec620e3fac3a1d2fd70f054844ed86c87a399a"
+    ],
+    "bytes": 62115,
+    "sha256": "a506b6cac5594df8cb84a05639f2a7c262f9c1dd190e19936e96dcb7fb486c9c",
+    "sourceColumns": [
+      0,
+      443,
+      890,
+      1330,
+      1774
+    ],
+    "frameFiles": [
+      "new-scenes/frames/C42-v4/000.png",
+      "new-scenes/frames/C42-v4/001.png",
+      "new-scenes/frames/C42-v4/002.png",
+      "new-scenes/frames/C42-v4/003.png",
+      "new-scenes/frames/C42-v4/004.png",
+      "new-scenes/frames/C42-v4/005.png",
+      "new-scenes/frames/C42-v4/006.png",
+      "new-scenes/frames/C42-v4/007.png"
+    ]
   }
 ]

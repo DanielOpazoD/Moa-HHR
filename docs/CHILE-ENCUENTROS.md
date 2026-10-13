@@ -38,3 +38,7 @@ La herramienta web devolvió `URL ... is not accessible via this tool` para ambo
 ## Cierre del alcance disponible
 
 Seis encuentros completados: C22, C23, C25, C27, C30 y C36; 80 poses y 649.707 bytes de atlas. C21 sigue pendiente del clip solicitado al usuario y no está generada. Segundo bloque: [QA](QA-chile-07.md) · [lámina](../evidence/chile-07-overview.png). Se conservan las cinco fuentes de C27: v1/v2 fallaron en tapas; v3 omitía la tapa pequeña en un cuadro; v4 corrigió continuidad; v5 añade separación segura entre celdas. C30 y C36 usan v1. No se inicia ninguna entrega posterior.
+
+## Nueva entrega directa C39–C48
+
+Autorizada por el usuario, en producción iterativa. Disponibles en este bloque: C39, C40 y C42 ([QA](QA-chile-08.md)). C41, C43–C48 pendientes de los próximos bloques. C21 continúa pendiente de vídeo.
