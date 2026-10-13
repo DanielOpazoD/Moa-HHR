@@ -1,6 +1,6 @@
 # Moa · encuentros ficticios con invitados
 
-Autorización limitada a C21, C22, C23, C25, C27, C30 y C36. Se mantienen esos IDs no consecutivos: no se producen las escenas intermedias ni las propuestas C39–C48. Cada escena combina Moa con una caricatura humana reconocible del invitado. Son encuentros inventados, sin aval, colaboración real, citas atribuidas, audio ni destellos.
+Primera autorización: C21, C22, C23, C25, C27, C30 y C36. Segunda autorización explícita: C39–C48. Se mantienen los IDs no consecutivos y no se producen las propuestas intermedias no aprobadas. Cada escena combina Moa con una caricatura humana reconocible del invitado. Son encuentros inventados, sin aval, colaboración real, citas atribuidas, audio ni destellos.
 
 ## Estado
 
@@ -37,8 +37,19 @@ La herramienta web devolvió `URL ... is not accessible via this tool` para ambo
 
 ## Cierre del alcance disponible
 
-Seis encuentros completados: C22, C23, C25, C27, C30 y C36; 80 poses y 649.707 bytes de atlas. C21 sigue pendiente del clip solicitado al usuario y no está generada. Segundo bloque: [QA](QA-chile-07.md) · [lámina](../evidence/chile-07-overview.png). Se conservan las cinco fuentes de C27: v1/v2 fallaron en tapas; v3 omitía la tapa pequeña en un cuadro; v4 corrigió continuidad; v5 añade separación segura entre celdas. C30 y C36 usan v1. No se inicia ninguna entrega posterior.
+Seis encuentros completados: C22, C23, C25, C27, C30 y C36; 80 poses y 649.707 bytes de atlas. C21 sigue pendiente del clip solicitado al usuario y no está generada. Segundo bloque: [QA](QA-chile-07.md) · [lámina](../evidence/chile-07-overview.png). Se conservan las cinco fuentes de C27: v1/v2 fallaron en tapas; v3 omitía la tapa pequeña en un cuadro; v4 corrigió continuidad; v5 añade separación segura entre celdas. C30 y C36 usan v1. Las entregas posteriores se autorizan por separado.
 
-## Nueva entrega directa C39–C48
+## Entrega directa C39–C48
 
-Autorizada por el usuario, en producción iterativa. Disponibles en este bloque: C39, C40 y C42 ([QA](QA-chile-08.md)). C41, C43–C48 pendientes de los próximos bloques. C21 continúa pendiente de vídeo.
+Diez escenas preparadas, 108 poses editables. C39/C40/C42: [QA VIII](QA-chile-08.md). C41/C43/C44/C45/C46/C47/C48: [QA IX](QA-chile-09.md). [Lámina del segundo bloque](../evidence/chile-09-overview.png). C21 continúa pendiente del vídeo solicitado, fuera de estas diez.
+
+- [C39 · El Profesor Rossa descubre a Moa](../new-scenes/scenes/C39.json): 12 poses.
+- [C40 · Moa y Guru Guru, alumnos distraídos](../new-scenes/scenes/C40.json): 12 poses.
+- [C41 · La llamada inesperada](../new-scenes/scenes/C41.json): 12 poses.
+- [C42 · Felipe Avello entrevista al más callado](../new-scenes/scenes/C42.json): 8 poses.
+- [C43 · El aplauso interminable](../new-scenes/scenes/C43.json): 12 poses.
+- [C44 · Los Jaivas invitan a Moa a la percusión](../new-scenes/scenes/C44.json): 8 poses.
+- [C45 · Moa y Los Jaivas levantan una cordillera](../new-scenes/scenes/C45.json): 8 poses.
+- [C46 · La Gaviota le queda grande](../new-scenes/scenes/C46.json): 12 poses.
+- [C47 · El Monstruo termina queriendo a Moa](../new-scenes/scenes/C47.json): 12 poses.
+- [C48 · Don Carter entrega una carta gigante](../new-scenes/scenes/C48.json): 12 poses.

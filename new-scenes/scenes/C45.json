@@ -1,0 +1,146 @@
+{
+  "order": 245,
+  "id": "C45",
+  "title": "C45 · Moa y Los Jaivas levantan una cordillera",
+  "category": "Cultura popular chilena",
+  "pack": "new",
+  "batch": "chile-09",
+  "chileOrder": 45,
+  "version": 1,
+  "status": "approved",
+  "frames": 8,
+  "durations": [
+    500,
+    500,
+    500,
+    500,
+    500,
+    500,
+    500,
+    500
+  ],
+  "cycles": 1,
+  "still": 7,
+  "source": "new-scenes/sources/C45-v1.png",
+  "src": "new-scenes/atlases/moa-C45-v1.png",
+  "generator": "Integrated image_gen, directly operated by primary assistant",
+  "reference": "references/moa-neutral.png",
+  "prompt": "new-scenes/prompts/C45.txt",
+  "context": "Encuentro ficticio. Los Jaivas: selección de tres integrantes. Sin aval o participación real. Representación abreviada de tres integrantes con teclado, batería y guitarra; no elenco completo ni formación actual certificada.",
+  "guest": "Los Jaivas: selección de tres integrantes",
+  "inspirationReferences": [
+    {
+      "url": "https://losjaivas.net/",
+      "supports": "Referencia visual consultada; escenas y acciones ficticias."
+    }
+  ],
+  "review": "Primary assistant inspected source and packed frame sheets. Local Chromium socket restriction; CI required.",
+  "rejectedSources": [],
+  "sourceColumns": [
+    0,
+    443,
+    887,
+    1330,
+    1774
+  ],
+  "packaging": {
+    "sourceSize": [
+      1774,
+      887
+    ],
+    "rowCuts": [
+      0,
+      473,
+      887
+    ],
+    "columnCuts": [
+      0,
+      443,
+      887,
+      1330,
+      1774
+    ],
+    "rowBaselineRegistration": [
+      [
+        0,
+        76
+      ],
+      [
+        0,
+        76
+      ],
+      [
+        0,
+        76
+      ],
+      [
+        0,
+        76
+      ],
+      [
+        0,
+        117
+      ],
+      [
+        0,
+        117
+      ],
+      [
+        0,
+        117
+      ],
+      [
+        0,
+        117
+      ]
+    ],
+    "unionCrop": [
+      12,
+      161,
+      442,
+      500
+    ],
+    "sharedScale": 0.4424778761061947,
+    "frameSize": [
+      288,
+      168
+    ],
+    "origin": [
+      0,
+      0
+    ],
+    "trajectory": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ]
+    ]
+  },
+  "frameFiles": [
+    "new-scenes/frames/C45-v1/000.png",
+    "new-scenes/frames/C45-v1/001.png",
+    "new-scenes/frames/C45-v1/002.png",
+    "new-scenes/frames/C45-v1/003.png",
+    "new-scenes/frames/C45-v1/004.png",
+    "new-scenes/frames/C45-v1/005.png",
+    "new-scenes/frames/C45-v1/006.png",
+    "new-scenes/frames/C45-v1/007.png"
+  ],
+  "sourceSha256": "6dd000727870537466327291970c701e3987887ad5f196e0a4f821b75e46cb11",
+  "frameSha256": [
+    "5753a4bd8610118f11169d9edc15d658e0fa4def490b43aa050726b37133d147",
+    "0ceb618133f71ba3bea5e7129ea1532b57e3f9b5f78def9967c39f5247f042e2",
+    "3d1886af4d74c8a19629835163d68407fa7ed080e5c0e8464e94b6e976caceb5",
+    "51008af1f9d0d3e52b1018a610d6058e3b1c94627245e3068a851d15c7ad558f",
+    "369835884d5f70d001c35451b68de9b6affa8de27e11424d8c502b2d79f0bb4b",
+    "5b6dbd49e3bc6bcdf786c4c27726b6866b20450eeb70ff33f6ccdada2a98c034",
+    "ee5945b6080cd0562844eb0a7b36cbb41f62d3e81738bd1fc3f3ecc9d3f379d0",
+    "af5659686a38e16fa736d6e2efbefc5614d827dbf47d92997c29f828513503e4"
+  ],
+  "bytes": 87533,
+  "sha256": "8284ba20d5209ead469fab2a6ff7580462b204ea3c58ef76416e47f0110fc4dc"
+}
