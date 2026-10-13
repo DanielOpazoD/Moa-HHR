@@ -1,0 +1,191 @@
+{
+  "order": 100,
+  "id": "C16",
+  "title": "C16 · Alfombra roja",
+  "category": "Cultura popular chilena",
+  "pack": "new",
+  "batch": "chile-04",
+  "chileOrder": 16,
+  "version": 1,
+  "status": "approved",
+  "frames": 12,
+  "durations": [
+    500,
+    350,
+    350,
+    350,
+    350,
+    350,
+    350,
+    350,
+    350,
+    350,
+    350,
+    600
+  ],
+  "cycles": 1,
+  "still": 11,
+  "source": "new-scenes/sources/C16-v1.png",
+  "src": "new-scenes/atlases/moa-C16-v1.png",
+  "generator": "Integrated image_gen",
+  "reference": "references/moa-neutral.png",
+  "prompt": "new-scenes/prompts/C16.txt",
+  "context": "Guiño ficticio a Pedro Pascal: Moa pasa de pose seria a sonrisa y saludo tímido. Vestuario propio, sin retrato humano ni aval.",
+  "inspirationReferences": [
+    {
+      "url": "https://sagaftra.foundation/programs/15322",
+      "supports": "Referencia pública de la persona homenajeada; la acción, el vestuario y Moa son creación ficticia solicitada por el usuario, no material aprobado por la persona."
+    }
+  ],
+  "review": "Every source and final pose reviewed on three backgrounds at real size and enlarged; temporal evidence accompanies block.",
+  "sourceColumns": [
+    0,
+    423,
+    824,
+    1225,
+    1642
+  ],
+  "packaging": {
+    "sourceSize": [
+      1642,
+      958
+    ],
+    "rowCuts": [
+      0,
+      340,
+      642,
+      958
+    ],
+    "columnCuts": [
+      0,
+      423,
+      824,
+      1225,
+      1642
+    ],
+    "rowBaselineRegistration": [
+      [
+        0,
+        36
+      ],
+      [
+        11,
+        36
+      ],
+      [
+        11,
+        36
+      ],
+      [
+        3,
+        36
+      ],
+      [
+        0,
+        71
+      ],
+      [
+        11,
+        71
+      ],
+      [
+        11,
+        71
+      ],
+      [
+        3,
+        71
+      ],
+      [
+        0,
+        80
+      ],
+      [
+        11,
+        80
+      ],
+      [
+        11,
+        80
+      ],
+      [
+        3,
+        80
+      ]
+    ],
+    "unionCrop": [
+      25,
+      78,
+      403,
+      367
+    ],
+    "sharedScale": 0.5190311418685121,
+    "frameSize": [
+      288,
+      168
+    ],
+    "origin": [
+      0,
+      0
+    ],
+    "trajectory": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ]
+    ]
+  },
+  "frameFiles": [
+    "new-scenes/frames/C16-v1/000.png",
+    "new-scenes/frames/C16-v1/001.png",
+    "new-scenes/frames/C16-v1/002.png",
+    "new-scenes/frames/C16-v1/003.png",
+    "new-scenes/frames/C16-v1/004.png",
+    "new-scenes/frames/C16-v1/005.png",
+    "new-scenes/frames/C16-v1/006.png",
+    "new-scenes/frames/C16-v1/007.png",
+    "new-scenes/frames/C16-v1/008.png",
+    "new-scenes/frames/C16-v1/009.png",
+    "new-scenes/frames/C16-v1/010.png",
+    "new-scenes/frames/C16-v1/011.png"
+  ],
+  "sourceSha256": "fd09b6dba04ad3123a593a1e118c32fae19eb0de8491720940a2057d2fcc13c1",
+  "frameSha256": [
+    "a1b533e5c33b1e237d52a5ecea07806449495269989e20b61ad0a958577fcbf6",
+    "b9ca28917e13a1025e3cd46c364a9904bbb784f6de623a78f50465442407382d",
+    "20ae8e1945b90e454c57e9060b9395522dddc8a55c8de473b7e0b7b3860ae36a",
+    "206c4350e694482effc37f19d5f60b1ff283a509e57b2e0b214e093589f26190",
+    "4ddf05964aacc2d6652e4904e7d288ba457ceb94d33af556a49145872b36a3bf",
+    "790a0e0f6f506f3d238d30335ba578c1f847b70a9a13172663fb9a1a4ef7c443",
+    "d0c711d27c4e80a89d5947c66fce4d5f41244fb6bb06e34e31cda18021282acd",
+    "83a01b309fe4643a04e913d3da4090fc8136b3f45b60e072018f915aeb0ae4bc",
+    "eb195ceec2494d3fe97b8d98dfb0f376f460b501a6a1ba2dadfd1ea96a8d080b",
+    "13f23fef55f697f6c23539ce87fbea9ea671a5287f81b8861563dbb93c1599e6",
+    "1993e5c68c311f7d137699c7843afb2db264839ebae53c2a224ee2beaf941410",
+    "76ca928816048f30ffe17a1bd9dfac68d0f1aa1136de3b15432ba3146ef54a17"
+  ],
+  "bytes": 75248,
+  "sha256": "bbb2842e7cfe27f59f28a1e677b7bc20a4f20b75b78423acb7f6db55da6d1a91",
+  "sourceBytes": 1301065,
+  "qa": {
+    "reviewer": "Codex visual and technical review; principal reviewer controls merge",
+    "date": "2026-10-13",
+    "frameByFrame": true,
+    "backgrounds": [
+      "light",
+      "dark",
+      "blue"
+    ],
+    "scales": [
+      1,
+      3
+    ],
+    "browserTemporalSamples": 12,
+    "evidence": "evidence/C16/",
+    "remainingLimitation": "Guiño ficticio a Pedro Pascal: Moa pasa de pose seria a sonrisa y saludo tímido. Vestuario propio, sin retrato humano ni aval. Raster key poses; Chromium verified, physical devices not tested."
+  }
+}

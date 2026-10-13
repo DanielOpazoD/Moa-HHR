@@ -1,6 +1,6 @@
-# Moa · doce viñetas chilenas
+# Moa · veinte viñetas chilenas
 
-Alcance aprobado: C01–C12, tres bloques de cuatro. No incluye C13–C20 ni figuras contemporáneas. Las propuestas pendientes no se cuentan como escenas terminadas. Personajes y situaciones ficticios, sin audio, logos o aval de artistas/marcas.
+Alcance aprobado: C01–C20, cinco bloques de cuatro. C13–C20 amplían la colección con homenajes ficticios a figuras contemporáneas, autorizados por el usuario. Las propuestas pendientes no se cuentan como escenas terminadas. Personajes y situaciones ficticios, sin audio, logos o aval de artistas/marcas.
 
 ## Referencias y adaptación
 
@@ -15,6 +15,8 @@ Maestro: PNG real de la guía aprobada, inspeccionado antes de generar. Fuentes 
 - C01–C04: revisión visual y técnica completada; [informe](QA-chile-01.md).
 - C05–C08: revisión visual y técnica completada; [informe](QA-chile-02.md).
 - C09–C12: revisión visual y técnica completada; [informe](QA-chile-03.md).
+- C13–C16: revisión visual y técnica completada; [informe](QA-chile-04.md).
+- C17–C20: pendientes de producción.
 
 ## Índice disponible
 
@@ -51,4 +53,17 @@ Adaptación C11: un cuarto de giro, dos baquetas, bombo dorsal y dos platillos c
 | [C11 · Chinchinero](../new-scenes/scenes/C11.json) | 12 | 4600 ms | 81056 B | [PNG](../new-scenes/frames/C11-v4/) |
 | [C12 · Quiltro protagonista](../new-scenes/scenes/C12.json) | 12 | 4600 ms | 89932 B | [PNG](../new-scenes/frames/C12-v1/) |
 
-Colección chilena completa: 12 escenas, 148 poses, 1.040.100 bytes de atlas activos; 21 fuentes PNG, incluidos descartes. Todos los atlas activos <300.000 bytes. Las fuentes y evidencias no se cargan en la galería selectiva.
+Primeros tres bloques: 12 escenas, 148 poses, 1.040.100 bytes de atlas activos; 21 fuentes PNG, incluidos descartes. Todos los atlas activos <300.000 bytes. Las fuentes y evidencias no se cargan en la galería selectiva.
+
+## Homenajes escénicos C13–C16
+
+Las ideas y gestos provienen del encargo del usuario. Moa es protagonista, con vestuario original y sin retrato humano, letras, música, marcas o afirmación de aval. Referencias públicas de contexto: [Mon Laferte](https://www.monlaferte.com/), [Paloma Mami en su sello](https://www.sonymusiclatin.com/artists/paloma-mami/) y [Pedro Pascal en SAG-AFTRA Foundation](https://sagaftra.foundation/programs/15322). No se copian sus fotografías, prendas, coreografías o actuaciones. C15 desarrolla el guiño solicitado a El Menor sin atribuir frases, resultados competitivos o conductas reales.
+
+C13 sostiene y luego abraza un solo micrófono; C14 alterna apoyos y pasos cortos sobre una franja de pasarela antes de posar; C15 separa pensamiento, idea y celebración del compañero; C16 cambia de pose seria a saludo tímido manteniendo alfombra, postes y cuerda. El movimiento se abrevia para 144×84 CSS, no representa una actuación real completa.
+
+| Escena | Poses | Duración | Atlas | Poses editables |
+|---|---:|---:|---:|---|
+| [C13 · La nota imaginaria](../new-scenes/scenes/C13.json) | 12 | 4600 ms | 61058 B | [PNG](../new-scenes/frames/C13-v1/) |
+| [C14 · Pasarela urbana](../new-scenes/scenes/C14.json) | 12 | 4600 ms | 58736 B | [PNG](../new-scenes/frames/C14-v1/) |
+| [C15 · Idea de freestyle](../new-scenes/scenes/C15.json) | 12 | 4600 ms | 89331 B | [PNG](../new-scenes/frames/C15-v1/) |
+| [C16 · Alfombra roja](../new-scenes/scenes/C16.json) | 12 | 4600 ms | 75248 B | [PNG](../new-scenes/frames/C16-v1/) |

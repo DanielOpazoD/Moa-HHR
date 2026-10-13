@@ -1,0 +1,191 @@
+{
+  "order": 97,
+  "id": "C13",
+  "title": "C13 · La nota imaginaria",
+  "category": "Cultura popular chilena",
+  "pack": "new",
+  "batch": "chile-04",
+  "chileOrder": 13,
+  "version": 1,
+  "status": "approved",
+  "frames": 12,
+  "durations": [
+    500,
+    350,
+    350,
+    350,
+    350,
+    350,
+    350,
+    350,
+    350,
+    350,
+    350,
+    600
+  ],
+  "cycles": 1,
+  "still": 11,
+  "source": "new-scenes/sources/C13-v1.png",
+  "src": "new-scenes/atlases/moa-C13-v1.png",
+  "generator": "Integrated image_gen",
+  "reference": "references/moa-neutral.png",
+  "prompt": "new-scenes/prompts/C13.txt",
+  "context": "Homenaje ficticio a la intensidad escénica de Mon Laferte: Moa interpreta una nota imaginaria y abraza su micrófono. Sin audio, letras ni aval.",
+  "inspirationReferences": [
+    {
+      "url": "https://www.monlaferte.com/",
+      "supports": "Referencia pública de la persona homenajeada; la acción, el vestuario y Moa son creación ficticia solicitada por el usuario, no material aprobado por la persona."
+    }
+  ],
+  "review": "Every source and final pose reviewed on three backgrounds at real size and enlarged; temporal evidence accompanies block.",
+  "sourceColumns": [
+    0,
+    442,
+    850,
+    1266,
+    1642
+  ],
+  "packaging": {
+    "sourceSize": [
+      1642,
+      958
+    ],
+    "rowCuts": [
+      0,
+      336,
+      640,
+      958
+    ],
+    "columnCuts": [
+      0,
+      442,
+      850,
+      1266,
+      1642
+    ],
+    "rowBaselineRegistration": [
+      [
+        0,
+        33
+      ],
+      [
+        17,
+        33
+      ],
+      [
+        13,
+        33
+      ],
+      [
+        33,
+        33
+      ],
+      [
+        0,
+        66
+      ],
+      [
+        17,
+        66
+      ],
+      [
+        13,
+        66
+      ],
+      [
+        33,
+        66
+      ],
+      [
+        0,
+        64
+      ],
+      [
+        17,
+        64
+      ],
+      [
+        13,
+        64
+      ],
+      [
+        33,
+        64
+      ]
+    ],
+    "unionCrop": [
+      64,
+      56,
+      395,
+      364
+    ],
+    "sharedScale": 0.487012987012987,
+    "frameSize": [
+      288,
+      168
+    ],
+    "origin": [
+      0,
+      0
+    ],
+    "trajectory": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ]
+    ]
+  },
+  "frameFiles": [
+    "new-scenes/frames/C13-v1/000.png",
+    "new-scenes/frames/C13-v1/001.png",
+    "new-scenes/frames/C13-v1/002.png",
+    "new-scenes/frames/C13-v1/003.png",
+    "new-scenes/frames/C13-v1/004.png",
+    "new-scenes/frames/C13-v1/005.png",
+    "new-scenes/frames/C13-v1/006.png",
+    "new-scenes/frames/C13-v1/007.png",
+    "new-scenes/frames/C13-v1/008.png",
+    "new-scenes/frames/C13-v1/009.png",
+    "new-scenes/frames/C13-v1/010.png",
+    "new-scenes/frames/C13-v1/011.png"
+  ],
+  "sourceSha256": "d41c6ebe499b323b9a28cf1328dd1421c173f00ed165a3c1aec2e5e3168a9a81",
+  "frameSha256": [
+    "bc4612f4065d069169d11cb082dc78e2aafd3af7c50b4b980973edfc07bf64e4",
+    "6b32fa8193ce0ea6763d09042aa5d65d621f61ee01221da5c0f6371dec507eab",
+    "a46958ff766b3e7396f31fc9dfa860c45547744ed840b0b2c9495eb2e95716ac",
+    "ec17cca69c35db4825f953e15413b1d5781ed3ce87de9c7076ec754c0be4239b",
+    "dc52fddd8915aca59f4e4a820fd60f9f53fa2f8d6aee4829378aba96bbb9cbc8",
+    "5b2904106f60ee48a8a17431b72b7b23648934c4940caf4b1f73092cee32838e",
+    "f288a51b337e764bd43f72dc98e616914adaa6f6dcbeecd2b245d4b8bdec3737",
+    "66dc630c60e6c081df1ea2bd0a18d4a3aac770542ffcaa8da7178dba4518d21e",
+    "aac4528df2fdd84381d2aea179210dcdb26ef021ff14646fec022e89432ac27c",
+    "c815ad0ef30fd6af9ebe1bdfc869d89c682b4fbca5be6c8b6de0712b78ff9988",
+    "d6859bf32bbc8f6db65f7160a527be0cf55bbd3e52b096848ee41498d7c7f622",
+    "b91db2d540d0eb4f03a20a5c67cbe477a6fd2951ed33759a909f0708812e7415"
+  ],
+  "bytes": 61058,
+  "sha256": "bf0b0699d46f822e0a719c26401411207cfab3702179513a6ff100a534d01aee",
+  "sourceBytes": 1196347,
+  "qa": {
+    "reviewer": "Codex visual and technical review; principal reviewer controls merge",
+    "date": "2026-10-13",
+    "frameByFrame": true,
+    "backgrounds": [
+      "light",
+      "dark",
+      "blue"
+    ],
+    "scales": [
+      1,
+      3
+    ],
+    "browserTemporalSamples": 12,
+    "evidence": "evidence/C13/",
+    "remainingLimitation": "Homenaje ficticio a la intensidad escénica de Mon Laferte: Moa interpreta una nota imaginaria y abraza su micrófono. Sin audio, letras ni aval. Raster key poses; Chromium verified, physical devices not tested."
+  }
+}

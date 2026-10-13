@@ -1,6 +1,6 @@
 # Moa · biblioteca de movimiento
 
-Archivo autónomo de los **18 atlas originales v2** y **96 escenas nuevas**, con fuentes y poses raster editables. Los originales se conservan byte a byte; las escenas nuevas viven en otro paquete. Sin datos clínicos, servicios ni dependencias del hospital.
+Archivo autónomo de los **18 atlas originales v2** y **100 escenas nuevas**, con fuentes y poses raster editables. Los originales se conservan byte a byte; las escenas nuevas viven en otro paquete. Sin datos clínicos, servicios ni dependencias del hospital.
 
 ## Abrir la galería
 
@@ -13,7 +13,7 @@ Abra [index.html](index.html) a través del servidor. Busque por nombre, filtre 
 
 ## Índices
 
-- [Doce viñetas chilenas: referencias y revisión](docs/CHILE.md)
+- [Veinte viñetas chilenas: referencias y revisión](docs/CHILE.md)
 
 - [Veinte actuaciones de cultura popular mundial](docs/WORLD.md)
 
