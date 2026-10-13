@@ -1,0 +1,137 @@
+{
+  "order": 403,
+  "id": "B03",
+  "title": "B03 · Café con remolino",
+  "category": "Moa aventuras",
+  "pack": "new",
+  "batch": "adventures-01",
+  "version": 1,
+  "status": "approved",
+  "frames": 8,
+  "durations": [
+    500,
+    500,
+    500,
+    500,
+    500,
+    500,
+    500,
+    500
+  ],
+  "cycles": 1,
+  "still": 7,
+  "source": "new-scenes/sources/B03-v1.png",
+  "src": "new-scenes/atlases/moa-B03-v1.png",
+  "generator": "Integrated image_gen directly operated by primary assistant",
+  "reference": "references/moa-neutral.png",
+  "prompt": "new-scenes/prompts/B03.txt",
+  "context": "Viñeta ficticia de humor y acompañamiento. No es una instrucción clínica ni representa operaciones reales.",
+  "review": "Primary assistant inspected source and packed sequences on light background; alpha and three-background previews validated. GitHub CI required before merge; local browser socket restriction.",
+  "sourceColumns": [
+    0,
+    384,
+    768,
+    1152,
+    1536
+  ],
+  "packaging": {
+    "sourceSize": [
+      1536,
+      1024
+    ],
+    "rowCuts": [
+      0,
+      535,
+      1024
+    ],
+    "columnCuts": [
+      0,
+      384,
+      768,
+      1152,
+      1536
+    ],
+    "rowBaselineRegistration": [
+      [
+        0,
+        78
+      ],
+      [
+        0,
+        78
+      ],
+      [
+        0,
+        78
+      ],
+      [
+        0,
+        78
+      ],
+      [
+        0,
+        134
+      ],
+      [
+        0,
+        134
+      ],
+      [
+        0,
+        134
+      ],
+      [
+        0,
+        134
+      ]
+    ],
+    "unionCrop": [
+      25,
+      188,
+      362,
+      560
+    ],
+    "sharedScale": 0.4032258064516129,
+    "frameSize": [
+      288,
+      168
+    ],
+    "origin": [
+      0,
+      0
+    ],
+    "trajectory": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ]
+    ]
+  },
+  "frameFiles": [
+    "new-scenes/frames/B03-v1/000.png",
+    "new-scenes/frames/B03-v1/001.png",
+    "new-scenes/frames/B03-v1/002.png",
+    "new-scenes/frames/B03-v1/003.png",
+    "new-scenes/frames/B03-v1/004.png",
+    "new-scenes/frames/B03-v1/005.png",
+    "new-scenes/frames/B03-v1/006.png",
+    "new-scenes/frames/B03-v1/007.png"
+  ],
+  "sourceSha256": "d316a6856740c144f8fc2bd486da9dd9479ab601aadd7ab5e0f7fbc12edd996b",
+  "frameSha256": [
+    "d70dc1d1a1bcedd9e60f5a1bfd549537f22bd038f621d25affff09ec9d3e9d48",
+    "8f48e3abcb39182556de0da5939427f7748ac3e2c3cbd7fec7fe1d3da76421b0",
+    "2fa58474bae583486af286992894e1220817afa102f9ca088ee0aa55576900ce",
+    "36c95a5323a82b91fb343d35e3433238012cd4e5c663ec3a3bd09eb50bef09c1",
+    "3a10f9cd4cc9df0b20b2ab58a3d07481408003c6125a31dc09f51c1d46d7e24d",
+    "b9ad789260ef38352485cb3e286a20bef3f11daa715b56dad1c199fe51134301",
+    "3b7de88fdc6f32f9f6d0f247d7a0ca17ab7573bcddc8cad9bc04e68d6e6c1019",
+    "ffa31f830355d63bb7537aa59655f1dc439fc134f5291f72df1517c2523c6135"
+  ],
+  "bytes": 38680,
+  "sha256": "6605ed662f82103e95ac6bf275c02bec7930a59920eff43dbd3ec9ebc1121caa"
+}

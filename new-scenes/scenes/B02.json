@@ -1,0 +1,137 @@
+{
+  "order": 402,
+  "id": "B02",
+  "title": "B02 · El calcetín fugitivo",
+  "category": "Moa aventuras",
+  "pack": "new",
+  "batch": "adventures-01",
+  "version": 1,
+  "status": "approved",
+  "frames": 8,
+  "durations": [
+    500,
+    500,
+    500,
+    500,
+    500,
+    500,
+    500,
+    500
+  ],
+  "cycles": 1,
+  "still": 7,
+  "source": "new-scenes/sources/B02-v1.png",
+  "src": "new-scenes/atlases/moa-B02-v1.png",
+  "generator": "Integrated image_gen directly operated by primary assistant",
+  "reference": "references/moa-neutral.png",
+  "prompt": "new-scenes/prompts/B02.txt",
+  "context": "Viñeta ficticia de humor y acompañamiento. No es una instrucción clínica ni representa operaciones reales.",
+  "review": "Primary assistant inspected source and packed sequences on light background; alpha and three-background previews validated. GitHub CI required before merge; local browser socket restriction.",
+  "sourceColumns": [
+    0,
+    384,
+    768,
+    1152,
+    1536
+  ],
+  "packaging": {
+    "sourceSize": [
+      1536,
+      1024
+    ],
+    "rowCuts": [
+      0,
+      520,
+      1024
+    ],
+    "columnCuts": [
+      0,
+      384,
+      768,
+      1152,
+      1536
+    ],
+    "rowBaselineRegistration": [
+      [
+        0,
+        89
+      ],
+      [
+        0,
+        89
+      ],
+      [
+        0,
+        89
+      ],
+      [
+        0,
+        89
+      ],
+      [
+        0,
+        138
+      ],
+      [
+        0,
+        138
+      ],
+      [
+        0,
+        138
+      ],
+      [
+        0,
+        138
+      ]
+    ],
+    "unionCrop": [
+      28,
+      203,
+      368,
+      546
+    ],
+    "sharedScale": 0.43731778425655976,
+    "frameSize": [
+      288,
+      168
+    ],
+    "origin": [
+      0,
+      0
+    ],
+    "trajectory": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ]
+    ]
+  },
+  "frameFiles": [
+    "new-scenes/frames/B02-v1/000.png",
+    "new-scenes/frames/B02-v1/001.png",
+    "new-scenes/frames/B02-v1/002.png",
+    "new-scenes/frames/B02-v1/003.png",
+    "new-scenes/frames/B02-v1/004.png",
+    "new-scenes/frames/B02-v1/005.png",
+    "new-scenes/frames/B02-v1/006.png",
+    "new-scenes/frames/B02-v1/007.png"
+  ],
+  "sourceSha256": "3194651aa3e3724f4b5a459e1da5f96f2bbcce4f95b1e645d50ff7485032d5da",
+  "frameSha256": [
+    "fde1cff264beed276fe4fca72fb1e194fed6aafdb20631b3bd0307bf5c437776",
+    "7f76b3c93f6bc4dcecd87cb88f33f0835b5eebc26367d3af8c950dfda0d559b6",
+    "16b17b75cffaad2873e548b52684414cb9dd1d9e0c7654b12445ed182c7f2c33",
+    "a64d48f88ea1d70482f7255255c3c00736e589e3c4c2ba7e659f0ed1ba23e371",
+    "c115d29782812d61cf2bd076876ff4f8ba954379489ea21a054bd2609c7fb0ec",
+    "94afe5ce545b2357e3797323dbea84c6519ce1846c656096d7d3b53d61097fd0",
+    "ddbb37bc8389524b9dd2ebe0de051115b81141deff46b4737b5bf6155a58c7a6",
+    "e31dd220d28c2b8e641da218ba51361541698e2c4008b331dc5f9a575862816f"
+  ],
+  "bytes": 44679,
+  "sha256": "3662bd19cc60451e1c33acf1e2d8c9ae9631b56bc21d1af1521492b0c8416f07"
+}
