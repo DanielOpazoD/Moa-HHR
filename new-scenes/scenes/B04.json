@@ -1,0 +1,137 @@
+{
+  "order": 404,
+  "id": "B04",
+  "title": "B04 · La planta impaciente",
+  "category": "Moa aventuras",
+  "pack": "new",
+  "batch": "adventures-01",
+  "version": 1,
+  "status": "approved",
+  "frames": 8,
+  "durations": [
+    500,
+    500,
+    500,
+    500,
+    500,
+    500,
+    500,
+    500
+  ],
+  "cycles": 1,
+  "still": 7,
+  "source": "new-scenes/sources/B04-v1.png",
+  "src": "new-scenes/atlases/moa-B04-v1.png",
+  "generator": "Integrated image_gen directly operated by primary assistant",
+  "reference": "references/moa-neutral.png",
+  "prompt": "new-scenes/prompts/B04.txt",
+  "context": "Viñeta ficticia de humor y acompañamiento. No es una instrucción clínica ni representa operaciones reales.",
+  "review": "Primary assistant inspected source and packed sequences on light background; alpha and three-background previews validated. GitHub CI required before merge; local browser socket restriction.",
+  "sourceColumns": [
+    0,
+    450,
+    887,
+    1330,
+    1774
+  ],
+  "packaging": {
+    "sourceSize": [
+      1774,
+      887
+    ],
+    "rowCuts": [
+      0,
+      508,
+      887
+    ],
+    "columnCuts": [
+      0,
+      450,
+      887,
+      1330,
+      1774
+    ],
+    "rowBaselineRegistration": [
+      [
+        0,
+        71
+      ],
+      [
+        6,
+        71
+      ],
+      [
+        3,
+        71
+      ],
+      [
+        3,
+        71
+      ],
+      [
+        0,
+        185
+      ],
+      [
+        6,
+        185
+      ],
+      [
+        3,
+        185
+      ],
+      [
+        3,
+        185
+      ]
+    ],
+    "unionCrop": [
+      44,
+      151,
+      450,
+      533
+    ],
+    "sharedScale": 0.39267015706806285,
+    "frameSize": [
+      288,
+      168
+    ],
+    "origin": [
+      0,
+      0
+    ],
+    "trajectory": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ]
+    ]
+  },
+  "frameFiles": [
+    "new-scenes/frames/B04-v1/000.png",
+    "new-scenes/frames/B04-v1/001.png",
+    "new-scenes/frames/B04-v1/002.png",
+    "new-scenes/frames/B04-v1/003.png",
+    "new-scenes/frames/B04-v1/004.png",
+    "new-scenes/frames/B04-v1/005.png",
+    "new-scenes/frames/B04-v1/006.png",
+    "new-scenes/frames/B04-v1/007.png"
+  ],
+  "sourceSha256": "8e2648b4e47946649ba72199dba460ef8f3998431440b3fae1d98ed4ffa38aba",
+  "frameSha256": [
+    "2e82c115f16e3dc701bd21195c2fde7ab5a8b9e31f620b6ce64cb4ec2da3a026",
+    "f4b3137f216a12a08bef033f57c668f173f3446d291482c90099435610feaaa6",
+    "1b2811afd7189ab020fdf0dd60f16c4cd540ba5f13811c2b678dcaf6ea9d6bbe",
+    "96ab392cacf1b0421211df5261a8706d57b4f3a527a0e1d90e0229caae191360",
+    "a779dda85389185e540d409b17aa7e38395fbde0f440015ab9a472c3a189b8f7",
+    "da0ad00f9146b2d55a1e773f45eae1a517c85cbda8cca94be8e2dd0d0b57d64f",
+    "8ca289066c6e229ce82ea4952abe2da33b842e6090427d28fb49a22ddbedcc50",
+    "24682dcc66628c3e19351da13318878b06581f7376f58b55e24e9209473993a5"
+  ],
+  "bytes": 37556,
+  "sha256": "49e695b350aa3c4ac791c21b8750acea94e459b6dc23550d370168a42e7da0db"
+}
