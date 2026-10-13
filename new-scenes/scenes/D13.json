@@ -1,0 +1,167 @@
+{
+  "id": "D13",
+  "order": 513,
+  "title": "D13 · Myriam Hernández y el ventilador dramático",
+  "category": "Chile: memes y encuentros",
+  "pack": "new",
+  "batch": "chile-remix-03",
+  "version": 1,
+  "status": "approved",
+  "frames": 12,
+  "durations": [
+    450,
+    450,
+    450,
+    450,
+    450,
+    450,
+    450,
+    450,
+    450,
+    450,
+    500,
+    900
+  ],
+  "cycles": 1,
+  "still": 11,
+  "source": "new-scenes/sources/D13-v1.png",
+  "src": "new-scenes/atlases/moa-D13-v1.png",
+  "generator": "Integrated image_gen directly operated by primary assistant",
+  "reference": "references/moa-neutral.png",
+  "prompt": "new-scenes/prompts/D13.txt",
+  "context": "Viñeta ficticia de humor. Los encuentros son homenajes artísticos, sin colaboración o respaldo de las personas representadas. Sin audio ni letras de canciones.",
+  "review": "Primary assistant visually reviews source and delivered frames. Full CI required before merge.",
+  "sourceGridColumns": 4,
+  "sourceColumns": [
+    0,
+    399,
+    779,
+    1164,
+    1536
+  ],
+  "packaging": {
+    "sourceSize": [
+      1536,
+      1024
+    ],
+    "rowCuts": [
+      0,
+      345,
+      680,
+      1024
+    ],
+    "columnCuts": [
+      0,
+      399,
+      779,
+      1164,
+      1536
+    ],
+    "rowBaselineRegistration": [
+      [
+        0,
+        46
+      ],
+      [
+        9,
+        46
+      ],
+      [
+        7,
+        46
+      ],
+      [
+        13,
+        46
+      ],
+      [
+        0,
+        54
+      ],
+      [
+        9,
+        54
+      ],
+      [
+        7,
+        54
+      ],
+      [
+        13,
+        54
+      ],
+      [
+        0,
+        62
+      ],
+      [
+        9,
+        62
+      ],
+      [
+        7,
+        62
+      ],
+      [
+        13,
+        62
+      ]
+    ],
+    "unionCrop": [
+      11,
+      68,
+      399,
+      371
+    ],
+    "sharedScale": 0.49504950495049505,
+    "frameSize": [
+      288,
+      168
+    ],
+    "origin": [
+      0,
+      0
+    ],
+    "trajectory": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ]
+    ]
+  },
+  "frameFiles": [
+    "new-scenes/frames/D13-v1/000.png",
+    "new-scenes/frames/D13-v1/001.png",
+    "new-scenes/frames/D13-v1/002.png",
+    "new-scenes/frames/D13-v1/003.png",
+    "new-scenes/frames/D13-v1/004.png",
+    "new-scenes/frames/D13-v1/005.png",
+    "new-scenes/frames/D13-v1/006.png",
+    "new-scenes/frames/D13-v1/007.png",
+    "new-scenes/frames/D13-v1/008.png",
+    "new-scenes/frames/D13-v1/009.png",
+    "new-scenes/frames/D13-v1/010.png",
+    "new-scenes/frames/D13-v1/011.png"
+  ],
+  "sourceSha256": "20017174882b091d111bbf9b42c7bb03d9c60db725011434d5928997e0910486",
+  "frameSha256": [
+    "adf8f55076b91995a053fc5e2503213d0a73ae7681b598e5cda0ff33fcd899dd",
+    "db2e67178e7868a479c77e8e1ec90768d072d91bc49b49b2917fc2b5c9c25b3b",
+    "6863740e97afcba6b046f163bc6b8574d2979919d30bcab3296528ce7d6cd548",
+    "0ba013e8b50cf55c22892ad30527f5f14a85ac82f5062ca0ba691ab3f5c0cbba",
+    "44a04231ceca72a70b47dbc7bcdfc5986e25a080e0740f2a0452f25b818bcd80",
+    "7ab186006029e1e94f962f1605f722f004e531e3dd5fc6808a1cf2093e661ccf",
+    "2d2951e4c30ef395587311c6d72a3ac22329aae9519f08a3013149b62216ccf5",
+    "40a5df7fbdf5fe64ca3a86dc03ae72a1d52a9bea8b2eb29a50f04c98a6115065",
+    "6575240b2d6b514d3b7d779f7a91b419367525f40632c8f7fc2197ff90e52309",
+    "059e0a9c81a7ea9dcefccfbbdb04fd5878c597acf8d2781f84427859438b004f",
+    "be3ab0b7eddfde5e42bd3b55ead61dbfe7b4f22bfc90c8f8897e82c69dd25b8e",
+    "597395fc20625b421d6b786921e18a1d993776ef1537898b1ef4807c1a976c16"
+  ],
+  "bytes": 109686,
+  "sha256": "22d4233006ee689e17cfd9bfb69d4157b5434e8b58d0923d706200b6ae3b5cc6"
+}

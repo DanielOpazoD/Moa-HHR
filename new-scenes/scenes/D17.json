@@ -1,0 +1,154 @@
+{
+  "id": "D17",
+  "order": 517,
+  "title": "D17 · Francisca Valenzuela y el piano viajero",
+  "category": "Chile: memes y encuentros",
+  "pack": "new",
+  "batch": "chile-remix-03",
+  "version": 3,
+  "status": "approved",
+  "frames": 10,
+  "durations": [
+    450,
+    450,
+    450,
+    450,
+    450,
+    450,
+    450,
+    450,
+    600,
+    900
+  ],
+  "cycles": 1,
+  "still": 9,
+  "source": "new-scenes/sources/D17-v3.png",
+  "src": "new-scenes/atlases/moa-D17-v3.png",
+  "generator": "Integrated image_gen directly operated by primary assistant",
+  "reference": "references/moa-neutral.png",
+  "prompt": "new-scenes/prompts/D17.txt",
+  "context": "Viñeta ficticia de humor. Los encuentros son homenajes artísticos, sin colaboración o respaldo de las personas representadas. Sin audio ni letras de canciones.",
+  "review": "Primary assistant visually reviews source and delivered frames. Full CI required before merge.",
+  "sourceGridColumns": 2,
+  "discardedSources": [
+    "new-scenes/sources/D17-v1.png"
+  ],
+  "sourceColumns": [
+    0,
+    668,
+    1290
+  ],
+  "packaging": {
+    "sourceSize": [
+      1290,
+      1219
+    ],
+    "rowCuts": [
+      0,
+      268,
+      516,
+      753,
+      988,
+      1219
+    ],
+    "columnCuts": [
+      0,
+      668,
+      1290
+    ],
+    "rowBaselineRegistration": [
+      [
+        0,
+        36
+      ],
+      [
+        23,
+        36
+      ],
+      [
+        0,
+        49
+      ],
+      [
+        23,
+        49
+      ],
+      [
+        0,
+        64
+      ],
+      [
+        23,
+        64
+      ],
+      [
+        0,
+        59
+      ],
+      [
+        23,
+        59
+      ],
+      [
+        0,
+        73
+      ],
+      [
+        23,
+        73
+      ]
+    ],
+    "unionCrop": [
+      76,
+      61,
+      618,
+      294
+    ],
+    "sharedScale": 0.42066420664206644,
+    "frameSize": [
+      288,
+      168
+    ],
+    "origin": [
+      0,
+      0
+    ],
+    "trajectory": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ]
+    ]
+  },
+  "frameFiles": [
+    "new-scenes/frames/D17-v3/000.png",
+    "new-scenes/frames/D17-v3/001.png",
+    "new-scenes/frames/D17-v3/002.png",
+    "new-scenes/frames/D17-v3/003.png",
+    "new-scenes/frames/D17-v3/004.png",
+    "new-scenes/frames/D17-v3/005.png",
+    "new-scenes/frames/D17-v3/006.png",
+    "new-scenes/frames/D17-v3/007.png",
+    "new-scenes/frames/D17-v3/008.png",
+    "new-scenes/frames/D17-v3/009.png"
+  ],
+  "sourceSha256": "03028e05e7882ecef39e5671cf7c88f14f0331a39a604758e52681d73c6a48c4",
+  "frameSha256": [
+    "c255ef04210468c4c35b5986318306beb73a622c99e3ebabc5300af397a59311",
+    "b6f5a28524a77a817169b9a8fc635e5439023adea03797488e556518725f1c0a",
+    "d41457ad282dad5501f9a50298b555963968319ef7d52f1429e95f7da988a2cc",
+    "d3f2abcd3ceeb123e1bed3ef59f08d26d78cac31938c686a0bdc56387395fd38",
+    "89efb68dcb193f02b7d718615567a55442ec1e52d7eaf1757b8b03920b83a6dd",
+    "bc29d2d129bb823cbf9c6aa73c1d6df85ec81ed6e489e62854bac680023e23e5",
+    "42f787bc3256cc246e5183e7668ff1098be5ea1aaf7761ea9114c353bd245528",
+    "4b291f1fd6f15b7d094e5583897901b6b070f0740368df9c2ebe6200c420b9fa",
+    "afab35c3247493ab8b2847da62b4ae3b6042dfa3346b8d6ee569c368d42771f3",
+    "d548168e4dc9bad89bfddf0bf699c3db17f5c51b3da24cbd2595b80500e8e9a4"
+  ],
+  "bytes": 42987,
+  "sha256": "3ee3a230ad769b49437597fbb0da3d7e11592674f3721ea3da976041bfe1e8a1"
+}

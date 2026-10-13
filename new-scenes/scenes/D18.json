@@ -1,0 +1,167 @@
+{
+  "id": "D18",
+  "order": 518,
+  "title": "D18 · Denise Rosenthal y el ensayo espejo",
+  "category": "Chile: memes y encuentros",
+  "pack": "new",
+  "batch": "chile-remix-03",
+  "version": 1,
+  "status": "approved",
+  "frames": 12,
+  "durations": [
+    450,
+    450,
+    450,
+    450,
+    450,
+    450,
+    450,
+    450,
+    450,
+    450,
+    500,
+    900
+  ],
+  "cycles": 1,
+  "still": 11,
+  "source": "new-scenes/sources/D18-v1.png",
+  "src": "new-scenes/atlases/moa-D18-v1.png",
+  "generator": "Integrated image_gen directly operated by primary assistant",
+  "reference": "references/moa-neutral.png",
+  "prompt": "new-scenes/prompts/D18.txt",
+  "context": "Viñeta ficticia de humor. Los encuentros son homenajes artísticos, sin colaboración o respaldo de las personas representadas. Sin audio ni letras de canciones.",
+  "review": "Primary assistant visually reviews source and delivered frames. Full CI required before merge.",
+  "sourceGridColumns": 4,
+  "sourceColumns": [
+    0,
+    362,
+    711,
+    1109,
+    1448
+  ],
+  "packaging": {
+    "sourceSize": [
+      1448,
+      1086
+    ],
+    "rowCuts": [
+      0,
+      387,
+      741,
+      1086
+    ],
+    "columnCuts": [
+      0,
+      362,
+      711,
+      1109,
+      1448
+    ],
+    "rowBaselineRegistration": [
+      [
+        18,
+        68
+      ],
+      [
+        24,
+        68
+      ],
+      [
+        0,
+        68
+      ],
+      [
+        29,
+        68
+      ],
+      [
+        18,
+        92
+      ],
+      [
+        24,
+        92
+      ],
+      [
+        0,
+        92
+      ],
+      [
+        29,
+        92
+      ],
+      [
+        18,
+        101
+      ],
+      [
+        24,
+        101
+      ],
+      [
+        0,
+        101
+      ],
+      [
+        29,
+        101
+      ]
+    ],
+    "unionCrop": [
+      26,
+      135,
+      393,
+      413
+    ],
+    "sharedScale": 0.539568345323741,
+    "frameSize": [
+      288,
+      168
+    ],
+    "origin": [
+      0,
+      0
+    ],
+    "trajectory": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ]
+    ]
+  },
+  "frameFiles": [
+    "new-scenes/frames/D18-v1/000.png",
+    "new-scenes/frames/D18-v1/001.png",
+    "new-scenes/frames/D18-v1/002.png",
+    "new-scenes/frames/D18-v1/003.png",
+    "new-scenes/frames/D18-v1/004.png",
+    "new-scenes/frames/D18-v1/005.png",
+    "new-scenes/frames/D18-v1/006.png",
+    "new-scenes/frames/D18-v1/007.png",
+    "new-scenes/frames/D18-v1/008.png",
+    "new-scenes/frames/D18-v1/009.png",
+    "new-scenes/frames/D18-v1/010.png",
+    "new-scenes/frames/D18-v1/011.png"
+  ],
+  "sourceSha256": "4083cf9d290dfa8157047054a2ac8fc071d774e2ab3a5e6f6c6a039682f5737c",
+  "frameSha256": [
+    "044ac30d73e4311c7a5027f479522b641c65702f71c29c72a60507d88fb65b4c",
+    "0b2ecdf0fddbd7a9acff1efeaeeefeea04e4d2ae1ac72a723017ad4b1d5641cc",
+    "f725787bd82d20b29442225fe923645e843646d0acbd66b29f129c8f9359a220",
+    "f09842c27f74d21d4edf1aed2c2118187b5e00f21ee1ff06ea58e65c6750253f",
+    "506eb3f6e3a7f453a50762ffe12434a3f736b7580e3f88d1d8f303712aa3d5f5",
+    "6a35ba08a3c2fb1f855fcc3285791675b080b6fa0f109c4211e053f28121558e",
+    "ee7a7b91a9b828c83fdc7b2e5e7a3dcb4de4abc686247c2ea22a120d33a90af4",
+    "ab2d17b3069f87894e1a5854c9d71f8acc792da1c0d6e63bb36d9b16f54ff21a",
+    "0e23c5d5e7cbc986af4cfa838a7a2f8581732e3f3b13cb919ad56b3ea81b0f1e",
+    "77df13968b432cbc383157325b1297adc82aea4a3a46de41652b7e76f9f5394e",
+    "acee68424d8b0ce0854bd77f4535584f3241dba5f8c42019c4ee1e7dd82e114b",
+    "8dca5f0364fd3a68db0050e8b6eed2374e09505bd2ddde93fd88cd5c58f4aa5f"
+  ],
+  "bytes": 99350,
+  "sha256": "c304641681f0e9efe8cf63f72db90747a4313f5b6c1291518fe438b52456fb3f"
+}
