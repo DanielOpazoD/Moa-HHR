@@ -1,0 +1,169 @@
+{
+  "order": 425,
+  "id": "B25",
+  "title": "B25 · La bata que no necesita",
+  "category": "Moa aventuras",
+  "pack": "new",
+  "batch": "adventures-03",
+  "version": 2,
+  "status": "approved",
+  "frames": 12,
+  "durations": [
+    500,
+    500,
+    500,
+    500,
+    500,
+    500,
+    500,
+    500,
+    500,
+    500,
+    500,
+    500
+  ],
+  "cycles": 1,
+  "still": 11,
+  "source": "new-scenes/sources/B25-v2.png",
+  "src": "new-scenes/atlases/moa-B25-v2.png",
+  "generator": "Integrated image_gen directly operated by primary assistant",
+  "reference": "references/moa-neutral.png",
+  "prompt": "new-scenes/prompts/B25.txt",
+  "context": "Viñeta ficticia de humor y acompañamiento. No es una instrucción clínica ni representa operaciones reales.",
+  "review": "Primary assistant inspected source and packed sequences on light background; alpha and three-background previews validated. GitHub CI required before merge; local browser socket restriction.",
+  "sourceColumns": [
+    0,
+    362,
+    724,
+    1086,
+    1448
+  ],
+  "rejectedSources": [
+    "new-scenes/sources/B25-v1.png"
+  ],
+  "packaging": {
+    "sourceSize": [
+      1448,
+      1086
+    ],
+    "rowCuts": [
+      0,
+      373,
+      711,
+      1086
+    ],
+    "columnCuts": [
+      0,
+      362,
+      724,
+      1086,
+      1448
+    ],
+    "rowBaselineRegistration": [
+      [
+        0,
+        39
+      ],
+      [
+        0,
+        39
+      ],
+      [
+        0,
+        39
+      ],
+      [
+        0,
+        39
+      ],
+      [
+        0,
+        77
+      ],
+      [
+        0,
+        77
+      ],
+      [
+        0,
+        77
+      ],
+      [
+        0,
+        77
+      ],
+      [
+        0,
+        70
+      ],
+      [
+        0,
+        70
+      ],
+      [
+        0,
+        70
+      ],
+      [
+        0,
+        70
+      ]
+    ],
+    "unionCrop": [
+      24,
+      87,
+      360,
+      401
+    ],
+    "sharedScale": 0.47770700636942676,
+    "frameSize": [
+      288,
+      168
+    ],
+    "origin": [
+      0,
+      0
+    ],
+    "trajectory": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ]
+    ]
+  },
+  "frameFiles": [
+    "new-scenes/frames/B25-v2/000.png",
+    "new-scenes/frames/B25-v2/001.png",
+    "new-scenes/frames/B25-v2/002.png",
+    "new-scenes/frames/B25-v2/003.png",
+    "new-scenes/frames/B25-v2/004.png",
+    "new-scenes/frames/B25-v2/005.png",
+    "new-scenes/frames/B25-v2/006.png",
+    "new-scenes/frames/B25-v2/007.png",
+    "new-scenes/frames/B25-v2/008.png",
+    "new-scenes/frames/B25-v2/009.png",
+    "new-scenes/frames/B25-v2/010.png",
+    "new-scenes/frames/B25-v2/011.png"
+  ],
+  "sourceSha256": "a877b647fe47b17123634c52d41c824821c25dacd90676968e5e33fa61b7ba8f",
+  "frameSha256": [
+    "af70c20572893b92fad6def0d6b8682c2a63ea4587e8e4aeb82b39b2d62a5fec",
+    "9f2ea3be952835bbfa37c01098299040c05b65adbb2788af8eb0f3b0fd7b971f",
+    "0407f6d2fe034fe2c3927003704bdf3fc0e6ae67b22e78465303f5235cbf7a09",
+    "58a908c6040efe774daf6c7f12a1a9d9116889ff3232979a0fa3a25e1949eae2",
+    "df993ff23498db13211e28dcb6ba7c3fa798d426d467c28a9fc7de4780e8e931",
+    "a61146b13e7eb61d80b3e4807f49174c10c32e0228dcd226304a0d8e5eb085e2",
+    "2fa01f9dd36819594a084cf44eb3e374400fa042d16f0ef3f8784a2c49c5001f",
+    "0e215ba5facbb9a763b3baf426b5c189449e3b61135899501e448f46206f2754",
+    "7c426e01a465a19d1cc7b2407eb402d9d59702ad2ebe3b3212f81a39c9ba31f7",
+    "c1042959e8cff9e1622943207847c72a77e361790a4b7742c734fec182b597e1",
+    "fb1318decbcfc0dd215d5fd1bbbc6799ce03922557932776c0e0da590c8dc8d1",
+    "858abddbf9c916bb96693eb319eceed6b6533baa100f3cc19c67a6c4a87688bf"
+  ],
+  "bytes": 72731,
+  "sha256": "3da36488041ead9b6b9de4c8b3ab164e90a4eb1b5e54262075b5de3377b303a8"
+}

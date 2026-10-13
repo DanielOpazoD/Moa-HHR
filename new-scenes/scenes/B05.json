@@ -1,0 +1,169 @@
+{
+  "order": 405,
+  "id": "B05",
+  "title": "B05 · El ventilador travieso",
+  "category": "Moa aventuras",
+  "pack": "new",
+  "batch": "adventures-03",
+  "version": 2,
+  "status": "approved",
+  "frames": 12,
+  "durations": [
+    500,
+    500,
+    500,
+    500,
+    500,
+    500,
+    500,
+    500,
+    500,
+    500,
+    500,
+    500
+  ],
+  "cycles": 1,
+  "still": 11,
+  "source": "new-scenes/sources/B05-v2.png",
+  "src": "new-scenes/atlases/moa-B05-v2.png",
+  "generator": "Integrated image_gen directly operated by primary assistant",
+  "reference": "references/moa-neutral.png",
+  "prompt": "new-scenes/prompts/B05.txt",
+  "context": "Viñeta ficticia de humor y acompañamiento. No es una instrucción clínica ni representa operaciones reales.",
+  "review": "Primary assistant inspected source and packed sequences on light background; alpha and three-background previews validated. GitHub CI required before merge; local browser socket restriction.",
+  "sourceColumns": [
+    0,
+    362,
+    724,
+    1086,
+    1448
+  ],
+  "rejectedSources": [
+    "new-scenes/sources/B05-v1.png"
+  ],
+  "packaging": {
+    "sourceSize": [
+      1448,
+      1086
+    ],
+    "rowCuts": [
+      0,
+      391,
+      786,
+      1086
+    ],
+    "columnCuts": [
+      0,
+      362,
+      724,
+      1086,
+      1448
+    ],
+    "rowBaselineRegistration": [
+      [
+        0,
+        55
+      ],
+      [
+        0,
+        55
+      ],
+      [
+        0,
+        55
+      ],
+      [
+        0,
+        55
+      ],
+      [
+        0,
+        58
+      ],
+      [
+        0,
+        58
+      ],
+      [
+        0,
+        58
+      ],
+      [
+        0,
+        58
+      ],
+      [
+        0,
+        130
+      ],
+      [
+        0,
+        130
+      ],
+      [
+        0,
+        130
+      ],
+      [
+        0,
+        130
+      ]
+    ],
+    "unionCrop": [
+      11,
+      85,
+      362,
+      421
+    ],
+    "sharedScale": 0.44642857142857145,
+    "frameSize": [
+      288,
+      168
+    ],
+    "origin": [
+      0,
+      0
+    ],
+    "trajectory": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ]
+    ]
+  },
+  "frameFiles": [
+    "new-scenes/frames/B05-v2/000.png",
+    "new-scenes/frames/B05-v2/001.png",
+    "new-scenes/frames/B05-v2/002.png",
+    "new-scenes/frames/B05-v2/003.png",
+    "new-scenes/frames/B05-v2/004.png",
+    "new-scenes/frames/B05-v2/005.png",
+    "new-scenes/frames/B05-v2/006.png",
+    "new-scenes/frames/B05-v2/007.png",
+    "new-scenes/frames/B05-v2/008.png",
+    "new-scenes/frames/B05-v2/009.png",
+    "new-scenes/frames/B05-v2/010.png",
+    "new-scenes/frames/B05-v2/011.png"
+  ],
+  "sourceSha256": "63aee445cc22c7abff6fb87c5e77a2c9907492b8e75f362633ad3148aa33e0db",
+  "frameSha256": [
+    "6cbe9489016177fb4f349679c2ff51ae97fc1ee3e53091bfa53ea1bb4845bc0d",
+    "0fc140f509d294ac01d6d93ca01e3076bf57935c0d6422f659c8d58e3a80aee3",
+    "8b59c0c5e4731dc846f2977d55be9a580e930adadfd915249f7ab51c19792940",
+    "fd4871b0ed358db7af9dfa64b4af9068a4933167d57a9bbea76ba399837e23e0",
+    "74ba778bd1a964f5e20eae0348040ae91c9de540394526d45a14382e19fd383c",
+    "9799e9090fa0c7fcdd0d6d17e6e368daacf2d968e3a5989bdd30798c73c8ba35",
+    "7884c04a7b0d8c68ccdf8e06ff91818fa63c791c7108e2ea8441f73f6d92241b",
+    "e146e564d6c1fe7573ebdc466ee7c2846dfd36bcebcbc37e28e5fae2bffb007b",
+    "a71a15c6d246fd6d5232bdec9e74714ee8b4ad6154c4ebf781d773a0bf6345c1",
+    "a92205f6806d3b75e6b033661e5025ff0779078870c12f7ba8f16b9f674d4f79",
+    "08b45a4ab1d24e69d0a5aa8ad369ade76d16bfcfbd8814e1285a5a9e1a936020",
+    "d0f2d39e1390f71c5c7632c32c549e3b2535017de78a64f8dd96fc0936595934"
+  ],
+  "bytes": 65415,
+  "sha256": "18942e24a0b8dbcfb710d06759e7743bf0b6f660c008088d653c247b8e99981d"
+}
