@@ -1,0 +1,140 @@
+{
+  "order": 303,
+  "id": "A03",
+  "title": "A03 · Todo guardado",
+  "category": "Moa compañero",
+  "pack": "new",
+  "batch": "companion-01",
+  "version": 2,
+  "status": "approved",
+  "frames": 8,
+  "durations": [
+    500,
+    500,
+    500,
+    500,
+    500,
+    500,
+    500,
+    500
+  ],
+  "cycles": 1,
+  "still": 7,
+  "source": "new-scenes/sources/A03-v2.png",
+  "src": "new-scenes/atlases/moa-A03-v2.png",
+  "generator": "Integrated image_gen directly operated by primary assistant",
+  "reference": "references/moa-neutral.png",
+  "prompt": "new-scenes/prompts/A03.txt",
+  "context": "Animación de acompañamiento ficticia. Los estados de guardado y sincronización requieren confirmación real de la aplicación; esta biblioteca no los conecta a eventos.",
+  "review": "Primary assistant inspected source and packed sequences on light background; alpha and three-background previews validated. GitHub CI required before merge; local browser socket restriction.",
+  "sourceColumns": [
+    0,
+    444,
+    887,
+    1330,
+    1774
+  ],
+  "rejectedSources": [
+    "new-scenes/sources/A03-v1.png"
+  ],
+  "packaging": {
+    "sourceSize": [
+      1774,
+      887
+    ],
+    "rowCuts": [
+      0,
+      464,
+      887
+    ],
+    "columnCuts": [
+      0,
+      444,
+      887,
+      1330,
+      1774
+    ],
+    "rowBaselineRegistration": [
+      [
+        0,
+        52
+      ],
+      [
+        0,
+        52
+      ],
+      [
+        0,
+        52
+      ],
+      [
+        0,
+        52
+      ],
+      [
+        0,
+        100
+      ],
+      [
+        0,
+        100
+      ],
+      [
+        0,
+        100
+      ],
+      [
+        0,
+        100
+      ]
+    ],
+    "unionCrop": [
+      40,
+      108,
+      405,
+      491
+    ],
+    "sharedScale": 0.391644908616188,
+    "frameSize": [
+      288,
+      168
+    ],
+    "origin": [
+      0,
+      0
+    ],
+    "trajectory": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ]
+    ]
+  },
+  "frameFiles": [
+    "new-scenes/frames/A03-v2/000.png",
+    "new-scenes/frames/A03-v2/001.png",
+    "new-scenes/frames/A03-v2/002.png",
+    "new-scenes/frames/A03-v2/003.png",
+    "new-scenes/frames/A03-v2/004.png",
+    "new-scenes/frames/A03-v2/005.png",
+    "new-scenes/frames/A03-v2/006.png",
+    "new-scenes/frames/A03-v2/007.png"
+  ],
+  "sourceSha256": "78495328075b1917631a07a453abdab72ea5b604f67df5c55c1feaf3ed1165c6",
+  "frameSha256": [
+    "ca7b2176f0379bc05e4f50eb112a98162a28e92f0f00b0ea0a81526b778727fe",
+    "9f55345615bc094d4963d832d74235abfefa10ce819e71d6750a079abb9d6090",
+    "0db2720f0f1cc2af4d7067a96f9a8d150e8355209843a813f6888a90e9670cbd",
+    "e9704c46788fd6ea73683dce942f6d4abaf7617af39b1904992faed11fca977b",
+    "5faed8f25833f0db2555ba62cca4ad516638286e0013348cc91780fa707b3cad",
+    "6317fc056370efe213096abd788e867a3da1a64450d8d7a1072245b026c70e18",
+    "bb0a3756fc175014e0a748a362a45527c9216b74a77483c58dd3f01dae4c4a4b",
+    "43e3e6ca09c29dd31a153077b086daeeb56d119e4cfa92da7f862ecd7b04c5dd"
+  ],
+  "bytes": 35427,
+  "sha256": "816b6de5f79d5494ae7dc0a84f9eb6e43cb31486ef94790241bf76611f975785"
+}
