@@ -1,0 +1,169 @@
+{
+  "id": "D24",
+  "order": 524,
+  "title": "D24 · Congreso y el bosque de instrumentos",
+  "category": "Chile: memes y encuentros",
+  "pack": "new",
+  "batch": "chile-remix-04",
+  "version": 2,
+  "status": "approved",
+  "frames": 12,
+  "durations": [
+    450,
+    450,
+    450,
+    450,
+    450,
+    450,
+    450,
+    450,
+    450,
+    450,
+    500,
+    900
+  ],
+  "cycles": 1,
+  "still": 11,
+  "source": "new-scenes/sources/D24-v2.png",
+  "src": "new-scenes/atlases/moa-D24-v2.png",
+  "generator": "Integrated image_gen directly operated by primary assistant",
+  "reference": "references/moa-neutral.png",
+  "prompt": "new-scenes/prompts/D24.txt",
+  "context": "Viñeta ficticia de humor. Los encuentros son homenajes artísticos, sin colaboración o respaldo de las personas representadas. Sin audio ni letras de canciones.",
+  "review": "Primary assistant visually reviews source and delivered frames. Full CI required before merge.",
+  "sourceGridColumns": 2,
+  "discardedSources": [
+    "new-scenes/sources/D24-v1.png"
+  ],
+  "sourceColumns": [
+    0,
+    508,
+    1024
+  ],
+  "packaging": {
+    "sourceSize": [
+      1024,
+      1536
+    ],
+    "rowCuts": [
+      0,
+      269,
+      520,
+      769,
+      1022,
+      1272,
+      1536
+    ],
+    "columnCuts": [
+      0,
+      508,
+      1024
+    ],
+    "rowBaselineRegistration": [
+      [
+        4,
+        42
+      ],
+      [
+        0,
+        42
+      ],
+      [
+        4,
+        60
+      ],
+      [
+        0,
+        60
+      ],
+      [
+        4,
+        60
+      ],
+      [
+        0,
+        60
+      ],
+      [
+        4,
+        54
+      ],
+      [
+        0,
+        54
+      ],
+      [
+        4,
+        58
+      ],
+      [
+        0,
+        58
+      ],
+      [
+        4,
+        57
+      ],
+      [
+        0,
+        57
+      ]
+    ],
+    "unionCrop": [
+      28,
+      70,
+      485,
+      295
+    ],
+    "sharedScale": 0.4989059080962801,
+    "frameSize": [
+      288,
+      168
+    ],
+    "origin": [
+      0,
+      0
+    ],
+    "trajectory": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ]
+    ]
+  },
+  "frameFiles": [
+    "new-scenes/frames/D24-v2/000.png",
+    "new-scenes/frames/D24-v2/001.png",
+    "new-scenes/frames/D24-v2/002.png",
+    "new-scenes/frames/D24-v2/003.png",
+    "new-scenes/frames/D24-v2/004.png",
+    "new-scenes/frames/D24-v2/005.png",
+    "new-scenes/frames/D24-v2/006.png",
+    "new-scenes/frames/D24-v2/007.png",
+    "new-scenes/frames/D24-v2/008.png",
+    "new-scenes/frames/D24-v2/009.png",
+    "new-scenes/frames/D24-v2/010.png",
+    "new-scenes/frames/D24-v2/011.png"
+  ],
+  "sourceSha256": "4b370d97a045b85f516774f9a8b7f2e7c64fbc8016eafbbd3df5ba0ef033cb85",
+  "frameSha256": [
+    "ada85a94ed0edcbd6d017755369e5e549f085dbc8271bc47f1461fc055969032",
+    "8f58a371e5ca95d7b03ac7b38c56516d945fb07c5116a74547fa67d2ee38c1de",
+    "e153dd3fb099258f5d66abcdc57266ba944a723c233c4355b6c947e84a9a5c03",
+    "7dc0e465d7d47f10d502b0e88a87caa7a104f2d02df183c5e3ea3903f28efcc7",
+    "fd1dea95ef2042aaa294654551bdbbd000cc58ce8e775f2650f6ca35da01239e",
+    "6b267c5e586257695f41ad72bff11fda9b6c290479d6c35148b5ed1c235f1b62",
+    "80262df60593975915af790f24c4d600cc166693fb18153b85d3954687b9b7d7",
+    "0247e644c302ef20aba7642942bcb5c5cb0680ba85ea9271c0a40264f01ea394",
+    "f6d0e86da779c81303f7513bd6e922abc71345fdaca4a59bc49cddfbfe5c90eb",
+    "0250121f4269873473e4ebab2ffa9dbcfc9ad9c28d3bcb70233900c28d3386f5",
+    "22d0f9816d921e7d57d1e57587fe44594ca7af1264c5a865064d53fb26059b22",
+    "cf80bce9b3b486c706414aedc7fa42bf640f0952ed78d0a76f23b4ff54458bfb"
+  ],
+  "bytes": 112070,
+  "sha256": "2d8d09094a308a0fa858ae1512f5e939813eb316cf5231a2b4d553877df71a8c"
+}

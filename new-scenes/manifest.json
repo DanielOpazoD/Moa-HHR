@@ -33158,5 +33158,962 @@
     ],
     "bytes": 99350,
     "sha256": "c304641681f0e9efe8cf63f72db90747a4313f5b6c1291518fe438b52456fb3f"
+  },
+  {
+    "id": "D19",
+    "order": 519,
+    "title": "D19 · Los Bunkers y el cable interminable",
+    "category": "Chile: memes y encuentros",
+    "pack": "new",
+    "batch": "chile-remix-04",
+    "version": 2,
+    "status": "approved",
+    "frames": 10,
+    "durations": [
+      450,
+      450,
+      450,
+      450,
+      450,
+      450,
+      450,
+      450,
+      600,
+      900
+    ],
+    "cycles": 1,
+    "still": 9,
+    "source": "new-scenes/sources/D19-v2.png",
+    "src": "new-scenes/atlases/moa-D19-v2.png",
+    "generator": "Integrated image_gen directly operated by primary assistant",
+    "reference": "references/moa-neutral.png",
+    "prompt": "new-scenes/prompts/D19.txt",
+    "context": "Viñeta ficticia de humor. Los encuentros son homenajes artísticos, sin colaboración o respaldo de las personas representadas. Sin audio ni letras de canciones.",
+    "review": "Primary assistant visually reviews source and delivered frames. Full CI required before merge.",
+    "sourceGridColumns": 2,
+    "discardedSources": [
+      "new-scenes/sources/D19-v1.png"
+    ],
+    "sourceColumns": [
+      0,
+      794,
+      1536
+    ],
+    "packaging": {
+      "sourceSize": [
+        1536,
+        1024
+      ],
+      "rowCuts": [
+        0,
+        236,
+        450,
+        653,
+        857,
+        1024
+      ],
+      "columnCuts": [
+        0,
+        794,
+        1536
+      ],
+      "rowBaselineRegistration": [
+        [
+          0,
+          37
+        ],
+        [
+          26,
+          37
+        ],
+        [
+          0,
+          55
+        ],
+        [
+          26,
+          55
+        ],
+        [
+          0,
+          63
+        ],
+        [
+          26,
+          63
+        ],
+        [
+          0,
+          57
+        ],
+        [
+          26,
+          57
+        ],
+        [
+          0,
+          107
+        ],
+        [
+          26,
+          107
+        ]
+      ],
+      "unionCrop": [
+        50,
+        61,
+        742,
+        262
+      ],
+      "sharedScale": 0.32947976878612717,
+      "frameSize": [
+        288,
+        168
+      ],
+      "origin": [
+        0,
+        0
+      ],
+      "trajectory": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          0
+        ]
+      ]
+    },
+    "frameFiles": [
+      "new-scenes/frames/D19-v2/000.png",
+      "new-scenes/frames/D19-v2/001.png",
+      "new-scenes/frames/D19-v2/002.png",
+      "new-scenes/frames/D19-v2/003.png",
+      "new-scenes/frames/D19-v2/004.png",
+      "new-scenes/frames/D19-v2/005.png",
+      "new-scenes/frames/D19-v2/006.png",
+      "new-scenes/frames/D19-v2/007.png",
+      "new-scenes/frames/D19-v2/008.png",
+      "new-scenes/frames/D19-v2/009.png"
+    ],
+    "sourceSha256": "b59033b4cc735c33ceb91db59634ecb1d9f6d4d5b06bf9d9e030376363ba2e44",
+    "frameSha256": [
+      "f8f38798367de18c044bc92c6e890b75b9cf6e159dfac4385faf3430dc129923",
+      "e900b0d6df0bcee7c364cd541e2b5dfe13cd3bbe4f867a31114a15a29072d57e",
+      "4ff13ab7e815607deb3562eb53bd94674d6362a790cbc46209873003edbfeacd",
+      "476f8192e77789e31b0a8ea509afb303c29516cfca6d583e030b148ae8040531",
+      "bc20f154bfcdcf83974fc8b02614e0ed71a9ffd38436eda86453aee0a271f82e",
+      "e26d67a5cf6feafabdb08a7a46ddde75a94b4855713188b50630aa9b4996bc53",
+      "ca21789f5038389db8b92eecbb659efccfb2f0bf13700583a4c25f120a3a8243",
+      "b712e1fe54e8c63fc72cd00f472ff0b35ab52315f5c42f9862a9b5f130f08ba0",
+      "bc09253f09722194d3d5e03ca318f5d240c4ae541fecf3f3fbeb986c4eb2475e",
+      "6f34130076cb3f975df59e3ffed62d1cf5dea104925886357be565ce97b96888"
+    ],
+    "bytes": 50711,
+    "sha256": "38126d01e7dc929c3c179369a4c55217ab83ab160d6b79e1ad05389894b901e4"
+  },
+  {
+    "id": "D20",
+    "order": 520,
+    "title": "D20 · Los Tres y la cueca en miniatura",
+    "category": "Chile: memes y encuentros",
+    "pack": "new",
+    "batch": "chile-remix-04",
+    "version": 1,
+    "status": "approved",
+    "frames": 10,
+    "durations": [
+      450,
+      450,
+      450,
+      450,
+      450,
+      450,
+      450,
+      450,
+      600,
+      900
+    ],
+    "cycles": 1,
+    "still": 9,
+    "source": "new-scenes/sources/D20-v1.png",
+    "src": "new-scenes/atlases/moa-D20-v1.png",
+    "generator": "Integrated image_gen directly operated by primary assistant",
+    "reference": "references/moa-neutral.png",
+    "prompt": "new-scenes/prompts/D20.txt",
+    "context": "Viñeta ficticia de humor. Los encuentros son homenajes artísticos, sin colaboración o respaldo de las personas representadas. Sin audio ni letras de canciones.",
+    "review": "Primary assistant visually reviews source and delivered frames. Full CI required before merge.",
+    "sourceGridColumns": 2,
+    "sourceColumns": [
+      0,
+      869,
+      1642
+    ],
+    "packaging": {
+      "sourceSize": [
+        1642,
+        958
+      ],
+      "rowCuts": [
+        0,
+        179,
+        360,
+        538,
+        729,
+        958
+      ],
+      "columnCuts": [
+        0,
+        869,
+        1642
+      ],
+      "rowBaselineRegistration": [
+        [
+          0,
+          76
+        ],
+        [
+          48,
+          76
+        ],
+        [
+          0,
+          74
+        ],
+        [
+          48,
+          74
+        ],
+        [
+          0,
+          75
+        ],
+        [
+          48,
+          75
+        ],
+        [
+          0,
+          74
+        ],
+        [
+          48,
+          74
+        ],
+        [
+          0,
+          52
+        ],
+        [
+          48,
+          52
+        ]
+      ],
+      "unionCrop": [
+        254,
+        63,
+        717,
+        255
+      ],
+      "sharedScale": 0.4924406047516199,
+      "frameSize": [
+        288,
+        168
+      ],
+      "origin": [
+        0,
+        0
+      ],
+      "trajectory": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          0
+        ]
+      ]
+    },
+    "frameFiles": [
+      "new-scenes/frames/D20-v1/000.png",
+      "new-scenes/frames/D20-v1/001.png",
+      "new-scenes/frames/D20-v1/002.png",
+      "new-scenes/frames/D20-v1/003.png",
+      "new-scenes/frames/D20-v1/004.png",
+      "new-scenes/frames/D20-v1/005.png",
+      "new-scenes/frames/D20-v1/006.png",
+      "new-scenes/frames/D20-v1/007.png",
+      "new-scenes/frames/D20-v1/008.png",
+      "new-scenes/frames/D20-v1/009.png"
+    ],
+    "sourceSha256": "bd899a1a254f14fa94b5e725b7abd913696fb428cbad4e7d5bd6438395042cd8",
+    "frameSha256": [
+      "ad90db8bf285d3e63299929155b8c211cf67a15b06b8477ad95a1d8a6b2bd35e",
+      "708d0045d50377e9cd8e17380c577c5d85757e05848ebddf24f104833fde2928",
+      "0f1f943a85e2e33a535a265e06aabb7355e5e93bd7dff3df947230079db66e89",
+      "13ef91a29954dd224189dbaf3ee583d5e5f56f525bfa2ee45f29a83a0ee381e3",
+      "0d63d7302dd38c208fc59146f8752a6cd1f08f64367504270a5ef1db298230b1",
+      "e89253385763361dbf56c7d1fd3a6330421db07c9ef4297420baf647e817ceac",
+      "3728557f91ebcc25d84e77f166a65f9003c143150c36c8844f71bb9d93c9d2d3",
+      "bc83f4cf251e558535563f48a6fe698b1e18dc7d246edd3c1da0329a71694d7c",
+      "122c6ce484d851951776366efe65e135239c3398de53d7f2713a2ee9208f87fc",
+      "05b82771b17d55323767794a059189c2d7581295fe4571ad29bd405c676fdebd"
+    ],
+    "bytes": 70727,
+    "sha256": "145385d7c9fdacc704b395d42ef9c5d2490dcb217fb9fcc01fd35903bd33583e"
+  },
+  {
+    "id": "D21",
+    "order": 521,
+    "title": "D21 · Chancho en Piedra y el cerdito de utilería",
+    "category": "Chile: memes y encuentros",
+    "pack": "new",
+    "batch": "chile-remix-04",
+    "version": 1,
+    "status": "approved",
+    "frames": 10,
+    "durations": [
+      450,
+      450,
+      450,
+      450,
+      450,
+      450,
+      450,
+      450,
+      600,
+      900
+    ],
+    "cycles": 1,
+    "still": 9,
+    "source": "new-scenes/sources/D21-v1.png",
+    "src": "new-scenes/atlases/moa-D21-v1.png",
+    "generator": "Integrated image_gen directly operated by primary assistant",
+    "reference": "references/moa-neutral.png",
+    "prompt": "new-scenes/prompts/D21.txt",
+    "context": "Viñeta ficticia de humor. Los encuentros son homenajes artísticos, sin colaboración o respaldo de las personas representadas. Sin audio ni letras de canciones.",
+    "review": "Primary assistant visually reviews source and delivered frames. Full CI required before merge.",
+    "sourceGridColumns": 2,
+    "sourceColumns": [
+      0,
+      777,
+      1536
+    ],
+    "packaging": {
+      "sourceSize": [
+        1536,
+        1024
+      ],
+      "rowCuts": [
+        0,
+        189,
+        376,
+        562,
+        744,
+        1024
+      ],
+      "columnCuts": [
+        0,
+        777,
+        1536
+      ],
+      "rowBaselineRegistration": [
+        [
+          0,
+          121
+        ],
+        [
+          9,
+          121
+        ],
+        [
+          0,
+          123
+        ],
+        [
+          9,
+          123
+        ],
+        [
+          0,
+          122
+        ],
+        [
+          9,
+          122
+        ],
+        [
+          0,
+          124
+        ],
+        [
+          9,
+          124
+        ],
+        [
+          0,
+          129
+        ],
+        [
+          9,
+          129
+        ]
+      ],
+      "unionCrop": [
+        98,
+        127,
+        689,
+        307
+      ],
+      "sharedScale": 0.38578680203045684,
+      "frameSize": [
+        288,
+        168
+      ],
+      "origin": [
+        0,
+        0
+      ],
+      "trajectory": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          0
+        ]
+      ]
+    },
+    "frameFiles": [
+      "new-scenes/frames/D21-v1/000.png",
+      "new-scenes/frames/D21-v1/001.png",
+      "new-scenes/frames/D21-v1/002.png",
+      "new-scenes/frames/D21-v1/003.png",
+      "new-scenes/frames/D21-v1/004.png",
+      "new-scenes/frames/D21-v1/005.png",
+      "new-scenes/frames/D21-v1/006.png",
+      "new-scenes/frames/D21-v1/007.png",
+      "new-scenes/frames/D21-v1/008.png",
+      "new-scenes/frames/D21-v1/009.png"
+    ],
+    "sourceSha256": "2409e4635d53e664c6f73e9cc756f6884e631166949ba3f9df3c4dbf2a90df4e",
+    "frameSha256": [
+      "04c5ae63b3aa26f75dea22229dba636e72cf1dcbda035bebc5a7fdf466872256",
+      "4aa13e264ffc00e5fb088ecd446bf076a54d42e524922aa6b8de5da69bdda169",
+      "7fbbf80f8f53e1e6cfc69b86851c0b675e23fe6e50703dd08c1d87e56f43b751",
+      "5802a0adad2c19a624963417e8c18018af8287187b946e893d9789dd03a13494",
+      "e400c797f2d37419206520ac4a2401b4aac132475ac8095ff211bfdda6b6fe68",
+      "b8d936a61676792dacb922f6ab4ed1fdcfd4efa2901fc0dafc59b872bb032230",
+      "cff17646d776964d931decc9ed703afff4b9fe68bac0c6b10939420e2939c8a9",
+      "03c0d422260ccaa64328c45abde9b40b8729e5277a6df79fb7a3fbf03f9b692a",
+      "d2ee558ab47f9ce67691f68ccd5cbec3a5c8fabeff54aa7c051acda4b9ff5837",
+      "5e4c22055f870b6e8999c0a0602bbd42f551da09d130663f5d1b0454761e9569"
+    ],
+    "bytes": 55855,
+    "sha256": "a0e1a6f70de16bb7ce6f10012027bd86e08fd1dcdbc4a7eafea3caf63d297f93"
+  },
+  {
+    "id": "D22",
+    "order": 522,
+    "title": "D22 · Chico Trujillo y la fila que se vuelve baile",
+    "category": "Chile: memes y encuentros",
+    "pack": "new",
+    "batch": "chile-remix-04",
+    "version": 1,
+    "status": "approved",
+    "frames": 12,
+    "durations": [
+      450,
+      450,
+      450,
+      450,
+      450,
+      450,
+      450,
+      450,
+      450,
+      450,
+      500,
+      900
+    ],
+    "cycles": 1,
+    "still": 11,
+    "source": "new-scenes/sources/D22-v1.png",
+    "src": "new-scenes/atlases/moa-D22-v1.png",
+    "generator": "Integrated image_gen directly operated by primary assistant",
+    "reference": "references/moa-neutral.png",
+    "prompt": "new-scenes/prompts/D22.txt",
+    "context": "Viñeta ficticia de humor. Los encuentros son homenajes artísticos, sin colaboración o respaldo de las personas representadas. Sin audio ni letras de canciones.",
+    "review": "Primary assistant visually reviews source and delivered frames. Full CI required before merge.",
+    "sourceGridColumns": 2,
+    "sourceColumns": [
+      0,
+      524,
+      1024
+    ],
+    "packaging": {
+      "sourceSize": [
+        1024,
+        1536
+      ],
+      "rowCuts": [
+        0,
+        279,
+        539,
+        798,
+        1061,
+        1293,
+        1536
+      ],
+      "columnCuts": [
+        0,
+        524,
+        1024
+      ],
+      "rowBaselineRegistration": [
+        [
+          0,
+          51
+        ],
+        [
+          12,
+          51
+        ],
+        [
+          0,
+          73
+        ],
+        [
+          12,
+          73
+        ],
+        [
+          0,
+          73
+        ],
+        [
+          12,
+          73
+        ],
+        [
+          0,
+          68
+        ],
+        [
+          12,
+          68
+        ],
+        [
+          0,
+          99
+        ],
+        [
+          12,
+          99
+        ],
+        [
+          0,
+          82
+        ],
+        [
+          12,
+          82
+        ]
+      ],
+      "unionCrop": [
+        29,
+        97,
+        501,
+        305
+      ],
+      "sharedScale": 0.4830508474576271,
+      "frameSize": [
+        288,
+        168
+      ],
+      "origin": [
+        0,
+        0
+      ],
+      "trajectory": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          0
+        ]
+      ]
+    },
+    "frameFiles": [
+      "new-scenes/frames/D22-v1/000.png",
+      "new-scenes/frames/D22-v1/001.png",
+      "new-scenes/frames/D22-v1/002.png",
+      "new-scenes/frames/D22-v1/003.png",
+      "new-scenes/frames/D22-v1/004.png",
+      "new-scenes/frames/D22-v1/005.png",
+      "new-scenes/frames/D22-v1/006.png",
+      "new-scenes/frames/D22-v1/007.png",
+      "new-scenes/frames/D22-v1/008.png",
+      "new-scenes/frames/D22-v1/009.png",
+      "new-scenes/frames/D22-v1/010.png",
+      "new-scenes/frames/D22-v1/011.png"
+    ],
+    "sourceSha256": "5030ff3d92d2ed7c812114ae85360ef438566454ecd227255cc5bebdf303c0be",
+    "frameSha256": [
+      "f8b0ab9d15b164f6fa469b91d41e0da2777ef15e2308a1ad39bdafbc9ad1c77e",
+      "7d0847e75df9f333ad3a8ece691fa5c984b04b5c6380257b8527ca1c0afe0bcb",
+      "a69e93b8dd99f53aa4123ffcdc2906314a385ac9b8ad4dc62514d8d991233eb4",
+      "326bfd5da9634c2d52be0ce851ba7b5604e44768d829b2d881f95b10066de07e",
+      "02d0dfe203f731c41970349bb240723882490f6ea7a5a0ccfeab4fbd7da45e65",
+      "c3d4b24f2ae42eb640b8fd7342ec791d6fbd32324996f618207894092ac3870e",
+      "062733711f086b48be2fb09be3cef0acc62ae67a9f79cf1dbffc3d10e9480a3c",
+      "2a954d1f5cee2d17b465512949d3ffa6cb0e635dc5add84b858f4451e79ea131",
+      "f475d7dac1ad0f5c56e30656dfcecdbc0999e2623966e8154834841a9086b05a",
+      "6cfcdcbe29f2627b8a83f6f4bc3f33b7c2ecbd19fc03d6d9f01536c420d40aaf",
+      "2caf1929ccc9a8228900c0f54f65aa65af5046ad97b88b0773dceb86e17b951c",
+      "430680aaedb0bb1e576043f4f5c045ba3a463e87f09ec8677fc0b18194090537"
+    ],
+    "bytes": 98309,
+    "sha256": "a1a6b93864bb876502f5e48799d0a5bbff581c2af003f541c572884ebe690285"
+  },
+  {
+    "id": "D23",
+    "order": 523,
+    "title": "D23 · La Sonora de Tommy Rey y el último confeti",
+    "category": "Chile: memes y encuentros",
+    "pack": "new",
+    "batch": "chile-remix-04",
+    "version": 1,
+    "status": "approved",
+    "frames": 12,
+    "durations": [
+      450,
+      450,
+      450,
+      450,
+      450,
+      450,
+      450,
+      450,
+      450,
+      450,
+      500,
+      900
+    ],
+    "cycles": 1,
+    "still": 11,
+    "source": "new-scenes/sources/D23-v1.png",
+    "src": "new-scenes/atlases/moa-D23-v1.png",
+    "generator": "Integrated image_gen directly operated by primary assistant",
+    "reference": "references/moa-neutral.png",
+    "prompt": "new-scenes/prompts/D23.txt",
+    "context": "Viñeta ficticia de humor. Los encuentros son homenajes artísticos, sin colaboración o respaldo de las personas representadas. Sin audio ni letras de canciones.",
+    "review": "Primary assistant visually reviews source and delivered frames. Full CI required before merge.",
+    "sourceGridColumns": 2,
+    "sourceColumns": [
+      0,
+      524,
+      1024
+    ],
+    "packaging": {
+      "sourceSize": [
+        1024,
+        1536
+      ],
+      "rowCuts": [
+        0,
+        273,
+        541,
+        815,
+        1085,
+        1343,
+        1536
+      ],
+      "columnCuts": [
+        0,
+        524,
+        1024
+      ],
+      "rowBaselineRegistration": [
+        [
+          0,
+          38
+        ],
+        [
+          12,
+          38
+        ],
+        [
+          0,
+          39
+        ],
+        [
+          12,
+          39
+        ],
+        [
+          0,
+          36
+        ],
+        [
+          12,
+          36
+        ],
+        [
+          0,
+          38
+        ],
+        [
+          12,
+          38
+        ],
+        [
+          0,
+          45
+        ],
+        [
+          12,
+          45
+        ],
+        [
+          0,
+          109
+        ],
+        [
+          12,
+          109
+        ]
+      ],
+      "unionCrop": [
+        41,
+        46,
+        496,
+        300
+      ],
+      "sharedScale": 0.5010989010989011,
+      "frameSize": [
+        288,
+        168
+      ],
+      "origin": [
+        0,
+        0
+      ],
+      "trajectory": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          0
+        ]
+      ]
+    },
+    "frameFiles": [
+      "new-scenes/frames/D23-v1/000.png",
+      "new-scenes/frames/D23-v1/001.png",
+      "new-scenes/frames/D23-v1/002.png",
+      "new-scenes/frames/D23-v1/003.png",
+      "new-scenes/frames/D23-v1/004.png",
+      "new-scenes/frames/D23-v1/005.png",
+      "new-scenes/frames/D23-v1/006.png",
+      "new-scenes/frames/D23-v1/007.png",
+      "new-scenes/frames/D23-v1/008.png",
+      "new-scenes/frames/D23-v1/009.png",
+      "new-scenes/frames/D23-v1/010.png",
+      "new-scenes/frames/D23-v1/011.png"
+    ],
+    "sourceSha256": "629e33751937da8702eb6ec4bc87c7c3889283e6153a3310b7ca173e75cf50f0",
+    "frameSha256": [
+      "57f87a13050728c836188339a9892d61ca2cd389856f61e1ab487535a906efbf",
+      "f9e5e7e9466e89763cdc26fadaf04b9215ce92786b08a79853d94ab4ea31ce93",
+      "20362330d4c10ea2eed6f5c33c5e1ce28a8cf79886ad4468411b90afdb6108a3",
+      "a6b6ebebf4eab5147b93432675a738d8fd8de1040e163a30db48809ba08f43b4",
+      "b0b4dfc4004461a538f350fa4173a7fc767c45d3881022202b26a1e9cc8ced82",
+      "c76bed9cc397fa9f453d46ae836a66a4208ba32a50501ac67519b671186b456d",
+      "46d6f6dd610f21d2fac499d410cab0ae3ceb1578abf52c558f8c3880d0a9c15c",
+      "9268f907ffe587ff6895c58ff0d6f33bad646309b0163721401a7eda3e733d45",
+      "b753350c9d161df3b0640589c90b09939439a0208218642dc26c8d0e08f52b48",
+      "ed295f8cf5330d155c2d23b4bbfce57c1b03aa8cc16b8ffda2729e85df2b41df",
+      "aad26c227a1f4018a5eedb2c18bb9ef2bace4b1d6caaa9753e4c581d7d6cb778",
+      "7bb33bacb4450f606d9549ba9fb26e7f89ff06a1b8664bd73045b70f608019ae"
+    ],
+    "bytes": 99140,
+    "sha256": "abe6b31b2406a376d745f0ccfea6a3f54609f5986306ccc65fd4117e050a38bf"
+  },
+  {
+    "id": "D24",
+    "order": 524,
+    "title": "D24 · Congreso y el bosque de instrumentos",
+    "category": "Chile: memes y encuentros",
+    "pack": "new",
+    "batch": "chile-remix-04",
+    "version": 2,
+    "status": "approved",
+    "frames": 12,
+    "durations": [
+      450,
+      450,
+      450,
+      450,
+      450,
+      450,
+      450,
+      450,
+      450,
+      450,
+      500,
+      900
+    ],
+    "cycles": 1,
+    "still": 11,
+    "source": "new-scenes/sources/D24-v2.png",
+    "src": "new-scenes/atlases/moa-D24-v2.png",
+    "generator": "Integrated image_gen directly operated by primary assistant",
+    "reference": "references/moa-neutral.png",
+    "prompt": "new-scenes/prompts/D24.txt",
+    "context": "Viñeta ficticia de humor. Los encuentros son homenajes artísticos, sin colaboración o respaldo de las personas representadas. Sin audio ni letras de canciones.",
+    "review": "Primary assistant visually reviews source and delivered frames. Full CI required before merge.",
+    "sourceGridColumns": 2,
+    "discardedSources": [
+      "new-scenes/sources/D24-v1.png"
+    ],
+    "sourceColumns": [
+      0,
+      508,
+      1024
+    ],
+    "packaging": {
+      "sourceSize": [
+        1024,
+        1536
+      ],
+      "rowCuts": [
+        0,
+        269,
+        520,
+        769,
+        1022,
+        1272,
+        1536
+      ],
+      "columnCuts": [
+        0,
+        508,
+        1024
+      ],
+      "rowBaselineRegistration": [
+        [
+          4,
+          42
+        ],
+        [
+          0,
+          42
+        ],
+        [
+          4,
+          60
+        ],
+        [
+          0,
+          60
+        ],
+        [
+          4,
+          60
+        ],
+        [
+          0,
+          60
+        ],
+        [
+          4,
+          54
+        ],
+        [
+          0,
+          54
+        ],
+        [
+          4,
+          58
+        ],
+        [
+          0,
+          58
+        ],
+        [
+          4,
+          57
+        ],
+        [
+          0,
+          57
+        ]
+      ],
+      "unionCrop": [
+        28,
+        70,
+        485,
+        295
+      ],
+      "sharedScale": 0.4989059080962801,
+      "frameSize": [
+        288,
+        168
+      ],
+      "origin": [
+        0,
+        0
+      ],
+      "trajectory": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          0
+        ]
+      ]
+    },
+    "frameFiles": [
+      "new-scenes/frames/D24-v2/000.png",
+      "new-scenes/frames/D24-v2/001.png",
+      "new-scenes/frames/D24-v2/002.png",
+      "new-scenes/frames/D24-v2/003.png",
+      "new-scenes/frames/D24-v2/004.png",
+      "new-scenes/frames/D24-v2/005.png",
+      "new-scenes/frames/D24-v2/006.png",
+      "new-scenes/frames/D24-v2/007.png",
+      "new-scenes/frames/D24-v2/008.png",
+      "new-scenes/frames/D24-v2/009.png",
+      "new-scenes/frames/D24-v2/010.png",
+      "new-scenes/frames/D24-v2/011.png"
+    ],
+    "sourceSha256": "4b370d97a045b85f516774f9a8b7f2e7c64fbc8016eafbbd3df5ba0ef033cb85",
+    "frameSha256": [
+      "ada85a94ed0edcbd6d017755369e5e549f085dbc8271bc47f1461fc055969032",
+      "8f58a371e5ca95d7b03ac7b38c56516d945fb07c5116a74547fa67d2ee38c1de",
+      "e153dd3fb099258f5d66abcdc57266ba944a723c233c4355b6c947e84a9a5c03",
+      "7dc0e465d7d47f10d502b0e88a87caa7a104f2d02df183c5e3ea3903f28efcc7",
+      "fd1dea95ef2042aaa294654551bdbbd000cc58ce8e775f2650f6ca35da01239e",
+      "6b267c5e586257695f41ad72bff11fda9b6c290479d6c35148b5ed1c235f1b62",
+      "80262df60593975915af790f24c4d600cc166693fb18153b85d3954687b9b7d7",
+      "0247e644c302ef20aba7642942bcb5c5cb0680ba85ea9271c0a40264f01ea394",
+      "f6d0e86da779c81303f7513bd6e922abc71345fdaca4a59bc49cddfbfe5c90eb",
+      "0250121f4269873473e4ebab2ffa9dbcfc9ad9c28d3bcb70233900c28d3386f5",
+      "22d0f9816d921e7d57d1e57587fe44594ca7af1264c5a865064d53fb26059b22",
+      "cf80bce9b3b486c706414aedc7fa42bf640f0952ed78d0a76f23b4ff54458bfb"
+    ],
+    "bytes": 112070,
+    "sha256": "2d8d09094a308a0fa858ae1512f5e939813eb316cf5231a2b4d553877df71a8c"
   }
 ]

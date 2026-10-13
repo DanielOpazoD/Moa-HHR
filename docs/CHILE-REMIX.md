@@ -4,7 +4,7 @@ Serie aprobada por el usuario el 13 de octubre de 2026. Producción y revisión 
 
 Son viñetas ficticias. Los nombres identifican homenajes artísticos; no hay colaboración, patrocinio ni respaldo de las personas o entidades representadas. No se usan grabaciones, voces, letras ni fotografías de terceros en el paquete. Los derechos de personajes y semejanzas no se conceden por este repositorio.
 
-## Publicadas en este árbol: 18/30
+## Publicadas en este árbol: 24/30
 
 - **D01 · Peinado para atrás** · 12 poses · 5.9 s · [fuente](../new-scenes/sources/D01-v1.png) · [cuadros](../new-scenes/frames/D01-v1/) · [tiempos JSON](../new-scenes/scenes/D01.json) · [prompt](../new-scenes/prompts/D01.txt) · [secuencia](../evidence/D01/light-frames.png).
 - **D02 · No estoy ni ahí… hasta la marraqueta** · 12 poses · 5.9 s · [fuente](../new-scenes/sources/D02-v2.png) · [cuadros](../new-scenes/frames/D02-v2/) · [tiempos JSON](../new-scenes/scenes/D02.json) · [prompt](../new-scenes/prompts/D02.txt) · [secuencia](../evidence/D02/light-frames.png).
@@ -24,6 +24,12 @@ Son viñetas ficticias. Los nombres identifican homenajes artísticos; no hay co
 - **D16 · Ana Tijoux y la libreta de ideas** · 12 poses · 5.9 s · [fuente](../new-scenes/sources/D16-v3.png) · [cuadros](../new-scenes/frames/D16-v3/) · [tiempos JSON](../new-scenes/scenes/D16.json) · [prompt](../new-scenes/prompts/D16.txt) · [secuencia](../evidence/D16/light-frames.png).
 - **D17 · Francisca Valenzuela y el piano viajero** · 10 poses · 5.1 s · [fuente](../new-scenes/sources/D17-v3.png) · [cuadros](../new-scenes/frames/D17-v3/) · [tiempos JSON](../new-scenes/scenes/D17.json) · [prompt](../new-scenes/prompts/D17.txt) · [secuencia](../evidence/D17/light-frames.png).
 - **D18 · Denise Rosenthal y el ensayo espejo** · 12 poses · 5.9 s · [fuente](../new-scenes/sources/D18-v1.png) · [cuadros](../new-scenes/frames/D18-v1/) · [tiempos JSON](../new-scenes/scenes/D18.json) · [prompt](../new-scenes/prompts/D18.txt) · [secuencia](../evidence/D18/light-frames.png).
+- **D19 · Los Bunkers y el cable interminable** · 10 poses · 5.1 s · [fuente](../new-scenes/sources/D19-v2.png) · [cuadros](../new-scenes/frames/D19-v2/) · [tiempos JSON](../new-scenes/scenes/D19.json) · [prompt](../new-scenes/prompts/D19.txt) · [secuencia](../evidence/D19/light-frames.png).
+- **D20 · Los Tres y la cueca en miniatura** · 10 poses · 5.1 s · [fuente](../new-scenes/sources/D20-v1.png) · [cuadros](../new-scenes/frames/D20-v1/) · [tiempos JSON](../new-scenes/scenes/D20.json) · [prompt](../new-scenes/prompts/D20.txt) · [secuencia](../evidence/D20/light-frames.png).
+- **D21 · Chancho en Piedra y el cerdito de utilería** · 10 poses · 5.1 s · [fuente](../new-scenes/sources/D21-v1.png) · [cuadros](../new-scenes/frames/D21-v1/) · [tiempos JSON](../new-scenes/scenes/D21.json) · [prompt](../new-scenes/prompts/D21.txt) · [secuencia](../evidence/D21/light-frames.png).
+- **D22 · Chico Trujillo y la fila que se vuelve baile** · 12 poses · 5.9 s · [fuente](../new-scenes/sources/D22-v1.png) · [cuadros](../new-scenes/frames/D22-v1/) · [tiempos JSON](../new-scenes/scenes/D22.json) · [prompt](../new-scenes/prompts/D22.txt) · [secuencia](../evidence/D22/light-frames.png).
+- **D23 · La Sonora de Tommy Rey y el último confeti** · 12 poses · 5.9 s · [fuente](../new-scenes/sources/D23-v1.png) · [cuadros](../new-scenes/frames/D23-v1/) · [tiempos JSON](../new-scenes/scenes/D23.json) · [prompt](../new-scenes/prompts/D23.txt) · [secuencia](../evidence/D23/light-frames.png).
+- **D24 · Congreso y el bosque de instrumentos** · 12 poses · 5.9 s · [fuente](../new-scenes/sources/D24-v2.png) · [cuadros](../new-scenes/frames/D24-v2/) · [tiempos JSON](../new-scenes/scenes/D24.json) · [prompt](../new-scenes/prompts/D24.txt) · [secuencia](../evidence/D24/light-frames.png).
 
 ## Edición y límites
 
