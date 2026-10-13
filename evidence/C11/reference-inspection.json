@@ -1,0 +1,24 @@
+{
+  "inspectedBeforeGeneration": true,
+  "date": "2026-10-13",
+  "photos": [
+    {
+      "url": "https://www.sigpa.cl/ficha-elemento/media/upload/elementos/organilleros-01.jpg",
+      "sha256OfInspectedBytes": "61e603bfc9d2ab2ae8cd2d7ab3b300b4b5c46034438596d86d5fab68e302a49f",
+      "credit": "Consejo Nacional de la Cultura y las Artes / SIGPA",
+      "use": "Visual reference inspected only, photograph not copied into sprites or repository."
+    },
+    {
+      "url": "https://www.sigpa.cl/ficha-elemento/media/upload/elementos/organilleros-02.jpg",
+      "sha256OfInspectedBytes": "4fc764cef832feafef8173c325b3222ae32f6a04621af56f1e692eb9358c18d8",
+      "credit": "Consejo Nacional de la Cultura y las Artes / SIGPA",
+      "use": "Visual reference inspected only, photograph not copied into sprites or repository."
+    },
+    {
+      "url": "https://www.sigpa.cl/ficha-elemento/media/upload/elementos/organilleros-04.jpg",
+      "sha256OfInspectedBytes": "3b86cdc1b9130433ff1594bf1b9c0be11b4534b5b75d24ed5048d310d33efb68",
+      "credit": "Consejo Nacional de la Cultura y las Artes / SIGPA",
+      "use": "Visual reference inspected only, photograph not copied into sprites or repository."
+    }
+  ]
+}

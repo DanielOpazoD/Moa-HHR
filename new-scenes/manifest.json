@@ -17563,5 +17563,785 @@
       "evidence": "evidence/C08/",
       "remainingLimitation": "Guiño a 31 Minutos: títere de calcetín naranja original que ayuda a recuperar una pelota; sin voces, canciones ni logos. Raster key poses; Chromium verified, physical devices not tested."
     }
+  },
+  {
+    "order": 93,
+    "id": "C09",
+    "title": "C09 · Noticiero de Moa",
+    "category": "Cultura popular chilena",
+    "pack": "new",
+    "batch": "chile-03",
+    "chileOrder": 9,
+    "version": 1,
+    "status": "approved",
+    "frames": 12,
+    "durations": [
+      500,
+      350,
+      350,
+      350,
+      350,
+      350,
+      350,
+      350,
+      350,
+      350,
+      350,
+      600
+    ],
+    "cycles": 1,
+    "still": 11,
+    "source": "new-scenes/sources/C09-v1.png",
+    "src": "new-scenes/atlases/moa-C09-v1.png",
+    "generator": "Integrated image_gen",
+    "reference": "references/moa-neutral.png",
+    "prompt": "new-scenes/prompts/C09.txt",
+    "context": "Noticiero ficticio, guiño a Tulio con Moa propio: cartel de flecha invertida, sin noticias o datos reales.",
+    "inspirationReferences": [],
+    "review": "All source and final poses visually reviewed on light, dark and blue, at real size and enlarged; see temporal evidence.",
+    "sourceColumns": [
+      0,
+      424,
+      821,
+      1217,
+      1642
+    ],
+    "packaging": {
+      "sourceSize": [
+        1642,
+        958
+      ],
+      "rowCuts": [
+        0,
+        347,
+        631,
+        958
+      ],
+      "columnCuts": [
+        0,
+        424,
+        821,
+        1217,
+        1642
+      ],
+      "rowBaselineRegistration": [
+        [
+          0,
+          35
+        ],
+        [
+          14,
+          35
+        ],
+        [
+          14,
+          35
+        ],
+        [
+          0,
+          35
+        ],
+        [
+          0,
+          99
+        ],
+        [
+          14,
+          99
+        ],
+        [
+          14,
+          99
+        ],
+        [
+          0,
+          99
+        ],
+        [
+          0,
+          99
+        ],
+        [
+          14,
+          99
+        ],
+        [
+          14,
+          99
+        ],
+        [
+          0,
+          99
+        ]
+      ],
+      "unionCrop": [
+        12,
+        108,
+        414,
+        374
+      ],
+      "sharedScale": 0.5639097744360902,
+      "frameSize": [
+        288,
+        168
+      ],
+      "origin": [
+        0,
+        0
+      ],
+      "trajectory": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          0
+        ]
+      ]
+    },
+    "frameFiles": [
+      "new-scenes/frames/C09-v1/000.png",
+      "new-scenes/frames/C09-v1/001.png",
+      "new-scenes/frames/C09-v1/002.png",
+      "new-scenes/frames/C09-v1/003.png",
+      "new-scenes/frames/C09-v1/004.png",
+      "new-scenes/frames/C09-v1/005.png",
+      "new-scenes/frames/C09-v1/006.png",
+      "new-scenes/frames/C09-v1/007.png",
+      "new-scenes/frames/C09-v1/008.png",
+      "new-scenes/frames/C09-v1/009.png",
+      "new-scenes/frames/C09-v1/010.png",
+      "new-scenes/frames/C09-v1/011.png"
+    ],
+    "sourceSha256": "eb6f5547f9daff6e4a5920c00234de09afe29b8fd2fe4ddcf23419f275cee262",
+    "frameSha256": [
+      "4bde5a3324ac5db996788b493440ac9adc8ca20728c379abc7f24387df50e0d1",
+      "ed4779c8803461b10cf66739f24f94fc079af45ca6ed96d93fafbea17e1a77c0",
+      "49963176a28bc18ddf22c05a34c5dbdcef61bcd1baaa6afa8ffbca3c2adfcc91",
+      "0e17712394c88179d1afd6384eeb214480ffc39976a55cc8bea104402e9d897b",
+      "85d14407279283172d523f08fd223306f57c6dc3313b56aeb0b9cdad88e4db4f",
+      "7a7c49e5563be0ec37b22aa85d784a761511f8bdb3277905dc8873a9d3c72c05",
+      "57a587be97c35ee487983d973cadb0d99fdcfdeb9496acc6d315e6e76311ac83",
+      "29a6370b4adb9bb848c9c30c5c7e2b405c939f2aee872b914ee7801da9f87ae9",
+      "ff9d25f33bb66be183375873c2c5ecaffaa81eda3bbc8534646d9e68141dd440",
+      "0d69f570979154e4cc0896e89fb56ab1482b44b60da915938e4c8ba3ad700f72",
+      "58fbbb736fe23aac446e8858755cdb38a56973d7d2f47064b16bfaa423d96e32",
+      "5be34f0b4d9f162ca6b289f046bee282708d5175408fd88d0f86267ccb266eb8"
+    ],
+    "bytes": 80684,
+    "sha256": "8ade47c022b586c51fd9b9025a5fbc66ed06cbd92b03e190a681b07331c5bd30",
+    "sourceBytes": 1441261,
+    "qa": {
+      "reviewer": "Codex visual and technical review; principal reviewer controls merge",
+      "date": "2026-10-13",
+      "frameByFrame": true,
+      "backgrounds": [
+        "light",
+        "dark",
+        "blue"
+      ],
+      "scales": [
+        1,
+        3
+      ],
+      "browserTemporalSamples": 12,
+      "evidence": "evidence/C09/",
+      "remainingLimitation": "Noticiero ficticio, guiño a Tulio con Moa propio: cartel de flecha invertida, sin noticias o datos reales. Raster key poses; Chromium verified, physical devices not tested."
+    }
+  },
+  {
+    "order": 94,
+    "id": "C10",
+    "title": "C10 · Quinta Vergara en miniatura",
+    "category": "Cultura popular chilena",
+    "pack": "new",
+    "batch": "chile-03",
+    "chileOrder": 10,
+    "version": 1,
+    "status": "approved",
+    "frames": 12,
+    "durations": [
+      500,
+      350,
+      350,
+      350,
+      350,
+      350,
+      350,
+      350,
+      350,
+      350,
+      350,
+      600
+    ],
+    "cycles": 1,
+    "still": 11,
+    "source": "new-scenes/sources/C10-v1.png",
+    "src": "new-scenes/atlases/moa-C10-v1.png",
+    "generator": "Integrated image_gen",
+    "reference": "references/moa-neutral.png",
+    "prompt": "new-scenes/prompts/C10.txt",
+    "context": "Homenaje ficticio: escenario pequeño, nervios y gaviota de utilería; no premio real ni aval.",
+    "inspirationReferences": [],
+    "review": "All source and final poses visually reviewed on light, dark and blue, at real size and enlarged; see temporal evidence.",
+    "sourceColumns": [
+      0,
+      425,
+      813,
+      1232,
+      1642
+    ],
+    "packaging": {
+      "sourceSize": [
+        1642,
+        958
+      ],
+      "rowCuts": [
+        0,
+        352,
+        642,
+        958
+      ],
+      "columnCuts": [
+        0,
+        425,
+        813,
+        1232,
+        1642
+      ],
+      "rowBaselineRegistration": [
+        [
+          0,
+          40
+        ],
+        [
+          18,
+          40
+        ],
+        [
+          3,
+          40
+        ],
+        [
+          7,
+          40
+        ],
+        [
+          0,
+          98
+        ],
+        [
+          18,
+          98
+        ],
+        [
+          3,
+          98
+        ],
+        [
+          7,
+          98
+        ],
+        [
+          0,
+          98
+        ],
+        [
+          18,
+          98
+        ],
+        [
+          3,
+          98
+        ],
+        [
+          7,
+          98
+        ]
+      ],
+      "unionCrop": [
+        9,
+        110,
+        413,
+        381
+      ],
+      "sharedScale": 0.5535055350553506,
+      "frameSize": [
+        288,
+        168
+      ],
+      "origin": [
+        0,
+        0
+      ],
+      "trajectory": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          0
+        ]
+      ]
+    },
+    "frameFiles": [
+      "new-scenes/frames/C10-v1/000.png",
+      "new-scenes/frames/C10-v1/001.png",
+      "new-scenes/frames/C10-v1/002.png",
+      "new-scenes/frames/C10-v1/003.png",
+      "new-scenes/frames/C10-v1/004.png",
+      "new-scenes/frames/C10-v1/005.png",
+      "new-scenes/frames/C10-v1/006.png",
+      "new-scenes/frames/C10-v1/007.png",
+      "new-scenes/frames/C10-v1/008.png",
+      "new-scenes/frames/C10-v1/009.png",
+      "new-scenes/frames/C10-v1/010.png",
+      "new-scenes/frames/C10-v1/011.png"
+    ],
+    "sourceSha256": "5bacfb5f790fe30b47c33bb127e823b41a0a09ce9baec1a09d4d1e53c26d53c0",
+    "frameSha256": [
+      "dce117db0ab61fcf0239401f66c57592017935ecb511f349dfaf0370f496481d",
+      "8f18ca8278c09cce11f5a685988bf0ece19cd35acfe2ad3324dc27770f0bf6ee",
+      "4c6777511ac55fc79c6c684ba85e2df3ae16357766b314ee3bb3a348ac696dba",
+      "a9c3dca7668d77c668da3c0e565806f0319c047eef7ae384d82fa8fe8136bd3b",
+      "158281cb0ed97a35dc3461d6ffff83c9db3d1db41ab11b22d2e338f7094176cc",
+      "38cc0536fdf12e5ad21a35eae4eaf4443969a8160a821874e744a630db73b48c",
+      "c2f7346db4c652afb01d0c6cfe36044d69a061f8fca6c5c3da24277184ae07d3",
+      "6225ede0ddd31d3e545a73004f919208a4dc162d8bf0523e0c9e03e15d36db30",
+      "05cc6d66c5d2dbbef0d6e14363a48dfa295d2b0f5c1c45d9fa7897d25cffd8b4",
+      "14db295b397604c19f2de3e75bba380ddb821989f8ed92e784202f974d053d52",
+      "374effece442043301535c5c8a86449ac0b391f0face8576a256694dafa4b9bd",
+      "239af80dbd40b89f9c4d3de8e4c93c123d64d49b9b4b6028f4af37123a3b78ac"
+    ],
+    "bytes": 89919,
+    "sha256": "7211994d9c1862db41c28ceb2720edf73bedc47e46544617ebbc24a490659bc9",
+    "sourceBytes": 1449732,
+    "qa": {
+      "reviewer": "Codex visual and technical review; principal reviewer controls merge",
+      "date": "2026-10-13",
+      "frameByFrame": true,
+      "backgrounds": [
+        "light",
+        "dark",
+        "blue"
+      ],
+      "scales": [
+        1,
+        3
+      ],
+      "browserTemporalSamples": 12,
+      "evidence": "evidence/C10/",
+      "remainingLimitation": "Homenaje ficticio: escenario pequeño, nervios y gaviota de utilería; no premio real ni aval. Raster key poses; Chromium verified, physical devices not tested."
+    }
+  },
+  {
+    "order": 95,
+    "id": "C11",
+    "title": "C11 · Chinchinero",
+    "category": "Cultura popular chilena",
+    "pack": "new",
+    "batch": "chile-03",
+    "chileOrder": 11,
+    "version": 4,
+    "status": "approved",
+    "frames": 12,
+    "durations": [
+      500,
+      350,
+      350,
+      350,
+      350,
+      350,
+      350,
+      350,
+      350,
+      350,
+      350,
+      600
+    ],
+    "cycles": 1,
+    "still": 11,
+    "source": "new-scenes/sources/C11-v4.png",
+    "src": "new-scenes/atlases/moa-C11-v4.png",
+    "generator": "Integrated image_gen",
+    "reference": "references/moa-neutral.png",
+    "prompt": "new-scenes/prompts/C11.txt",
+    "context": "Viñeta simplificada de bombo dorsal, platillos y tirapié; no demostración técnica ni representación completa del oficio.",
+    "inspirationReferences": [
+      {
+        "url": "https://www.sigpa.cl/ficha-elemento/oficio-tradicional-del-organillero-chinchinero",
+        "supports": "Fotografías organilleros-02 y04 inspeccionadas antes de generar: bombo dorsal, platillos superiores, baquetas, posición y pasos."
+      },
+      {
+        "url": "https://www.sigpa.cl/ficha-individual/guillermo-hernan-saavedra-munoz",
+        "supports": "Testimonio directo sobre batería invertida que se lleva en espalda."
+      },
+      {
+        "url": "https://www.sigpa.cl/ficha-individual/antonio-andres-henriquez-masanes",
+        "supports": "Testimonio de aprendizaje y uso del tirapié."
+      },
+      {
+        "url": "https://www.ojala.mx/en/ojala-en/drums-dance-and-defiance-in-santiago",
+        "supports": "Reportaje de campo: tirapié conecta pie con platillos superiores."
+      }
+    ],
+    "review": "All source and final poses visually reviewed on light, dark and blue, at real size and enlarged; see temporal evidence.",
+    "correctionPrompts": [
+      "new-scenes/prompts/C11-correction.txt",
+      "new-scenes/prompts/C11-correction-2.txt",
+      "new-scenes/prompts/C11-correction-3.txt"
+    ],
+    "rejectedSources": [
+      {
+        "source": "new-scenes/sources/C11-v1.png",
+        "reason": "Baqueta extra en giro posterior y tirapié inconsistente."
+      },
+      {
+        "source": "new-scenes/sources/C11-v2.png",
+        "reason": "Persisten baqueta extra y pie equivocado."
+      },
+      {
+        "source": "new-scenes/sources/C11-v3.png",
+        "reason": "Cuarto de giro y mecanismo mejorados, falta baqueta en cuadros4y9."
+      }
+    ],
+    "sourceColumns": [
+      0,
+      425,
+      811,
+      1201,
+      1642
+    ],
+    "packaging": {
+      "sourceSize": [
+        1642,
+        958
+      ],
+      "rowCuts": [
+        0,
+        325,
+        632,
+        958
+      ],
+      "columnCuts": [
+        0,
+        425,
+        811,
+        1201,
+        1642
+      ],
+      "rowBaselineRegistration": [
+        [
+          8,
+          39
+        ],
+        [
+          27,
+          39
+        ],
+        [
+          25,
+          39
+        ],
+        [
+          0,
+          39
+        ],
+        [
+          8,
+          55
+        ],
+        [
+          27,
+          55
+        ],
+        [
+          25,
+          55
+        ],
+        [
+          0,
+          55
+        ],
+        [
+          8,
+          58
+        ],
+        [
+          27,
+          58
+        ],
+        [
+          25,
+          58
+        ],
+        [
+          0,
+          58
+        ]
+      ],
+      "unionCrop": [
+        60,
+        67,
+        375,
+        352
+      ],
+      "sharedScale": 0.5263157894736842,
+      "frameSize": [
+        288,
+        168
+      ],
+      "origin": [
+        0,
+        0
+      ],
+      "trajectory": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          0
+        ]
+      ]
+    },
+    "frameFiles": [
+      "new-scenes/frames/C11-v4/000.png",
+      "new-scenes/frames/C11-v4/001.png",
+      "new-scenes/frames/C11-v4/002.png",
+      "new-scenes/frames/C11-v4/003.png",
+      "new-scenes/frames/C11-v4/004.png",
+      "new-scenes/frames/C11-v4/005.png",
+      "new-scenes/frames/C11-v4/006.png",
+      "new-scenes/frames/C11-v4/007.png",
+      "new-scenes/frames/C11-v4/008.png",
+      "new-scenes/frames/C11-v4/009.png",
+      "new-scenes/frames/C11-v4/010.png",
+      "new-scenes/frames/C11-v4/011.png"
+    ],
+    "sourceSha256": "514e8e0e183b89fa3e58d21a45f8f78542ceeaa60d8a55646eaa920f447ec4d7",
+    "frameSha256": [
+      "f869e395a7a8922b219b7a931e35796e1955016dc6e4340c928d465279a7f6cf",
+      "dde4869dd91e14cba864dfbc6347826d60188729e36eeb20ee5660c132b1c05d",
+      "7b6fd7e55ecb03f9c111bfa7a356f890c98addef318e5093e0d1f78f4c418cb8",
+      "62b3fda01f4e950be754ecf0cc62f91379b021a6a6a96262e3b80020cf5ceee5",
+      "28806be77d4bcf37795db0ca07e1029d284bfc739c372e8a871dafdb4fa52ab4",
+      "dee27e5e2553dcf4f4b69c7a4474a406cb940fbb2f1fe1c0c5cf3cc334009c60",
+      "5334da4038c259c903e05a65ab7529ec02ebedb28baad71993724ab9278adc8c",
+      "75109c0c6dbdafaaf2c45cb89805f932d329c3d76dc4e98fe6596e2f3bdd5c99",
+      "6ab009de88d29d419cf8c84a11309e9d5b9bc2f675ad547ad3faf09225b17d0c",
+      "8cff5bacd9eccda5f824fd6988635af62c6a2cfe0bbfbeb6fc54f58e21a6895e",
+      "70854a9453d958980c53a9d0cbd9f4578183abae374cc48368fdcfb209e73e2c",
+      "70e2232dbda5822346e82127e05430940e02f41de99f6c9b374031122a378331"
+    ],
+    "bytes": 81056,
+    "sha256": "3c25ced5f3b983700e8fa5aa2f1222850316d8590cb9569ffdc1ad0d1d8f8c6f",
+    "sourceBytes": 1335528,
+    "qa": {
+      "reviewer": "Codex visual and technical review; principal reviewer controls merge",
+      "date": "2026-10-13",
+      "frameByFrame": true,
+      "backgrounds": [
+        "light",
+        "dark",
+        "blue"
+      ],
+      "scales": [
+        1,
+        3
+      ],
+      "browserTemporalSamples": 12,
+      "evidence": "evidence/C11/",
+      "remainingLimitation": "Viñeta simplificada de bombo dorsal, platillos y tirapié; no demostración técnica ni representación completa del oficio. Raster key poses; Chromium verified, physical devices not tested."
+    }
+  },
+  {
+    "order": 96,
+    "id": "C12",
+    "title": "C12 · Quiltro protagonista",
+    "category": "Cultura popular chilena",
+    "pack": "new",
+    "batch": "chile-03",
+    "chileOrder": 12,
+    "version": 1,
+    "status": "approved",
+    "frames": 12,
+    "durations": [
+      500,
+      350,
+      350,
+      350,
+      350,
+      350,
+      350,
+      350,
+      350,
+      350,
+      350,
+      600
+    ],
+    "cycles": 1,
+    "still": 11,
+    "source": "new-scenes/sources/C12-v1.png",
+    "src": "new-scenes/atlases/moa-C12-v1.png",
+    "generator": "Integrated image_gen",
+    "reference": "references/moa-neutral.png",
+    "prompt": "new-scenes/prompts/C12.txt",
+    "context": "Retrato ficticio: un perro mestizo se sienta delante de Moa y termina posando con él; cámara sin flash ni fotos reales.",
+    "inspirationReferences": [],
+    "review": "All source and final poses visually reviewed on light, dark and blue, at real size and enlarged; see temporal evidence.",
+    "sourceColumns": [
+      0,
+      434,
+      837,
+      1240,
+      1642
+    ],
+    "packaging": {
+      "sourceSize": [
+        1642,
+        958
+      ],
+      "rowCuts": [
+        0,
+        388,
+        672,
+        958
+      ],
+      "columnCuts": [
+        0,
+        434,
+        837,
+        1240,
+        1642
+      ],
+      "rowBaselineRegistration": [
+        [
+          0,
+          25
+        ],
+        [
+          15,
+          25
+        ],
+        [
+          15,
+          25
+        ],
+        [
+          16,
+          25
+        ],
+        [
+          0,
+          137
+        ],
+        [
+          15,
+          137
+        ],
+        [
+          15,
+          137
+        ],
+        [
+          16,
+          137
+        ],
+        [
+          0,
+          151
+        ],
+        [
+          15,
+          151
+        ],
+        [
+          15,
+          151
+        ],
+        [
+          16,
+          151
+        ]
+      ],
+      "unionCrop": [
+        31,
+        138,
+        419,
+        415
+      ],
+      "sharedScale": 0.5415162454873647,
+      "frameSize": [
+        288,
+        168
+      ],
+      "origin": [
+        0,
+        0
+      ],
+      "trajectory": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          0
+        ]
+      ]
+    },
+    "frameFiles": [
+      "new-scenes/frames/C12-v1/000.png",
+      "new-scenes/frames/C12-v1/001.png",
+      "new-scenes/frames/C12-v1/002.png",
+      "new-scenes/frames/C12-v1/003.png",
+      "new-scenes/frames/C12-v1/004.png",
+      "new-scenes/frames/C12-v1/005.png",
+      "new-scenes/frames/C12-v1/006.png",
+      "new-scenes/frames/C12-v1/007.png",
+      "new-scenes/frames/C12-v1/008.png",
+      "new-scenes/frames/C12-v1/009.png",
+      "new-scenes/frames/C12-v1/010.png",
+      "new-scenes/frames/C12-v1/011.png"
+    ],
+    "sourceSha256": "27a39c22fc9112171e0e0bcfd832702134ccc69b9eee7ac48198560aebef185d",
+    "frameSha256": [
+      "afc5a4b17c57a67a1f05b987e54ab377f8e68445db09d1dbd56cf7105dc01a7f",
+      "4a715463df35677aad65d49bec7afd2fcd4b98a2044a820811c4db75c33634dd",
+      "4a5eb027cdf31ef94940222eca0a45bc0387039123158e23eab1e806e95b01ea",
+      "be5cf3fcec1f4ae5757fc14c7c8c93143a771e23b1fda5309f8727cf6d0301cd",
+      "c65151563dd0ef090fb9ba5a954a5158f26debcf565bbca7313e9330421f83dc",
+      "035a23c6c3720965d0b35e93cd086c79eec4df2f0f5119abff420a63c6d5f67a",
+      "f5dd7071896057679b80dfd542155bcd86be4884f27b53f33d296fd140b90ac1",
+      "0f49a82c870e76569bcfea6086d20c09bebdf1fc656dd0df42583c44885e8b16",
+      "27a191debe65292de0ad4117899a29535c84877c380f372da42b99b78d9e33c4",
+      "3aa9f9519b6347f2b09556f1e0eb5476f1536818d9b7e6608171e9ea3995c9c4",
+      "606b9d8000a874ff4eaea3d2b4887124256f0df43f12a23dd9d6730851afae23",
+      "3b3db84d581b5fab17ae3aceb7e3e462c2feee3acdb067d059618521912d48f6"
+    ],
+    "bytes": 89932,
+    "sha256": "3a91bb0efd278e9cf721f5d85eda4a0ed8275fb8402ff2990715a498d224fb45",
+    "sourceBytes": 1263450,
+    "qa": {
+      "reviewer": "Codex visual and technical review; principal reviewer controls merge",
+      "date": "2026-10-13",
+      "frameByFrame": true,
+      "backgrounds": [
+        "light",
+        "dark",
+        "blue"
+      ],
+      "scales": [
+        1,
+        3
+      ],
+      "browserTemporalSamples": 12,
+      "evidence": "evidence/C12/",
+      "remainingLimitation": "Retrato ficticio: un perro mestizo se sienta delante de Moa y termina posando con él; cámara sin flash ni fotos reales. Raster key poses; Chromium verified, physical devices not tested."
+    }
   }
 ]

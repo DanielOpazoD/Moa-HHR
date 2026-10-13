@@ -1,0 +1,15 @@
+NEW drawing from Moa identity reference only. Exactly12 DISTINCT poses, transparent pixel-art sheet4columns3rows. Respectful miniature Chilean chinchinero with SHORT QUARTER TURN ONLY, never full back view. Character ALWAYS faces generally LEFT in three-quarter or left profile. Same grey stone large rounded head, ears, white-rimmed black eyes, brows, compact body, turquoise chest wave. ONE brown cylindrical bass drum on BACK, behind torso to image RIGHT, two shoulder straps, cream circular skin visible at right. TWO dull brass cymbal discs stacked horizontally above BACK drum on short pole. Moa has EXACTLY TWO short arms with TWO hands. Each hand grasps one plain brown drumstick, total TWO sticks, no floating extra mallets. Near hand can swing its stick backward to touch visible drum skin. Far hand and stick can be partly occluded naturally; do not add third hand. No wave on drum.
+Essential clear mechanism: ONE cream cord runs from small lever below upper cymbal down outside RIGHT edge of drum to ONLY the IMAGE RIGHT ankle nearest drum. That foot stays the foot nearest drum throughout this shallow turn. Other image-left foot has NO band or cord. Cord taut when connected foot stretches backward slightly, cymbals together; slack when foot returns, cymbals separated. No band between two ankles, no two-foot loop.
+Frame1 relaxed ready, cymbals slightly apart, both sticks down, cord to nearest drum foot.
+2 near arm bends back and taps drum skin, far arm down.
+3 near arm lowers and far arm briefly flexes back, far stick partly hidden, two sticks only.
+4 connected IMAGE RIGHT foot stretches a little backward, cord taut, TWO cymbals touch closed, other foot supports.
+5 connected foot comes under body, cord relaxes, cymbals reopen.
+6 knees bend, feet pivot and torso begins shallow quarter turn left.
+7 full LEFT PROFILE, face visible, back drum at image right, near stick taps side skin, far stick naturally hidden.
+8 pivots back to three-quarter FRONT LEFT view.
+9 repeats small connected image-right foot extension, cymbals touch closed.
+10 returns both feet under body, cymbals reopen, sticks lowered.
+11 small bow of head and shoulders, instruments remain attached.
+12 proud warm smile, stable stance, two sticks at sides, drum behind and cord visible to one ankle.
+Same instruments and scale allframes, NO full rear view, no somersault, no marching drum on belly. Omit triangle and extra drums. Clear friendly articulated wrists/elbows/knees/feet. Pixel contours same as master, constant matte shading, no sparkle, effects, text or background. Whole composition central60percent each cell with60px transparent gutters and outermargin. Delivery288x168 display144x84CSS,top-right48x48 empty.
