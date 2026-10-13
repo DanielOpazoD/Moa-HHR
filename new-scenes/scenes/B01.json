@@ -1,0 +1,166 @@
+{
+  "order": 401,
+  "id": "B01",
+  "title": "B01 · El origami rebelde",
+  "category": "Moa aventuras",
+  "pack": "new",
+  "batch": "adventures-02",
+  "version": 1,
+  "status": "approved",
+  "frames": 12,
+  "durations": [
+    500,
+    500,
+    500,
+    500,
+    500,
+    500,
+    500,
+    500,
+    500,
+    500,
+    500,
+    500
+  ],
+  "cycles": 1,
+  "still": 11,
+  "source": "new-scenes/sources/B01-v1.png",
+  "src": "new-scenes/atlases/moa-B01-v1.png",
+  "generator": "Integrated image_gen directly operated by primary assistant",
+  "reference": "references/moa-neutral.png",
+  "prompt": "new-scenes/prompts/B01.txt",
+  "context": "Viñeta ficticia de humor y acompañamiento. No es una instrucción clínica ni representa operaciones reales.",
+  "review": "Primary assistant inspected source and packed sequences on light background; alpha and three-background previews validated. GitHub CI required before merge; local browser socket restriction.",
+  "sourceColumns": [
+    0,
+    362,
+    724,
+    1086,
+    1448
+  ],
+  "packaging": {
+    "sourceSize": [
+      1448,
+      1086
+    ],
+    "rowCuts": [
+      0,
+      396,
+      730,
+      1086
+    ],
+    "columnCuts": [
+      0,
+      362,
+      724,
+      1086,
+      1448
+    ],
+    "rowBaselineRegistration": [
+      [
+        0,
+        46
+      ],
+      [
+        0,
+        46
+      ],
+      [
+        0,
+        46
+      ],
+      [
+        0,
+        46
+      ],
+      [
+        0,
+        100
+      ],
+      [
+        0,
+        100
+      ],
+      [
+        0,
+        100
+      ],
+      [
+        0,
+        100
+      ],
+      [
+        0,
+        99
+      ],
+      [
+        0,
+        99
+      ],
+      [
+        0,
+        99
+      ],
+      [
+        0,
+        99
+      ]
+    ],
+    "unionCrop": [
+      17,
+      113,
+      340,
+      422
+    ],
+    "sharedScale": 0.4854368932038835,
+    "frameSize": [
+      288,
+      168
+    ],
+    "origin": [
+      0,
+      0
+    ],
+    "trajectory": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ]
+    ]
+  },
+  "frameFiles": [
+    "new-scenes/frames/B01-v1/000.png",
+    "new-scenes/frames/B01-v1/001.png",
+    "new-scenes/frames/B01-v1/002.png",
+    "new-scenes/frames/B01-v1/003.png",
+    "new-scenes/frames/B01-v1/004.png",
+    "new-scenes/frames/B01-v1/005.png",
+    "new-scenes/frames/B01-v1/006.png",
+    "new-scenes/frames/B01-v1/007.png",
+    "new-scenes/frames/B01-v1/008.png",
+    "new-scenes/frames/B01-v1/009.png",
+    "new-scenes/frames/B01-v1/010.png",
+    "new-scenes/frames/B01-v1/011.png"
+  ],
+  "sourceSha256": "35c92438202f14aa99b25a490320a51b281ad29dd97cad321c9f7a47592d894c",
+  "frameSha256": [
+    "cbf4d49dae612c5555cb62d7a38b5d1161eb86af6c9b8d1a19558cca3dbef56d",
+    "db608cd482d7c2327a609e3f5267207e80b79c55ab971c684635c072d73f6141",
+    "a4d11a4ec714b6d08df52d6e2f46ae3270d6dbc8c35f3887130bef0338a2fb77",
+    "fd0f5975de3d9f079dee4b89bdb3ca3baa21adab257101a22e5e0b6fbe23cf90",
+    "9f1c432406f477827f0f9e9fdb1e4ddc5fee2d7b2056db466f410c1d2f9a6243",
+    "06e7de7c943b4af29f6462a208551798acd90a0198a447ea70f5ba2664fc5e8f",
+    "e3a2330af724024a250ab7e1f90d95f547357b1c3f3b687a4f1e809ba411332c",
+    "b2cb54a4a01610d11336f458ed7d63777d30ebb9080e33f4b676938e6ddb288c",
+    "017085fa7f51bad9fbd661291de697fbf2a86f474da51493618d9d3a287a7d57",
+    "189a394d25bdf64b19afb1b1f24827c3dfe777374b1dba6564179fd45c68fa5f",
+    "000a23010dfef69bfd67bcf2372bf88fff1b068cf3e140782cdd2db2cc445e0c",
+    "0a0dd59a76fed13b8e34785ea0e518fd2efd4f7af422cd23b20d7ba6c107a88d"
+  ],
+  "bytes": 59294,
+  "sha256": "658f519aa3ca8f577d64beaa99f13b8731a16f8902f567312a3c1eb74ca2b784"
+}

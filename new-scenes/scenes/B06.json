@@ -1,0 +1,169 @@
+{
+  "order": 406,
+  "id": "B06",
+  "title": "B06 · Moa aprende a tejer",
+  "category": "Moa aventuras",
+  "pack": "new",
+  "batch": "adventures-02",
+  "version": 2,
+  "status": "approved",
+  "frames": 12,
+  "durations": [
+    500,
+    500,
+    500,
+    500,
+    500,
+    500,
+    500,
+    500,
+    500,
+    500,
+    500,
+    500
+  ],
+  "cycles": 1,
+  "still": 11,
+  "source": "new-scenes/sources/B06-v2.png",
+  "src": "new-scenes/atlases/moa-B06-v2.png",
+  "generator": "Integrated image_gen directly operated by primary assistant",
+  "reference": "references/moa-neutral.png",
+  "prompt": "new-scenes/prompts/B06.txt",
+  "context": "Viñeta ficticia de humor y acompañamiento. No es una instrucción clínica ni representa operaciones reales.",
+  "review": "Primary assistant inspected source and packed sequences on light background; alpha and three-background previews validated. GitHub CI required before merge; local browser socket restriction.",
+  "sourceColumns": [
+    0,
+    362,
+    724,
+    1086,
+    1448
+  ],
+  "rejectedSources": [
+    "new-scenes/sources/B06-v1.png"
+  ],
+  "packaging": {
+    "sourceSize": [
+      1448,
+      1086
+    ],
+    "rowCuts": [
+      0,
+      368,
+      715,
+      1086
+    ],
+    "columnCuts": [
+      0,
+      362,
+      724,
+      1086,
+      1448
+    ],
+    "rowBaselineRegistration": [
+      [
+        0,
+        43
+      ],
+      [
+        0,
+        43
+      ],
+      [
+        0,
+        43
+      ],
+      [
+        0,
+        43
+      ],
+      [
+        0,
+        61
+      ],
+      [
+        0,
+        61
+      ],
+      [
+        0,
+        61
+      ],
+      [
+        0,
+        61
+      ],
+      [
+        0,
+        67
+      ],
+      [
+        0,
+        67
+      ],
+      [
+        0,
+        67
+      ],
+      [
+        0,
+        67
+      ]
+    ],
+    "unionCrop": [
+      46,
+      78,
+      353,
+      397
+    ],
+    "sharedScale": 0.4702194357366771,
+    "frameSize": [
+      288,
+      168
+    ],
+    "origin": [
+      0,
+      0
+    ],
+    "trajectory": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ]
+    ]
+  },
+  "frameFiles": [
+    "new-scenes/frames/B06-v2/000.png",
+    "new-scenes/frames/B06-v2/001.png",
+    "new-scenes/frames/B06-v2/002.png",
+    "new-scenes/frames/B06-v2/003.png",
+    "new-scenes/frames/B06-v2/004.png",
+    "new-scenes/frames/B06-v2/005.png",
+    "new-scenes/frames/B06-v2/006.png",
+    "new-scenes/frames/B06-v2/007.png",
+    "new-scenes/frames/B06-v2/008.png",
+    "new-scenes/frames/B06-v2/009.png",
+    "new-scenes/frames/B06-v2/010.png",
+    "new-scenes/frames/B06-v2/011.png"
+  ],
+  "sourceSha256": "6776d111c5648f6ccaf3b2c732c8c65c17f58b7418a7bc5640a77a56ab6f5a03",
+  "frameSha256": [
+    "eb8a7f94ffd935544c6c5a3f90a6731fa5a51b08a0fe99406dd1185a718d05e3",
+    "4d98a4e4d04cbcf83403739eb28df3336db69760adc632fc605b1ae87dd50d49",
+    "09cb307bb50b57e8eea48d9cd48d782db84e9c4c2faff434abbcb1db31d98cbe",
+    "2b668fe59551a44e2d632041883d41b5c3e4246769f3d669412e8a31fa9d89e9",
+    "7c936e1176913efc5e00f6e529dc702d5fc991a09bb4786c389ce77014602af5",
+    "1ac66a4c4594b8a2601b07de99efc2d98ccece4df2684dbb07602e26d5c8e251",
+    "15cacf1a3ec6ac4b7e3f43497b07d7a29430fd14cccf36ac12e7a8d52443cf3c",
+    "3903df7cb9980ab01925c666bc6d3eec89c8d05823b938f87485084341ee92a0",
+    "3457be577d32836bf68186963ded6bd9001678bcbfa063cc24af3e08c771d4d3",
+    "4d166f5890ee433769a731fa457ecd0e3aec7acc6df2b3e303cea10260bcf72e",
+    "f9fc74870276e703fd1778090279a45ba8af34b26fa78f3d6a82b78e92f907be",
+    "f1cec48d55c23611f3f1499f190cb0400637d119d4646eade4ac0dc7793e2c2a"
+  ],
+  "bytes": 72485,
+  "sha256": "63d1f5ec857da27a1bab0f9050645e787046651bb2257baf02f2e3dc8717f26e"
+}
