@@ -1,0 +1,166 @@
+{
+  "id": "D28",
+  "order": 528,
+  "title": "D28 · Alison Mandel y el bolso sin fondo",
+  "category": "Chile: memes y encuentros",
+  "pack": "new",
+  "batch": "chile-remix-05",
+  "version": 1,
+  "status": "approved",
+  "frames": 12,
+  "durations": [
+    450,
+    450,
+    450,
+    450,
+    450,
+    450,
+    450,
+    450,
+    450,
+    450,
+    500,
+    900
+  ],
+  "cycles": 1,
+  "still": 11,
+  "source": "new-scenes/sources/D28-v1.png",
+  "src": "new-scenes/atlases/moa-D28-v1.png",
+  "generator": "Integrated image_gen directly operated by primary assistant",
+  "reference": "references/moa-neutral.png",
+  "prompt": "new-scenes/prompts/D28.txt",
+  "context": "Viñeta ficticia de humor. Los encuentros son homenajes artísticos, sin colaboración o respaldo de las personas representadas. Sin audio ni letras de canciones.",
+  "review": "Primary assistant visually reviews source and delivered frames. Full CI required before merge.",
+  "sourceGridColumns": 2,
+  "sourceColumns": [
+    0,
+    515,
+    1024
+  ],
+  "packaging": {
+    "sourceSize": [
+      1024,
+      1536
+    ],
+    "rowCuts": [
+      0,
+      271,
+      525,
+      778,
+      1031,
+      1273,
+      1536
+    ],
+    "columnCuts": [
+      0,
+      515,
+      1024
+    ],
+    "rowBaselineRegistration": [
+      [
+        0,
+        26
+      ],
+      [
+        3,
+        26
+      ],
+      [
+        0,
+        45
+      ],
+      [
+        3,
+        45
+      ],
+      [
+        0,
+        46
+      ],
+      [
+        3,
+        46
+      ],
+      [
+        0,
+        44
+      ],
+      [
+        3,
+        44
+      ],
+      [
+        0,
+        56
+      ],
+      [
+        3,
+        56
+      ],
+      [
+        0,
+        50
+      ],
+      [
+        3,
+        50
+      ]
+    ],
+    "unionCrop": [
+      39,
+      45,
+      481,
+      297
+    ],
+    "sharedScale": 0.5158371040723982,
+    "frameSize": [
+      288,
+      168
+    ],
+    "origin": [
+      0,
+      0
+    ],
+    "trajectory": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ]
+    ]
+  },
+  "frameFiles": [
+    "new-scenes/frames/D28-v1/000.png",
+    "new-scenes/frames/D28-v1/001.png",
+    "new-scenes/frames/D28-v1/002.png",
+    "new-scenes/frames/D28-v1/003.png",
+    "new-scenes/frames/D28-v1/004.png",
+    "new-scenes/frames/D28-v1/005.png",
+    "new-scenes/frames/D28-v1/006.png",
+    "new-scenes/frames/D28-v1/007.png",
+    "new-scenes/frames/D28-v1/008.png",
+    "new-scenes/frames/D28-v1/009.png",
+    "new-scenes/frames/D28-v1/010.png",
+    "new-scenes/frames/D28-v1/011.png"
+  ],
+  "sourceSha256": "f3468ad93d738706a0983ee53f0699ac7d88252e18fe1d362f994676c81d8aef",
+  "frameSha256": [
+    "6b9bdc66cbd71c7f123d5d8a585e2157111af7a71ad5ed6c79d60b88dbebcfd1",
+    "01fc11a9289ecd298ff0d9a6e4337f8faca99daa4d08c3ab7bbd01487d92e0c3",
+    "1fe200954a9282eada625ed5ba29e5fd54def1f8658010ad016d1c9997e393f1",
+    "048c09edc6e0bc770ca24ad4de1f8509b134f86eef5de9b77362f0663d830d82",
+    "17934a97c11cc3872ceb821aed754aab6366a4c4bb1d3a49cfb8265196fde885",
+    "d77789c976965265f7d5356a822589eeffa405c8ce3dcd6231b5778de1df1f41",
+    "47f222e99575eed538a699e74baf6adf32b4d815f2aaf9acf1743bd7ca03b7e6",
+    "cd40a8eb1dd2f70ba5935a09fbbf75e22b042e20d5466533e14d5f92fa1f8507",
+    "b22a4c69b81ad8154ac2219cdaac77e1123bcdc8ea4d47be411b6895dac1bcb7",
+    "394599dc1efb726eedef2cba7f3d46e4cf9b432f37aa346ad6e865680afd8367",
+    "8df31bad4da6770b9c55cd8413cb375c7b6d7ec4e9c9b098d91d0be1553cca80",
+    "6b713861dc35067761f29b1abb8b415bdd72d0e86a673c7a6cd4c626ccc936c8"
+  ],
+  "bytes": 105617,
+  "sha256": "2149c5bb33f302d266af8113ea48f07ad12e27454be373ad834718b8a8f16de2"
+}

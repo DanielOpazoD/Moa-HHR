@@ -1,0 +1,169 @@
+{
+  "id": "D30",
+  "order": 530,
+  "title": "D30 · Fabrizio Copano y el gráfico absurdo",
+  "category": "Chile: memes y encuentros",
+  "pack": "new",
+  "batch": "chile-remix-05",
+  "version": 2,
+  "status": "approved",
+  "frames": 12,
+  "durations": [
+    450,
+    450,
+    450,
+    450,
+    450,
+    450,
+    450,
+    450,
+    450,
+    450,
+    500,
+    900
+  ],
+  "cycles": 1,
+  "still": 11,
+  "source": "new-scenes/sources/D30-v2.png",
+  "src": "new-scenes/atlases/moa-D30-v2.png",
+  "generator": "Integrated image_gen directly operated by primary assistant",
+  "reference": "references/moa-neutral.png",
+  "prompt": "new-scenes/prompts/D30.txt",
+  "context": "Viñeta ficticia de humor. Los encuentros son homenajes artísticos, sin colaboración o respaldo de las personas representadas. Sin audio ni letras de canciones.",
+  "review": "Primary assistant visually reviews source and delivered frames. Full CI required before merge.",
+  "sourceGridColumns": 2,
+  "discardedSources": [
+    "new-scenes/sources/D30-v1.png"
+  ],
+  "sourceColumns": [
+    0,
+    519,
+    1024
+  ],
+  "packaging": {
+    "sourceSize": [
+      1024,
+      1536
+    ],
+    "rowCuts": [
+      0,
+      276,
+      538,
+      789,
+      1044,
+      1286,
+      1536
+    ],
+    "columnCuts": [
+      0,
+      519,
+      1024
+    ],
+    "rowBaselineRegistration": [
+      [
+        0,
+        48
+      ],
+      [
+        7,
+        48
+      ],
+      [
+        0,
+        62
+      ],
+      [
+        7,
+        62
+      ],
+      [
+        0,
+        77
+      ],
+      [
+        7,
+        77
+      ],
+      [
+        0,
+        72
+      ],
+      [
+        7,
+        72
+      ],
+      [
+        0,
+        76
+      ],
+      [
+        7,
+        76
+      ],
+      [
+        0,
+        79
+      ],
+      [
+        7,
+        79
+      ]
+    ],
+    "unionCrop": [
+      30,
+      87,
+      497,
+      303
+    ],
+    "sharedScale": 0.48822269807280516,
+    "frameSize": [
+      288,
+      168
+    ],
+    "origin": [
+      0,
+      0
+    ],
+    "trajectory": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ]
+    ]
+  },
+  "frameFiles": [
+    "new-scenes/frames/D30-v2/000.png",
+    "new-scenes/frames/D30-v2/001.png",
+    "new-scenes/frames/D30-v2/002.png",
+    "new-scenes/frames/D30-v2/003.png",
+    "new-scenes/frames/D30-v2/004.png",
+    "new-scenes/frames/D30-v2/005.png",
+    "new-scenes/frames/D30-v2/006.png",
+    "new-scenes/frames/D30-v2/007.png",
+    "new-scenes/frames/D30-v2/008.png",
+    "new-scenes/frames/D30-v2/009.png",
+    "new-scenes/frames/D30-v2/010.png",
+    "new-scenes/frames/D30-v2/011.png"
+  ],
+  "sourceSha256": "7b851f6dad87dd755e7a6be2f40022b9a958a3638e68457fd671b5b1e403d132",
+  "frameSha256": [
+    "162988b7d5860097337c644b496ffb157480865b34860ce5b0f8ea62555482ad",
+    "c7d7af9f3a20a3a2343ad8850d406a08d7a5a1522a93853495efddbb291247f9",
+    "008aa20d1ed3111ba30bca5fa6ae7aaa51a79381ce0ef4d5c873cac039e5682b",
+    "aed5a6fb8063cc5b64f52b224bd0f8b76c07c8f115fd357717b3dccf680202fa",
+    "029a92f8c5d54089f03793850b6d42ac6cd9be81eeee9e7c970bc58f0d5bcbf9",
+    "864ca76d4cc89f80992252c8fd2bc20df0e48020bb529afb417f0679ee69433d",
+    "b8508fe3baee6dc9d65421230ca3aec42bcfb47fda0a669d35dc1818dfdfbda7",
+    "55d79a0322a3b67a68223b17c45ea43826217e8ae35cca6dc6d4fd04fec17520",
+    "aed373738f9a8832b7b92d20b9751c6771ca5c294a0e513021fdbe51ea4c517f",
+    "e928e7cf2a23f309875eb688c76831726507ad000b8203b62a9f4b0c9c258932",
+    "7ba3f1f699ce4e6598480968258088d2d4347b6896f4e6c574fc3c926b75372f",
+    "09bcaf6ef9476f41edde8a6b30d5c10ae9a73ed182206ffc5932ce13f33a90fb"
+  ],
+  "bytes": 65375,
+  "sha256": "be1c75f94a1f63aa30bddcc96ccf3cb04e14b7a696578f8601b21ed466c8eb14"
+}
