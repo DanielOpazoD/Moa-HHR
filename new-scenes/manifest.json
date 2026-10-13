@@ -19102,5 +19102,801 @@
       "evidence": "evidence/C16/",
       "remainingLimitation": "Guiño ficticio a Pedro Pascal: Moa pasa de pose seria a sonrisa y saludo tímido. Vestuario propio, sin retrato humano ni aval. Raster key poses; Chromium verified, physical devices not tested."
     }
+  },
+  {
+    "order": 101,
+    "id": "C17",
+    "title": "C17 · La atajada compartida",
+    "category": "Cultura popular chilena",
+    "pack": "new",
+    "batch": "chile-05",
+    "chileOrder": 17,
+    "version": 1,
+    "status": "approved",
+    "frames": 16,
+    "durations": [
+      500,
+      320,
+      320,
+      320,
+      320,
+      320,
+      320,
+      320,
+      320,
+      320,
+      320,
+      320,
+      320,
+      320,
+      320,
+      620
+    ],
+    "cycles": 1,
+    "still": 15,
+    "source": "new-scenes/sources/C17-v1.png",
+    "src": "new-scenes/atlases/moa-C17-v1.png",
+    "generator": "Integrated image_gen",
+    "reference": "references/moa-neutral.png",
+    "prompt": "new-scenes/prompts/C17.txt",
+    "context": "Homenaje ficticio a Christiane Endler: atajada y reconocimiento del equipo.",
+    "inspirationReferences": [
+      {
+        "url": "https://news.adidas.com/football/predator-edge-portrait--christiane-endler/s/d5a0d6bd-4d25-48d8-853a-6a6d04296ac7",
+        "supports": "Referencia pública de contexto de la persona homenajeada; acción ficticia solicitada por el usuario, sin aval."
+      }
+    ],
+    "review": "Every source and final pose reviewed on three backgrounds at real size and enlarged; temporal evidence accompanies block.",
+    "sourceColumns": [
+      0,
+      423,
+      831,
+      1243,
+      1642
+    ],
+    "packaging": {
+      "sourceSize": [
+        1642,
+        958
+      ],
+      "rowCuts": [
+        0,
+        260,
+        481,
+        710,
+        958
+      ],
+      "columnCuts": [
+        0,
+        423,
+        831,
+        1243,
+        1642
+      ],
+      "rowBaselineRegistration": [
+        [
+          0,
+          54
+        ],
+        [
+          7,
+          54
+        ],
+        [
+          5,
+          54
+        ],
+        [
+          12,
+          54
+        ],
+        [
+          0,
+          82
+        ],
+        [
+          7,
+          82
+        ],
+        [
+          5,
+          82
+        ],
+        [
+          12,
+          82
+        ],
+        [
+          0,
+          75
+        ],
+        [
+          7,
+          75
+        ],
+        [
+          5,
+          75
+        ],
+        [
+          12,
+          75
+        ],
+        [
+          0,
+          74
+        ],
+        [
+          7,
+          74
+        ],
+        [
+          5,
+          74
+        ],
+        [
+          12,
+          74
+        ]
+      ],
+      "unionCrop": [
+        19,
+        94,
+        412,
+        288
+      ],
+      "sharedScale": 0.5801526717557252,
+      "frameSize": [
+        288,
+        168
+      ],
+      "origin": [
+        0,
+        0
+      ],
+      "trajectory": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          0
+        ]
+      ]
+    },
+    "frameFiles": [
+      "new-scenes/frames/C17-v1/000.png",
+      "new-scenes/frames/C17-v1/001.png",
+      "new-scenes/frames/C17-v1/002.png",
+      "new-scenes/frames/C17-v1/003.png",
+      "new-scenes/frames/C17-v1/004.png",
+      "new-scenes/frames/C17-v1/005.png",
+      "new-scenes/frames/C17-v1/006.png",
+      "new-scenes/frames/C17-v1/007.png",
+      "new-scenes/frames/C17-v1/008.png",
+      "new-scenes/frames/C17-v1/009.png",
+      "new-scenes/frames/C17-v1/010.png",
+      "new-scenes/frames/C17-v1/011.png",
+      "new-scenes/frames/C17-v1/012.png",
+      "new-scenes/frames/C17-v1/013.png",
+      "new-scenes/frames/C17-v1/014.png",
+      "new-scenes/frames/C17-v1/015.png"
+    ],
+    "sourceSha256": "ed9f2ad3475d16685a700519dd18efb460fab9f39b1f7e444ef5f40bc50627bf",
+    "frameSha256": [
+      "a5734fc7b7c043d44285a5fc27e7f02181cf0a94254c368c7c3f31f782daef95",
+      "0b1649e9aba744bce5c6aff70310011146e0672bf273b399a2de6737ca4a4314",
+      "e103448c198b2b7fe8b45176f2618402ef070da5339dc6ca52ebb2320c42f46e",
+      "92741f015e75e8b9b0037dd5f92d6a01cfbabafaeb6670df2cf6ecdfe8c24248",
+      "c871f26e3167b655ed2943438588bb20d47cdb362c057f691bf1ab22317a82d4",
+      "930b2c138b49adb7e6866aa1fc914d594ffd3f46a942c9027f61d5fb9b428071",
+      "8a06b7f25141e8b4cb9d17951ce3bb63a4889b6020d2bdc81104ebbcaa6a755c",
+      "dd1376368260edb787f056768ffabc60730e5d8e516daebcf902fbc2b1202848",
+      "3c222c12fbe0b6f3d73ed4c6de89ac12401a7dfce73d0351ebcdc995fe772ec7",
+      "205e407b8db3032e64029294a3d4584ec6737459c86d4fec3bc691cfe806811b",
+      "783a40ac367dc74cd97e0473e16595fdc479b0f9510f1c84c6db6e4b659b1184",
+      "79a7c8b950a3ab8a0a00f8bbb6ceb038b01cdd59ed404ea6862b1ce8e90466f1",
+      "c085cb2e4db1937cf504b943f49bbada61d72f2fd76af8875777777182dfb2c1",
+      "2a16a5f4185847d041d6acb2820e41bcb40f6c362eb466c744e9ae8fc774b96b",
+      "147682366a56287dcb7dfef4fbcbce412d80b60b6bc966a88bd9136d59c63283",
+      "85cb0e22d3127f953e84673a5f585f7799598f071a1a6fac08f11382ecaf08b6"
+    ],
+    "bytes": 121202,
+    "sha256": "830e0c6e62b127fe3fe7d341653f962ee65bcc10332afb2b79971f43302a3ea9",
+    "sourceBytes": 1571716,
+    "qa": {
+      "reviewer": "Codex visual and technical review; principal reviewer controls merge",
+      "date": "2026-10-13",
+      "frameByFrame": true,
+      "backgrounds": [
+        "light",
+        "dark",
+        "blue"
+      ],
+      "scales": [
+        1,
+        3
+      ],
+      "browserTemporalSamples": 16,
+      "evidence": "evidence/C17/",
+      "remainingLimitation": "Poses clave raster; movimiento abreviado, no actuación o técnica real. Chromium; dispositivos físicos, Firefox y Safari no probados."
+    }
+  },
+  {
+    "order": 102,
+    "id": "C18",
+    "title": "C18 · Respirar y celebrar",
+    "category": "Cultura popular chilena",
+    "pack": "new",
+    "batch": "chile-05",
+    "chileOrder": 18,
+    "version": 1,
+    "status": "approved",
+    "frames": 8,
+    "durations": [
+      600,
+      450,
+      450,
+      450,
+      450,
+      450,
+      450,
+      700
+    ],
+    "cycles": 1,
+    "still": 7,
+    "source": "new-scenes/sources/C18-v1.png",
+    "src": "new-scenes/atlases/moa-C18-v1.png",
+    "generator": "Integrated image_gen",
+    "reference": "references/moa-neutral.png",
+    "prompt": "new-scenes/prompts/C18.txt",
+    "context": "Homenaje ficticio a Francisca Crovetto: concentración, respiración y logro simbólico.",
+    "inspirationReferences": [
+      {
+        "url": "https://www.marcachile.cl/somos-chile/francisca-crovetto/",
+        "supports": "Referencia pública de contexto de la persona homenajeada; acción ficticia solicitada por el usuario, sin aval."
+      }
+    ],
+    "review": "Every source and final pose reviewed on three backgrounds at real size and enlarged; temporal evidence accompanies block.",
+    "sourceColumns": [
+      0,
+      408,
+      823,
+      1231,
+      1642
+    ],
+    "packaging": {
+      "sourceSize": [
+        1642,
+        958
+      ],
+      "rowCuts": [
+        0,
+        480,
+        958
+      ],
+      "columnCuts": [
+        0,
+        408,
+        823,
+        1231,
+        1642
+      ],
+      "rowBaselineRegistration": [
+        [
+          3,
+          58
+        ],
+        [
+          0,
+          58
+        ],
+        [
+          3,
+          58
+        ],
+        [
+          2,
+          58
+        ],
+        [
+          3,
+          91
+        ],
+        [
+          0,
+          91
+        ],
+        [
+          3,
+          91
+        ],
+        [
+          2,
+          91
+        ]
+      ],
+      "unionCrop": [
+        54,
+        126,
+        364,
+        507
+      ],
+      "sharedScale": 0.3937007874015748,
+      "frameSize": [
+        288,
+        168
+      ],
+      "origin": [
+        0,
+        0
+      ],
+      "trajectory": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          0
+        ]
+      ]
+    },
+    "frameFiles": [
+      "new-scenes/frames/C18-v1/000.png",
+      "new-scenes/frames/C18-v1/001.png",
+      "new-scenes/frames/C18-v1/002.png",
+      "new-scenes/frames/C18-v1/003.png",
+      "new-scenes/frames/C18-v1/004.png",
+      "new-scenes/frames/C18-v1/005.png",
+      "new-scenes/frames/C18-v1/006.png",
+      "new-scenes/frames/C18-v1/007.png"
+    ],
+    "sourceSha256": "a8a941a6acb0b4aff70040445680c9aaacb05b73821ce14eaddf524eaf53239c",
+    "frameSha256": [
+      "14153f23c09a6997ce739782fea222050acb08acbad6a51d1beeb952cbe06e5e",
+      "3b78d05e39e3198d9b4910ec43b8c6f5b35192117e15d2fc3ce6191964848cf3",
+      "5b024677f52f63f9ea450f7a201df857335b43e06b41ae2c6c5a975bcca441a6",
+      "f00675b1a4aeda0c4fedf4905bf93cd6b5e185b9e13d15e0b9456fb206a0f1de",
+      "1b8a7d7a65b5e26db7461743c0be4b8a67e488a121523ca87de5d1223301c3d7",
+      "a323eb99ebff3ed82a1555ab78e0ae84c5acc7800b9d11b861d9a17063e9bd6a",
+      "28a4cc3d56dacdfa35d1b7d94d48b90b421294ec9af722e312f49cd9da6025b6",
+      "8604bdea3d754e7f413b756b5ec8cea4b15134fdb79a393fcdfc41b26b9573d7"
+    ],
+    "bytes": 36583,
+    "sha256": "abfe00449cc5185c2d6f2e84954c967f1294746126b59a0ec672b32b3e844741",
+    "sourceBytes": 1060586,
+    "qa": {
+      "reviewer": "Codex visual and technical review; principal reviewer controls merge",
+      "date": "2026-10-13",
+      "frameByFrame": true,
+      "backgrounds": [
+        "light",
+        "dark",
+        "blue"
+      ],
+      "scales": [
+        1,
+        3
+      ],
+      "browserTemporalSamples": 8,
+      "evidence": "evidence/C18/",
+      "remainingLimitation": "Poses clave raster; movimiento abreviado, no actuación o técnica real. Chromium; dispositivos físicos, Firefox y Safari no probados."
+    }
+  },
+  {
+    "order": 103,
+    "id": "C19",
+    "title": "C19 · Demasiados personajes",
+    "category": "Cultura popular chilena",
+    "pack": "new",
+    "batch": "chile-05",
+    "chileOrder": 19,
+    "version": 1,
+    "status": "approved",
+    "frames": 16,
+    "durations": [
+      500,
+      320,
+      320,
+      320,
+      320,
+      320,
+      320,
+      320,
+      320,
+      320,
+      320,
+      320,
+      320,
+      320,
+      320,
+      620
+    ],
+    "cycles": 1,
+    "still": 15,
+    "source": "new-scenes/sources/C19-v1.png",
+    "src": "new-scenes/atlases/moa-C19-v1.png",
+    "generator": "Integrated image_gen",
+    "reference": "references/moa-neutral.png",
+    "prompt": "new-scenes/prompts/C19.txt",
+    "context": "Homenaje ficticio a Stefan Kramer: cambios de accesorios y postura, sin imitar a una persona concreta.",
+    "inspirationReferences": [],
+    "review": "Every source and final pose reviewed on three backgrounds at real size and enlarged; temporal evidence accompanies block.",
+    "sourceColumns": [
+      0,
+      442,
+      843,
+      1253,
+      1642
+    ],
+    "packaging": {
+      "sourceSize": [
+        1642,
+        958
+      ],
+      "rowCuts": [
+        0,
+        238,
+        478,
+        714,
+        958
+      ],
+      "columnCuts": [
+        0,
+        442,
+        843,
+        1253,
+        1642
+      ],
+      "rowBaselineRegistration": [
+        [
+          0,
+          35
+        ],
+        [
+          20,
+          35
+        ],
+        [
+          16,
+          35
+        ],
+        [
+          26,
+          35
+        ],
+        [
+          0,
+          29
+        ],
+        [
+          20,
+          29
+        ],
+        [
+          16,
+          29
+        ],
+        [
+          26,
+          29
+        ],
+        [
+          0,
+          32
+        ],
+        [
+          20,
+          32
+        ],
+        [
+          16,
+          32
+        ],
+        [
+          26,
+          32
+        ],
+        [
+          0,
+          40
+        ],
+        [
+          20,
+          40
+        ],
+        [
+          16,
+          40
+        ],
+        [
+          26,
+          40
+        ]
+      ],
+      "unionCrop": [
+        40,
+        32,
+        419,
+        271
+      ],
+      "sharedScale": 0.6015831134564644,
+      "frameSize": [
+        288,
+        168
+      ],
+      "origin": [
+        0,
+        0
+      ],
+      "trajectory": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          0
+        ]
+      ]
+    },
+    "frameFiles": [
+      "new-scenes/frames/C19-v1/000.png",
+      "new-scenes/frames/C19-v1/001.png",
+      "new-scenes/frames/C19-v1/002.png",
+      "new-scenes/frames/C19-v1/003.png",
+      "new-scenes/frames/C19-v1/004.png",
+      "new-scenes/frames/C19-v1/005.png",
+      "new-scenes/frames/C19-v1/006.png",
+      "new-scenes/frames/C19-v1/007.png",
+      "new-scenes/frames/C19-v1/008.png",
+      "new-scenes/frames/C19-v1/009.png",
+      "new-scenes/frames/C19-v1/010.png",
+      "new-scenes/frames/C19-v1/011.png",
+      "new-scenes/frames/C19-v1/012.png",
+      "new-scenes/frames/C19-v1/013.png",
+      "new-scenes/frames/C19-v1/014.png",
+      "new-scenes/frames/C19-v1/015.png"
+    ],
+    "sourceSha256": "8cd9e6f84b0aaf253bfc9528a0744561163349448310e0a0fbba0fee51ae01c1",
+    "frameSha256": [
+      "8509e5b8f72ac2f8e7e673a0e5a8ee2305325e39abbe4ae8006d19bd7c50c104",
+      "3185d7a30df837ae0cff2b168fca6a7c59e217463ad1497cf58b6a9266407302",
+      "fd9d1215ef4739cb84660f340f6dc8927ca9947683e78e53bfcc3548dd474b03",
+      "41026c8c72cd26281d5100a6938864dbb380e58d9b301917f36bc32310514d71",
+      "ccacd66a148301311e9c4aafb7f0e49274ebde60bc9a9d0d387e5336d5d607bd",
+      "52a52cdbc50f734236fc4849aa1cbdb956348d37a21025bf21cba9740f8a405a",
+      "c0c820c369a0fd618f975d1370e18a8199e96eac6843bad4da434520297bc4f4",
+      "6ce56a1334c4a56cf6a38fc07797f88681998d5df767ff50de0dbd624a8e971c",
+      "91c515e84b496133cbb79e27bacf27801cec279a1abfcb63c275b7b0f3d43d19",
+      "a134312e3a93418d0c059077b78f9ffbbbdc4e119ac07b1819db650f539995e1",
+      "9c11a83d7accc2acbc185fd8dbabf119e5fe27a0ded71806d9265780a0bf6dd6",
+      "f00fea7cd217ec705b16cd49e744a4f6e9a3a2478bb19fe2f9867e3170530ceb",
+      "7bd1175cb439a017527d7f3cd709f5ed8234f01dfe3941ea246e3ee45a9820e6",
+      "2b71953bffd62ca901727ff844dafe4c6c818ba93196bb72dfef764e40214277",
+      "b756cf1ef2cd8e7d9da6245e6944e811c058d42821c8991c7bb5fe0820ceeefa",
+      "cff7171a07f00043d93a7f9534094d57ec04f418ad1bd4cfb67e8433df2d59e6"
+    ],
+    "bytes": 104289,
+    "sha256": "eed302f5e962d9cdbfdcc994cb73f689807f60610b4541d69e6b859f1006efb0",
+    "sourceBytes": 1348619,
+    "qa": {
+      "reviewer": "Codex visual and technical review; principal reviewer controls merge",
+      "date": "2026-10-13",
+      "frameByFrame": true,
+      "backgrounds": [
+        "light",
+        "dark",
+        "blue"
+      ],
+      "scales": [
+        1,
+        3
+      ],
+      "browserTemporalSamples": 16,
+      "evidence": "evidence/C19/",
+      "remainingLimitation": "Poses clave raster; movimiento abreviado, no actuación o técnica real. Chromium; dispositivos físicos, Firefox y Safari no probados."
+    }
+  },
+  {
+    "order": 104,
+    "id": "C20",
+    "title": "C20 · Una estrella y el asombro",
+    "category": "Cultura popular chilena",
+    "pack": "new",
+    "batch": "chile-05",
+    "chileOrder": 20,
+    "version": 2,
+    "status": "approved",
+    "frames": 12,
+    "durations": [
+      500,
+      350,
+      350,
+      350,
+      350,
+      350,
+      350,
+      350,
+      350,
+      350,
+      350,
+      600
+    ],
+    "cycles": 1,
+    "still": 11,
+    "source": "new-scenes/sources/C20-v2.png",
+    "src": "new-scenes/atlases/moa-C20-v2.png",
+    "generator": "Integrated image_gen",
+    "reference": "references/moa-neutral.png",
+    "prompt": "new-scenes/prompts/C20.txt",
+    "context": "Homenaje ficticio al entusiasmo divulgador de José Maza; ilustración fantástica, sin afirmación científica.",
+    "inspirationReferences": [
+      {
+        "url": "https://das.uchile.cl/integrantes/jose-maza/",
+        "supports": "Referencia pública de contexto de la persona homenajeada; acción ficticia solicitada por el usuario, sin aval."
+      }
+    ],
+    "review": "Every source and final pose reviewed on three backgrounds at real size and enlarged; temporal evidence accompanies block.",
+    "sourceColumns": [
+      0,
+      406,
+      813,
+      1222,
+      1642
+    ],
+    "packaging": {
+      "sourceSize": [
+        1642,
+        958
+      ],
+      "rowCuts": [
+        0,
+        339,
+        642,
+        958
+      ],
+      "columnCuts": [
+        0,
+        406,
+        813,
+        1222,
+        1642
+      ],
+      "rowBaselineRegistration": [
+        [
+          7,
+          56
+        ],
+        [
+          6,
+          56
+        ],
+        [
+          5,
+          56
+        ],
+        [
+          0,
+          56
+        ],
+        [
+          7,
+          89
+        ],
+        [
+          6,
+          89
+        ],
+        [
+          5,
+          89
+        ],
+        [
+          0,
+          89
+        ],
+        [
+          7,
+          86
+        ],
+        [
+          6,
+          86
+        ],
+        [
+          5,
+          86
+        ],
+        [
+          0,
+          86
+        ]
+      ],
+      "unionCrop": [
+        11,
+        114,
+        411,
+        367
+      ],
+      "sharedScale": 0.57,
+      "frameSize": [
+        288,
+        168
+      ],
+      "origin": [
+        0,
+        0
+      ],
+      "trajectory": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          0
+        ]
+      ]
+    },
+    "frameFiles": [
+      "new-scenes/frames/C20-v2/000.png",
+      "new-scenes/frames/C20-v2/001.png",
+      "new-scenes/frames/C20-v2/002.png",
+      "new-scenes/frames/C20-v2/003.png",
+      "new-scenes/frames/C20-v2/004.png",
+      "new-scenes/frames/C20-v2/005.png",
+      "new-scenes/frames/C20-v2/006.png",
+      "new-scenes/frames/C20-v2/007.png",
+      "new-scenes/frames/C20-v2/008.png",
+      "new-scenes/frames/C20-v2/009.png",
+      "new-scenes/frames/C20-v2/010.png",
+      "new-scenes/frames/C20-v2/011.png"
+    ],
+    "sourceSha256": "24ec179c66bf15942022f2fbe52b0de19869779289fcd4fde8f3b14a30e2d7dd",
+    "frameSha256": [
+      "91d71683392dfdac088f0d8f32013341b9808c7b2f7b5a7dd47b01ef1287e59c",
+      "aa327112fe30cf77c7eafdb42df267e76cc77976afb5ef9129737f12d67e49b2",
+      "ed784cda782b7dd781c5d442a03ee8e8c8257a7be413f2f3aa9b44bd5cec84b2",
+      "eed4117c23eb5448ae90d34d8dab472acbb22144b51af66889fd2ac28d6115ec",
+      "895343b40aaecf9685988bf312d618aa6f453ca7c9783ee4778fa1a5aff33ebb",
+      "06ab5348ac4296efccc5373c2c2ec8f449c621236485ba848354210aee17bc72",
+      "754c570b33ed124a8c5a5bccc28ebf5936427d2a763b69e24acd4e1948ab993f",
+      "81985430a34d6e2be08ae8aa74f210d52ac7827c37c2734f44a07671bc7e6bf9",
+      "7cdbdcb7871ae9fa8819156672456c775b8964dc287ace3fe59e3a7bf24cc941",
+      "c2aa53ce777706febdd182ea0176f9616dc72493f01f78824ea57591d29b7fad",
+      "e26cb5773d4274c91a790b537aad253750ad7c5431bc483f943a4fd41d00a925",
+      "577b3e6c6cfd6d8e8727b52b64105fd50ef989bc354c93f925d12d043d84bb73"
+    ],
+    "bytes": 82368,
+    "sha256": "c3527cd46c0d6d67a8d568ac2fae3d321f5de01f06a074a58222c012ab24804f",
+    "sourceBytes": 1498964,
+    "qa": {
+      "reviewer": "Codex visual and technical review; principal reviewer controls merge",
+      "date": "2026-10-13",
+      "frameByFrame": true,
+      "backgrounds": [
+        "light",
+        "dark",
+        "blue"
+      ],
+      "scales": [
+        1,
+        3
+      ],
+      "browserTemporalSamples": 12,
+      "evidence": "evidence/C20/",
+      "remainingLimitation": "Poses clave raster; movimiento abreviado, no actuación o técnica real. Chromium; dispositivos físicos, Firefox y Safari no probados."
+    },
+    "rejectedSources": [
+      {
+        "source": "new-scenes/sources/C20-v1.png",
+        "sha256": "79a49c936e47daeff59afc7ac48239439b1ff2cbe30700cbc31fee039f833023",
+        "prompt": "new-scenes/prompts/C20-v1.txt",
+        "reason": "Marcas de sorpresa no solicitadas y tiza ausente en cuadros finales; reemplazada por v2."
+      }
+    ]
   }
 ]

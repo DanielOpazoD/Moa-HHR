@@ -16,7 +16,7 @@ Maestro: PNG real de la guía aprobada, inspeccionado antes de generar. Fuentes 
 - C05–C08: revisión visual y técnica completada; [informe](QA-chile-02.md).
 - C09–C12: revisión visual y técnica completada; [informe](QA-chile-03.md).
 - C13–C16: revisión visual y técnica completada; [informe](QA-chile-04.md).
-- C17–C20: pendientes de producción.
+- C17–C20: revisión visual y técnica completada; [informe](QA-chile-05.md).
 
 ## Índice disponible
 
@@ -36,7 +36,7 @@ C05–C08 se basan en las situaciones aprobadas por el usuario. C07 alude al rem
 | [C07 · Remate de Moa](../new-scenes/scenes/C07.json) | 12 | 4600 ms | 90688 B | [PNG](../new-scenes/frames/C07-v1/) |
 | [C08 · Calcetín superhéroe](../new-scenes/scenes/C08.json) | 12 | 4600 ms | 77057 B | [PNG](../new-scenes/frames/C08-v4/) |
 
-## Último bloque y documentación del chinchinero
+## C09–C12 y documentación del chinchinero
 
 C09 usa una sola flecha sobre cartel cuadrado: abajo, diagonal, izquierda, diagonal y arriba. El guiño a Tulio es una situación de noticiero ficticio con Moa, sin reproducir su diseño o contenido. C10 es un escenario genérico en miniatura y gaviota de utilería, sin premio real. C12 utiliza perro mestizo y cámara ficticios, sin fotografías reales.
 
@@ -67,3 +67,18 @@ C13 sostiene y luego abraza un solo micrófono; C14 alterna apoyos y pasos corto
 | [C14 · Pasarela urbana](../new-scenes/scenes/C14.json) | 12 | 4600 ms | 58736 B | [PNG](../new-scenes/frames/C14-v1/) |
 | [C15 · Idea de freestyle](../new-scenes/scenes/C15.json) | 12 | 4600 ms | 89331 B | [PNG](../new-scenes/frames/C15-v1/) |
 | [C16 · Alfombra roja](../new-scenes/scenes/C16.json) | 12 | 4600 ms | 75248 B | [PNG](../new-scenes/frames/C16-v1/) |
+
+## Concentración, humor y asombro C17–C20
+
+C17 desarrolla una atajada amistosa inspirada en Christiane Endler ([perfil público](https://news.adidas.com/football/predator-edge-portrait--christiane-endler/s/d5a0d6bd-4d25-48d8-853a-6a6d04296ac7)); C18 se limita a respiración, mirada y medalla simbólica para Francisca Crovetto ([perfil](https://www.marcachile.cl/somos-chile/francisca-crovetto/)), sin equipo ni acción de tiro. C19 es comedia de vestuario solicitada como guiño a Stefan Kramer, sin imitar personas concretas. C20 celebra el entusiasmo divulgador de José Maza ([Universidad de Chile](https://das.uchile.cl/integrantes/jose-maza/)); la transformación de pizarra es fantasía, no explicación astronómica.
+
+Se revisaron la trayectoria y retención de una sola pelota en C17, la ubicación de cada accesorio en C19 y la tiza/estrellas en C20. La camiseta de C17 adapta el vestuario solicitado y lleva la ola visible hasta que la pelota la oculta parcialmente. C18 usa la mano del lado izquierdo de la imagen para levantar la medalla, de forma continua. C20 v1 se conserva descartada: añadía marcas de sorpresa y perdía la tiza; v2 corrige ambas. No se afirma participación, patrocinio ni aval de las personas homenajeadas.
+
+| Escena | Poses | Duración | Atlas | Poses editables |
+|---|---:|---:|---:|---|
+| [C17 · La atajada compartida](../new-scenes/scenes/C17.json) | 16 | 5600 ms | 121202 B | [PNG](../new-scenes/frames/C17-v1/) |
+| [C18 · Respirar y celebrar](../new-scenes/scenes/C18.json) | 8 | 4000 ms | 36583 B | [PNG](../new-scenes/frames/C18-v1/) |
+| [C19 · Demasiados personajes](../new-scenes/scenes/C19.json) | 16 | 5600 ms | 104289 B | [PNG](../new-scenes/frames/C19-v1/) |
+| [C20 · Una estrella y el asombro](../new-scenes/scenes/C20.json) | 12 | 4600 ms | 82368 B | [PNG](../new-scenes/frames/C20-v2/) |
+
+Colección chilena completa: 20 escenas, 248 poses, 1.668.915 bytes de atlas activos. Fuentes, descartes y evidencias quedan separados de la carga selectiva.
