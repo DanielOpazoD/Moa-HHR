@@ -1,0 +1,175 @@
+{
+  "order": 243,
+  "id": "C43",
+  "title": "C43 · El aplauso interminable",
+  "category": "Cultura popular chilena",
+  "pack": "new",
+  "batch": "chile-09",
+  "chileOrder": 43,
+  "version": 1,
+  "status": "approved",
+  "frames": 12,
+  "durations": [
+    500,
+    350,
+    350,
+    350,
+    350,
+    350,
+    350,
+    350,
+    350,
+    350,
+    350,
+    600
+  ],
+  "cycles": 1,
+  "still": 11,
+  "source": "new-scenes/sources/C43-v1.png",
+  "src": "new-scenes/atlases/moa-C43-v1.png",
+  "generator": "Integrated image_gen, directly operated by primary assistant",
+  "reference": "references/moa-neutral.png",
+  "prompt": "new-scenes/prompts/C43.txt",
+  "context": "Encuentro ficticio. Felipe Avello. Sin aval o participación real.",
+  "guest": "Felipe Avello",
+  "inspirationReferences": [
+    {
+      "url": "https://www.emol.com/noticias/Espectaculos/2018/01/26/892722/Gracias-Patagual-Felipe-Avello-arraso-con-su-presentacion-en-Festival-del-Huaso-de-Olmue.html",
+      "supports": "Referencia visual consultada; escenas y acciones ficticias."
+    }
+  ],
+  "review": "Primary assistant inspected source and packed frame sheets. Local Chromium socket restriction; CI required.",
+  "rejectedSources": [],
+  "sourceColumns": [
+    0,
+    324,
+    613,
+    925,
+    1226
+  ],
+  "packaging": {
+    "sourceSize": [
+      1226,
+      1283
+    ],
+    "rowCuts": [
+      0,
+      464,
+      866,
+      1283
+    ],
+    "columnCuts": [
+      0,
+      324,
+      613,
+      925,
+      1226
+    ],
+    "rowBaselineRegistration": [
+      [
+        0,
+        60
+      ],
+      [
+        17,
+        60
+      ],
+      [
+        6,
+        60
+      ],
+      [
+        11,
+        60
+      ],
+      [
+        0,
+        118
+      ],
+      [
+        17,
+        118
+      ],
+      [
+        6,
+        118
+      ],
+      [
+        11,
+        118
+      ],
+      [
+        0,
+        123
+      ],
+      [
+        17,
+        123
+      ],
+      [
+        6,
+        123
+      ],
+      [
+        11,
+        123
+      ]
+    ],
+    "unionCrop": [
+      8,
+      152,
+      324,
+      491
+    ],
+    "sharedScale": 0.4424778761061947,
+    "frameSize": [
+      288,
+      168
+    ],
+    "origin": [
+      0,
+      0
+    ],
+    "trajectory": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ]
+    ]
+  },
+  "frameFiles": [
+    "new-scenes/frames/C43-v1/000.png",
+    "new-scenes/frames/C43-v1/001.png",
+    "new-scenes/frames/C43-v1/002.png",
+    "new-scenes/frames/C43-v1/003.png",
+    "new-scenes/frames/C43-v1/004.png",
+    "new-scenes/frames/C43-v1/005.png",
+    "new-scenes/frames/C43-v1/006.png",
+    "new-scenes/frames/C43-v1/007.png",
+    "new-scenes/frames/C43-v1/008.png",
+    "new-scenes/frames/C43-v1/009.png",
+    "new-scenes/frames/C43-v1/010.png",
+    "new-scenes/frames/C43-v1/011.png"
+  ],
+  "sourceSha256": "618aa76d4e97f2ed32a3008094e001322ff2b0d36bf6fd41d1141ce1f137c321",
+  "frameSha256": [
+    "b974da8c0698d4c9c8a8bf9122c2a7e28375b2bd4fb2a1ddd354de9f47190562",
+    "b39cf855f38a35d32f623497fbc3f9cefe28c9db09f4fa0e9fa2a89dbf4854c1",
+    "76438f9043cabc889c9936b7fc304ce220c8bdcc4af79012eac51a5c18d0fdcd",
+    "2cbf261df6108ee4d0ef09fb6d09efa7b63ac44c545a47b051b6b46c9d2f2efe",
+    "5800f4379af252543fb0e0730383a61e8a34290652ab72e56b9c06891d2d0499",
+    "6f0b85981a9d219d840647c6ce06be5cad74c2680483605d7ced9f11bfa51919",
+    "967d0c06d65e6e352d395cca5cabda5f470a129c7d79c09099977ce42059122a",
+    "750d3a8934557aa466ada476e2c5aaed73949a8525ed9b259ed633b660e503e7",
+    "22b5df6f07c9a079b6de72369374c7160f80fb11e57f6b415aa5c85120e2a664",
+    "f505fb60a5a9f635d9dbd03ff656267438d3b936fb2ba8adb04f3ed0241e08f0",
+    "b88a3ee2c40cbee2ebfd10e7600d7a7a9b0be53f364f305bb615e68b625a3f3f",
+    "4cf522eb28ee57aa15ed844bb1362ff72be9db77ed5292f0215a73b0f8fcfdd1"
+  ],
+  "bytes": 83529,
+  "sha256": "3dc788c544fb79f0c00572b0b3c7f43ea9a17a2783ea864a413f115102db6d36"
+}

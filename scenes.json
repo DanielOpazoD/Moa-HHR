@@ -11212,6 +11212,87 @@
     "sha256": "589162a18f95627c02da65915049909fddefab974ef16f4fffcd11f480c0380e"
   },
   {
+    "order": 241,
+    "id": "C41",
+    "title": "C41 · La llamada inesperada",
+    "category": "Cultura popular chilena",
+    "pack": "new",
+    "batch": "chile-09",
+    "chileOrder": 41,
+    "version": 1,
+    "status": "approved",
+    "frames": 12,
+    "durations": [
+      500,
+      350,
+      350,
+      350,
+      350,
+      350,
+      350,
+      350,
+      350,
+      350,
+      350,
+      600
+    ],
+    "cycles": 1,
+    "still": 11,
+    "source": "new-scenes/sources/C41-v1.png",
+    "src": "new-scenes/atlases/moa-C41-v1.png",
+    "generator": "Integrated image_gen, directly operated by primary assistant",
+    "reference": "references/moa-neutral.png",
+    "prompt": "new-scenes/prompts/C41.txt",
+    "context": "Encuentro ficticio. Jorge Castro de la Barra. Sin aval o participación real.",
+    "guest": "Jorge Castro de la Barra",
+    "inspirationReferences": [
+      {
+        "url": "https://elfiltrador.com/recordado-personaje-televisivo-sufre-por-delicado-estado-de-salud/",
+        "supports": "Referencia visual consultada; escenas y acciones ficticias."
+      }
+    ],
+    "review": "Primary assistant inspected source and packed frame sheets. Local Chromium socket restriction; CI required.",
+    "rejectedSources": [],
+    "sourceColumns": [
+      0,
+      362,
+      724,
+      1086,
+      1448
+    ],
+    "frameFiles": [
+      "new-scenes/frames/C41-v1/000.png",
+      "new-scenes/frames/C41-v1/001.png",
+      "new-scenes/frames/C41-v1/002.png",
+      "new-scenes/frames/C41-v1/003.png",
+      "new-scenes/frames/C41-v1/004.png",
+      "new-scenes/frames/C41-v1/005.png",
+      "new-scenes/frames/C41-v1/006.png",
+      "new-scenes/frames/C41-v1/007.png",
+      "new-scenes/frames/C41-v1/008.png",
+      "new-scenes/frames/C41-v1/009.png",
+      "new-scenes/frames/C41-v1/010.png",
+      "new-scenes/frames/C41-v1/011.png"
+    ],
+    "sourceSha256": "58e0c2a1b81254c3b305dafe8f017931f682bade3f476712530dc7e55b747aa5",
+    "frameSha256": [
+      "6c130103f01a77cac37598d93a014c26d445bdbd25a2809bc7a15a5df0063b85",
+      "79d5c6ac77ff8e96404ae1e2deb2eb2a93e281a217853177c4ef5bafe8c4d388",
+      "c6d2a3297cc21ac94062d5a7464541443b30c73b7cca18c92e83262941d134a2",
+      "60edc6babadff3c64c044d0ac0d5ae58b6b77228d3098f6d6c5251abc0479178",
+      "5d382f08ea6897c3844ed02c0f74735314ecf4e0d7a0cad4c3fb21737aa937b6",
+      "daab82fcfbeae9ac16a7a388123f6f4c81613f882b38622cfd0c8d6e7efac19f",
+      "dbda89e650e3600834cbdc8ca44c6493e060cd31ccc136dda6d5224dc3157583",
+      "482fc58563ca0780039cd6ce940989ea91c12cf3daaa7924b9011ca184b037d3",
+      "b18241ad8bff0696fe8b8468a599e93511a29b4bed0cb5536f9dc3081fa5a7ae",
+      "0a0130d6872e7ff8eabea101ec59db297f80bbcb54b55a925e972a86ced2edc4",
+      "5f2259bf836eb1a7b2d3fc8bf14f230044c3e75e81e0f80d2d6dca76df213537",
+      "e2b063513cc5c29737f8fc1e4ccda7aedc0fab05c654277563d6b66ec006e2d2"
+    ],
+    "bytes": 92072,
+    "sha256": "25aeb438c016a87fa8bdb2e6b82bef47613bf3471b3aa002842658a6feb46f92"
+  },
+  {
     "order": 242,
     "id": "C42",
     "title": "C42 · Felipe Avello entrevista al más callado",
@@ -11283,5 +11364,473 @@
       "new-scenes/frames/C42-v4/006.png",
       "new-scenes/frames/C42-v4/007.png"
     ]
+  },
+  {
+    "order": 243,
+    "id": "C43",
+    "title": "C43 · El aplauso interminable",
+    "category": "Cultura popular chilena",
+    "pack": "new",
+    "batch": "chile-09",
+    "chileOrder": 43,
+    "version": 1,
+    "status": "approved",
+    "frames": 12,
+    "durations": [
+      500,
+      350,
+      350,
+      350,
+      350,
+      350,
+      350,
+      350,
+      350,
+      350,
+      350,
+      600
+    ],
+    "cycles": 1,
+    "still": 11,
+    "source": "new-scenes/sources/C43-v1.png",
+    "src": "new-scenes/atlases/moa-C43-v1.png",
+    "generator": "Integrated image_gen, directly operated by primary assistant",
+    "reference": "references/moa-neutral.png",
+    "prompt": "new-scenes/prompts/C43.txt",
+    "context": "Encuentro ficticio. Felipe Avello. Sin aval o participación real.",
+    "guest": "Felipe Avello",
+    "inspirationReferences": [
+      {
+        "url": "https://www.emol.com/noticias/Espectaculos/2018/01/26/892722/Gracias-Patagual-Felipe-Avello-arraso-con-su-presentacion-en-Festival-del-Huaso-de-Olmue.html",
+        "supports": "Referencia visual consultada; escenas y acciones ficticias."
+      }
+    ],
+    "review": "Primary assistant inspected source and packed frame sheets. Local Chromium socket restriction; CI required.",
+    "rejectedSources": [],
+    "sourceColumns": [
+      0,
+      324,
+      613,
+      925,
+      1226
+    ],
+    "frameFiles": [
+      "new-scenes/frames/C43-v1/000.png",
+      "new-scenes/frames/C43-v1/001.png",
+      "new-scenes/frames/C43-v1/002.png",
+      "new-scenes/frames/C43-v1/003.png",
+      "new-scenes/frames/C43-v1/004.png",
+      "new-scenes/frames/C43-v1/005.png",
+      "new-scenes/frames/C43-v1/006.png",
+      "new-scenes/frames/C43-v1/007.png",
+      "new-scenes/frames/C43-v1/008.png",
+      "new-scenes/frames/C43-v1/009.png",
+      "new-scenes/frames/C43-v1/010.png",
+      "new-scenes/frames/C43-v1/011.png"
+    ],
+    "sourceSha256": "618aa76d4e97f2ed32a3008094e001322ff2b0d36bf6fd41d1141ce1f137c321",
+    "frameSha256": [
+      "b974da8c0698d4c9c8a8bf9122c2a7e28375b2bd4fb2a1ddd354de9f47190562",
+      "b39cf855f38a35d32f623497fbc3f9cefe28c9db09f4fa0e9fa2a89dbf4854c1",
+      "76438f9043cabc889c9936b7fc304ce220c8bdcc4af79012eac51a5c18d0fdcd",
+      "2cbf261df6108ee4d0ef09fb6d09efa7b63ac44c545a47b051b6b46c9d2f2efe",
+      "5800f4379af252543fb0e0730383a61e8a34290652ab72e56b9c06891d2d0499",
+      "6f0b85981a9d219d840647c6ce06be5cad74c2680483605d7ced9f11bfa51919",
+      "967d0c06d65e6e352d395cca5cabda5f470a129c7d79c09099977ce42059122a",
+      "750d3a8934557aa466ada476e2c5aaed73949a8525ed9b259ed633b660e503e7",
+      "22b5df6f07c9a079b6de72369374c7160f80fb11e57f6b415aa5c85120e2a664",
+      "f505fb60a5a9f635d9dbd03ff656267438d3b936fb2ba8adb04f3ed0241e08f0",
+      "b88a3ee2c40cbee2ebfd10e7600d7a7a9b0be53f364f305bb615e68b625a3f3f",
+      "4cf522eb28ee57aa15ed844bb1362ff72be9db77ed5292f0215a73b0f8fcfdd1"
+    ],
+    "bytes": 83529,
+    "sha256": "3dc788c544fb79f0c00572b0b3c7f43ea9a17a2783ea864a413f115102db6d36"
+  },
+  {
+    "order": 244,
+    "id": "C44",
+    "title": "C44 · Los Jaivas invitan a Moa a la percusión",
+    "category": "Cultura popular chilena",
+    "pack": "new",
+    "batch": "chile-09",
+    "chileOrder": 44,
+    "version": 2,
+    "status": "approved",
+    "frames": 8,
+    "durations": [
+      500,
+      500,
+      500,
+      500,
+      500,
+      500,
+      500,
+      500
+    ],
+    "cycles": 1,
+    "still": 7,
+    "source": "new-scenes/sources/C44-v2.png",
+    "src": "new-scenes/atlases/moa-C44-v2.png",
+    "generator": "Integrated image_gen, directly operated by primary assistant",
+    "reference": "references/moa-neutral.png",
+    "prompt": "new-scenes/prompts/C44.txt",
+    "context": "Encuentro ficticio. Los Jaivas: selección de tres integrantes. Sin aval o participación real. Representación abreviada de tres integrantes con teclado, batería y guitarra; no elenco completo ni formación actual certificada.",
+    "guest": "Los Jaivas: selección de tres integrantes",
+    "inspirationReferences": [
+      {
+        "url": "https://www.rockandpop.cl/2023/03/por-exito-de-ventas-los-jaivas-suman-segundo-concierto-en-movistar-arena/",
+        "supports": "Referencia visual consultada; escenas y acciones ficticias."
+      }
+    ],
+    "review": "Primary assistant inspected source and packed frame sheets. Local Chromium socket restriction; CI required.",
+    "rejectedSources": [
+      "new-scenes/sources/C44-v1.png"
+    ],
+    "sourceColumns": [
+      0,
+      387,
+      768,
+      1154,
+      1536
+    ],
+    "frameFiles": [
+      "new-scenes/frames/C44-v2/000.png",
+      "new-scenes/frames/C44-v2/001.png",
+      "new-scenes/frames/C44-v2/002.png",
+      "new-scenes/frames/C44-v2/003.png",
+      "new-scenes/frames/C44-v2/004.png",
+      "new-scenes/frames/C44-v2/005.png",
+      "new-scenes/frames/C44-v2/006.png",
+      "new-scenes/frames/C44-v2/007.png"
+    ],
+    "sourceSha256": "ae35f38141e9166d51da12b7762d7755aa15f47618acdad31c4ec5a0efe2651d",
+    "frameSha256": [
+      "7d13b513a7c9347674fb6b18bd818299fccba2879591a754dcc45e4760fbc74a",
+      "807ce51215d906ea487c9eb90c011c60888bfa9f110f8b4548bb7287904f55e6",
+      "372ce38ced2497efdca37154df92073784c51c22f5e4abfd4cbd28db725097ff",
+      "df7ba8625539a08cb9a101a9aa339791109495e4f33f5bc4cca694e6dfa29907",
+      "19cb8a505d1ef6a08425c81e98a09d36d6be0adfbd34459c121ae416a6a1f235",
+      "fb2360c7fe4ad37e34d31d823e9d14226c5f68efa985557fd4486e20d6f4daf8",
+      "5868deaebf17221e822bfc837ab9b5f9d86bdec60af94f1973d801fa20126871",
+      "cf884d8c19c7079311a6e47fdebd884e64953b39ea366bcccfb1309412091f75"
+    ],
+    "bytes": 72816,
+    "sha256": "eae98ad35d183a64779c0e7889301bbffb5757ade2e29ec5e1c134bf8a863678"
+  },
+  {
+    "order": 245,
+    "id": "C45",
+    "title": "C45 · Moa y Los Jaivas levantan una cordillera",
+    "category": "Cultura popular chilena",
+    "pack": "new",
+    "batch": "chile-09",
+    "chileOrder": 45,
+    "version": 1,
+    "status": "approved",
+    "frames": 8,
+    "durations": [
+      500,
+      500,
+      500,
+      500,
+      500,
+      500,
+      500,
+      500
+    ],
+    "cycles": 1,
+    "still": 7,
+    "source": "new-scenes/sources/C45-v1.png",
+    "src": "new-scenes/atlases/moa-C45-v1.png",
+    "generator": "Integrated image_gen, directly operated by primary assistant",
+    "reference": "references/moa-neutral.png",
+    "prompt": "new-scenes/prompts/C45.txt",
+    "context": "Encuentro ficticio. Los Jaivas: selección de tres integrantes. Sin aval o participación real. Representación abreviada de tres integrantes con teclado, batería y guitarra; no elenco completo ni formación actual certificada.",
+    "guest": "Los Jaivas: selección de tres integrantes",
+    "inspirationReferences": [
+      {
+        "url": "https://losjaivas.net/",
+        "supports": "Referencia visual consultada; escenas y acciones ficticias."
+      }
+    ],
+    "review": "Primary assistant inspected source and packed frame sheets. Local Chromium socket restriction; CI required.",
+    "rejectedSources": [],
+    "sourceColumns": [
+      0,
+      443,
+      887,
+      1330,
+      1774
+    ],
+    "frameFiles": [
+      "new-scenes/frames/C45-v1/000.png",
+      "new-scenes/frames/C45-v1/001.png",
+      "new-scenes/frames/C45-v1/002.png",
+      "new-scenes/frames/C45-v1/003.png",
+      "new-scenes/frames/C45-v1/004.png",
+      "new-scenes/frames/C45-v1/005.png",
+      "new-scenes/frames/C45-v1/006.png",
+      "new-scenes/frames/C45-v1/007.png"
+    ],
+    "sourceSha256": "6dd000727870537466327291970c701e3987887ad5f196e0a4f821b75e46cb11",
+    "frameSha256": [
+      "5753a4bd8610118f11169d9edc15d658e0fa4def490b43aa050726b37133d147",
+      "0ceb618133f71ba3bea5e7129ea1532b57e3f9b5f78def9967c39f5247f042e2",
+      "3d1886af4d74c8a19629835163d68407fa7ed080e5c0e8464e94b6e976caceb5",
+      "51008af1f9d0d3e52b1018a610d6058e3b1c94627245e3068a851d15c7ad558f",
+      "369835884d5f70d001c35451b68de9b6affa8de27e11424d8c502b2d79f0bb4b",
+      "5b6dbd49e3bc6bcdf786c4c27726b6866b20450eeb70ff33f6ccdada2a98c034",
+      "ee5945b6080cd0562844eb0a7b36cbb41f62d3e81738bd1fc3f3ecc9d3f379d0",
+      "af5659686a38e16fa736d6e2efbefc5614d827dbf47d92997c29f828513503e4"
+    ],
+    "bytes": 87533,
+    "sha256": "8284ba20d5209ead469fab2a6ff7580462b204ea3c58ef76416e47f0110fc4dc"
+  },
+  {
+    "order": 246,
+    "id": "C46",
+    "title": "C46 · La Gaviota le queda grande",
+    "category": "Cultura popular chilena",
+    "pack": "new",
+    "batch": "chile-09",
+    "chileOrder": 46,
+    "version": 1,
+    "status": "approved",
+    "frames": 12,
+    "durations": [
+      500,
+      350,
+      350,
+      350,
+      350,
+      350,
+      350,
+      350,
+      350,
+      350,
+      350,
+      600
+    ],
+    "cycles": 1,
+    "still": 11,
+    "source": "new-scenes/sources/C46-v1.png",
+    "src": "new-scenes/atlases/moa-C46-v1.png",
+    "generator": "Integrated image_gen, directly operated by primary assistant",
+    "reference": "references/moa-neutral.png",
+    "prompt": "new-scenes/prompts/C46.txt",
+    "context": "Encuentro ficticio. Festival ficticio. Sin aval o participación real.",
+    "guest": "Festival ficticio",
+    "inspirationReferences": [
+      {
+        "url": "https://github.com/DanielOpazoD/Moa-HHR",
+        "supports": "Referencia visual consultada; escenas y acciones ficticias."
+      }
+    ],
+    "review": "Primary assistant inspected source and packed frame sheets. Local Chromium socket restriction; CI required.",
+    "rejectedSources": [],
+    "sourceColumns": [
+      0,
+      362,
+      724,
+      1086,
+      1448
+    ],
+    "frameFiles": [
+      "new-scenes/frames/C46-v1/000.png",
+      "new-scenes/frames/C46-v1/001.png",
+      "new-scenes/frames/C46-v1/002.png",
+      "new-scenes/frames/C46-v1/003.png",
+      "new-scenes/frames/C46-v1/004.png",
+      "new-scenes/frames/C46-v1/005.png",
+      "new-scenes/frames/C46-v1/006.png",
+      "new-scenes/frames/C46-v1/007.png",
+      "new-scenes/frames/C46-v1/008.png",
+      "new-scenes/frames/C46-v1/009.png",
+      "new-scenes/frames/C46-v1/010.png",
+      "new-scenes/frames/C46-v1/011.png"
+    ],
+    "sourceSha256": "a19d034791cd9521fc563bfdefd811f024dad29d21eff781bc83209878473bc0",
+    "frameSha256": [
+      "6724e7f1ce1419ccc8a664d39570605164986401b3a4fe9c5ef9614f26f61793",
+      "81931bdd635a1479cace2b3d7a7ea907f561ac638cb54fbf4409f56cd3c75c95",
+      "c690feb9af7c5d385d92258a50bf7f9acf17ca012df7a98e1dd494adf3f4a23a",
+      "2b6db7ea8ac839d5fb8ac993a0d2d1b5774c74e7ce0249ed13b2fb5eedae35d5",
+      "2f7ca9145c08f770b8386f42248c7ef9c949cb785a5997a7ca6cb1aa5bdc74b9",
+      "fa21322e935ffb4694410b0f2ea3bbade6ca3e1ce4c6ed2f64b025e44c7b562b",
+      "654708d40ee9e842286dd98f1ee6123fcbf0d35eb426a8176e6366f01b8087e7",
+      "448187b38528d4e1cd14f6ebaa2d530c04a049f9de1e3e484d29919adfdeeeea",
+      "a0bb4edcbbb7a490c8246c3bd12ef77098c672331babc9140abbe13a2da8e990",
+      "d0be41e758ccd55072afb54c40a496c5b2f3a684a9d4604a68b7d638417502ca",
+      "ee421e2e37ed94bcd505351c03fab84b35c784a2713b9a9f7f47a095953d0805",
+      "66c00de4fee5c158f8c1f5c877587fac569f7503d96ff70d3b663910e12ff7a8"
+    ],
+    "bytes": 92762,
+    "sha256": "ac7bf2118ec57fa4c6071c02c3f2e44d0d7bcde85ee12ba7e52b3fbc9cce4bd9"
+  },
+  {
+    "order": 247,
+    "id": "C47",
+    "title": "C47 · El Monstruo termina queriendo a Moa",
+    "category": "Cultura popular chilena",
+    "pack": "new",
+    "batch": "chile-09",
+    "chileOrder": 47,
+    "version": 2,
+    "status": "approved",
+    "frames": 12,
+    "durations": [
+      500,
+      350,
+      350,
+      350,
+      350,
+      350,
+      350,
+      350,
+      350,
+      350,
+      350,
+      600
+    ],
+    "cycles": 1,
+    "still": 11,
+    "source": "new-scenes/sources/C47-v2.png",
+    "src": "new-scenes/atlases/moa-C47-v2.png",
+    "generator": "Integrated image_gen, directly operated by primary assistant",
+    "reference": "references/moa-neutral.png",
+    "prompt": "new-scenes/prompts/C47.txt",
+    "context": "Escena ficticia: Le Monstruo termina queriendo a Moa. Sin aval ni participación real.",
+    "guest": "Festival ficticio",
+    "inspirationReferences": [
+      {
+        "url": "https://github.com/DanielOpazoD/Moa-HHR",
+        "supports": "Referencia visual consultada; escenas y acciones ficticias."
+      }
+    ],
+    "review": "Primary assistant inspected source and packed frame sheets. Local Chromium socket restriction; CI required.",
+    "rejectedSources": [
+      "new-scenes/sources/C47-v1.png"
+    ],
+    "sourceColumns": [
+      0,
+      362,
+      724,
+      1086,
+      1448
+    ],
+    "frameFiles": [
+      "new-scenes/frames/C47-v2/000.png",
+      "new-scenes/frames/C47-v2/001.png",
+      "new-scenes/frames/C47-v2/002.png",
+      "new-scenes/frames/C47-v2/003.png",
+      "new-scenes/frames/C47-v2/004.png",
+      "new-scenes/frames/C47-v2/005.png",
+      "new-scenes/frames/C47-v2/006.png",
+      "new-scenes/frames/C47-v2/007.png",
+      "new-scenes/frames/C47-v2/008.png",
+      "new-scenes/frames/C47-v2/009.png",
+      "new-scenes/frames/C47-v2/010.png",
+      "new-scenes/frames/C47-v2/011.png"
+    ],
+    "sourceSha256": "c216764f796c97768975c5a19b35629fcfad9a79a2c72f0e517b2d336d749c6c",
+    "frameSha256": [
+      "620fc7a6677d8cd938d69deca95303e1b00bccddf9d1fab385aa7baf0fc076ae",
+      "01c3db4a53b8aac7285a01d6f924a8172ba8b842752255347652ac4adf0ae008",
+      "b47984162754c820bf8c139163684acfb23e2441061789d2276c690f581fb9f5",
+      "d032d16afe9742a0f84b71107e7d89cde316094df1edaf9dcbc13400b1ad1b56",
+      "97960cd3e4aa271d8076aa84569e3266ce7643459a9d83485247288c5dd799ab",
+      "0197e0aeb047c83282754284872a677aebe52f278d20b51cf60bd19cb2fb265a",
+      "fa4ade39aea25e6e2d257a9b5bfbe28b0519da77d6bd6fa6dbc96ccacfc7da4d",
+      "4008c68862b9ca79467160236675f1e28d262475117ba73007c89e29fd3d6507",
+      "4a9d58f361ffd067df84f1d28cd77a632a885cc1ca1d4d8421196f805e369345",
+      "c5af71dd8ef4a4f92f782e72f331125655f9bd1deabd8d624dc22e97ab4b46e8",
+      "88463b13e53fc39cc9b06793d19b6a4fc404576ac3b73ffb1779ac415f9f182c",
+      "d0d9a4cf20f6f1fcdc96120eac43ddaece98b333092628b99a867a056722cf3c"
+    ],
+    "bytes": 99971,
+    "sha256": "7e970bacdb5c67d9d57e742d5f87043ac11a2909c6b2e2561a870119dd086370"
+  },
+  {
+    "order": 248,
+    "id": "C48",
+    "title": "C48 · Don Carter entrega una carta gigante",
+    "category": "Cultura popular chilena",
+    "pack": "new",
+    "batch": "chile-09",
+    "chileOrder": 48,
+    "version": 2,
+    "status": "approved",
+    "frames": 12,
+    "durations": [
+      500,
+      350,
+      350,
+      350,
+      350,
+      350,
+      350,
+      350,
+      350,
+      350,
+      350,
+      600
+    ],
+    "cycles": 1,
+    "still": 11,
+    "source": "new-scenes/sources/C48-v2.png",
+    "src": "new-scenes/atlases/moa-C48-v2.png",
+    "generator": "Integrated image_gen, directly operated by primary assistant",
+    "reference": "references/moa-neutral.png",
+    "prompt": "new-scenes/prompts/C48.txt",
+    "context": "Escena ficticia: Don Carter entrega una carta gigante. Sin aval ni participación real.",
+    "guest": "Don Carter",
+    "inspirationReferences": [
+      {
+        "url": "https://www.emol.com/noticias/Espectaculos/2016/10/18/827117/Profesor-Rossa.html",
+        "supports": "Fotografía inspeccionada de Don Carter (izquierda), camisa azul, corbata roja y rasgos."
+      }
+    ],
+    "review": "Primary assistant inspected source and packed frame sheets. Local Chromium socket restriction; CI required.",
+    "rejectedSources": [
+      "new-scenes/sources/C48-v1.png"
+    ],
+    "sourceColumns": [
+      0,
+      363,
+      730,
+      1086,
+      1448
+    ],
+    "frameFiles": [
+      "new-scenes/frames/C48-v2/000.png",
+      "new-scenes/frames/C48-v2/001.png",
+      "new-scenes/frames/C48-v2/002.png",
+      "new-scenes/frames/C48-v2/003.png",
+      "new-scenes/frames/C48-v2/004.png",
+      "new-scenes/frames/C48-v2/005.png",
+      "new-scenes/frames/C48-v2/006.png",
+      "new-scenes/frames/C48-v2/007.png",
+      "new-scenes/frames/C48-v2/008.png",
+      "new-scenes/frames/C48-v2/009.png",
+      "new-scenes/frames/C48-v2/010.png",
+      "new-scenes/frames/C48-v2/011.png"
+    ],
+    "sourceSha256": "9f2e8f946fc1494fc94e8c7ce222a4c710e5e8ddc2169785674e88538e66fb8b",
+    "frameSha256": [
+      "f20e674570dc5785e51d6e0873ee0cfeee439809cf55e3efe5d6fadfec02dadb",
+      "821f252f45026092f1a3f74b657709ff4731ef733f0fa4c310a56767d46c8fb1",
+      "bbaafaaef4f58691e3dfbb7cb5d3a971f96ee43cb0130ca0fae8fa6d8d1c87f6",
+      "b84067ecba6b1671279f7a81fbcfb8ebb02f70ef156f4995dc0733de0aede1d7",
+      "712dc74a6b931519dd7a61abf13404c4673f835e69cc4be1f5aedf2bd86a0614",
+      "3e3cef86bb61656957d0437fe7782f5c2d4d56a5212e6c845f58827cee43ddcf",
+      "714e114425cb5795efcfc09e90fcf766ce9c925aa8103db1fb7f0590cc4e57c7",
+      "8a408ebab77a52864780c292cd15db64e3b83f87b7f5adbf0aff377668c980cb",
+      "af23fa52fb6f4604e307eae16a7e29c72b2399caead449784204a5f25c2f80c0",
+      "7dd90add136741bb5a048c8f212e0a26c8651ed578b57ccc124d96d7eb61170c",
+      "b5706187cb7c81f42379e6ac7047246ca63d9b12f57e805a63c49c5ad67884b6",
+      "5f9a88fdcfb93fe942930ebb35e9efe5fcb6fe1babe7b4f9038912c097ac0b02"
+    ],
+    "bytes": 85532,
+    "sha256": "04ca1ee8ac80e498a169fbd0802f5cac08a6b59fa31b9b93857c7e0c12b1803d"
   }
 ]
