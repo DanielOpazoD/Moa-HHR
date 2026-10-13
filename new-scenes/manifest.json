@@ -32172,5 +32172,991 @@
     ],
     "bytes": 73933,
     "sha256": "96fe979ab56a7eacbd8b2faa92914ffdfcf44d5416482f273915fa7270af36ca"
+  },
+  {
+    "id": "D13",
+    "order": 513,
+    "title": "D13 · Myriam Hernández y el ventilador dramático",
+    "category": "Chile: memes y encuentros",
+    "pack": "new",
+    "batch": "chile-remix-03",
+    "version": 1,
+    "status": "approved",
+    "frames": 12,
+    "durations": [
+      450,
+      450,
+      450,
+      450,
+      450,
+      450,
+      450,
+      450,
+      450,
+      450,
+      500,
+      900
+    ],
+    "cycles": 1,
+    "still": 11,
+    "source": "new-scenes/sources/D13-v1.png",
+    "src": "new-scenes/atlases/moa-D13-v1.png",
+    "generator": "Integrated image_gen directly operated by primary assistant",
+    "reference": "references/moa-neutral.png",
+    "prompt": "new-scenes/prompts/D13.txt",
+    "context": "Viñeta ficticia de humor. Los encuentros son homenajes artísticos, sin colaboración o respaldo de las personas representadas. Sin audio ni letras de canciones.",
+    "review": "Primary assistant visually reviews source and delivered frames. Full CI required before merge.",
+    "sourceGridColumns": 4,
+    "sourceColumns": [
+      0,
+      399,
+      779,
+      1164,
+      1536
+    ],
+    "packaging": {
+      "sourceSize": [
+        1536,
+        1024
+      ],
+      "rowCuts": [
+        0,
+        345,
+        680,
+        1024
+      ],
+      "columnCuts": [
+        0,
+        399,
+        779,
+        1164,
+        1536
+      ],
+      "rowBaselineRegistration": [
+        [
+          0,
+          46
+        ],
+        [
+          9,
+          46
+        ],
+        [
+          7,
+          46
+        ],
+        [
+          13,
+          46
+        ],
+        [
+          0,
+          54
+        ],
+        [
+          9,
+          54
+        ],
+        [
+          7,
+          54
+        ],
+        [
+          13,
+          54
+        ],
+        [
+          0,
+          62
+        ],
+        [
+          9,
+          62
+        ],
+        [
+          7,
+          62
+        ],
+        [
+          13,
+          62
+        ]
+      ],
+      "unionCrop": [
+        11,
+        68,
+        399,
+        371
+      ],
+      "sharedScale": 0.49504950495049505,
+      "frameSize": [
+        288,
+        168
+      ],
+      "origin": [
+        0,
+        0
+      ],
+      "trajectory": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          0
+        ]
+      ]
+    },
+    "frameFiles": [
+      "new-scenes/frames/D13-v1/000.png",
+      "new-scenes/frames/D13-v1/001.png",
+      "new-scenes/frames/D13-v1/002.png",
+      "new-scenes/frames/D13-v1/003.png",
+      "new-scenes/frames/D13-v1/004.png",
+      "new-scenes/frames/D13-v1/005.png",
+      "new-scenes/frames/D13-v1/006.png",
+      "new-scenes/frames/D13-v1/007.png",
+      "new-scenes/frames/D13-v1/008.png",
+      "new-scenes/frames/D13-v1/009.png",
+      "new-scenes/frames/D13-v1/010.png",
+      "new-scenes/frames/D13-v1/011.png"
+    ],
+    "sourceSha256": "20017174882b091d111bbf9b42c7bb03d9c60db725011434d5928997e0910486",
+    "frameSha256": [
+      "adf8f55076b91995a053fc5e2503213d0a73ae7681b598e5cda0ff33fcd899dd",
+      "db2e67178e7868a479c77e8e1ec90768d072d91bc49b49b2917fc2b5c9c25b3b",
+      "6863740e97afcba6b046f163bc6b8574d2979919d30bcab3296528ce7d6cd548",
+      "0ba013e8b50cf55c22892ad30527f5f14a85ac82f5062ca0ba691ab3f5c0cbba",
+      "44a04231ceca72a70b47dbc7bcdfc5986e25a080e0740f2a0452f25b818bcd80",
+      "7ab186006029e1e94f962f1605f722f004e531e3dd5fc6808a1cf2093e661ccf",
+      "2d2951e4c30ef395587311c6d72a3ac22329aae9519f08a3013149b62216ccf5",
+      "40a5df7fbdf5fe64ca3a86dc03ae72a1d52a9bea8b2eb29a50f04c98a6115065",
+      "6575240b2d6b514d3b7d779f7a91b419367525f40632c8f7fc2197ff90e52309",
+      "059e0a9c81a7ea9dcefccfbbdb04fd5878c597acf8d2781f84427859438b004f",
+      "be3ab0b7eddfde5e42bd3b55ead61dbfe7b4f22bfc90c8f8897e82c69dd25b8e",
+      "597395fc20625b421d6b786921e18a1d993776ef1537898b1ef4807c1a976c16"
+    ],
+    "bytes": 109686,
+    "sha256": "22d4233006ee689e17cfd9bfb69d4157b5434e8b58d0923d706200b6ae3b5cc6"
+  },
+  {
+    "id": "D14",
+    "order": 514,
+    "title": "D14 · Gepe y la coreografía geométrica",
+    "category": "Chile: memes y encuentros",
+    "pack": "new",
+    "batch": "chile-remix-03",
+    "version": 1,
+    "status": "approved",
+    "frames": 12,
+    "durations": [
+      450,
+      450,
+      450,
+      450,
+      450,
+      450,
+      450,
+      450,
+      450,
+      450,
+      500,
+      900
+    ],
+    "cycles": 1,
+    "still": 11,
+    "source": "new-scenes/sources/D14-v1.png",
+    "src": "new-scenes/atlases/moa-D14-v1.png",
+    "generator": "Integrated image_gen directly operated by primary assistant",
+    "reference": "references/moa-neutral.png",
+    "prompt": "new-scenes/prompts/D14.txt",
+    "context": "Viñeta ficticia de humor. Los encuentros son homenajes artísticos, sin colaboración o respaldo de las personas representadas. Sin audio ni letras de canciones.",
+    "review": "Primary assistant visually reviews source and delivered frames. Full CI required before merge.",
+    "sourceGridColumns": 4,
+    "sourceColumns": [
+      0,
+      378,
+      721,
+      1091,
+      1448
+    ],
+    "packaging": {
+      "sourceSize": [
+        1448,
+        1086
+      ],
+      "rowCuts": [
+        0,
+        377,
+        712,
+        1086
+      ],
+      "columnCuts": [
+        0,
+        378,
+        721,
+        1091,
+        1448
+      ],
+      "rowBaselineRegistration": [
+        [
+          0,
+          49
+        ],
+        [
+          17,
+          49
+        ],
+        [
+          4,
+          49
+        ],
+        [
+          10,
+          49
+        ],
+        [
+          0,
+          84
+        ],
+        [
+          17,
+          84
+        ],
+        [
+          4,
+          84
+        ],
+        [
+          10,
+          84
+        ],
+        [
+          0,
+          84
+        ],
+        [
+          17,
+          84
+        ],
+        [
+          4,
+          84
+        ],
+        [
+          10,
+          84
+        ]
+      ],
+      "unionCrop": [
+        22,
+        102,
+        372,
+        404
+      ],
+      "sharedScale": 0.4966887417218543,
+      "frameSize": [
+        288,
+        168
+      ],
+      "origin": [
+        0,
+        0
+      ],
+      "trajectory": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          0
+        ]
+      ]
+    },
+    "frameFiles": [
+      "new-scenes/frames/D14-v1/000.png",
+      "new-scenes/frames/D14-v1/001.png",
+      "new-scenes/frames/D14-v1/002.png",
+      "new-scenes/frames/D14-v1/003.png",
+      "new-scenes/frames/D14-v1/004.png",
+      "new-scenes/frames/D14-v1/005.png",
+      "new-scenes/frames/D14-v1/006.png",
+      "new-scenes/frames/D14-v1/007.png",
+      "new-scenes/frames/D14-v1/008.png",
+      "new-scenes/frames/D14-v1/009.png",
+      "new-scenes/frames/D14-v1/010.png",
+      "new-scenes/frames/D14-v1/011.png"
+    ],
+    "sourceSha256": "78b1f955ebe5d1ce4f3618b8ee3a7b2c9fc7f70f4ca255e0fa07e28db99a77df",
+    "frameSha256": [
+      "6ebc37fe68013d051e9ee2a0ddd9d71ae5846263743880ecc22da8d72c6f9d5a",
+      "07a991a27d55ec7794fddec71f611785f14efbdf2d872650d0e31240bb520de8",
+      "2782ee631255b3a2c6a7d900ea57981bb3cb54b5e6d0f5cb7ed930b713e8d339",
+      "66413f315dce750aeccf199e9626ee473821dc4e1a7cbfbbb6142079c847b4e2",
+      "fffc9939cbe6124a2a27cdbbab1357e4ed011f361e4fcb4ccb9868f663496e19",
+      "ade096a2d6a9a1acabec4885144dbd731256af70b76312336a112ea94ad1c1c7",
+      "30f21783cf0956e5ac8ce093262a6558ead589e322e235662a1408768068865b",
+      "7d5d11567c19f3c439408ad467eb742384c93fb8e17b8bbd5d5c744157001f46",
+      "1582b5a384c9f2e7b0eab527de0d37322f0b2ae447791a412cb6cbf8b01b1790",
+      "92d063b7d87f76091dfa7cc8a2c25688f9dc0a549cc6881af30363fc6cc1722e",
+      "553f6b3a932af0c2bc15841e842dbcb638a40c288c2c8b9916d79a97150ae55c",
+      "9d09e1c3a865b3b2f859ea16cf416d9c9ddf61c0d46f42781f1dc5497fd2f930"
+    ],
+    "bytes": 70556,
+    "sha256": "2be77d381c9e9cd2e4d133b4cedbcb39ceac6b0eaaa9c27a6b70e76a177cb156"
+  },
+  {
+    "id": "D15",
+    "order": 515,
+    "title": "D15 · Joe Vasconcellos y la percusión que despierta",
+    "category": "Chile: memes y encuentros",
+    "pack": "new",
+    "batch": "chile-remix-03",
+    "version": 2,
+    "status": "approved",
+    "frames": 10,
+    "durations": [
+      450,
+      450,
+      450,
+      450,
+      450,
+      450,
+      450,
+      450,
+      600,
+      900
+    ],
+    "cycles": 1,
+    "still": 9,
+    "source": "new-scenes/sources/D15-v2.png",
+    "src": "new-scenes/atlases/moa-D15-v2.png",
+    "generator": "Integrated image_gen directly operated by primary assistant",
+    "reference": "references/moa-neutral.png",
+    "prompt": "new-scenes/prompts/D15.txt",
+    "context": "Viñeta ficticia de humor. Los encuentros son homenajes artísticos, sin colaboración o respaldo de las personas representadas. Sin audio ni letras de canciones.",
+    "review": "Primary assistant visually reviews source and delivered frames. Full CI required before merge.",
+    "sourceGridColumns": 2,
+    "discardedSources": [
+      "new-scenes/sources/D15-v1.png"
+    ],
+    "sourceColumns": [
+      0,
+      812,
+      1536
+    ],
+    "sourceRows": [
+      0,
+      205,
+      394,
+      586,
+      789,
+      1024
+    ],
+    "packaging": {
+      "sourceSize": [
+        1536,
+        1024
+      ],
+      "rowCuts": [
+        0,
+        205,
+        394,
+        586,
+        789,
+        1024
+      ],
+      "columnCuts": [
+        0,
+        812,
+        1536
+      ],
+      "rowBaselineRegistration": [
+        [
+          0,
+          52
+        ],
+        [
+          44,
+          52
+        ],
+        [
+          0,
+          68
+        ],
+        [
+          44,
+          68
+        ],
+        [
+          0,
+          65
+        ],
+        [
+          44,
+          65
+        ],
+        [
+          0,
+          57
+        ],
+        [
+          44,
+          57
+        ],
+        [
+          0,
+          42
+        ],
+        [
+          44,
+          42
+        ]
+      ],
+      "unionCrop": [
+        158,
+        39,
+        700,
+        263
+      ],
+      "sharedScale": 0.42066420664206644,
+      "frameSize": [
+        288,
+        168
+      ],
+      "origin": [
+        0,
+        0
+      ],
+      "trajectory": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          0
+        ]
+      ]
+    },
+    "frameFiles": [
+      "new-scenes/frames/D15-v2/000.png",
+      "new-scenes/frames/D15-v2/001.png",
+      "new-scenes/frames/D15-v2/002.png",
+      "new-scenes/frames/D15-v2/003.png",
+      "new-scenes/frames/D15-v2/004.png",
+      "new-scenes/frames/D15-v2/005.png",
+      "new-scenes/frames/D15-v2/006.png",
+      "new-scenes/frames/D15-v2/007.png",
+      "new-scenes/frames/D15-v2/008.png",
+      "new-scenes/frames/D15-v2/009.png"
+    ],
+    "sourceSha256": "cbbe8fbf568d6f9caeff20dcfd9b67c2c4287369429047c448ba65f3df449d20",
+    "frameSha256": [
+      "d96763e45e5c27762d8776398fe22425f680bade122349a93e937db673125fd6",
+      "a715b1d7107b43eef8ce321a2cabdd0e35237ba7b77eca995a076e7985c87074",
+      "d9cac762dbd84e7565fc0f954c55567e152ebcb7420c054059303da28af0f8fc",
+      "e9585c9c0df47102b65e39ac27aaf5794367a3f3dc015615208d147005df9233",
+      "7fcd76ab578ca27aa0bee8ddd0370376fd854b53b1f9e1fec3a928598f3ac35d",
+      "2a820ebf2f7d0da553275e6bbad44fa13ac070ebf5056aab13d058b769c4173f",
+      "1d00ab565b6149a49e8ee99da889fc7d8dcb0f71d28b64a64be3675ed3539296",
+      "ac63e1539c62c330555cfb730bb09509cc154067774cb4aa7c605180d971f781",
+      "f50e729d9c296dc441bb8eab2c0f0b7c26fc3d519eb6eac6b88b4e98b5e9e38e",
+      "1cd67de90a3266f50587ce69f4f965b0fff4bcc7b47987ec852b9eb28e8f02d7"
+    ],
+    "bytes": 63137,
+    "sha256": "d54d361ea03a07347af62b361e5b7a7bb81f98217ab2054d4838a32c066787f9"
+  },
+  {
+    "id": "D16",
+    "order": 516,
+    "title": "D16 · Ana Tijoux y la libreta de ideas",
+    "category": "Chile: memes y encuentros",
+    "pack": "new",
+    "batch": "chile-remix-03",
+    "version": 3,
+    "status": "approved",
+    "frames": 12,
+    "durations": [
+      450,
+      450,
+      450,
+      450,
+      450,
+      450,
+      450,
+      450,
+      450,
+      450,
+      500,
+      900
+    ],
+    "cycles": 1,
+    "still": 11,
+    "source": "new-scenes/sources/D16-v3.png",
+    "src": "new-scenes/atlases/moa-D16-v3.png",
+    "generator": "Integrated image_gen directly operated by primary assistant",
+    "reference": "references/moa-neutral.png",
+    "prompt": "new-scenes/prompts/D16.txt",
+    "context": "Viñeta ficticia de humor. Los encuentros son homenajes artísticos, sin colaboración o respaldo de las personas representadas. Sin audio ni letras de canciones.",
+    "review": "Primary assistant visually reviews source and delivered frames. Full CI required before merge.",
+    "sourceGridColumns": 2,
+    "discardedSources": [
+      "new-scenes/sources/D16-v1.png"
+    ],
+    "sourceColumns": [
+      0,
+      510,
+      1024
+    ],
+    "packaging": {
+      "sourceSize": [
+        1024,
+        1536
+      ],
+      "rowCuts": [
+        0,
+        279,
+        541,
+        809,
+        1077,
+        1331,
+        1536
+      ],
+      "columnCuts": [
+        0,
+        510,
+        1024
+      ],
+      "rowBaselineRegistration": [
+        [
+          2,
+          32
+        ],
+        [
+          0,
+          32
+        ],
+        [
+          2,
+          45
+        ],
+        [
+          0,
+          45
+        ],
+        [
+          2,
+          41
+        ],
+        [
+          0,
+          41
+        ],
+        [
+          2,
+          41
+        ],
+        [
+          0,
+          41
+        ],
+        [
+          2,
+          47
+        ],
+        [
+          0,
+          47
+        ],
+        [
+          2,
+          96
+        ],
+        [
+          0,
+          96
+        ]
+      ],
+      "unionCrop": [
+        34,
+        44,
+        479,
+        305
+      ],
+      "sharedScale": 0.5123595505617977,
+      "frameSize": [
+        288,
+        168
+      ],
+      "origin": [
+        0,
+        0
+      ],
+      "trajectory": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          0
+        ]
+      ]
+    },
+    "frameFiles": [
+      "new-scenes/frames/D16-v3/000.png",
+      "new-scenes/frames/D16-v3/001.png",
+      "new-scenes/frames/D16-v3/002.png",
+      "new-scenes/frames/D16-v3/003.png",
+      "new-scenes/frames/D16-v3/004.png",
+      "new-scenes/frames/D16-v3/005.png",
+      "new-scenes/frames/D16-v3/006.png",
+      "new-scenes/frames/D16-v3/007.png",
+      "new-scenes/frames/D16-v3/008.png",
+      "new-scenes/frames/D16-v3/009.png",
+      "new-scenes/frames/D16-v3/010.png",
+      "new-scenes/frames/D16-v3/011.png"
+    ],
+    "sourceSha256": "a55699eb6105bc8f489f63ef9614ac9f5db63f1b4c53fda9f13703ec0474f607",
+    "frameSha256": [
+      "5c276e0199ecdc5a4416b5c1f6ac4711a643d434d0f619df6c808d427cbade75",
+      "2342301ae972d68ec917d76526c86361ff3f7e297029367162482650d35820e5",
+      "773427dff4e9fb6efebb20b5a5f7994ab37001b99ef0bdfcc0e52818dcdb7c55",
+      "d8d519e80cf3dc30299f23043f2da482b489185d95e5aac1fd9f19447cc9e1bf",
+      "a46ed444a260ddc73a57b0ca3364863bf5fd2922db52879dd5506e0016eaad36",
+      "5915686608d8ca4e0043a6d6590882b785b00fce42d66fce9a0354feb7c23f43",
+      "1331c643ceaba2abf4c6c02dc7cd0c88518d73b2f79e4d533dd517109f9669a5",
+      "25a038d0659b264a2a0364c60736c44bd6d650f77f5e4c1b5ad2d8254d9c9267",
+      "10b38e11030ad7b7d213aa39272e6b601454a8ec588784cacbcbea6bf6430b34",
+      "757c4884de912ff411b71bcc7cbc9d108ac4da4eaf598debf0f2d2b0b1c629a8",
+      "bd8ce361b1dc10f9b843b9da9a46e8dfc934c1a6197297411fde07db855b4d37",
+      "070770d34df6d211bdd864568c07833c5b5dd5c1e99db1b87404df2fb8ef4edf"
+    ],
+    "bytes": 90269,
+    "sha256": "b72bc842775aba2b17d056e9ec6090538a6ab497045ec4d723e7f976bccdc6df"
+  },
+  {
+    "id": "D17",
+    "order": 517,
+    "title": "D17 · Francisca Valenzuela y el piano viajero",
+    "category": "Chile: memes y encuentros",
+    "pack": "new",
+    "batch": "chile-remix-03",
+    "version": 3,
+    "status": "approved",
+    "frames": 10,
+    "durations": [
+      450,
+      450,
+      450,
+      450,
+      450,
+      450,
+      450,
+      450,
+      600,
+      900
+    ],
+    "cycles": 1,
+    "still": 9,
+    "source": "new-scenes/sources/D17-v3.png",
+    "src": "new-scenes/atlases/moa-D17-v3.png",
+    "generator": "Integrated image_gen directly operated by primary assistant",
+    "reference": "references/moa-neutral.png",
+    "prompt": "new-scenes/prompts/D17.txt",
+    "context": "Viñeta ficticia de humor. Los encuentros son homenajes artísticos, sin colaboración o respaldo de las personas representadas. Sin audio ni letras de canciones.",
+    "review": "Primary assistant visually reviews source and delivered frames. Full CI required before merge.",
+    "sourceGridColumns": 2,
+    "discardedSources": [
+      "new-scenes/sources/D17-v1.png"
+    ],
+    "sourceColumns": [
+      0,
+      668,
+      1290
+    ],
+    "packaging": {
+      "sourceSize": [
+        1290,
+        1219
+      ],
+      "rowCuts": [
+        0,
+        268,
+        516,
+        753,
+        988,
+        1219
+      ],
+      "columnCuts": [
+        0,
+        668,
+        1290
+      ],
+      "rowBaselineRegistration": [
+        [
+          0,
+          36
+        ],
+        [
+          23,
+          36
+        ],
+        [
+          0,
+          49
+        ],
+        [
+          23,
+          49
+        ],
+        [
+          0,
+          64
+        ],
+        [
+          23,
+          64
+        ],
+        [
+          0,
+          59
+        ],
+        [
+          23,
+          59
+        ],
+        [
+          0,
+          73
+        ],
+        [
+          23,
+          73
+        ]
+      ],
+      "unionCrop": [
+        76,
+        61,
+        618,
+        294
+      ],
+      "sharedScale": 0.42066420664206644,
+      "frameSize": [
+        288,
+        168
+      ],
+      "origin": [
+        0,
+        0
+      ],
+      "trajectory": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          0
+        ]
+      ]
+    },
+    "frameFiles": [
+      "new-scenes/frames/D17-v3/000.png",
+      "new-scenes/frames/D17-v3/001.png",
+      "new-scenes/frames/D17-v3/002.png",
+      "new-scenes/frames/D17-v3/003.png",
+      "new-scenes/frames/D17-v3/004.png",
+      "new-scenes/frames/D17-v3/005.png",
+      "new-scenes/frames/D17-v3/006.png",
+      "new-scenes/frames/D17-v3/007.png",
+      "new-scenes/frames/D17-v3/008.png",
+      "new-scenes/frames/D17-v3/009.png"
+    ],
+    "sourceSha256": "03028e05e7882ecef39e5671cf7c88f14f0331a39a604758e52681d73c6a48c4",
+    "frameSha256": [
+      "c255ef04210468c4c35b5986318306beb73a622c99e3ebabc5300af397a59311",
+      "b6f5a28524a77a817169b9a8fc635e5439023adea03797488e556518725f1c0a",
+      "d41457ad282dad5501f9a50298b555963968319ef7d52f1429e95f7da988a2cc",
+      "d3f2abcd3ceeb123e1bed3ef59f08d26d78cac31938c686a0bdc56387395fd38",
+      "89efb68dcb193f02b7d718615567a55442ec1e52d7eaf1757b8b03920b83a6dd",
+      "bc29d2d129bb823cbf9c6aa73c1d6df85ec81ed6e489e62854bac680023e23e5",
+      "42f787bc3256cc246e5183e7668ff1098be5ea1aaf7761ea9114c353bd245528",
+      "4b291f1fd6f15b7d094e5583897901b6b070f0740368df9c2ebe6200c420b9fa",
+      "afab35c3247493ab8b2847da62b4ae3b6042dfa3346b8d6ee569c368d42771f3",
+      "d548168e4dc9bad89bfddf0bf699c3db17f5c51b3da24cbd2595b80500e8e9a4"
+    ],
+    "bytes": 42987,
+    "sha256": "3ee3a230ad769b49437597fbb0da3d7e11592674f3721ea3da976041bfe1e8a1"
+  },
+  {
+    "id": "D18",
+    "order": 518,
+    "title": "D18 · Denise Rosenthal y el ensayo espejo",
+    "category": "Chile: memes y encuentros",
+    "pack": "new",
+    "batch": "chile-remix-03",
+    "version": 1,
+    "status": "approved",
+    "frames": 12,
+    "durations": [
+      450,
+      450,
+      450,
+      450,
+      450,
+      450,
+      450,
+      450,
+      450,
+      450,
+      500,
+      900
+    ],
+    "cycles": 1,
+    "still": 11,
+    "source": "new-scenes/sources/D18-v1.png",
+    "src": "new-scenes/atlases/moa-D18-v1.png",
+    "generator": "Integrated image_gen directly operated by primary assistant",
+    "reference": "references/moa-neutral.png",
+    "prompt": "new-scenes/prompts/D18.txt",
+    "context": "Viñeta ficticia de humor. Los encuentros son homenajes artísticos, sin colaboración o respaldo de las personas representadas. Sin audio ni letras de canciones.",
+    "review": "Primary assistant visually reviews source and delivered frames. Full CI required before merge.",
+    "sourceGridColumns": 4,
+    "sourceColumns": [
+      0,
+      362,
+      711,
+      1109,
+      1448
+    ],
+    "packaging": {
+      "sourceSize": [
+        1448,
+        1086
+      ],
+      "rowCuts": [
+        0,
+        387,
+        741,
+        1086
+      ],
+      "columnCuts": [
+        0,
+        362,
+        711,
+        1109,
+        1448
+      ],
+      "rowBaselineRegistration": [
+        [
+          18,
+          68
+        ],
+        [
+          24,
+          68
+        ],
+        [
+          0,
+          68
+        ],
+        [
+          29,
+          68
+        ],
+        [
+          18,
+          92
+        ],
+        [
+          24,
+          92
+        ],
+        [
+          0,
+          92
+        ],
+        [
+          29,
+          92
+        ],
+        [
+          18,
+          101
+        ],
+        [
+          24,
+          101
+        ],
+        [
+          0,
+          101
+        ],
+        [
+          29,
+          101
+        ]
+      ],
+      "unionCrop": [
+        26,
+        135,
+        393,
+        413
+      ],
+      "sharedScale": 0.539568345323741,
+      "frameSize": [
+        288,
+        168
+      ],
+      "origin": [
+        0,
+        0
+      ],
+      "trajectory": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          0
+        ]
+      ]
+    },
+    "frameFiles": [
+      "new-scenes/frames/D18-v1/000.png",
+      "new-scenes/frames/D18-v1/001.png",
+      "new-scenes/frames/D18-v1/002.png",
+      "new-scenes/frames/D18-v1/003.png",
+      "new-scenes/frames/D18-v1/004.png",
+      "new-scenes/frames/D18-v1/005.png",
+      "new-scenes/frames/D18-v1/006.png",
+      "new-scenes/frames/D18-v1/007.png",
+      "new-scenes/frames/D18-v1/008.png",
+      "new-scenes/frames/D18-v1/009.png",
+      "new-scenes/frames/D18-v1/010.png",
+      "new-scenes/frames/D18-v1/011.png"
+    ],
+    "sourceSha256": "4083cf9d290dfa8157047054a2ac8fc071d774e2ab3a5e6f6c6a039682f5737c",
+    "frameSha256": [
+      "044ac30d73e4311c7a5027f479522b641c65702f71c29c72a60507d88fb65b4c",
+      "0b2ecdf0fddbd7a9acff1efeaeeefeea04e4d2ae1ac72a723017ad4b1d5641cc",
+      "f725787bd82d20b29442225fe923645e843646d0acbd66b29f129c8f9359a220",
+      "f09842c27f74d21d4edf1aed2c2118187b5e00f21ee1ff06ea58e65c6750253f",
+      "506eb3f6e3a7f453a50762ffe12434a3f736b7580e3f88d1d8f303712aa3d5f5",
+      "6a35ba08a3c2fb1f855fcc3285791675b080b6fa0f109c4211e053f28121558e",
+      "ee7a7b91a9b828c83fdc7b2e5e7a3dcb4de4abc686247c2ea22a120d33a90af4",
+      "ab2d17b3069f87894e1a5854c9d71f8acc792da1c0d6e63bb36d9b16f54ff21a",
+      "0e23c5d5e7cbc986af4cfa838a7a2f8581732e3f3b13cb919ad56b3ea81b0f1e",
+      "77df13968b432cbc383157325b1297adc82aea4a3a46de41652b7e76f9f5394e",
+      "acee68424d8b0ce0854bd77f4535584f3241dba5f8c42019c4ee1e7dd82e114b",
+      "8dca5f0364fd3a68db0050e8b6eed2374e09505bd2ddde93fd88cd5c58f4aa5f"
+    ],
+    "bytes": 99350,
+    "sha256": "c304641681f0e9efe8cf63f72db90747a4313f5b6c1291518fe438b52456fb3f"
   }
 ]

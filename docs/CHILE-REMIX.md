@@ -4,7 +4,7 @@ Serie aprobada por el usuario el 13 de octubre de 2026. Producción y revisión 
 
 Son viñetas ficticias. Los nombres identifican homenajes artísticos; no hay colaboración, patrocinio ni respaldo de las personas o entidades representadas. No se usan grabaciones, voces, letras ni fotografías de terceros en el paquete. Los derechos de personajes y semejanzas no se conceden por este repositorio.
 
-## Publicadas en este árbol: 12/30
+## Publicadas en este árbol: 18/30
 
 - **D01 · Peinado para atrás** · 12 poses · 5.9 s · [fuente](../new-scenes/sources/D01-v1.png) · [cuadros](../new-scenes/frames/D01-v1/) · [tiempos JSON](../new-scenes/scenes/D01.json) · [prompt](../new-scenes/prompts/D01.txt) · [secuencia](../evidence/D01/light-frames.png).
 - **D02 · No estoy ni ahí… hasta la marraqueta** · 12 poses · 5.9 s · [fuente](../new-scenes/sources/D02-v2.png) · [cuadros](../new-scenes/frames/D02-v2/) · [tiempos JSON](../new-scenes/scenes/D02.json) · [prompt](../new-scenes/prompts/D02.txt) · [secuencia](../evidence/D02/light-frames.png).
@@ -18,6 +18,12 @@ Son viñetas ficticias. Los nombres identifican homenajes artísticos; no hay co
 - **D10 · Naya Fácil y el aro de luz rebelde** · 12 poses · 5.9 s · [fuente](../new-scenes/sources/D10-v2.png) · [cuadros](../new-scenes/frames/D10-v2/) · [tiempos JSON](../new-scenes/scenes/D10.json) · [prompt](../new-scenes/prompts/D10.txt) · [secuencia](../evidence/D10/light-frames.png).
 - **D11 · Claudio Michaux y la reacción contenida** · 12 poses · 5.9 s · [fuente](../new-scenes/sources/D11-v1.png) · [cuadros](../new-scenes/frames/D11-v1/) · [tiempos JSON](../new-scenes/scenes/D11.json) · [prompt](../new-scenes/prompts/D11.txt) · [secuencia](../evidence/D11/light-frames.png).
 - **D12 · Vesta Lugg y la pasarela diminuta** · 12 poses · 5.9 s · [fuente](../new-scenes/sources/D12-v1.png) · [cuadros](../new-scenes/frames/D12-v1/) · [tiempos JSON](../new-scenes/scenes/D12.json) · [prompt](../new-scenes/prompts/D12.txt) · [secuencia](../evidence/D12/light-frames.png).
+- **D13 · Myriam Hernández y el ventilador dramático** · 12 poses · 5.9 s · [fuente](../new-scenes/sources/D13-v1.png) · [cuadros](../new-scenes/frames/D13-v1/) · [tiempos JSON](../new-scenes/scenes/D13.json) · [prompt](../new-scenes/prompts/D13.txt) · [secuencia](../evidence/D13/light-frames.png).
+- **D14 · Gepe y la coreografía geométrica** · 12 poses · 5.9 s · [fuente](../new-scenes/sources/D14-v1.png) · [cuadros](../new-scenes/frames/D14-v1/) · [tiempos JSON](../new-scenes/scenes/D14.json) · [prompt](../new-scenes/prompts/D14.txt) · [secuencia](../evidence/D14/light-frames.png).
+- **D15 · Joe Vasconcellos y la percusión que despierta** · 10 poses · 5.1 s · [fuente](../new-scenes/sources/D15-v2.png) · [cuadros](../new-scenes/frames/D15-v2/) · [tiempos JSON](../new-scenes/scenes/D15.json) · [prompt](../new-scenes/prompts/D15.txt) · [secuencia](../evidence/D15/light-frames.png).
+- **D16 · Ana Tijoux y la libreta de ideas** · 12 poses · 5.9 s · [fuente](../new-scenes/sources/D16-v3.png) · [cuadros](../new-scenes/frames/D16-v3/) · [tiempos JSON](../new-scenes/scenes/D16.json) · [prompt](../new-scenes/prompts/D16.txt) · [secuencia](../evidence/D16/light-frames.png).
+- **D17 · Francisca Valenzuela y el piano viajero** · 10 poses · 5.1 s · [fuente](../new-scenes/sources/D17-v3.png) · [cuadros](../new-scenes/frames/D17-v3/) · [tiempos JSON](../new-scenes/scenes/D17.json) · [prompt](../new-scenes/prompts/D17.txt) · [secuencia](../evidence/D17/light-frames.png).
+- **D18 · Denise Rosenthal y el ensayo espejo** · 12 poses · 5.9 s · [fuente](../new-scenes/sources/D18-v1.png) · [cuadros](../new-scenes/frames/D18-v1/) · [tiempos JSON](../new-scenes/scenes/D18.json) · [prompt](../new-scenes/prompts/D18.txt) · [secuencia](../evidence/D18/light-frames.png).
 
 ## Edición y límites
 

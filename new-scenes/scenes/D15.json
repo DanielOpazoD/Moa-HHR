@@ -1,0 +1,162 @@
+{
+  "id": "D15",
+  "order": 515,
+  "title": "D15 · Joe Vasconcellos y la percusión que despierta",
+  "category": "Chile: memes y encuentros",
+  "pack": "new",
+  "batch": "chile-remix-03",
+  "version": 2,
+  "status": "approved",
+  "frames": 10,
+  "durations": [
+    450,
+    450,
+    450,
+    450,
+    450,
+    450,
+    450,
+    450,
+    600,
+    900
+  ],
+  "cycles": 1,
+  "still": 9,
+  "source": "new-scenes/sources/D15-v2.png",
+  "src": "new-scenes/atlases/moa-D15-v2.png",
+  "generator": "Integrated image_gen directly operated by primary assistant",
+  "reference": "references/moa-neutral.png",
+  "prompt": "new-scenes/prompts/D15.txt",
+  "context": "Viñeta ficticia de humor. Los encuentros son homenajes artísticos, sin colaboración o respaldo de las personas representadas. Sin audio ni letras de canciones.",
+  "review": "Primary assistant visually reviews source and delivered frames. Full CI required before merge.",
+  "sourceGridColumns": 2,
+  "discardedSources": [
+    "new-scenes/sources/D15-v1.png"
+  ],
+  "sourceColumns": [
+    0,
+    812,
+    1536
+  ],
+  "sourceRows": [
+    0,
+    205,
+    394,
+    586,
+    789,
+    1024
+  ],
+  "packaging": {
+    "sourceSize": [
+      1536,
+      1024
+    ],
+    "rowCuts": [
+      0,
+      205,
+      394,
+      586,
+      789,
+      1024
+    ],
+    "columnCuts": [
+      0,
+      812,
+      1536
+    ],
+    "rowBaselineRegistration": [
+      [
+        0,
+        52
+      ],
+      [
+        44,
+        52
+      ],
+      [
+        0,
+        68
+      ],
+      [
+        44,
+        68
+      ],
+      [
+        0,
+        65
+      ],
+      [
+        44,
+        65
+      ],
+      [
+        0,
+        57
+      ],
+      [
+        44,
+        57
+      ],
+      [
+        0,
+        42
+      ],
+      [
+        44,
+        42
+      ]
+    ],
+    "unionCrop": [
+      158,
+      39,
+      700,
+      263
+    ],
+    "sharedScale": 0.42066420664206644,
+    "frameSize": [
+      288,
+      168
+    ],
+    "origin": [
+      0,
+      0
+    ],
+    "trajectory": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ]
+    ]
+  },
+  "frameFiles": [
+    "new-scenes/frames/D15-v2/000.png",
+    "new-scenes/frames/D15-v2/001.png",
+    "new-scenes/frames/D15-v2/002.png",
+    "new-scenes/frames/D15-v2/003.png",
+    "new-scenes/frames/D15-v2/004.png",
+    "new-scenes/frames/D15-v2/005.png",
+    "new-scenes/frames/D15-v2/006.png",
+    "new-scenes/frames/D15-v2/007.png",
+    "new-scenes/frames/D15-v2/008.png",
+    "new-scenes/frames/D15-v2/009.png"
+  ],
+  "sourceSha256": "cbbe8fbf568d6f9caeff20dcfd9b67c2c4287369429047c448ba65f3df449d20",
+  "frameSha256": [
+    "d96763e45e5c27762d8776398fe22425f680bade122349a93e937db673125fd6",
+    "a715b1d7107b43eef8ce321a2cabdd0e35237ba7b77eca995a076e7985c87074",
+    "d9cac762dbd84e7565fc0f954c55567e152ebcb7420c054059303da28af0f8fc",
+    "e9585c9c0df47102b65e39ac27aaf5794367a3f3dc015615208d147005df9233",
+    "7fcd76ab578ca27aa0bee8ddd0370376fd854b53b1f9e1fec3a928598f3ac35d",
+    "2a820ebf2f7d0da553275e6bbad44fa13ac070ebf5056aab13d058b769c4173f",
+    "1d00ab565b6149a49e8ee99da889fc7d8dcb0f71d28b64a64be3675ed3539296",
+    "ac63e1539c62c330555cfb730bb09509cc154067774cb4aa7c605180d971f781",
+    "f50e729d9c296dc441bb8eab2c0f0b7c26fc3d519eb6eac6b88b4e98b5e9e38e",
+    "1cd67de90a3266f50587ce69f4f965b0fff4bcc7b47987ec852b9eb28e8f02d7"
+  ],
+  "bytes": 63137,
+  "sha256": "d54d361ea03a07347af62b361e5b7a7bb81f98217ab2054d4838a32c066787f9"
+}
