@@ -1,0 +1,151 @@
+{
+  "id": "D20",
+  "order": 520,
+  "title": "D20 · Los Tres y la cueca en miniatura",
+  "category": "Chile: memes y encuentros",
+  "pack": "new",
+  "batch": "chile-remix-04",
+  "version": 1,
+  "status": "approved",
+  "frames": 10,
+  "durations": [
+    450,
+    450,
+    450,
+    450,
+    450,
+    450,
+    450,
+    450,
+    600,
+    900
+  ],
+  "cycles": 1,
+  "still": 9,
+  "source": "new-scenes/sources/D20-v1.png",
+  "src": "new-scenes/atlases/moa-D20-v1.png",
+  "generator": "Integrated image_gen directly operated by primary assistant",
+  "reference": "references/moa-neutral.png",
+  "prompt": "new-scenes/prompts/D20.txt",
+  "context": "Viñeta ficticia de humor. Los encuentros son homenajes artísticos, sin colaboración o respaldo de las personas representadas. Sin audio ni letras de canciones.",
+  "review": "Primary assistant visually reviews source and delivered frames. Full CI required before merge.",
+  "sourceGridColumns": 2,
+  "sourceColumns": [
+    0,
+    869,
+    1642
+  ],
+  "packaging": {
+    "sourceSize": [
+      1642,
+      958
+    ],
+    "rowCuts": [
+      0,
+      179,
+      360,
+      538,
+      729,
+      958
+    ],
+    "columnCuts": [
+      0,
+      869,
+      1642
+    ],
+    "rowBaselineRegistration": [
+      [
+        0,
+        76
+      ],
+      [
+        48,
+        76
+      ],
+      [
+        0,
+        74
+      ],
+      [
+        48,
+        74
+      ],
+      [
+        0,
+        75
+      ],
+      [
+        48,
+        75
+      ],
+      [
+        0,
+        74
+      ],
+      [
+        48,
+        74
+      ],
+      [
+        0,
+        52
+      ],
+      [
+        48,
+        52
+      ]
+    ],
+    "unionCrop": [
+      254,
+      63,
+      717,
+      255
+    ],
+    "sharedScale": 0.4924406047516199,
+    "frameSize": [
+      288,
+      168
+    ],
+    "origin": [
+      0,
+      0
+    ],
+    "trajectory": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ]
+    ]
+  },
+  "frameFiles": [
+    "new-scenes/frames/D20-v1/000.png",
+    "new-scenes/frames/D20-v1/001.png",
+    "new-scenes/frames/D20-v1/002.png",
+    "new-scenes/frames/D20-v1/003.png",
+    "new-scenes/frames/D20-v1/004.png",
+    "new-scenes/frames/D20-v1/005.png",
+    "new-scenes/frames/D20-v1/006.png",
+    "new-scenes/frames/D20-v1/007.png",
+    "new-scenes/frames/D20-v1/008.png",
+    "new-scenes/frames/D20-v1/009.png"
+  ],
+  "sourceSha256": "bd899a1a254f14fa94b5e725b7abd913696fb428cbad4e7d5bd6438395042cd8",
+  "frameSha256": [
+    "ad90db8bf285d3e63299929155b8c211cf67a15b06b8477ad95a1d8a6b2bd35e",
+    "708d0045d50377e9cd8e17380c577c5d85757e05848ebddf24f104833fde2928",
+    "0f1f943a85e2e33a535a265e06aabb7355e5e93bd7dff3df947230079db66e89",
+    "13ef91a29954dd224189dbaf3ee583d5e5f56f525bfa2ee45f29a83a0ee381e3",
+    "0d63d7302dd38c208fc59146f8752a6cd1f08f64367504270a5ef1db298230b1",
+    "e89253385763361dbf56c7d1fd3a6330421db07c9ef4297420baf647e817ceac",
+    "3728557f91ebcc25d84e77f166a65f9003c143150c36c8844f71bb9d93c9d2d3",
+    "bc83f4cf251e558535563f48a6fe698b1e18dc7d246edd3c1da0329a71694d7c",
+    "122c6ce484d851951776366efe65e135239c3398de53d7f2713a2ee9208f87fc",
+    "05b82771b17d55323767794a059189c2d7581295fe4571ad29bd405c676fdebd"
+  ],
+  "bytes": 70727,
+  "sha256": "145385d7c9fdacc704b395d42ef9c5d2490dcb217fb9fcc01fd35903bd33583e"
+}

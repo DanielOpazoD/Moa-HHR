@@ -1,0 +1,151 @@
+{
+  "id": "D21",
+  "order": 521,
+  "title": "D21 · Chancho en Piedra y el cerdito de utilería",
+  "category": "Chile: memes y encuentros",
+  "pack": "new",
+  "batch": "chile-remix-04",
+  "version": 1,
+  "status": "approved",
+  "frames": 10,
+  "durations": [
+    450,
+    450,
+    450,
+    450,
+    450,
+    450,
+    450,
+    450,
+    600,
+    900
+  ],
+  "cycles": 1,
+  "still": 9,
+  "source": "new-scenes/sources/D21-v1.png",
+  "src": "new-scenes/atlases/moa-D21-v1.png",
+  "generator": "Integrated image_gen directly operated by primary assistant",
+  "reference": "references/moa-neutral.png",
+  "prompt": "new-scenes/prompts/D21.txt",
+  "context": "Viñeta ficticia de humor. Los encuentros son homenajes artísticos, sin colaboración o respaldo de las personas representadas. Sin audio ni letras de canciones.",
+  "review": "Primary assistant visually reviews source and delivered frames. Full CI required before merge.",
+  "sourceGridColumns": 2,
+  "sourceColumns": [
+    0,
+    777,
+    1536
+  ],
+  "packaging": {
+    "sourceSize": [
+      1536,
+      1024
+    ],
+    "rowCuts": [
+      0,
+      189,
+      376,
+      562,
+      744,
+      1024
+    ],
+    "columnCuts": [
+      0,
+      777,
+      1536
+    ],
+    "rowBaselineRegistration": [
+      [
+        0,
+        121
+      ],
+      [
+        9,
+        121
+      ],
+      [
+        0,
+        123
+      ],
+      [
+        9,
+        123
+      ],
+      [
+        0,
+        122
+      ],
+      [
+        9,
+        122
+      ],
+      [
+        0,
+        124
+      ],
+      [
+        9,
+        124
+      ],
+      [
+        0,
+        129
+      ],
+      [
+        9,
+        129
+      ]
+    ],
+    "unionCrop": [
+      98,
+      127,
+      689,
+      307
+    ],
+    "sharedScale": 0.38578680203045684,
+    "frameSize": [
+      288,
+      168
+    ],
+    "origin": [
+      0,
+      0
+    ],
+    "trajectory": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ]
+    ]
+  },
+  "frameFiles": [
+    "new-scenes/frames/D21-v1/000.png",
+    "new-scenes/frames/D21-v1/001.png",
+    "new-scenes/frames/D21-v1/002.png",
+    "new-scenes/frames/D21-v1/003.png",
+    "new-scenes/frames/D21-v1/004.png",
+    "new-scenes/frames/D21-v1/005.png",
+    "new-scenes/frames/D21-v1/006.png",
+    "new-scenes/frames/D21-v1/007.png",
+    "new-scenes/frames/D21-v1/008.png",
+    "new-scenes/frames/D21-v1/009.png"
+  ],
+  "sourceSha256": "2409e4635d53e664c6f73e9cc756f6884e631166949ba3f9df3c4dbf2a90df4e",
+  "frameSha256": [
+    "04c5ae63b3aa26f75dea22229dba636e72cf1dcbda035bebc5a7fdf466872256",
+    "4aa13e264ffc00e5fb088ecd446bf076a54d42e524922aa6b8de5da69bdda169",
+    "7fbbf80f8f53e1e6cfc69b86851c0b675e23fe6e50703dd08c1d87e56f43b751",
+    "5802a0adad2c19a624963417e8c18018af8287187b946e893d9789dd03a13494",
+    "e400c797f2d37419206520ac4a2401b4aac132475ac8095ff211bfdda6b6fe68",
+    "b8d936a61676792dacb922f6ab4ed1fdcfd4efa2901fc0dafc59b872bb032230",
+    "cff17646d776964d931decc9ed703afff4b9fe68bac0c6b10939420e2939c8a9",
+    "03c0d422260ccaa64328c45abde9b40b8729e5277a6df79fb7a3fbf03f9b692a",
+    "d2ee558ab47f9ce67691f68ccd5cbec3a5c8fabeff54aa7c051acda4b9ff5837",
+    "5e4c22055f870b6e8999c0a0602bbd42f551da09d130663f5d1b0454761e9569"
+  ],
+  "bytes": 55855,
+  "sha256": "a0e1a6f70de16bb7ce6f10012027bd86e08fd1dcdbc4a7eafea3caf63d297f93"
+}

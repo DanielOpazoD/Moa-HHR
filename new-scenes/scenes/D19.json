@@ -1,0 +1,154 @@
+{
+  "id": "D19",
+  "order": 519,
+  "title": "D19 · Los Bunkers y el cable interminable",
+  "category": "Chile: memes y encuentros",
+  "pack": "new",
+  "batch": "chile-remix-04",
+  "version": 2,
+  "status": "approved",
+  "frames": 10,
+  "durations": [
+    450,
+    450,
+    450,
+    450,
+    450,
+    450,
+    450,
+    450,
+    600,
+    900
+  ],
+  "cycles": 1,
+  "still": 9,
+  "source": "new-scenes/sources/D19-v2.png",
+  "src": "new-scenes/atlases/moa-D19-v2.png",
+  "generator": "Integrated image_gen directly operated by primary assistant",
+  "reference": "references/moa-neutral.png",
+  "prompt": "new-scenes/prompts/D19.txt",
+  "context": "Viñeta ficticia de humor. Los encuentros son homenajes artísticos, sin colaboración o respaldo de las personas representadas. Sin audio ni letras de canciones.",
+  "review": "Primary assistant visually reviews source and delivered frames. Full CI required before merge.",
+  "sourceGridColumns": 2,
+  "discardedSources": [
+    "new-scenes/sources/D19-v1.png"
+  ],
+  "sourceColumns": [
+    0,
+    794,
+    1536
+  ],
+  "packaging": {
+    "sourceSize": [
+      1536,
+      1024
+    ],
+    "rowCuts": [
+      0,
+      236,
+      450,
+      653,
+      857,
+      1024
+    ],
+    "columnCuts": [
+      0,
+      794,
+      1536
+    ],
+    "rowBaselineRegistration": [
+      [
+        0,
+        37
+      ],
+      [
+        26,
+        37
+      ],
+      [
+        0,
+        55
+      ],
+      [
+        26,
+        55
+      ],
+      [
+        0,
+        63
+      ],
+      [
+        26,
+        63
+      ],
+      [
+        0,
+        57
+      ],
+      [
+        26,
+        57
+      ],
+      [
+        0,
+        107
+      ],
+      [
+        26,
+        107
+      ]
+    ],
+    "unionCrop": [
+      50,
+      61,
+      742,
+      262
+    ],
+    "sharedScale": 0.32947976878612717,
+    "frameSize": [
+      288,
+      168
+    ],
+    "origin": [
+      0,
+      0
+    ],
+    "trajectory": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ]
+    ]
+  },
+  "frameFiles": [
+    "new-scenes/frames/D19-v2/000.png",
+    "new-scenes/frames/D19-v2/001.png",
+    "new-scenes/frames/D19-v2/002.png",
+    "new-scenes/frames/D19-v2/003.png",
+    "new-scenes/frames/D19-v2/004.png",
+    "new-scenes/frames/D19-v2/005.png",
+    "new-scenes/frames/D19-v2/006.png",
+    "new-scenes/frames/D19-v2/007.png",
+    "new-scenes/frames/D19-v2/008.png",
+    "new-scenes/frames/D19-v2/009.png"
+  ],
+  "sourceSha256": "b59033b4cc735c33ceb91db59634ecb1d9f6d4d5b06bf9d9e030376363ba2e44",
+  "frameSha256": [
+    "f8f38798367de18c044bc92c6e890b75b9cf6e159dfac4385faf3430dc129923",
+    "e900b0d6df0bcee7c364cd541e2b5dfe13cd3bbe4f867a31114a15a29072d57e",
+    "4ff13ab7e815607deb3562eb53bd94674d6362a790cbc46209873003edbfeacd",
+    "476f8192e77789e31b0a8ea509afb303c29516cfca6d583e030b148ae8040531",
+    "bc20f154bfcdcf83974fc8b02614e0ed71a9ffd38436eda86453aee0a271f82e",
+    "e26d67a5cf6feafabdb08a7a46ddde75a94b4855713188b50630aa9b4996bc53",
+    "ca21789f5038389db8b92eecbb659efccfb2f0bf13700583a4c25f120a3a8243",
+    "b712e1fe54e8c63fc72cd00f472ff0b35ab52315f5c42f9862a9b5f130f08ba0",
+    "bc09253f09722194d3d5e03ca318f5d240c4ae541fecf3f3fbeb986c4eb2475e",
+    "6f34130076cb3f975df59e3ffed62d1cf5dea104925886357be565ce97b96888"
+  ],
+  "bytes": 50711,
+  "sha256": "38126d01e7dc929c3c179369a4c55217ab83ab160d6b79e1ad05389894b901e4"
+}
