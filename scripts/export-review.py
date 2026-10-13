@@ -1,19 +1,18 @@
 """Export the existing gallery as one offline review file; no new art or runtime dependency."""
 
 from pathlib import Path
-import base64, json, subprocess
+import json, subprocess
+from offline_assets import image_data, playback_scene
 
 root = Path(__file__).resolve().parents[1]
 
 
 def png_data(path):
-    return (
-        "data:image/png;base64," + base64.b64encode((root / path).read_bytes()).decode()
-    )
+    return image_data(root / path)
 
 
 scenes = [
-    s for s in json.loads((root / "scenes.json").read_text()) if s["pack"] == "new"
+    playback_scene(s) for s in json.loads((root / "scenes.json").read_text()) if s["pack"] == "new"
 ]
 for scene in scenes:
     scene["src"] = png_data(scene["src"])
@@ -37,7 +36,7 @@ end = app.index("  filter();", start)
 app = (
     app[:start]
     + "  scenes = "
-    + json.dumps(scenes, ensure_ascii=False)
+    + json.dumps(scenes, ensure_ascii=False, separators=(",", ":"))
     + ";\n"
     + app[end:]
 )

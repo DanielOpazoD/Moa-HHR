@@ -1,0 +1,169 @@
+{
+  "order": 412,
+  "id": "B12",
+  "title": "B12 · Una silla para descansar",
+  "category": "Moa aventuras",
+  "pack": "new",
+  "batch": "adventures-03",
+  "version": 2,
+  "status": "approved",
+  "frames": 12,
+  "durations": [
+    500,
+    500,
+    500,
+    500,
+    500,
+    500,
+    500,
+    500,
+    500,
+    500,
+    500,
+    500
+  ],
+  "cycles": 1,
+  "still": 11,
+  "source": "new-scenes/sources/B12-v2.png",
+  "src": "new-scenes/atlases/moa-B12-v2.png",
+  "generator": "Integrated image_gen directly operated by primary assistant",
+  "reference": "references/moa-neutral.png",
+  "prompt": "new-scenes/prompts/B12.txt",
+  "context": "Viñeta ficticia de humor y acompañamiento. No es una instrucción clínica ni representa operaciones reales.",
+  "review": "Primary assistant inspected source and packed sequences on light background; alpha and three-background previews validated. GitHub CI required before merge; local browser socket restriction.",
+  "sourceColumns": [
+    0,
+    362,
+    724,
+    1087,
+    1448
+  ],
+  "rejectedSources": [
+    "new-scenes/sources/B12-v1.png"
+  ],
+  "packaging": {
+    "sourceSize": [
+      1448,
+      1086
+    ],
+    "rowCuts": [
+      0,
+      410,
+      751,
+      1086
+    ],
+    "columnCuts": [
+      0,
+      362,
+      724,
+      1087,
+      1448
+    ],
+    "rowBaselineRegistration": [
+      [
+        0,
+        77
+      ],
+      [
+        0,
+        77
+      ],
+      [
+        0,
+        77
+      ],
+      [
+        1,
+        77
+      ],
+      [
+        0,
+        142
+      ],
+      [
+        0,
+        142
+      ],
+      [
+        0,
+        142
+      ],
+      [
+        1,
+        142
+      ],
+      [
+        0,
+        152
+      ],
+      [
+        0,
+        152
+      ],
+      [
+        0,
+        152
+      ],
+      [
+        1,
+        152
+      ]
+    ],
+    "unionCrop": [
+      20,
+      196,
+      363,
+      436
+    ],
+    "sharedScale": 0.625,
+    "frameSize": [
+      288,
+      168
+    ],
+    "origin": [
+      0,
+      0
+    ],
+    "trajectory": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ]
+    ]
+  },
+  "frameFiles": [
+    "new-scenes/frames/B12-v2/000.png",
+    "new-scenes/frames/B12-v2/001.png",
+    "new-scenes/frames/B12-v2/002.png",
+    "new-scenes/frames/B12-v2/003.png",
+    "new-scenes/frames/B12-v2/004.png",
+    "new-scenes/frames/B12-v2/005.png",
+    "new-scenes/frames/B12-v2/006.png",
+    "new-scenes/frames/B12-v2/007.png",
+    "new-scenes/frames/B12-v2/008.png",
+    "new-scenes/frames/B12-v2/009.png",
+    "new-scenes/frames/B12-v2/010.png",
+    "new-scenes/frames/B12-v2/011.png"
+  ],
+  "sourceSha256": "865d0c7565624d141fcfff70eb4e31d34b6b0991258e51c4e51e8b7cbcbfa990",
+  "frameSha256": [
+    "3979933d026ff88d681f5f19469539c289fb622626398aa78a1fb6384e7330e6",
+    "36d7941dd3ab545a2ba57d948dba96418baf03c2de45d9861548ced6dbbde224",
+    "fa0b002afb64039985819dc0f1479071cdf00ce5305116dfbf4db2c4949aeda6",
+    "9ecc1b41695b9a236219fdc994c82028fd711e25ddb2e9a3a3a66d88e2b222fd",
+    "10b5ce09993c7c603965efca3eaffb5fb3bb92418bdb418916ed8e21721acab0",
+    "cff7e757013640dda59d21d20b6e681df17826ddc658813296b936eeb5d7baff",
+    "41c0c44470d96acd50b7639023e42bb4b7203bfd8b7bdebdfa8b00cf6d2e18cb",
+    "2c2f656c2796d4b7113e83e68358d49918e4d9e35c13efa17af6fc46bacde884",
+    "c485ef61b8d7c2824d10d6f718f1f28d614f834221f077d6b5cfcba1e8831194",
+    "bba186f38403a3606827996dc77321f79114b1b68ad5317c725685a8a9dc0988",
+    "146f2280e50737b083953fec0f8842eafca2936e86c51655942e5527e18c73e5",
+    "c404d56463e1054e06f151ba44c39156a3a83e775bcc6f921ebf0fffaa993d93"
+  ],
+  "bytes": 104483,
+  "sha256": "b8d8019e46bc94485eaacdc06feb4bce4cc8bf9db52ef87a6605077fbbb506c5"
+}
