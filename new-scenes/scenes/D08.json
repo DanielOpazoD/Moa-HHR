@@ -1,0 +1,167 @@
+{
+  "id": "D08",
+  "order": 508,
+  "title": "D08 · Pollo Castillo y el perchero revelado",
+  "category": "Chile: memes y encuentros",
+  "pack": "new",
+  "batch": "chile-remix-02",
+  "version": 1,
+  "status": "approved",
+  "frames": 12,
+  "durations": [
+    450,
+    450,
+    450,
+    450,
+    450,
+    450,
+    450,
+    450,
+    450,
+    450,
+    500,
+    900
+  ],
+  "cycles": 1,
+  "still": 11,
+  "source": "new-scenes/sources/D08-v1.png",
+  "src": "new-scenes/atlases/moa-D08-v1.png",
+  "generator": "Integrated image_gen directly operated by primary assistant",
+  "reference": "references/moa-neutral.png",
+  "prompt": "new-scenes/prompts/D08.txt",
+  "context": "Viñeta ficticia de humor. Los encuentros son homenajes artísticos, sin colaboración o respaldo de las personas representadas. Sin audio ni letras de canciones.",
+  "review": "Primary assistant visually reviews source and delivered frames. Full CI required before merge.",
+  "sourceGridColumns": 4,
+  "sourceColumns": [
+    0,
+    404,
+    762,
+    1151,
+    1536
+  ],
+  "packaging": {
+    "sourceSize": [
+      1536,
+      1024
+    ],
+    "rowCuts": [
+      0,
+      364,
+      685,
+      1024
+    ],
+    "columnCuts": [
+      0,
+      404,
+      762,
+      1151,
+      1536
+    ],
+    "rowBaselineRegistration": [
+      [
+        0,
+        60
+      ],
+      [
+        23,
+        60
+      ],
+      [
+        7,
+        60
+      ],
+      [
+        9,
+        60
+      ],
+      [
+        0,
+        100
+      ],
+      [
+        23,
+        100
+      ],
+      [
+        7,
+        100
+      ],
+      [
+        9,
+        100
+      ],
+      [
+        0,
+        101
+      ],
+      [
+        23,
+        101
+      ],
+      [
+        7,
+        101
+      ],
+      [
+        9,
+        101
+      ]
+    ],
+    "unionCrop": [
+      23,
+      134,
+      389,
+      390
+    ],
+    "sharedScale": 0.5859375,
+    "frameSize": [
+      288,
+      168
+    ],
+    "origin": [
+      0,
+      0
+    ],
+    "trajectory": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ]
+    ]
+  },
+  "frameFiles": [
+    "new-scenes/frames/D08-v1/000.png",
+    "new-scenes/frames/D08-v1/001.png",
+    "new-scenes/frames/D08-v1/002.png",
+    "new-scenes/frames/D08-v1/003.png",
+    "new-scenes/frames/D08-v1/004.png",
+    "new-scenes/frames/D08-v1/005.png",
+    "new-scenes/frames/D08-v1/006.png",
+    "new-scenes/frames/D08-v1/007.png",
+    "new-scenes/frames/D08-v1/008.png",
+    "new-scenes/frames/D08-v1/009.png",
+    "new-scenes/frames/D08-v1/010.png",
+    "new-scenes/frames/D08-v1/011.png"
+  ],
+  "sourceSha256": "c5894e3b980cb7cc1e25a98214322d5162ca7b4e3590ffc1c49adaa25f1a24a6",
+  "frameSha256": [
+    "559d9f132b6c5006de2c7a6a050d06dc9a8a77e15321f56845672d24756feedd",
+    "33cbbcbf80bb0729b8f2dcfbc75b6fe9bae368f87441b331116e5f3ce3742516",
+    "98b54ebaae72c3244c2f63f3005a1f2d09574ff38eb10209f9412d192a1aabbe",
+    "abb001006086214d2579435c16a23c3ebd3b37b7690c40bfd1db3138678ef3ae",
+    "0b8bd397e7faf23ede2fcc89cd0bdef1b4e0d04953190d746e794a26670bcbe2",
+    "8a3ed836ddc4dd0d1adf576e7df5241c493556cf2bdb3d9ff0248ddf6037858c",
+    "d0cbb7e76cf506f3b514ffdad3e865d7e0322f012bcf377a80838978686fa7fe",
+    "8aaf866d09e8d9145560227ed310a4e824549e0f54fab8fdb0fd2e951e6a58f4",
+    "90c25f76e6d53cb7453f83f89f5feaaded114a7f3eafb1254c9ced1f4793d59a",
+    "d820b5cdd488572808fb07d311c67bb96a82db4c77550895db351f9817d1628d",
+    "b6ea8b3f161997e67b93e02e5456f3281098e2fc4c61d0690353e318e09dc0e2",
+    "546058ed416d5466db6101a0bdd93a131aceca2194c83566ddbd4e6199bb8cc4"
+  ],
+  "bytes": 105364,
+  "sha256": "b489c8d978786a88ce3b756d4b4c04c8ed05eebb50a97a0efe8dabe905488fa8"
+}

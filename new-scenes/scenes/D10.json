@@ -1,0 +1,170 @@
+{
+  "id": "D10",
+  "order": 510,
+  "title": "D10 · Naya Fácil y el aro de luz rebelde",
+  "category": "Chile: memes y encuentros",
+  "pack": "new",
+  "batch": "chile-remix-02",
+  "version": 2,
+  "status": "approved",
+  "frames": 12,
+  "durations": [
+    450,
+    450,
+    450,
+    450,
+    450,
+    450,
+    450,
+    450,
+    450,
+    450,
+    500,
+    900
+  ],
+  "cycles": 1,
+  "still": 11,
+  "source": "new-scenes/sources/D10-v2.png",
+  "src": "new-scenes/atlases/moa-D10-v2.png",
+  "generator": "Integrated image_gen directly operated by primary assistant",
+  "reference": "references/moa-neutral.png",
+  "prompt": "new-scenes/prompts/D10.txt",
+  "context": "Viñeta ficticia de humor. Los encuentros son homenajes artísticos, sin colaboración o respaldo de las personas representadas. Sin audio ni letras de canciones.",
+  "review": "Primary assistant visually reviews source and delivered frames. Full CI required before merge.",
+  "sourceGridColumns": 4,
+  "discardedSources": [
+    "new-scenes/sources/D10-v1.png"
+  ],
+  "sourceColumns": [
+    0,
+    376,
+    721,
+    1073,
+    1448
+  ],
+  "packaging": {
+    "sourceSize": [
+      1448,
+      1086
+    ],
+    "rowCuts": [
+      0,
+      384,
+      784,
+      1086
+    ],
+    "columnCuts": [
+      0,
+      376,
+      721,
+      1073,
+      1448
+    ],
+    "rowBaselineRegistration": [
+      [
+        0,
+        53
+      ],
+      [
+        15,
+        53
+      ],
+      [
+        12,
+        53
+      ],
+      [
+        0,
+        53
+      ],
+      [
+        0,
+        75
+      ],
+      [
+        15,
+        75
+      ],
+      [
+        12,
+        75
+      ],
+      [
+        0,
+        75
+      ],
+      [
+        0,
+        153
+      ],
+      [
+        15,
+        153
+      ],
+      [
+        12,
+        153
+      ],
+      [
+        0,
+        153
+      ]
+    ],
+    "unionCrop": [
+      20,
+      76,
+      361,
+      427
+    ],
+    "sharedScale": 0.42735042735042733,
+    "frameSize": [
+      288,
+      168
+    ],
+    "origin": [
+      0,
+      0
+    ],
+    "trajectory": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ]
+    ]
+  },
+  "frameFiles": [
+    "new-scenes/frames/D10-v2/000.png",
+    "new-scenes/frames/D10-v2/001.png",
+    "new-scenes/frames/D10-v2/002.png",
+    "new-scenes/frames/D10-v2/003.png",
+    "new-scenes/frames/D10-v2/004.png",
+    "new-scenes/frames/D10-v2/005.png",
+    "new-scenes/frames/D10-v2/006.png",
+    "new-scenes/frames/D10-v2/007.png",
+    "new-scenes/frames/D10-v2/008.png",
+    "new-scenes/frames/D10-v2/009.png",
+    "new-scenes/frames/D10-v2/010.png",
+    "new-scenes/frames/D10-v2/011.png"
+  ],
+  "sourceSha256": "201dd16f9c218ad2e89959860e5de073b3c65ebe218adb8981ff5eebc944962f",
+  "frameSha256": [
+    "3e94da6c5b911dadffde7d4f01330d2d5cc735867439767d5eaed33ab93bf563",
+    "82872fd74781d498db200bac80fcc489941ab94500c3c868fe9b3d74cebecf0b",
+    "97fc3e69613dcbe8017bf9eaf48ab58193cef3576d742a862c7ca896d58d5d14",
+    "90474db04368812c332d0a82cb48a536266fe3860e73a1b38bfe625a8197c2c8",
+    "3103bc505bf5351a919f2d6dd2172eae22ce68b7bb0bb9807d42db52c94f1861",
+    "14a0714a4002719739739670159d93efd1df3102897fc5d2ac63873c67e72d6b",
+    "59e7fdfd039e67b4ee86331b37fcd702ad3939d4ab17849c5d07adf51c59bf28",
+    "aab2ac88b50a76afd1525cdd5a9e6d576a823521a85ba1513a5f373b2f69fca0",
+    "91d2a802dbda3f13eecc0af0aa74406bd41da84364e4b2fb5651a3a303b9d26e",
+    "4609b016a74ca805da7231cc48c08e55562306908e88889d2fc837d8848cf66f",
+    "39f19611ff24cf0b4bb8c19db0ffa779c52526955794b490d445166ff7cad779",
+    "709c08b0216e1456cd0469651297309e16a982ff7930312b2b69a2387f9cb3b8"
+  ],
+  "bytes": 70674,
+  "sha256": "27ba6e3238760768345102299d78a1e489012640adc17419111011ea9eb07380"
+}

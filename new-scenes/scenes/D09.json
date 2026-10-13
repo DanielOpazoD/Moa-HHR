@@ -1,0 +1,170 @@
+{
+  "id": "D09",
+  "order": 509,
+  "title": "D09 · Ignacia Antonia y la transición de vestuario",
+  "category": "Chile: memes y encuentros",
+  "pack": "new",
+  "batch": "chile-remix-02",
+  "version": 3,
+  "status": "approved",
+  "frames": 12,
+  "durations": [
+    450,
+    450,
+    450,
+    450,
+    450,
+    450,
+    450,
+    450,
+    450,
+    450,
+    500,
+    900
+  ],
+  "cycles": 1,
+  "still": 11,
+  "source": "new-scenes/sources/D09-v3.png",
+  "src": "new-scenes/atlases/moa-D09-v3.png",
+  "generator": "Integrated image_gen directly operated by primary assistant",
+  "reference": "references/moa-neutral.png",
+  "prompt": "new-scenes/prompts/D09.txt",
+  "context": "Viñeta ficticia de humor. Los encuentros son homenajes artísticos, sin colaboración o respaldo de las personas representadas. Sin audio ni letras de canciones.",
+  "review": "Primary assistant visually reviews source and delivered frames. Full CI required before merge.",
+  "sourceGridColumns": 4,
+  "discardedSources": [
+    "new-scenes/sources/D09-v1.png"
+  ],
+  "sourceColumns": [
+    0,
+    392,
+    777,
+    1158,
+    1536
+  ],
+  "packaging": {
+    "sourceSize": [
+      1536,
+      1024
+    ],
+    "rowCuts": [
+      0,
+      352,
+      692,
+      1024
+    ],
+    "columnCuts": [
+      0,
+      392,
+      777,
+      1158,
+      1536
+    ],
+    "rowBaselineRegistration": [
+      [
+        0,
+        64
+      ],
+      [
+        3,
+        64
+      ],
+      [
+        5,
+        64
+      ],
+      [
+        7,
+        64
+      ],
+      [
+        0,
+        75
+      ],
+      [
+        3,
+        75
+      ],
+      [
+        5,
+        75
+      ],
+      [
+        7,
+        75
+      ],
+      [
+        0,
+        87
+      ],
+      [
+        3,
+        87
+      ],
+      [
+        5,
+        87
+      ],
+      [
+        7,
+        87
+      ]
+    ],
+    "unionCrop": [
+      21,
+      115,
+      374,
+      378
+    ],
+    "sharedScale": 0.5703422053231939,
+    "frameSize": [
+      288,
+      168
+    ],
+    "origin": [
+      0,
+      0
+    ],
+    "trajectory": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ]
+    ]
+  },
+  "frameFiles": [
+    "new-scenes/frames/D09-v3/000.png",
+    "new-scenes/frames/D09-v3/001.png",
+    "new-scenes/frames/D09-v3/002.png",
+    "new-scenes/frames/D09-v3/003.png",
+    "new-scenes/frames/D09-v3/004.png",
+    "new-scenes/frames/D09-v3/005.png",
+    "new-scenes/frames/D09-v3/006.png",
+    "new-scenes/frames/D09-v3/007.png",
+    "new-scenes/frames/D09-v3/008.png",
+    "new-scenes/frames/D09-v3/009.png",
+    "new-scenes/frames/D09-v3/010.png",
+    "new-scenes/frames/D09-v3/011.png"
+  ],
+  "sourceSha256": "8e418646aec499d04fdacfdbc1ad79cb5997fa2d33c1dd64d136de35124da005",
+  "frameSha256": [
+    "2ae129273ad7cd1656ff2e824e12189a0fea857c2e9373f36c5b7217104101c0",
+    "ec91bc12cee15a49b9e666355db789037c7d5dd8dfc8a995930363576b99a8d7",
+    "3c4ead63b427856e9ece5d74123dc524adbfb802edc66c724a9bde5dffa632c0",
+    "c4d9b86fd73d1f94b2f067c41618ca334ca79e1a530f23c52087531bfab16f93",
+    "fd8bd48c0a1b05b5b1575f215bb2e1d16a21f3020d593fab241dfc309f583f38",
+    "795dc6086c90356bb7ebd9f1d0eaf6b687a3eeb06bcc8835b6e5041751c04752",
+    "53a4c1b61f478150a5ae7a89dc08693553665fec01fdb606a1e896a5d3520181",
+    "104b296cf4bc36c4b8284208cdf6b17ddd566d4f3717e958cd011f416c0ecf9f",
+    "a5b639b196881ef0d42ecb66991de0e7fd33a4845b53c39811780f76f14a3dc1",
+    "c4883a91d213fcd3065c30a5082a31f0ee82bc6a650f39721fc41d15333116e4",
+    "6a7dc1a946fa39f209201361e5952326f67fb838e2e482897cd1da346b8d5ba7",
+    "28c680f7ed5568ae971e67915032db60a3687607f3fb0a9eb3a9e97bc66452f6"
+  ],
+  "bytes": 118467,
+  "sha256": "eec1d6ca3b748bad487d8f39b8661f4b065b9968550702ceca167b2a9e303969"
+}

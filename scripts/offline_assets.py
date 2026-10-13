@@ -23,3 +23,15 @@ def playback_scene(scene):
     """Authoring metadata remains in repository sidecars, not duplicated in the viewer."""
     keys = ("id", "title", "category", "pack", "status", "frames", "durations", "cycles", "still", "src", "context")
     return {key: scene[key] for key in keys if key in scene}
+
+
+def offline_groups(catalog):
+    """Keep each self-contained download bounded while the main catalog stays unified."""
+    new = [s for s in catalog if s["pack"] == "new"]
+    remix = [s for s in new if s.get("batch", "").startswith("chile-remix-")]
+    remix_ids = {s["id"] for s in remix}
+    legacy = [s for s in new if s["id"] not in remix_ids]
+    return [
+        ("moa-scenes.html", "Colecciones anteriores", legacy, "moa-chile-remix.html", "Chile: memes y encuentros"),
+        ("moa-chile-remix.html", "Chile: memes y encuentros", remix, "moa-scenes.html", "Colecciones anteriores"),
+    ]

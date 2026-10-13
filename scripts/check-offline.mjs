@@ -2,15 +2,19 @@ import { chromium } from "playwright-core";
 import fs from "node:fs/promises";
 import { pathToFileURL } from "node:url";
 import path from "node:path";
-const expected = JSON.parse(await fs.readFile("scenes.json", "utf8")).filter(
+const allExpected = JSON.parse(await fs.readFile("scenes.json", "utf8")).filter(
   (s) => s.pack === "new",
 );
 const browser = await chromium.launch({ headless: true });
 try {
+ for (const [file, isRemix] of [["moa-scenes.html", false], ["moa-chile-remix.html", true]]) {
+  const expected = allExpected.filter(s => Boolean(s.batch?.startsWith("chile-remix-")) === isRemix);
+  if (!expected.length) throw Error(`Empty offline collection: ${file}`);
+  const selected = isRemix ? expected.at(-1) : expected.find(s => s.id === "B29");
   const page = await browser.newPage();
   const errors = [];
   page.on("pageerror", (e) => errors.push(e.message));
-  await page.goto(pathToFileURL(path.resolve("review/moa-scenes.html")).href);
+  await page.goto(pathToFileURL(path.resolve("review", file)).href);
   await page.waitForSelector(".card");
   if ((await page.locator(".card").count()) !== expected.length)
     throw Error("Offline catalog is stale");
@@ -24,17 +28,17 @@ try {
   );
   if (JSON.stringify(options) !== JSON.stringify(categories))
     throw Error("Offline category options are stale");
-  await page.locator("#category").selectOption("Moa aventuras");
-  if (await page.locator(".card").count() !== expected.filter((s) => s.category === "Moa aventuras").length)
+  await page.locator("#category").selectOption(selected.category);
+  if (await page.locator(".card").count() !== expected.filter((s) => s.category === selected.category).length)
     throw Error("Offline category filter lost scenes");
   await page.locator("#category").selectOption("all");
-  await page.locator("#search").fill("B29");
+  await page.locator("#search").fill(selected.id);
   await page.locator(".card").click();
-  await page.waitForFunction(() => {
+  await page.waitForFunction((frames) => {
     const image = document.querySelector("#sprite img");
-    return image?.complete && image.naturalWidth === 12 * 288 &&
-      document.querySelector("#status").textContent === "Cuadro 1 de 12";
-  });
+    return image?.complete && image.naturalWidth === frames * 288 &&
+      document.querySelector("#status").textContent === `Cuadro 1 de ${frames}`;
+  }, selected.frames);
   await page.locator("#search").fill("");
   await page.locator("#play").click();
   await page.waitForFunction(
@@ -45,8 +49,10 @@ try {
   );
   if (errors.length) throw Error(errors.join("\n"));
   console.log(
-    `Offline HTML: ${expected.length} scenes, playback and rest, no JS errors.`,
+    `Offline ${file}: ${expected.length} scenes, playback and rest, no JS errors.`,
   );
+  await page.close();
+ }
 } finally {
   await browser.close();
 }

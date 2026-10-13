@@ -1,0 +1,167 @@
+{
+  "id": "D12",
+  "order": 512,
+  "title": "D12 · Vesta Lugg y la pasarela diminuta",
+  "category": "Chile: memes y encuentros",
+  "pack": "new",
+  "batch": "chile-remix-02",
+  "version": 1,
+  "status": "approved",
+  "frames": 12,
+  "durations": [
+    450,
+    450,
+    450,
+    450,
+    450,
+    450,
+    450,
+    450,
+    450,
+    450,
+    500,
+    900
+  ],
+  "cycles": 1,
+  "still": 11,
+  "source": "new-scenes/sources/D12-v1.png",
+  "src": "new-scenes/atlases/moa-D12-v1.png",
+  "generator": "Integrated image_gen directly operated by primary assistant",
+  "reference": "references/moa-neutral.png",
+  "prompt": "new-scenes/prompts/D12.txt",
+  "context": "Viñeta ficticia de humor. Los encuentros son homenajes artísticos, sin colaboración o respaldo de las personas representadas. Sin audio ni letras de canciones.",
+  "review": "Primary assistant visually reviews source and delivered frames. Full CI required before merge.",
+  "sourceGridColumns": 4,
+  "sourceColumns": [
+    0,
+    367,
+    726,
+    1081,
+    1448
+  ],
+  "packaging": {
+    "sourceSize": [
+      1448,
+      1086
+    ],
+    "rowCuts": [
+      0,
+      372,
+      717,
+      1086
+    ],
+    "columnCuts": [
+      0,
+      367,
+      726,
+      1081,
+      1448
+    ],
+    "rowBaselineRegistration": [
+      [
+        0,
+        39
+      ],
+      [
+        4,
+        39
+      ],
+      [
+        6,
+        39
+      ],
+      [
+        0,
+        39
+      ],
+      [
+        0,
+        64
+      ],
+      [
+        4,
+        64
+      ],
+      [
+        6,
+        64
+      ],
+      [
+        0,
+        64
+      ],
+      [
+        0,
+        63
+      ],
+      [
+        4,
+        63
+      ],
+      [
+        6,
+        63
+      ],
+      [
+        0,
+        63
+      ]
+    ],
+    "unionCrop": [
+      18,
+      71,
+      350,
+      399
+    ],
+    "sharedScale": 0.4573170731707317,
+    "frameSize": [
+      288,
+      168
+    ],
+    "origin": [
+      0,
+      0
+    ],
+    "trajectory": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ]
+    ]
+  },
+  "frameFiles": [
+    "new-scenes/frames/D12-v1/000.png",
+    "new-scenes/frames/D12-v1/001.png",
+    "new-scenes/frames/D12-v1/002.png",
+    "new-scenes/frames/D12-v1/003.png",
+    "new-scenes/frames/D12-v1/004.png",
+    "new-scenes/frames/D12-v1/005.png",
+    "new-scenes/frames/D12-v1/006.png",
+    "new-scenes/frames/D12-v1/007.png",
+    "new-scenes/frames/D12-v1/008.png",
+    "new-scenes/frames/D12-v1/009.png",
+    "new-scenes/frames/D12-v1/010.png",
+    "new-scenes/frames/D12-v1/011.png"
+  ],
+  "sourceSha256": "8ae74d6747ba7fcd8de7eeb423e6b91f48b737ed08bcec93698dbef4be62a23c",
+  "frameSha256": [
+    "a91414d0417ce191934d815a5a39dd48089182b9e67177b53eef48363e2bc9cc",
+    "673efa4f2cd4ed35965db9f593e99cb4c27dce299a904a2e27b110d47dcc981e",
+    "83f1cefbf8ddb2c754078b20aa7f4bf1c1a9605b479ab15d365a69f09bcd6800",
+    "4ba8bbe5e1005c7a94cb95b25270626f4ac5e345b933f732b48071870553668f",
+    "24d814e076ff77efb86d93ced966a8435ba4e6ab8154abdbb1d8a26b494be8da",
+    "1c91355d612a6390db1f01c52eca7e70cf74a0537ed45b6dc1b535d840dbe906",
+    "9981246b91f046ce42c261ecab87928ae916fd8ad939a99e2b272ff42d62c8cd",
+    "33426feb7c087175bb2d80fc261bc3fb9f8b655d17c3a4f0e92c41cd9b8f2fd9",
+    "87e509dba2425d0620bcf02609e98f507b87c6a7d50d393562c12003fe151210",
+    "4abf88c18cc54e2551694972d86d7ba1d0ffeb2e68cd78344685ba389c59788f",
+    "1c4afe1ad28c06d01d747afe0d9434f0b62a821076e8bf0add523ca88994e82e",
+    "bc0a5cc757e16c83b78e6b0f6d23482688d81018a5dce541cc378019f8ac0998"
+  ],
+  "bytes": 73933,
+  "sha256": "96fe979ab56a7eacbd8b2faa92914ffdfcf44d5416482f273915fa7270af36ca"
+}
