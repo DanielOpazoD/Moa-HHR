@@ -1,0 +1,150 @@
+{
+  "order": 242,
+  "id": "C42",
+  "title": "C42 · Felipe Avello entrevista al más callado",
+  "category": "Cultura popular chilena",
+  "pack": "new",
+  "batch": "chile-08",
+  "chileOrder": 42,
+  "version": 4,
+  "status": "approved",
+  "frames": 8,
+  "durations": [
+    500,
+    500,
+    500,
+    500,
+    500,
+    500,
+    500,
+    500
+  ],
+  "cycles": 1,
+  "still": 7,
+  "source": "new-scenes/sources/C42-v4.png",
+  "src": "new-scenes/atlases/moa-C42-v4.png",
+  "generator": "Integrated image_gen, operated directly in primary conversation",
+  "reference": "references/moa-neutral.png",
+  "prompt": "new-scenes/prompts/C42.txt",
+  "context": "Encuentro ficticio de mímica entre Felipe Avello y Moa; sin diálogo ni aval.",
+  "guest": "Felipe Avello",
+  "inspirationReferences": [
+    {
+      "url": "https://www.emol.com/noticias/Espectaculos/2018/01/26/892722/Gracias-Patagual-Felipe-Avello-arraso-con-su-presentacion-en-Festival-del-Huaso-de-Olmue.html",
+      "supports": "Fotografía inspeccionada del invitado, camisa verde estampada y rasgos."
+    }
+  ],
+  "review": "Primary assistant inspected all packed frames. Chromium launch blocked locally by socket restrictions; CI required before merge.",
+  "rejectedSources": [
+    "new-scenes/sources/C42-v1.png",
+    "new-scenes/sources/C42-v2.png",
+    "new-scenes/sources/C42-v3.png"
+  ],
+  "sourceSha256": "683e0cef339fe0c51efdc48a6c075d104856541c14e3b2e6c44cf6a0fd3798a7",
+  "frameSha256": [
+    "49080b81a26ca46c80d094ecbd7b766a7a4193e4dc501755b324bec25eab7b03",
+    "ac809486f033ff4e7e2e593a5cbf548f7e13b772fcde93c5a643a4848e866416",
+    "f3aa93fe1436d9f5efbb3e6ef117dbbfce4459ba73936883a054d7ecd39705cc",
+    "5a54343f72e262b7243c51cec1ae0d70695677658b87f05b178f0487413df15d",
+    "7e5834123c4e9e8633ef919b871cfc6ecfa54e1508a98b42f18bf422fbef3041",
+    "43f7f46394a4a328d095898233ce2b1fb7fa4c2060237297b93cc18d49b1068e",
+    "97dd343190c875a5a6cf33a11576d452519a1ff0d003e30231ef3c67c9bfd2d0",
+    "568bbaee47c4b478fbbc2680edec620e3fac3a1d2fd70f054844ed86c87a399a"
+  ],
+  "bytes": 62115,
+  "sha256": "a506b6cac5594df8cb84a05639f2a7c262f9c1dd190e19936e96dcb7fb486c9c",
+  "sourceColumns": [
+    0,
+    443,
+    890,
+    1330,
+    1774
+  ],
+  "packaging": {
+    "sourceSize": [
+      1774,
+      887
+    ],
+    "rowCuts": [
+      0,
+      452,
+      887
+    ],
+    "columnCuts": [
+      0,
+      443,
+      890,
+      1330,
+      1774
+    ],
+    "rowBaselineRegistration": [
+      [
+        2,
+        64
+      ],
+      [
+        0,
+        64
+      ],
+      [
+        3,
+        64
+      ],
+      [
+        1,
+        64
+      ],
+      [
+        2,
+        89
+      ],
+      [
+        0,
+        89
+      ],
+      [
+        3,
+        89
+      ],
+      [
+        1,
+        89
+      ]
+    ],
+    "unionCrop": [
+      3,
+      127,
+      447,
+      478
+    ],
+    "sharedScale": 0.42735042735042733,
+    "frameSize": [
+      288,
+      168
+    ],
+    "origin": [
+      0,
+      0
+    ],
+    "trajectory": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ]
+    ]
+  },
+  "frameFiles": [
+    "new-scenes/frames/C42-v4/000.png",
+    "new-scenes/frames/C42-v4/001.png",
+    "new-scenes/frames/C42-v4/002.png",
+    "new-scenes/frames/C42-v4/003.png",
+    "new-scenes/frames/C42-v4/004.png",
+    "new-scenes/frames/C42-v4/005.png",
+    "new-scenes/frames/C42-v4/006.png",
+    "new-scenes/frames/C42-v4/007.png"
+  ]
+}

@@ -1,0 +1,170 @@
+{
+  "order": 239,
+  "id": "C39",
+  "title": "C39 · El Profesor Rossa descubre a Moa",
+  "category": "Cultura popular chilena",
+  "pack": "new",
+  "batch": "chile-08",
+  "chileOrder": 39,
+  "version": 2,
+  "status": "approved",
+  "frames": 12,
+  "durations": [
+    500,
+    350,
+    350,
+    350,
+    350,
+    350,
+    350,
+    350,
+    350,
+    350,
+    350,
+    600
+  ],
+  "cycles": 1,
+  "still": 11,
+  "source": "new-scenes/sources/C39-v2.png",
+  "src": "new-scenes/atlases/moa-C39-v2.png",
+  "generator": "Integrated image_gen, operated directly in primary conversation",
+  "reference": "references/moa-neutral.png",
+  "prompt": "new-scenes/prompts/C39.txt",
+  "context": "Encuentro ficticio con Profesor Rossa. Caricaturas; sin aval ni participación real.",
+  "guest": "Profesor Rossa",
+  "inspirationReferences": [
+    {
+      "url": "https://www.emol.com/noticias/Espectaculos/2016/10/18/827117/Profesor-Rossa.html",
+      "supports": "Fotografía del trío inspeccionada visualmente; referencia de pelo, vestuario y personajes."
+    }
+  ],
+  "review": "Primary assistant inspected all packed frames. Chromium launch blocked locally by socket restrictions; CI required before merge.",
+  "rejectedSources": [
+    "new-scenes/sources/C39-v1.png"
+  ],
+  "packaging": {
+    "sourceSize": [
+      1448,
+      1086
+    ],
+    "rowCuts": [
+      0,
+      410,
+      735,
+      1086
+    ],
+    "columnCuts": [
+      0,
+      362,
+      724,
+      1086,
+      1448
+    ],
+    "rowBaselineRegistration": [
+      [
+        0,
+        73
+      ],
+      [
+        0,
+        73
+      ],
+      [
+        0,
+        73
+      ],
+      [
+        0,
+        73
+      ],
+      [
+        0,
+        159
+      ],
+      [
+        0,
+        159
+      ],
+      [
+        0,
+        159
+      ],
+      [
+        0,
+        159
+      ],
+      [
+        0,
+        162
+      ],
+      [
+        0,
+        162
+      ],
+      [
+        0,
+        162
+      ],
+      [
+        0,
+        162
+      ]
+    ],
+    "unionCrop": [
+      13,
+      208,
+      328,
+      436
+    ],
+    "sharedScale": 0.6578947368421053,
+    "frameSize": [
+      288,
+      168
+    ],
+    "origin": [
+      0,
+      0
+    ],
+    "trajectory": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ]
+    ]
+  },
+  "frameFiles": [
+    "new-scenes/frames/C39-v2/000.png",
+    "new-scenes/frames/C39-v2/001.png",
+    "new-scenes/frames/C39-v2/002.png",
+    "new-scenes/frames/C39-v2/003.png",
+    "new-scenes/frames/C39-v2/004.png",
+    "new-scenes/frames/C39-v2/005.png",
+    "new-scenes/frames/C39-v2/006.png",
+    "new-scenes/frames/C39-v2/007.png",
+    "new-scenes/frames/C39-v2/008.png",
+    "new-scenes/frames/C39-v2/009.png",
+    "new-scenes/frames/C39-v2/010.png",
+    "new-scenes/frames/C39-v2/011.png"
+  ],
+  "sourceSha256": "ed0dca7ba09d40540583ff7ad0f67fb6eef204794071880264ed3f16833fdc00",
+  "frameSha256": [
+    "5bd7b6893bb6cbf1276d30ec8c294e84802ed7fca38a24844d175bb904d5f163",
+    "1884507d48949b8d14870f731db5341408fe9b43833ee3487747874117d0206f",
+    "2c40b88ba19ebfddce0c5957fcfe2b5ef57490e2c512503363a6f3c638325caa",
+    "8f5be6f74c28861b21ea7ee65c20c2b8daefda4652c69483606521ee85d2e81b",
+    "314db973c8ae6417140301e2bac75e7e11505d0c9a3cc3a87a13d631be0ea0e7",
+    "e4e6cc46401a168f43d56f4069d0b143eb4d2863e68c573b54ff78491e3f438e",
+    "cb04be342c421ef4812472b5a1b23342e8d02ae333aa1872398f24d710a4169c",
+    "4f7bc8883b343490155e04d6e6c7a55d9348144e5cbe8a6be0b0393abe239e21",
+    "775698bd46f95385871e3db30939d9556becb4d9971aa1c3573fb2a454f5ef2c",
+    "78428864a1ad4ac0b75f6f714605904b745f9d9a8952436e316bae0d0fb9db20",
+    "dea99b889e68c6f3783a896ac31fe5ce45a7c34c27f42d33d837647a7a88bbe6",
+    "2aa9380be9689bcd2f523047d8f7223778c22d1a2cc0cd8b7ccc238c914a9e52"
+  ],
+  "bytes": 109511,
+  "sha256": "92e7da7752555c02576245bf6bc5ce21e84c586b5f44bd58a8b254b05c050d41"
+}
