@@ -1,0 +1,53 @@
+{
+  "method": "Inspección visual manual de fuentes y cuadros empaquetados; numeración desde1.",
+  "frames": [
+    {
+      "frame": 1,
+      "observation": "Cola morada en manos, capa azul ya visible"
+    },
+    {
+      "frame": 2,
+      "observation": "Paso corto manteniendo cola"
+    },
+    {
+      "frame": 3,
+      "observation": "Naya posa, Moa sostiene"
+    },
+    {
+      "frame": 4,
+      "observation": "Moa mira a Naya"
+    },
+    {
+      "frame": 5,
+      "observation": "Moa baja cola con rodillas flexionadas"
+    },
+    {
+      "frame": 6,
+      "observation": "Cola en suelo y manos libres"
+    },
+    {
+      "frame": 7,
+      "observation": "Moa descubre capa lateral"
+    },
+    {
+      "frame": 8,
+      "observation": "Levanta esquina de su capa azul"
+    },
+    {
+      "frame": 9,
+      "observation": "Se luce con capa abierta"
+    },
+    {
+      "frame": 10,
+      "observation": "Cuarto de giro mostrando espalda/capa"
+    },
+    {
+      "frame": 11,
+      "observation": "Regresa de frente, Naya aplaude"
+    },
+    {
+      "frame": 12,
+      "observation": "Capa vuelve a caer, cola permanece unida al vestido"
+    }
+  ]
+}

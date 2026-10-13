@@ -1,0 +1,12 @@
+{
+  "name": "Luis Slimming",
+  "page": "https://www.13.cl/programas/el-desestrece/noticias/luis-slimming-regresa-a-la-tv-con-el-desestrece-este-domingo-que",
+  "imageUrl": "https://s.13.cl/sites/default/files/styles/manualcrop_1600x800/public/programas/articulos/field-imagen/2026-03/LiuisSlimming_01.jpg.jpeg?itok=mnS5c50d",
+  "sha256": "1afad6bc3a8a2003bee0b08a6deec21f06012b7ff0a487a275e2c52b246c91c0",
+  "bytes": 130733,
+  "inspected": "2026-10-13",
+  "method": "Local image bytes inspected with view_image before generation, not search caption alone.",
+  "observations": "Pelo corto oscuro con canas, lentes negros rectangulares grandes, barba y bigote cortos, rostro redondo, camisa oscura sobre camiseta gris.",
+  "usage": "Visual likeness reference supplied to integrated image_gen; photograph not redistributed in repository.",
+  "license": "No open redistribution license asserted; rights remain with respective source/photographer."
+}

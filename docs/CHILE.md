@@ -82,3 +82,5 @@ Se revisaron la trayectoria y retención de una sola pelota en C17, la ubicació
 | [C20 · Una estrella y el asombro](../new-scenes/scenes/C20.json) | 12 | 4600 ms | 82368 B | [PNG](../new-scenes/frames/C20-v2/) |
 
 Colección chilena completa: 20 escenas, 248 poses, 1.668.915 bytes de atlas activos. Fuentes, descartes y evidencias quedan separados de la carga selectiva.
+
+Nueva serie separada: [encuentros ficticios con invitados](CHILE-ENCUENTROS.md), con IDs no consecutivos y C21 pendiente de vídeo.
