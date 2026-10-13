@@ -1,0 +1,19 @@
+Create exactly16 distinct pixel-art animation poses,transparent sprite sheet4columns4rows. TWO characters every cell: LEFT faithful Moa grey stone mascot master, big rounded head ears black eyes white rims eyebrows short limbs turquoise wave visible; RIGHT recognizable friendly HUMAN caricature of NAYA FACIL from attached portrait, warm medium-tan skin, long voluminous dark brown wavy hair with center part, strongly arched dark eyebrows, long lashes, full warm lips, wide toothy smile, gold hoop earrings. Naya chibi human in original modest pink short-sleeve blouse and dark navy trousers, flat shoes, about1.2times Moa height; preserve her facial features, not generic companion or stone mascot. Match chunky pixel contours of Moa, no photorealism.
+Fictional selfie encounter, no endorsement or real quotation. Naya holds ONE coral smartphone in her anatomicalLEFT hand on OUTER imageRIGHT side, phone upright portrait orientation, back shell and two small dark camera circles visible to viewer; front selfie camera faces characters. Her left arm curves forward/right to aim back at both. Phone stays in same hand, orientation, color,size EVERY frame, never handed off. Naya's anatomicalRIGHT hand near Moa stays FREE to guide or finger-heart. Entire phone fits cell safely.
+1 Naya holds phone low at outer right, looks toward it; Moa cheerful;
+2 she raises same phone to face height toward outer-right/front, Moa watches her;
+3 phone settled aimed at both, Naya smile at phone, Moa looks LEFT away from phone;
+4 Moa waves left to wrong side, Naya turns eyes to him;
+5 Moa enthusiastic wrong-way wave, Naya amused raised eyebrow;
+6 Naya uses free right hand to point toward SAME raised phone, phone hand fixed;
+7 Moa pauses, puzzled, follows her pointing finger;
+8 Moa starts rotating head right toward phone, waving arm lowers;
+9 Moa face now toward phone, Naya gives tiny encouraging nod;
+10 Moa steps halfstep closer to Naya, both face phone;
+11 Naya free hand near chest forms tiny finger-heart with thumb/index, phone stays upright in other hand;
+12 Moa looks at her free hand then starts same finger-heart with hand near his chest;
+13 both make finger-hearts toward phone, smiling with eyes open;
+14 both keep same hearts, Moa tilts head playfully and Naya cheerful closed-eye smile;
+15 Naya opens eyes and calmly lowers phone slightly, both free hands relax;
+16 both look warmly at phone still held same left hand at chest height, Moa gives tiny pleased wave to correct direction.
+Exactly2arms2legs each. No actual floating heart effects, no flash, text, UI, logos, audio or extra phones. Preserve jewelry and garments allposes. Fixed camera,ground,size,soft light. Entire pair/phone central60percent each equalcell with60px clear transparent gutters and margins. Final288x168frame144x84CSS,top-right48x48empty. Real neck,shoulder,elbow,wrist gestures, no duplicated poses or moving a statue.

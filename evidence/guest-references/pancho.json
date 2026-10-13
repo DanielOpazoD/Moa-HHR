@@ -1,0 +1,12 @@
+{
+  "name": "Pancho Saavedra",
+  "page": "https://www.13.cl/programas/lugares-que-hablan/extras/acompana-a-pancho-saavedra-en-su-aventura-en-huellelhue/video",
+  "imageUrl": "https://s.13.cl/sites/default/files/styles/manualcrop_1600x800/public/programas/articulos/field-imagen/2017-10/hueee.jpg.jpeg?itok=vlEf_xGF",
+  "sha256": "a9ef6999c40db4fbd2601387d5445fd53daebf51d140f96b739ee7babe56dc07",
+  "bytes": 175943,
+  "inspected": "2026-10-13",
+  "method": "Local image bytes inspected with view_image before generation, not search caption alone.",
+  "observations": "Pelo oscuro corto elevado al frente, rostro ancho, mejillas y sonrisa abierta, chaqueta azul oscura.",
+  "usage": "Visual likeness reference supplied to integrated image_gen; photograph not redistributed in repository.",
+  "license": "No open redistribution license asserted; rights remain with respective source/photographer."
+}

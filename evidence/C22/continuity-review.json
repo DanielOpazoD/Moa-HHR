@@ -1,0 +1,69 @@
+{
+  "method": "Inspección visual manual de fuentes y cuadros empaquetados; numeración desde1.",
+  "frames": [
+    {
+      "frame": 1,
+      "observation": "Leo invita; micrófono alto"
+    },
+    {
+      "frame": 2,
+      "observation": "Moa se eleva para alcanzar"
+    },
+    {
+      "frame": 3,
+      "observation": "Ambos examinan soporte"
+    },
+    {
+      "frame": 4,
+      "observation": "Moa sujeta y Leo alcanza collar"
+    },
+    {
+      "frame": 5,
+      "observation": "Leo sostiene tubo y collar"
+    },
+    {
+      "frame": 6,
+      "observation": "Empieza descenso"
+    },
+    {
+      "frame": 7,
+      "observation": "Micrófono más bajo, Moa junto al soporte"
+    },
+    {
+      "frame": 8,
+      "observation": "Ambos aseguran ajuste"
+    },
+    {
+      "frame": 9,
+      "observation": "Micrófono bajo, Leo anima"
+    },
+    {
+      "frame": 10,
+      "observation": "Moa respira junto al micrófono"
+    },
+    {
+      "frame": 11,
+      "observation": "Moa inicia expresión vocal"
+    },
+    {
+      "frame": 12,
+      "observation": "Moa extiende brazo, Leo escucha"
+    },
+    {
+      "frame": 13,
+      "observation": "Moa actuación intensa, Leo anima"
+    },
+    {
+      "frame": 14,
+      "observation": "Moa mano al pecho"
+    },
+    {
+      "frame": 15,
+      "observation": "Leo aplaude, Moa sonríe"
+    },
+    {
+      "frame": 16,
+      "observation": "Moa se inclina; pedestal sigue entre ambos"
+    }
+  ]
+}

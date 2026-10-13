@@ -1,0 +1,12 @@
+{
+  "name": "Leo Rey",
+  "page": "https://www.musicapopular.cl/artista/leo-rey/",
+  "imageUrl": "https://www.musicapopular.cl/wp-content/uploads/2015/07/leorey.jpg",
+  "sha256": "1457678f32139958d1a45142ddc5d8f59cea22d36dbb65ab54616887f8a984b2",
+  "bytes": 36907,
+  "inspected": "2026-10-13",
+  "method": "Local image bytes inspected with view_image before generation, not search caption alone.",
+  "observations": "Pelo negro largo y rizado, nariz prominente, sonrisa amplia, camisa negra; retrato sin barba.",
+  "usage": "Visual likeness reference supplied to integrated image_gen; photograph not redistributed in repository.",
+  "license": "No open redistribution license asserted; rights remain with respective source/photographer."
+}

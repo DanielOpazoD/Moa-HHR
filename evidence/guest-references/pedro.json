@@ -1,0 +1,12 @@
+{
+  "name": "Pedro Pascal",
+  "page": "https://www.starwars.com/news/pedro-pascal-revealed-as-the-mandalorian",
+  "imageUrl": "https://lumiere-a.akamaihd.net/v1/images/image_2ce2897a.jpeg",
+  "sha256": "0b67bc58629e069be9b8514d1745d047a5c08c82a0db20efd5bb4480c96de405",
+  "bytes": 140219,
+  "inspected": "2026-10-13",
+  "method": "Local image bytes inspected with view_image before generation, not search caption alone.",
+  "observations": "Pelo castaño corto ondulado y elevado, bigote y barba corta irregular, nariz y pliegues junto a ojos característicos.",
+  "usage": "Visual likeness reference supplied to integrated image_gen; photograph not redistributed in repository.",
+  "license": "No open redistribution license asserted; rights remain with respective source/photographer."
+}
