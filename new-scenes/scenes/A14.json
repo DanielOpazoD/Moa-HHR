@@ -1,0 +1,172 @@
+{
+  "order": 314,
+  "id": "A14",
+  "title": "A14 · La noche termina",
+  "category": "Moa compañero",
+  "pack": "new",
+  "batch": "companion-03",
+  "version": 5,
+  "status": "approved",
+  "frames": 12,
+  "durations": [
+    500,
+    500,
+    500,
+    500,
+    500,
+    500,
+    500,
+    500,
+    500,
+    500,
+    500,
+    500
+  ],
+  "cycles": 1,
+  "still": 11,
+  "source": "new-scenes/sources/A14-v5.png",
+  "src": "new-scenes/atlases/moa-A14-v5.png",
+  "generator": "Integrated image_gen directly operated by primary assistant",
+  "reference": "references/moa-neutral.png",
+  "prompt": "new-scenes/prompts/A14.txt",
+  "context": "Animación de acompañamiento ficticia. Los estados de guardado y sincronización requieren confirmación real de la aplicación; esta biblioteca no los conecta a eventos.",
+  "review": "Primary assistant inspected source and packed sequences on light background; alpha and three-background previews validated. GitHub CI required before merge; local browser socket restriction.",
+  "sourceColumns": [
+    0,
+    357,
+    723,
+    1086,
+    1448
+  ],
+  "rejectedSources": [
+    "new-scenes/sources/A14-v1.png",
+    "new-scenes/sources/A14-v2.png",
+    "new-scenes/sources/A14-v3.png",
+    "new-scenes/sources/A14-v4.png"
+  ],
+  "packaging": {
+    "sourceSize": [
+      1448,
+      1086
+    ],
+    "rowCuts": [
+      0,
+      404,
+      726,
+      1086
+    ],
+    "columnCuts": [
+      0,
+      357,
+      723,
+      1086,
+      1448
+    ],
+    "rowBaselineRegistration": [
+      [
+        4,
+        48
+      ],
+      [
+        0,
+        48
+      ],
+      [
+        1,
+        48
+      ],
+      [
+        2,
+        48
+      ],
+      [
+        4,
+        124
+      ],
+      [
+        0,
+        124
+      ],
+      [
+        1,
+        124
+      ],
+      [
+        2,
+        124
+      ],
+      [
+        4,
+        123
+      ],
+      [
+        0,
+        123
+      ],
+      [
+        1,
+        123
+      ],
+      [
+        2,
+        123
+      ]
+    ],
+    "unionCrop": [
+      0,
+      141,
+      361,
+      430
+    ],
+    "sharedScale": 0.5190311418685121,
+    "frameSize": [
+      288,
+      168
+    ],
+    "origin": [
+      0,
+      0
+    ],
+    "trajectory": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ]
+    ]
+  },
+  "frameFiles": [
+    "new-scenes/frames/A14-v5/000.png",
+    "new-scenes/frames/A14-v5/001.png",
+    "new-scenes/frames/A14-v5/002.png",
+    "new-scenes/frames/A14-v5/003.png",
+    "new-scenes/frames/A14-v5/004.png",
+    "new-scenes/frames/A14-v5/005.png",
+    "new-scenes/frames/A14-v5/006.png",
+    "new-scenes/frames/A14-v5/007.png",
+    "new-scenes/frames/A14-v5/008.png",
+    "new-scenes/frames/A14-v5/009.png",
+    "new-scenes/frames/A14-v5/010.png",
+    "new-scenes/frames/A14-v5/011.png"
+  ],
+  "sourceSha256": "336b0f4e9a943e876d9e619eb06e89e435885f66d230c07ce225e804beda879d",
+  "frameSha256": [
+    "17c3aea4e2e0f782cafff5bfc322981f2599160f4ae5422df4f4c8e250f59983",
+    "80f475a59fe61ce080ceef72ad6df5096ed32aace844437a616568edef7433e4",
+    "7c9a923b630260430541d6ddfa3436f30882fc6ecf29f6eb6cd5a0906c9d734f",
+    "8aaf6e759fb424fc349b87c55626d829b8bb2688a8f3b27dafb174c5e86ec4f5",
+    "53b78fe0b90af046d4d71c5dca509f5851076d55e0988a2a12fe44ecb9af048d",
+    "02d15bd24b124b823adb60b97fb05d5b552fe95b2c1da78d21528df018b87e45",
+    "cffa241044f681577da75c650b9d3c475320b362afb35b26e1cafce474281f51",
+    "5d82e61312ac14a6b00fdd80a29be3f6107d8a1755ef0e3f90ef3dca0ee8d99e",
+    "451b0b6ee1c1fb8c2a8313be44940ed9e93b15a20559e94d3a30a161ed7541c5",
+    "c5b73ed3777780ad089b24595129129ea45ae62c47f474e2f8136c4f9cac4b8c",
+    "c5ecc62ae31c1e169935a7b51ad677ac1c1ee48adf42de4a56e0935196c03aee",
+    "65d624d1c4f5573706709491fe477502786ccdedc396db7e0601bc388f180e16"
+  ],
+  "bytes": 83936,
+  "sha256": "3fb43ad2108540d73efc3d6972b61101ffa0e45fe8fbae6bdade75a4de2b5216"
+}
