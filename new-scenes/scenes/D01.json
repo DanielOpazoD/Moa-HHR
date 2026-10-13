@@ -1,0 +1,167 @@
+{
+  "id": "D01",
+  "order": 501,
+  "title": "D01 · Peinado para atrás",
+  "category": "Chile: memes y encuentros",
+  "pack": "new",
+  "batch": "chile-remix-01",
+  "version": 1,
+  "status": "approved",
+  "frames": 12,
+  "durations": [
+    450,
+    450,
+    450,
+    450,
+    450,
+    450,
+    450,
+    450,
+    450,
+    450,
+    500,
+    900
+  ],
+  "cycles": 1,
+  "still": 11,
+  "source": "new-scenes/sources/D01-v1.png",
+  "src": "new-scenes/atlases/moa-D01-v1.png",
+  "generator": "Integrated image_gen directly operated by primary assistant",
+  "reference": "references/moa-neutral.png",
+  "prompt": "new-scenes/prompts/D01.txt",
+  "context": "Viñeta ficticia de humor. Los encuentros son homenajes artísticos, sin colaboración o respaldo de las personas representadas. Sin audio ni letras de canciones.",
+  "review": "Primary assistant visually reviews source and delivered frames. Full CI required before merge.",
+  "sourceGridColumns": 4,
+  "sourceColumns": [
+    0,
+    378,
+    780,
+    1201,
+    1536
+  ],
+  "packaging": {
+    "sourceSize": [
+      1536,
+      1024
+    ],
+    "rowCuts": [
+      0,
+      347,
+      670,
+      1024
+    ],
+    "columnCuts": [
+      0,
+      378,
+      780,
+      1201,
+      1536
+    ],
+    "rowBaselineRegistration": [
+      [
+        21,
+        47
+      ],
+      [
+        9,
+        47
+      ],
+      [
+        0,
+        47
+      ],
+      [
+        43,
+        47
+      ],
+      [
+        21,
+        67
+      ],
+      [
+        9,
+        67
+      ],
+      [
+        0,
+        67
+      ],
+      [
+        43,
+        67
+      ],
+      [
+        21,
+        66
+      ],
+      [
+        9,
+        66
+      ],
+      [
+        0,
+        66
+      ],
+      [
+        43,
+        66
+      ]
+    ],
+    "unionCrop": [
+      23,
+      75,
+      409,
+      381
+    ],
+    "sharedScale": 0.49019607843137253,
+    "frameSize": [
+      288,
+      168
+    ],
+    "origin": [
+      0,
+      0
+    ],
+    "trajectory": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ]
+    ]
+  },
+  "frameFiles": [
+    "new-scenes/frames/D01-v1/000.png",
+    "new-scenes/frames/D01-v1/001.png",
+    "new-scenes/frames/D01-v1/002.png",
+    "new-scenes/frames/D01-v1/003.png",
+    "new-scenes/frames/D01-v1/004.png",
+    "new-scenes/frames/D01-v1/005.png",
+    "new-scenes/frames/D01-v1/006.png",
+    "new-scenes/frames/D01-v1/007.png",
+    "new-scenes/frames/D01-v1/008.png",
+    "new-scenes/frames/D01-v1/009.png",
+    "new-scenes/frames/D01-v1/010.png",
+    "new-scenes/frames/D01-v1/011.png"
+  ],
+  "sourceSha256": "f1047bd7140e8760177cb1be1623c45b49570185eb7a4a80448e9832126170ed",
+  "frameSha256": [
+    "2db36a6c4076486255ee2e4d8ea54d626b520956baf16db21364d104c680b36d",
+    "b1570dedee1cbe2f2593755281c7a48e14ac1637f67ad08727a37193c1425536",
+    "bcaa524c73b35d5880ed356acffc66a3fc72a0c2335dd7f8b66145fda802103d",
+    "bfa77b0edfad50598dc8f43d693731ab8ddbde7dc1718effd39e449fe76c0c6b",
+    "5f93c8c33cba89c331e5f656eb8b192040ece83db4614c747634d0fc551461cb",
+    "3dcebcde779ae48fa59e7926b3d029f49637f5391679e343ec855c5c20d6f87c",
+    "f7a3f082853871fc7b369316ef91a45f0472a5c1dbf76e2f8ee5856b3a0b94f2",
+    "c0d97d91f06b4932318b46d1314c3a0c19cf521fd6d5426d701d45dc934a3096",
+    "8f1be0ef517fff602baf874202800c3e09e7a4f0a0c097a6a0254ebbec74f919",
+    "7e126f9f54736e1b6182467290897a8a9288b5e6766c2a258ca41a988ba3f0a5",
+    "7dfb4d2cbeeead3122e12219077282e1b42dfcacc22e437544ea7492191dce91",
+    "7a09a546d899b83d623b43cb0983c08bee4cae6ed19b1572806b15dc1c3f64a7"
+  ],
+  "bytes": 61398,
+  "sha256": "e50ee0aaf641eb2367e9e8f5ef364cccb1c8b1239f3a548309322fc009ade45a"
+}

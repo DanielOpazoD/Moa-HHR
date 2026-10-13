@@ -1,6 +1,6 @@
 # Moa · biblioteca de movimiento
 
-Archivo autónomo de los **18 atlas originales v2** y **110 escenas nuevas**, con fuentes y poses raster editables. Los originales se conservan byte a byte; las escenas nuevas viven en otro paquete. Sin datos clínicos, servicios ni dependencias del hospital.
+Archivo autónomo de los **18 atlas originales v2** y **171 escenas nuevas**, con fuentes y poses raster editables. Los originales se conservan byte a byte; las escenas nuevas viven en otro paquete. Sin datos clínicos, servicios ni dependencias del hospital.
 
 ## Abrir la galería
 
@@ -63,3 +63,5 @@ Las exportaciones y láminas de cada bloque están disponibles en el repositorio
 - [Moa compañero: índice de las 15 escenas A01–A15](docs/MOA-COMPANERO.md).
 
 El selector de categorías se construye desde el catálogo, por lo que incluye todas las colecciones presentes. La exportación offline conserva píxeles RGBA exactos mediante PNG o WebP sin pérdida; los PNG editables y los metadatos completos permanecen en el repositorio.
+
+- [Chile: memes y encuentros, D01–D30](docs/CHILE-REMIX.md).
