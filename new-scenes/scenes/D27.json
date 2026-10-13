@@ -1,0 +1,169 @@
+{
+  "id": "D27",
+  "order": 527,
+  "title": "D27 · Pedro Ruminot y el cartel de aplausos",
+  "category": "Chile: memes y encuentros",
+  "pack": "new",
+  "batch": "chile-remix-05",
+  "version": 2,
+  "status": "approved",
+  "frames": 12,
+  "durations": [
+    450,
+    450,
+    450,
+    450,
+    450,
+    450,
+    450,
+    450,
+    450,
+    450,
+    500,
+    900
+  ],
+  "cycles": 1,
+  "still": 11,
+  "source": "new-scenes/sources/D27-v2.png",
+  "src": "new-scenes/atlases/moa-D27-v2.png",
+  "generator": "Integrated image_gen directly operated by primary assistant",
+  "reference": "references/moa-neutral.png",
+  "prompt": "new-scenes/prompts/D27.txt",
+  "context": "Viñeta ficticia de humor. Los encuentros son homenajes artísticos, sin colaboración o respaldo de las personas representadas. Sin audio ni letras de canciones.",
+  "review": "Primary assistant visually reviews source and delivered frames. Full CI required before merge.",
+  "sourceGridColumns": 2,
+  "discardedSources": [
+    "new-scenes/sources/D27-v1.png"
+  ],
+  "sourceColumns": [
+    0,
+    514,
+    1024
+  ],
+  "packaging": {
+    "sourceSize": [
+      1024,
+      1536
+    ],
+    "rowCuts": [
+      0,
+      271,
+      522,
+      780,
+      1038,
+      1282,
+      1536
+    ],
+    "columnCuts": [
+      0,
+      514,
+      1024
+    ],
+    "rowBaselineRegistration": [
+      [
+        0,
+        56
+      ],
+      [
+        2,
+        56
+      ],
+      [
+        0,
+        78
+      ],
+      [
+        2,
+        78
+      ],
+      [
+        0,
+        72
+      ],
+      [
+        2,
+        72
+      ],
+      [
+        0,
+        68
+      ],
+      [
+        2,
+        68
+      ],
+      [
+        0,
+        78
+      ],
+      [
+        2,
+        78
+      ],
+      [
+        0,
+        89
+      ],
+      [
+        2,
+        89
+      ]
+    ],
+    "unionCrop": [
+      98,
+      103,
+      420,
+      298
+    ],
+    "sharedScale": 0.7080745341614907,
+    "frameSize": [
+      288,
+      168
+    ],
+    "origin": [
+      0,
+      0
+    ],
+    "trajectory": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ]
+    ]
+  },
+  "frameFiles": [
+    "new-scenes/frames/D27-v2/000.png",
+    "new-scenes/frames/D27-v2/001.png",
+    "new-scenes/frames/D27-v2/002.png",
+    "new-scenes/frames/D27-v2/003.png",
+    "new-scenes/frames/D27-v2/004.png",
+    "new-scenes/frames/D27-v2/005.png",
+    "new-scenes/frames/D27-v2/006.png",
+    "new-scenes/frames/D27-v2/007.png",
+    "new-scenes/frames/D27-v2/008.png",
+    "new-scenes/frames/D27-v2/009.png",
+    "new-scenes/frames/D27-v2/010.png",
+    "new-scenes/frames/D27-v2/011.png"
+  ],
+  "sourceSha256": "df362b7a722c3ecd0a38bec904fc3dee6d0b715354f65ec81561bafaddde6b55",
+  "frameSha256": [
+    "fab35e4d9e4e02b5195d823bdccdd59e56301f4bfd55435a9a09dec4dce520fc",
+    "617c4b8896def740d4d5c02539b25933d62f1c1bd4805c8037703e45badc6cef",
+    "b33b1c69b87d5aa58326c7745b32f2454ce7ba9d3bd583790220d4ba6a2a840d",
+    "1a0edc9114adff193e26cde13f8433b2caa53b3a63df0aefd3893b2383a6456b",
+    "305050ecc267c9f5cbb22ad99b970632f0c860128585b52bd5a85b1a38978ba0",
+    "06ef5bb1f191897cc8d26e13f04bf577f5de086326b2caf38dbe6163da8ced1e",
+    "b3839e5e1f674ca7c89298026c1bc5defa6c985217de9d7dbda5e8e3d5222b50",
+    "36a44e432e42af8a4201de823b2cc3142320a1fc4ec29b88a39fe91722218410",
+    "9a4d0623a94ffb5eb769af43d7d418b35e8c02a1ad4d25fe0abdfd33d386b6f6",
+    "87ff12725a77223c0dca8c373226798a2c0a96537847ad87ca98b3cbf0df1d68",
+    "ce19407cce153a2b2b8ac17d88bd11eb79608845501d4d35ecbe0c0f03e1e607",
+    "b274449caf521fe71e0facb3dd562245c64cf1e202ddda7d4cf2fdc5be103420"
+  ],
+  "bytes": 92598,
+  "sha256": "f95672ce88f80d0f85ebd3e1ceb432e7465fc85df26a4b3cace4eee9a3a154da"
+}

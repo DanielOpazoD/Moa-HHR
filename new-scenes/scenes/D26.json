@@ -1,0 +1,166 @@
+{
+  "id": "D26",
+  "order": 526,
+  "title": "D26 · Stefan Kramer y el espejo desobediente",
+  "category": "Chile: memes y encuentros",
+  "pack": "new",
+  "batch": "chile-remix-05",
+  "version": 1,
+  "status": "approved",
+  "frames": 12,
+  "durations": [
+    450,
+    450,
+    450,
+    450,
+    450,
+    450,
+    450,
+    450,
+    450,
+    450,
+    500,
+    900
+  ],
+  "cycles": 1,
+  "still": 11,
+  "source": "new-scenes/sources/D26-v1.png",
+  "src": "new-scenes/atlases/moa-D26-v1.png",
+  "generator": "Integrated image_gen directly operated by primary assistant",
+  "reference": "references/moa-neutral.png",
+  "prompt": "new-scenes/prompts/D26.txt",
+  "context": "Viñeta ficticia de humor. Los encuentros son homenajes artísticos, sin colaboración o respaldo de las personas representadas. Sin audio ni letras de canciones.",
+  "review": "Primary assistant visually reviews source and delivered frames. Full CI required before merge.",
+  "sourceGridColumns": 2,
+  "sourceColumns": [
+    0,
+    512,
+    1024
+  ],
+  "packaging": {
+    "sourceSize": [
+      1024,
+      1536
+    ],
+    "rowCuts": [
+      0,
+      283,
+      532,
+      783,
+      1032,
+      1280,
+      1536
+    ],
+    "columnCuts": [
+      0,
+      512,
+      1024
+    ],
+    "rowBaselineRegistration": [
+      [
+        0,
+        34
+      ],
+      [
+        0,
+        34
+      ],
+      [
+        0,
+        67
+      ],
+      [
+        0,
+        67
+      ],
+      [
+        0,
+        67
+      ],
+      [
+        0,
+        67
+      ],
+      [
+        0,
+        66
+      ],
+      [
+        0,
+        66
+      ],
+      [
+        0,
+        68
+      ],
+      [
+        0,
+        68
+      ],
+      [
+        0,
+        70
+      ],
+      [
+        0,
+        70
+      ]
+    ],
+    "unionCrop": [
+      33,
+      74,
+      480,
+      309
+    ],
+    "sharedScale": 0.5100671140939598,
+    "frameSize": [
+      288,
+      168
+    ],
+    "origin": [
+      0,
+      0
+    ],
+    "trajectory": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ]
+    ]
+  },
+  "frameFiles": [
+    "new-scenes/frames/D26-v1/000.png",
+    "new-scenes/frames/D26-v1/001.png",
+    "new-scenes/frames/D26-v1/002.png",
+    "new-scenes/frames/D26-v1/003.png",
+    "new-scenes/frames/D26-v1/004.png",
+    "new-scenes/frames/D26-v1/005.png",
+    "new-scenes/frames/D26-v1/006.png",
+    "new-scenes/frames/D26-v1/007.png",
+    "new-scenes/frames/D26-v1/008.png",
+    "new-scenes/frames/D26-v1/009.png",
+    "new-scenes/frames/D26-v1/010.png",
+    "new-scenes/frames/D26-v1/011.png"
+  ],
+  "sourceSha256": "cc0c89f7587ffed273da0a5f7676827b186e1c07c74571ea8fa10457a816598b",
+  "frameSha256": [
+    "52cff10d47cda780cc198f3c75ff873c0d4347e482fc31582173cb2c0ddcf3a4",
+    "9d901c3a31c883fa0746d1464fea78685a871ddf4594c64d4e44434f9d275905",
+    "eb20f2e50257109124337bddc046477540c0a5505a53a157457c6a15446f7e2f",
+    "d54fd5a3aa3371cfcc0b135a7034ebb7b7a5af950437e89c997271c6662afac7",
+    "c3482cce0f8d1be39d1aab2e891f694d063fe0de14ad8509ec555cf9d8fdfeb8",
+    "bd5055ef651ef85792809334999530bb9bcdf485078e2601651e44d7b5ecfb58",
+    "025420637b90012b04a272219ab99205a813b686c16a725828dbaee5573bd612",
+    "a16d5016f95d2829892490441d0455ad58e4698716ea849e25c41d79c0e06e62",
+    "ca7a8044870902ed41475d9825802d53f1f6b0ae490191df0b649c39322c448b",
+    "fdb71054bc7fe9c1d99b719551f15cf6092bd861fb1a5be43f767139f9daf3e1",
+    "41b33d430798f9d4604516510adf27894691659e30e8d50d63b82090fad15bb5",
+    "6920244bce8ecac1ab719399679dbbae6a8dba610a536b103fb6bc7612095d83"
+  ],
+  "bytes": 83268,
+  "sha256": "9fa8785af3e9f68cc16e0eff2d3d0b45e9772dfaf75d553f1da4a234646343a9"
+}

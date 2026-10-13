@@ -4,7 +4,7 @@ Serie aprobada por el usuario el 13 de octubre de 2026. Producción y revisión 
 
 Son viñetas ficticias. Los nombres identifican homenajes artísticos; no hay colaboración, patrocinio ni respaldo de las personas o entidades representadas. No se usan grabaciones, voces, letras ni fotografías de terceros en el paquete. Los derechos de personajes y semejanzas no se conceden por este repositorio.
 
-## Publicadas en este árbol: 24/30
+## Publicadas en este árbol: 30/30
 
 - **D01 · Peinado para atrás** · 12 poses · 5.9 s · [fuente](../new-scenes/sources/D01-v1.png) · [cuadros](../new-scenes/frames/D01-v1/) · [tiempos JSON](../new-scenes/scenes/D01.json) · [prompt](../new-scenes/prompts/D01.txt) · [secuencia](../evidence/D01/light-frames.png).
 - **D02 · No estoy ni ahí… hasta la marraqueta** · 12 poses · 5.9 s · [fuente](../new-scenes/sources/D02-v2.png) · [cuadros](../new-scenes/frames/D02-v2/) · [tiempos JSON](../new-scenes/scenes/D02.json) · [prompt](../new-scenes/prompts/D02.txt) · [secuencia](../evidence/D02/light-frames.png).
@@ -30,6 +30,12 @@ Son viñetas ficticias. Los nombres identifican homenajes artísticos; no hay co
 - **D22 · Chico Trujillo y la fila que se vuelve baile** · 12 poses · 5.9 s · [fuente](../new-scenes/sources/D22-v1.png) · [cuadros](../new-scenes/frames/D22-v1/) · [tiempos JSON](../new-scenes/scenes/D22.json) · [prompt](../new-scenes/prompts/D22.txt) · [secuencia](../evidence/D22/light-frames.png).
 - **D23 · La Sonora de Tommy Rey y el último confeti** · 12 poses · 5.9 s · [fuente](../new-scenes/sources/D23-v1.png) · [cuadros](../new-scenes/frames/D23-v1/) · [tiempos JSON](../new-scenes/scenes/D23.json) · [prompt](../new-scenes/prompts/D23.txt) · [secuencia](../evidence/D23/light-frames.png).
 - **D24 · Congreso y el bosque de instrumentos** · 12 poses · 5.9 s · [fuente](../new-scenes/sources/D24-v2.png) · [cuadros](../new-scenes/frames/D24-v2/) · [tiempos JSON](../new-scenes/scenes/D24.json) · [prompt](../new-scenes/prompts/D24.txt) · [secuencia](../evidence/D24/light-frames.png).
+- **D25 · Bombo Fica y la pausa que se alarga** · 12 poses · 5.9 s · [fuente](../new-scenes/sources/D25-v1.png) · [cuadros](../new-scenes/frames/D25-v1/) · [tiempos JSON](../new-scenes/scenes/D25.json) · [prompt](../new-scenes/prompts/D25.txt) · [secuencia](../evidence/D25/light-frames.png).
+- **D26 · Stefan Kramer y el espejo desobediente** · 12 poses · 5.9 s · [fuente](../new-scenes/sources/D26-v1.png) · [cuadros](../new-scenes/frames/D26-v1/) · [tiempos JSON](../new-scenes/scenes/D26.json) · [prompt](../new-scenes/prompts/D26.txt) · [secuencia](../evidence/D26/light-frames.png).
+- **D27 · Pedro Ruminot y el cartel de aplausos** · 12 poses · 5.9 s · [fuente](../new-scenes/sources/D27-v2.png) · [cuadros](../new-scenes/frames/D27-v2/) · [tiempos JSON](../new-scenes/scenes/D27.json) · [prompt](../new-scenes/prompts/D27.txt) · [secuencia](../evidence/D27/light-frames.png).
+- **D28 · Alison Mandel y el bolso sin fondo** · 12 poses · 5.9 s · [fuente](../new-scenes/sources/D28-v1.png) · [cuadros](../new-scenes/frames/D28-v1/) · [tiempos JSON](../new-scenes/scenes/D28.json) · [prompt](../new-scenes/prompts/D28.txt) · [secuencia](../evidence/D28/light-frames.png).
+- **D29 · Edo Caroe y la magia demasiado eficaz** · 12 poses · 5.9 s · [fuente](../new-scenes/sources/D29-v1.png) · [cuadros](../new-scenes/frames/D29-v1/) · [tiempos JSON](../new-scenes/scenes/D29.json) · [prompt](../new-scenes/prompts/D29.txt) · [secuencia](../evidence/D29/light-frames.png).
+- **D30 · Fabrizio Copano y el gráfico absurdo** · 12 poses · 5.9 s · [fuente](../new-scenes/sources/D30-v2.png) · [cuadros](../new-scenes/frames/D30-v2/) · [tiempos JSON](../new-scenes/scenes/D30.json) · [prompt](../new-scenes/prompts/D30.txt) · [secuencia](../evidence/D30/light-frames.png).
 
 ## Edición y límites
 
