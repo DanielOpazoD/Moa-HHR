@@ -1,0 +1,166 @@
+{
+  "order": 309,
+  "id": "A09",
+  "title": "A09 · El informe interminable",
+  "category": "Moa compañero",
+  "pack": "new",
+  "batch": "companion-02",
+  "version": 1,
+  "status": "approved",
+  "frames": 12,
+  "durations": [
+    500,
+    500,
+    500,
+    500,
+    500,
+    500,
+    500,
+    500,
+    500,
+    500,
+    500,
+    500
+  ],
+  "cycles": 1,
+  "still": 11,
+  "source": "new-scenes/sources/A09-v1.png",
+  "src": "new-scenes/atlases/moa-A09-v1.png",
+  "generator": "Integrated image_gen directly operated by primary assistant",
+  "reference": "references/moa-neutral.png",
+  "prompt": "new-scenes/prompts/A09.txt",
+  "context": "Animación de acompañamiento ficticia. Los estados de guardado y sincronización requieren confirmación real de la aplicación; esta biblioteca no los conecta a eventos.",
+  "review": "Primary assistant inspected source and packed sequences on light background; alpha and three-background previews validated. GitHub CI required before merge; local browser socket restriction.",
+  "sourceColumns": [
+    0,
+    362,
+    724,
+    1086,
+    1448
+  ],
+  "packaging": {
+    "sourceSize": [
+      1448,
+      1086
+    ],
+    "rowCuts": [
+      0,
+      376,
+      727,
+      1086
+    ],
+    "columnCuts": [
+      0,
+      362,
+      724,
+      1086,
+      1448
+    ],
+    "rowBaselineRegistration": [
+      [
+        0,
+        33
+      ],
+      [
+        0,
+        33
+      ],
+      [
+        0,
+        33
+      ],
+      [
+        0,
+        33
+      ],
+      [
+        0,
+        57
+      ],
+      [
+        0,
+        57
+      ],
+      [
+        0,
+        57
+      ],
+      [
+        0,
+        57
+      ],
+      [
+        0,
+        90
+      ],
+      [
+        0,
+        90
+      ],
+      [
+        0,
+        90
+      ],
+      [
+        0,
+        90
+      ]
+    ],
+    "unionCrop": [
+      27,
+      62,
+      358,
+      403
+    ],
+    "sharedScale": 0.4398826979472141,
+    "frameSize": [
+      288,
+      168
+    ],
+    "origin": [
+      0,
+      0
+    ],
+    "trajectory": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ]
+    ]
+  },
+  "frameFiles": [
+    "new-scenes/frames/A09-v1/000.png",
+    "new-scenes/frames/A09-v1/001.png",
+    "new-scenes/frames/A09-v1/002.png",
+    "new-scenes/frames/A09-v1/003.png",
+    "new-scenes/frames/A09-v1/004.png",
+    "new-scenes/frames/A09-v1/005.png",
+    "new-scenes/frames/A09-v1/006.png",
+    "new-scenes/frames/A09-v1/007.png",
+    "new-scenes/frames/A09-v1/008.png",
+    "new-scenes/frames/A09-v1/009.png",
+    "new-scenes/frames/A09-v1/010.png",
+    "new-scenes/frames/A09-v1/011.png"
+  ],
+  "sourceSha256": "edecd956f86b2dcf3a910758a05dcd2d850935ce945b21ae9615f7b3cd0ec1f0",
+  "frameSha256": [
+    "f771d28302a257d6244e58b9896899b56cb268abcf68c195c96c2da541a0de6c",
+    "fdc33ac9e0545f243b7c30417bbeb7b4d4c1cd4da52809fa1817515a0b71df8e",
+    "475a5d01871188f8a82edfb1edb61d07e3e329e6f972f36cb5d3b07b9bf52d7a",
+    "1d532c0a657dbba11404454a906aa848877d505dfc0551b0445b7cd0a275bb60",
+    "8a0334d610ec579fe1094c8c2e5228d59beab6bef62efad12cb147c37824d99c",
+    "79138e01356cc4aceab12bd9fe13a13235ea1c9584bd27e86b9e2a119fab4ef1",
+    "6d4db8d1a7129bd5dba668f0f9d4fb26b6f942065d1f6abb3f696758f6a0995d",
+    "67905b44c7666fad8ef896ffcee19f242e11f28297635c91657152d2a6bc9d08",
+    "246e062569fac7d1547ffb386574938e7de5632c4765191bf332ea95c6bf6f86",
+    "2b5438e7d5ae86fc33700472e9ce6d171fe68035934ab1c354cc3fd1fbf39cd8",
+    "7cd853482c54fbb492b05f366983bc950914d9fe7c8595214efea8d7aa676aaa",
+    "0acfb9edd382607bdc2cc48cc2d83999b7069df947265a1dd4707c0440d9f004"
+  ],
+  "bytes": 53308,
+  "sha256": "d99c335fff0a34050d865d772a0bad80b3898b7f361a186f6e93b6e5bf161b66"
+}
