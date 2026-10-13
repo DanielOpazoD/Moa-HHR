@@ -1,0 +1,109 @@
+{
+  "id": "C11",
+  "version": 4,
+  "method": "Manual source and delivered PNG review; not a physical mechanism simulation or technical certification.",
+  "frames": [
+    {
+      "frame": 0,
+      "drum": "behind torso",
+      "cymbals": "open",
+      "sticks": 2,
+      "cord": "same ankle nearest drum; partly occluded by drum",
+      "action": "ready"
+    },
+    {
+      "frame": 1,
+      "drum": "behind torso",
+      "cymbals": "open",
+      "sticks": 2,
+      "cord": "same ankle nearest drum; partly occluded by drum",
+      "action": "near stick drum contact"
+    },
+    {
+      "frame": 2,
+      "drum": "behind torso",
+      "cymbals": "open",
+      "sticks": 2,
+      "cord": "same ankle nearest drum; partly occluded by drum",
+      "action": "far arm gesture"
+    },
+    {
+      "frame": 3,
+      "drum": "behind torso",
+      "cymbals": "closed",
+      "sticks": 2,
+      "cord": "same ankle nearest drum; partly occluded by drum",
+      "action": "connected foot extends"
+    },
+    {
+      "frame": 4,
+      "drum": "behind torso",
+      "cymbals": "open",
+      "sticks": 2,
+      "cord": "same ankle nearest drum; partly occluded by drum",
+      "action": "foot returns"
+    },
+    {
+      "frame": 5,
+      "drum": "behind torso",
+      "cymbals": "open",
+      "sticks": 2,
+      "cord": "same ankle nearest drum; partly occluded by drum",
+      "action": "begin quarter pivot"
+    },
+    {
+      "frame": 6,
+      "drum": "behind torso",
+      "cymbals": "open",
+      "sticks": 2,
+      "cord": "same ankle nearest drum; partly occluded by drum",
+      "action": "profile drum contact"
+    },
+    {
+      "frame": 7,
+      "drum": "behind torso",
+      "cymbals": "open",
+      "sticks": 2,
+      "cord": "same ankle nearest drum; partly occluded by drum",
+      "action": "return three-quarter"
+    },
+    {
+      "frame": 8,
+      "drum": "behind torso",
+      "cymbals": "closed",
+      "sticks": 2,
+      "cord": "same ankle nearest drum; partly occluded by drum",
+      "action": "connected foot extends"
+    },
+    {
+      "frame": 9,
+      "drum": "behind torso",
+      "cymbals": "open",
+      "sticks": 2,
+      "cord": "same ankle nearest drum; partly occluded by drum",
+      "action": "return feet"
+    },
+    {
+      "frame": 10,
+      "drum": "behind torso",
+      "cymbals": "open",
+      "sticks": 2,
+      "cord": "same ankle nearest drum; partly occluded by drum",
+      "action": "small bow"
+    },
+    {
+      "frame": 11,
+      "drum": "behind torso",
+      "cymbals": "open",
+      "sticks": 2,
+      "cord": "same ankle nearest drum; partly occluded by drum",
+      "action": "rest smile"
+    }
+  ],
+  "limitations": [
+    "Quarter-turn rather than full spin.",
+    "Cymbal lever, cord path and contact timing simplified to readable key poses.",
+    "Triangle, repique, organillero accompaniment and music omitted.",
+    "No claim to perform a full traditional sequence or teach technique."
+  ]
+}

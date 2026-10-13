@@ -1,0 +1,186 @@
+{
+  "order": 96,
+  "id": "C12",
+  "title": "C12 · Quiltro protagonista",
+  "category": "Cultura popular chilena",
+  "pack": "new",
+  "batch": "chile-03",
+  "chileOrder": 12,
+  "version": 1,
+  "status": "approved",
+  "frames": 12,
+  "durations": [
+    500,
+    350,
+    350,
+    350,
+    350,
+    350,
+    350,
+    350,
+    350,
+    350,
+    350,
+    600
+  ],
+  "cycles": 1,
+  "still": 11,
+  "source": "new-scenes/sources/C12-v1.png",
+  "src": "new-scenes/atlases/moa-C12-v1.png",
+  "generator": "Integrated image_gen",
+  "reference": "references/moa-neutral.png",
+  "prompt": "new-scenes/prompts/C12.txt",
+  "context": "Retrato ficticio: un perro mestizo se sienta delante de Moa y termina posando con él; cámara sin flash ni fotos reales.",
+  "inspirationReferences": [],
+  "review": "All source and final poses visually reviewed on light, dark and blue, at real size and enlarged; see temporal evidence.",
+  "sourceColumns": [
+    0,
+    434,
+    837,
+    1240,
+    1642
+  ],
+  "packaging": {
+    "sourceSize": [
+      1642,
+      958
+    ],
+    "rowCuts": [
+      0,
+      388,
+      672,
+      958
+    ],
+    "columnCuts": [
+      0,
+      434,
+      837,
+      1240,
+      1642
+    ],
+    "rowBaselineRegistration": [
+      [
+        0,
+        25
+      ],
+      [
+        15,
+        25
+      ],
+      [
+        15,
+        25
+      ],
+      [
+        16,
+        25
+      ],
+      [
+        0,
+        137
+      ],
+      [
+        15,
+        137
+      ],
+      [
+        15,
+        137
+      ],
+      [
+        16,
+        137
+      ],
+      [
+        0,
+        151
+      ],
+      [
+        15,
+        151
+      ],
+      [
+        15,
+        151
+      ],
+      [
+        16,
+        151
+      ]
+    ],
+    "unionCrop": [
+      31,
+      138,
+      419,
+      415
+    ],
+    "sharedScale": 0.5415162454873647,
+    "frameSize": [
+      288,
+      168
+    ],
+    "origin": [
+      0,
+      0
+    ],
+    "trajectory": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ]
+    ]
+  },
+  "frameFiles": [
+    "new-scenes/frames/C12-v1/000.png",
+    "new-scenes/frames/C12-v1/001.png",
+    "new-scenes/frames/C12-v1/002.png",
+    "new-scenes/frames/C12-v1/003.png",
+    "new-scenes/frames/C12-v1/004.png",
+    "new-scenes/frames/C12-v1/005.png",
+    "new-scenes/frames/C12-v1/006.png",
+    "new-scenes/frames/C12-v1/007.png",
+    "new-scenes/frames/C12-v1/008.png",
+    "new-scenes/frames/C12-v1/009.png",
+    "new-scenes/frames/C12-v1/010.png",
+    "new-scenes/frames/C12-v1/011.png"
+  ],
+  "sourceSha256": "27a39c22fc9112171e0e0bcfd832702134ccc69b9eee7ac48198560aebef185d",
+  "frameSha256": [
+    "afc5a4b17c57a67a1f05b987e54ab377f8e68445db09d1dbd56cf7105dc01a7f",
+    "4a715463df35677aad65d49bec7afd2fcd4b98a2044a820811c4db75c33634dd",
+    "4a5eb027cdf31ef94940222eca0a45bc0387039123158e23eab1e806e95b01ea",
+    "be5cf3fcec1f4ae5757fc14c7c8c93143a771e23b1fda5309f8727cf6d0301cd",
+    "c65151563dd0ef090fb9ba5a954a5158f26debcf565bbca7313e9330421f83dc",
+    "035a23c6c3720965d0b35e93cd086c79eec4df2f0f5119abff420a63c6d5f67a",
+    "f5dd7071896057679b80dfd542155bcd86be4884f27b53f33d296fd140b90ac1",
+    "0f49a82c870e76569bcfea6086d20c09bebdf1fc656dd0df42583c44885e8b16",
+    "27a191debe65292de0ad4117899a29535c84877c380f372da42b99b78d9e33c4",
+    "3aa9f9519b6347f2b09556f1e0eb5476f1536818d9b7e6608171e9ea3995c9c4",
+    "606b9d8000a874ff4eaea3d2b4887124256f0df43f12a23dd9d6730851afae23",
+    "3b3db84d581b5fab17ae3aceb7e3e462c2feee3acdb067d059618521912d48f6"
+  ],
+  "bytes": 89932,
+  "sha256": "3a91bb0efd278e9cf721f5d85eda4a0ed8275fb8402ff2990715a498d224fb45",
+  "sourceBytes": 1263450,
+  "qa": {
+    "reviewer": "Codex visual and technical review; principal reviewer controls merge",
+    "date": "2026-10-13",
+    "frameByFrame": true,
+    "backgrounds": [
+      "light",
+      "dark",
+      "blue"
+    ],
+    "scales": [
+      1,
+      3
+    ],
+    "browserTemporalSamples": 12,
+    "evidence": "evidence/C12/",
+    "remainingLimitation": "Retrato ficticio: un perro mestizo se sienta delante de Moa y termina posando con él; cámara sin flash ni fotos reales. Raster key poses; Chromium verified, physical devices not tested."
+  }
+}

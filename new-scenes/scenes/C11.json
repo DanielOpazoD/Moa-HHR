@@ -1,0 +1,222 @@
+{
+  "order": 95,
+  "id": "C11",
+  "title": "C11 · Chinchinero",
+  "category": "Cultura popular chilena",
+  "pack": "new",
+  "batch": "chile-03",
+  "chileOrder": 11,
+  "version": 4,
+  "status": "approved",
+  "frames": 12,
+  "durations": [
+    500,
+    350,
+    350,
+    350,
+    350,
+    350,
+    350,
+    350,
+    350,
+    350,
+    350,
+    600
+  ],
+  "cycles": 1,
+  "still": 11,
+  "source": "new-scenes/sources/C11-v4.png",
+  "src": "new-scenes/atlases/moa-C11-v4.png",
+  "generator": "Integrated image_gen",
+  "reference": "references/moa-neutral.png",
+  "prompt": "new-scenes/prompts/C11.txt",
+  "context": "Viñeta simplificada de bombo dorsal, platillos y tirapié; no demostración técnica ni representación completa del oficio.",
+  "inspirationReferences": [
+    {
+      "url": "https://www.sigpa.cl/ficha-elemento/oficio-tradicional-del-organillero-chinchinero",
+      "supports": "Fotografías organilleros-02 y04 inspeccionadas antes de generar: bombo dorsal, platillos superiores, baquetas, posición y pasos."
+    },
+    {
+      "url": "https://www.sigpa.cl/ficha-individual/guillermo-hernan-saavedra-munoz",
+      "supports": "Testimonio directo sobre batería invertida que se lleva en espalda."
+    },
+    {
+      "url": "https://www.sigpa.cl/ficha-individual/antonio-andres-henriquez-masanes",
+      "supports": "Testimonio de aprendizaje y uso del tirapié."
+    },
+    {
+      "url": "https://www.ojala.mx/en/ojala-en/drums-dance-and-defiance-in-santiago",
+      "supports": "Reportaje de campo: tirapié conecta pie con platillos superiores."
+    }
+  ],
+  "review": "All source and final poses visually reviewed on light, dark and blue, at real size and enlarged; see temporal evidence.",
+  "correctionPrompts": [
+    "new-scenes/prompts/C11-correction.txt",
+    "new-scenes/prompts/C11-correction-2.txt",
+    "new-scenes/prompts/C11-correction-3.txt"
+  ],
+  "rejectedSources": [
+    {
+      "source": "new-scenes/sources/C11-v1.png",
+      "reason": "Baqueta extra en giro posterior y tirapié inconsistente."
+    },
+    {
+      "source": "new-scenes/sources/C11-v2.png",
+      "reason": "Persisten baqueta extra y pie equivocado."
+    },
+    {
+      "source": "new-scenes/sources/C11-v3.png",
+      "reason": "Cuarto de giro y mecanismo mejorados, falta baqueta en cuadros4y9."
+    }
+  ],
+  "sourceColumns": [
+    0,
+    425,
+    811,
+    1201,
+    1642
+  ],
+  "packaging": {
+    "sourceSize": [
+      1642,
+      958
+    ],
+    "rowCuts": [
+      0,
+      325,
+      632,
+      958
+    ],
+    "columnCuts": [
+      0,
+      425,
+      811,
+      1201,
+      1642
+    ],
+    "rowBaselineRegistration": [
+      [
+        8,
+        39
+      ],
+      [
+        27,
+        39
+      ],
+      [
+        25,
+        39
+      ],
+      [
+        0,
+        39
+      ],
+      [
+        8,
+        55
+      ],
+      [
+        27,
+        55
+      ],
+      [
+        25,
+        55
+      ],
+      [
+        0,
+        55
+      ],
+      [
+        8,
+        58
+      ],
+      [
+        27,
+        58
+      ],
+      [
+        25,
+        58
+      ],
+      [
+        0,
+        58
+      ]
+    ],
+    "unionCrop": [
+      60,
+      67,
+      375,
+      352
+    ],
+    "sharedScale": 0.5263157894736842,
+    "frameSize": [
+      288,
+      168
+    ],
+    "origin": [
+      0,
+      0
+    ],
+    "trajectory": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ]
+    ]
+  },
+  "frameFiles": [
+    "new-scenes/frames/C11-v4/000.png",
+    "new-scenes/frames/C11-v4/001.png",
+    "new-scenes/frames/C11-v4/002.png",
+    "new-scenes/frames/C11-v4/003.png",
+    "new-scenes/frames/C11-v4/004.png",
+    "new-scenes/frames/C11-v4/005.png",
+    "new-scenes/frames/C11-v4/006.png",
+    "new-scenes/frames/C11-v4/007.png",
+    "new-scenes/frames/C11-v4/008.png",
+    "new-scenes/frames/C11-v4/009.png",
+    "new-scenes/frames/C11-v4/010.png",
+    "new-scenes/frames/C11-v4/011.png"
+  ],
+  "sourceSha256": "514e8e0e183b89fa3e58d21a45f8f78542ceeaa60d8a55646eaa920f447ec4d7",
+  "frameSha256": [
+    "f869e395a7a8922b219b7a931e35796e1955016dc6e4340c928d465279a7f6cf",
+    "dde4869dd91e14cba864dfbc6347826d60188729e36eeb20ee5660c132b1c05d",
+    "7b6fd7e55ecb03f9c111bfa7a356f890c98addef318e5093e0d1f78f4c418cb8",
+    "62b3fda01f4e950be754ecf0cc62f91379b021a6a6a96262e3b80020cf5ceee5",
+    "28806be77d4bcf37795db0ca07e1029d284bfc739c372e8a871dafdb4fa52ab4",
+    "dee27e5e2553dcf4f4b69c7a4474a406cb940fbb2f1fe1c0c5cf3cc334009c60",
+    "5334da4038c259c903e05a65ab7529ec02ebedb28baad71993724ab9278adc8c",
+    "75109c0c6dbdafaaf2c45cb89805f932d329c3d76dc4e98fe6596e2f3bdd5c99",
+    "6ab009de88d29d419cf8c84a11309e9d5b9bc2f675ad547ad3faf09225b17d0c",
+    "8cff5bacd9eccda5f824fd6988635af62c6a2cfe0bbfbeb6fc54f58e21a6895e",
+    "70854a9453d958980c53a9d0cbd9f4578183abae374cc48368fdcfb209e73e2c",
+    "70e2232dbda5822346e82127e05430940e02f41de99f6c9b374031122a378331"
+  ],
+  "bytes": 81056,
+  "sha256": "3c25ced5f3b983700e8fa5aa2f1222850316d8590cb9569ffdc1ad0d1d8f8c6f",
+  "sourceBytes": 1335528,
+  "qa": {
+    "reviewer": "Codex visual and technical review; principal reviewer controls merge",
+    "date": "2026-10-13",
+    "frameByFrame": true,
+    "backgrounds": [
+      "light",
+      "dark",
+      "blue"
+    ],
+    "scales": [
+      1,
+      3
+    ],
+    "browserTemporalSamples": 12,
+    "evidence": "evidence/C11/",
+    "remainingLimitation": "Viñeta simplificada de bombo dorsal, platillos y tirapié; no demostración técnica ni representación completa del oficio. Raster key poses; Chromium verified, physical devices not tested."
+  }
+}
