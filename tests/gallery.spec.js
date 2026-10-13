@@ -1,4 +1,30 @@
 import { test, expect } from "@playwright/test";
+import fs from "node:fs";
+
+test("every catalogue category is selectable and filters compose", async ({ page }) => {
+  const scenes = JSON.parse(fs.readFileSync("scenes.json", "utf8"));
+  const categories = [...new Set(scenes.map((s) => s.category))]
+    .sort((a, b) => a.localeCompare(b, "es"));
+  await page.goto("/");
+  await expect(page.locator(".card")).toHaveCount(scenes.length);
+  const values = await page.locator("#category option").evaluateAll(
+    (options) => options.map((o) => o.value),
+  );
+  expect(values).toEqual(["all", ...categories]);
+  await page.locator("#category").selectOption("Moa aventuras");
+  await expect(page.locator(".card")).toHaveCount(
+    scenes.filter((s) => s.category === "Moa aventuras").length,
+  );
+  await page.locator("#search").fill("B29");
+  await expect(page.locator(".card")).toHaveCount(1);
+  await page.locator("#pack").selectOption("original");
+  await expect(page.locator(".card")).toHaveCount(0);
+  await page.locator("#pack").selectOption("all");
+  await page.locator("#search").fill("");
+  await page.locator("#category").selectOption("all");
+  await expect(page.locator(".card")).toHaveCount(scenes.length);
+});
+
 test("catalogue loads selectively; search, category and empty state work", async ({
   page,
 }) => {

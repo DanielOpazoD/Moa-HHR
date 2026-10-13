@@ -17,6 +17,25 @@ try {
   const titles = await page.locator(".card strong").allTextContents();
   if (expected.some((s) => !titles.includes(s.title)))
     throw Error("Missing offline scene");
+  const categories = ["all", ...[...new Set(expected.map((s) => s.category))]
+    .sort((a, b) => a.localeCompare(b, "es"))];
+  const options = await page.locator("#category option").evaluateAll(
+    (items) => items.map((item) => item.value),
+  );
+  if (JSON.stringify(options) !== JSON.stringify(categories))
+    throw Error("Offline category options are stale");
+  await page.locator("#category").selectOption("Moa aventuras");
+  if (await page.locator(".card").count() !== expected.filter((s) => s.category === "Moa aventuras").length)
+    throw Error("Offline category filter lost scenes");
+  await page.locator("#category").selectOption("all");
+  await page.locator("#search").fill("B29");
+  await page.locator(".card").click();
+  await page.waitForFunction(() => {
+    const image = document.querySelector("#sprite img");
+    return image?.complete && image.naturalWidth === 12 * 288 &&
+      document.querySelector("#status").textContent === "Cuadro 1 de 12";
+  });
+  await page.locator("#search").fill("");
   await page.locator("#play").click();
   await page.waitForFunction(
     () => document.querySelector("#sprite").dataset.state === "playing",
