@@ -1,0 +1,15 @@
+Create exactly12distinct articulated pixel-art animation poses,transparent SQUARE canvas grid4columns3rows. Two figures EVERY frame: LEFT Moa faithful attached grey stone mascot master, big rounded head ears black eyes white rims eyebrows compactlimbs turquoise wave visible. RIGHT recognizable HUMAN caricature LUIS SLIMMING based on attached photo: roundfull adultface, short wavy dark hair with a few grey strands, oversized BLACK RECTANGULAR eyeglasses, brown eyes visible behind clear lenses, short salt-and-pepper beard and moustache, warm light-tan skin. Dark navy open overshirt over grey T-shirt, darktrousers and trainers. Chibi human approx1.2timesMoaheight, same chunky pixelart, never stone/genericcompanion. Kindly dry humor, fictional encounter without attributing any real joke or quote.
+ONE black handheld mic with silver grille in Luis OUTER imageRIGHT hand at start. At farRIGHT stands ONE low brown stool with ONE small OPEN charcoal microphone case on it, lid hinged upright from FIRST through LAST frame. Case tray has one fitted microphone slot, visible empty initially. Luis places mic into case, afterwards the SAME mic remains clearly visible resting inside case, silver grille on RIGHT end. Stool/case positions fixed. Exactly1mic, no duplicates, no sudden disappearance. Moa counts using 1,2,3 short fingers, only2arms.
+1 Luis holds mic near mouth with outerRIGHT arm; freeinnerhand calmly gestures a small palm-up finish, Moa serious;
+2 Luis makes tiny knowing headtilt with freehand lowered, Moa looks puzzled;
+3 Luis turns toward case and lowers mic in outerhand, Moa lifts one finger beginning to count;
+4 mic contacts fitted slot inside case, Luis hand still holds handle, Moa concentrating onefinger;
+5 Luis releases mic visibly parked in open case, turns back neutral amused expression, Moa raises2fingers;
+6 Luis rests arms by sides, Moa studies2fingers with furrowed brows;
+7 Moa raises3fingers, gazes upward thinking; Luis quietly waits, mic parked;
+8 Moa suddenly understands, browslift mouthsmallO, fingersrelax; Luis slight smile;
+9 Moa covers smilingmouth with onehand, kneesstartbend; Luis raises knowing eyebrow;
+10 Moa bends forward with big closed-eye laugh and hands on belly, knees bent; Luis calm smallsmile;
+11 Moa leans farther into laugh with headtilted, hands atbelly, Luis gently foldsarms;
+12 Moa startsrecovering still smiling/laughing, onehandbelly other wipes eye, Luis quiet warm smile with arms folded; mic remains in case.
+No speech bubbles,text,numbers,notes,laughsymbols,tears flying,flashes,audio,logos. Genuine facial/elbow/knee articulation, fixedcamera/light/ground/scale. All fullbodies and stoollegs visible ALL12cells. Each COMPLETE scene ONLY55percent cellwidth and60percentheight, wide50px emptytransparent gutters between allrows/columns and exterior. Final288x168,144x84CSS,upperright48x48free.

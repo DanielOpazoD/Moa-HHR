@@ -1,0 +1,198 @@
+{
+  "order": 114,
+  "id": "C30",
+  "title": "C30 · Luis y la risa tardía",
+  "category": "Cultura popular chilena",
+  "pack": "new",
+  "batch": "chile-07",
+  "chileOrder": 30,
+  "version": 1,
+  "status": "approved",
+  "frames": 12,
+  "durations": [
+    500,
+    350,
+    350,
+    350,
+    350,
+    350,
+    350,
+    350,
+    350,
+    350,
+    350,
+    600
+  ],
+  "cycles": 1,
+  "still": 11,
+  "source": "new-scenes/sources/C30-v1.png",
+  "src": "new-scenes/atlases/moa-C30-v1.png",
+  "generator": "Integrated image_gen",
+  "reference": "references/moa-neutral.png",
+  "prompt": "new-scenes/prompts/C30.txt",
+  "context": "Encuentro ficticio: Luis Slimming termina un gesto, guarda el micrófono y Moa comprende después.",
+  "inspirationReferences": [
+    {
+      "url": "https://www.13.cl/programas/el-desestrece/noticias/luis-slimming-regresa-a-la-tv-con-el-desestrece-este-domingo-que",
+      "supports": "Referencia visual pública del invitado, no aval del encuentro ni de las acciones ficticias."
+    }
+  ],
+  "review": "All final poses visually inspected on three backgrounds at real and enlarged size; browser temporal samples provided.",
+  "sourceColumns": [
+    0,
+    422,
+    831,
+    1241,
+    1642
+  ],
+  "packaging": {
+    "sourceSize": [
+      1642,
+      958
+    ],
+    "rowCuts": [
+      0,
+      339,
+      641,
+      958
+    ],
+    "columnCuts": [
+      0,
+      422,
+      831,
+      1241,
+      1642
+    ],
+    "rowBaselineRegistration": [
+      [
+        0,
+        38
+      ],
+      [
+        6,
+        38
+      ],
+      [
+        6,
+        38
+      ],
+      [
+        10,
+        38
+      ],
+      [
+        0,
+        72
+      ],
+      [
+        6,
+        72
+      ],
+      [
+        6,
+        72
+      ],
+      [
+        10,
+        72
+      ],
+      [
+        0,
+        76
+      ],
+      [
+        6,
+        76
+      ],
+      [
+        6,
+        76
+      ],
+      [
+        10,
+        76
+      ]
+    ],
+    "unionCrop": [
+      16,
+      77,
+      412,
+      365
+    ],
+    "sharedScale": 0.5208333333333334,
+    "frameSize": [
+      288,
+      168
+    ],
+    "origin": [
+      0,
+      0
+    ],
+    "trajectory": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ]
+    ]
+  },
+  "frameFiles": [
+    "new-scenes/frames/C30-v1/000.png",
+    "new-scenes/frames/C30-v1/001.png",
+    "new-scenes/frames/C30-v1/002.png",
+    "new-scenes/frames/C30-v1/003.png",
+    "new-scenes/frames/C30-v1/004.png",
+    "new-scenes/frames/C30-v1/005.png",
+    "new-scenes/frames/C30-v1/006.png",
+    "new-scenes/frames/C30-v1/007.png",
+    "new-scenes/frames/C30-v1/008.png",
+    "new-scenes/frames/C30-v1/009.png",
+    "new-scenes/frames/C30-v1/010.png",
+    "new-scenes/frames/C30-v1/011.png"
+  ],
+  "sourceSha256": "bd8425e599426ccce55f309e114c3a6ebbb62545e3b85d38973ebde9b14e37eb",
+  "frameSha256": [
+    "db7a5eb30577b61088301ab0c16ba31e5af2bad0366675d64c5f3a62f626d5f3",
+    "bff9ee6bccda4b8e31c2b50188a367301ebccc2e0a52756c2efa54fb622c1bc0",
+    "53dbee51d94a21ec8327e067b80bd9525dc108b9841dcbc26881e1daa99d7e62",
+    "c0ad060974c1016d127fca56fb8989f08af7b3a163a003e0eb59b8f8b48c523c",
+    "d74e92865bcbaf63cdc113f20c2b6bcc1610ef11526228578b68b2f5b29a12cf",
+    "a9a707f560af5043b8a8cfc583a8977f3e08f9465211cd472351bc3ac46d7bd3",
+    "63a66ff85a9cb43def5f2923d76a6083793f34b3e901ebb8bfc5a61d0c7cf63f",
+    "c41c0b12452404d61f505134910a20d19229bc0001639f043c073b7d0dbf823e",
+    "253c42e7463ded665e2fc9d6e27839b1d784385d6b1786396be52acf5204d7b0",
+    "f624f1a85aa6469cc92c0766af0487b6d45a3211220d557f99d15d26c433ea13",
+    "308a4e979ad77310772ba97630fe4f89dd416a1b3c5c0fede468239e0a11a276",
+    "9b54425fdb3176e334d2a8fa170d733d13979c3b047f6a0f1f699192a588ed73"
+  ],
+  "bytes": 115439,
+  "sha256": "2b94bc3f5190f70ee85ec1625d7cf0d8c590b1043f55c6f24cc3517739a8c255",
+  "sourceBytes": 1827950,
+  "guestReference": "evidence/guest-references/luis.json",
+  "guest": "Luis Slimming",
+  "qa": {
+    "reviewer": "Codex; principal reviewer controls merge",
+    "date": "2026-10-13",
+    "frameByFrame": true,
+    "backgrounds": [
+      "light",
+      "dark",
+      "blue"
+    ],
+    "scales": [
+      1,
+      3
+    ],
+    "browserTemporalSamples": 12,
+    "evidence": "evidence/C30/",
+    "remainingLimitation": "Encuentro ficticio en caricatura raster. Chromium; Firefox/Safari y dispositivos físicos no probados."
+  },
+  "rejectedSources": [],
+  "generationInputs": [
+    "references/moa-neutral.png",
+    "evidence/guest-references/luis.json"
+  ]
+}

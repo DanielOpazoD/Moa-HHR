@@ -1,0 +1,15 @@
+Create exactly12distinct articulated pixel-art animation poses on transparent canvas,4columns3rows. TWO full-body figures in ALL cells: LEFT faithful Moa grey stone mascot master with roundlargehead, ears, eyebrows, blackeyeswhite rims, compactlimbs, turquoise wave visible on greybelly. Moa wears tiny OPEN black formaljacket, two small whitecollar triangles and ONE short burgundy necktie at upperchest ending ABOVE wave. RIGHT recognizable affectionate HUMAN caricature PEDRO PASCAL based on attached actorportrait: tousled short darkbrown hair raised,wavy, expressive darkbrows and warmbrown eyes with smilecreases, distinctive long rounded nose, sparse darkmoustache and shortpatchy stubble. Human skin warm lighttan, notstone. Original charcoal suit with OPEN collar white shirt, NO tie on Pedro, blackshoes. Chibi adult1.2timesMoaheight, not genericcompanion. Same chunky pixelstyle, no photorealism. Fictional friendly encounter, no realcollaboration or endorsement.
+ExactlyONE burgundy tie belongs to Moa; knot stays attached at collar ALLframes. Tie startsstraight, Moa accidentally brushes it sideways, Pedro gently straightens that SAME tie without changing color,size or knot, releases before wave. No bowtie, no new clothing, no neck pulling. Both stay on same sides, touching only tiefront.
+1 both stand frontward with theatrically serious redcarpetpose, Moatie straight;
+2 Moa nervously brushes own lapel with hand, hand catches lower tip of tie and nudges it toward imageLEFT; Pedro stillserious;
+3 Moa lowers hand, SAME tie now points diagonally left at30degrees, knotstillcentered; Pedro notices with glance down;
+4 Pedro softens to amusedsmile and bends knees slightly toward Moa, Moa puzzledlooking at him, tiecrooked;
+5 Pedro extends nearesthand toward crookedtie, otherhand relaxed atside;
+6 Pedro thumb/index gently grasp tiefront justbelowknot, Moa still, tielowerend diagonalleft;
+7 Pedro smoothly rotates tieback towardvertical, knotfixed, handcontact visible;
+8 tie now verticalagain, Pedro releases and draws handback, Moa glances down relieved;
+9 Pedro standsstraight with warmsmile, Moa proudsmile, both hands bysides, tievertical;
+10 both raise outerhands for smallwave toward viewer, tie staysstraight;
+11 Moa wave higher with happyclosedeyes, Pedro gentlesmilingwave with visibleeyecreases;
+12 both settle into relaxed smiles, outerhands slightly lowered still greeting, tievertical. Exactly2arms2legs each. Naturalneck,wrist,elbow,knee changes, no duplicateframes.
+No redcarpet props, text,logos,flash,audio,hearts or sparkles. Constantcamera/scale/light. Allfeet and heads fullyvisible ALL12cells, large50pxemptytransparent gutters between columns/rows; wholepair fits only55percent cellwidth60percentheight with substantial exteriorborder. Final288x168 displayed144x84CSS upperright48x48empty. Preserve actor's recognizable face and Moa stoneidentity separately.
