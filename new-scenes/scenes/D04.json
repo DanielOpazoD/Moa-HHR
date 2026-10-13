@@ -1,0 +1,167 @@
+{
+  "id": "D04",
+  "order": 504,
+  "title": "D04 · El al tiro de Moa",
+  "category": "Chile: memes y encuentros",
+  "pack": "new",
+  "batch": "chile-remix-01",
+  "version": 1,
+  "status": "approved",
+  "frames": 12,
+  "durations": [
+    450,
+    450,
+    450,
+    450,
+    450,
+    450,
+    450,
+    450,
+    450,
+    450,
+    500,
+    900
+  ],
+  "cycles": 1,
+  "still": 11,
+  "source": "new-scenes/sources/D04-v1.png",
+  "src": "new-scenes/atlases/moa-D04-v1.png",
+  "generator": "Integrated image_gen directly operated by primary assistant",
+  "reference": "references/moa-neutral.png",
+  "prompt": "new-scenes/prompts/D04.txt",
+  "context": "Viñeta ficticia de humor. Los encuentros son homenajes artísticos, sin colaboración o respaldo de las personas representadas. Sin audio ni letras de canciones.",
+  "review": "Primary assistant visually reviews source and delivered frames. Full CI required before merge.",
+  "sourceGridColumns": 4,
+  "sourceColumns": [
+    0,
+    379,
+    739,
+    1095,
+    1448
+  ],
+  "packaging": {
+    "sourceSize": [
+      1448,
+      1086
+    ],
+    "rowCuts": [
+      0,
+      395,
+      726,
+      1086
+    ],
+    "columnCuts": [
+      0,
+      379,
+      739,
+      1095,
+      1448
+    ],
+    "rowBaselineRegistration": [
+      [
+        0,
+        47
+      ],
+      [
+        9,
+        47
+      ],
+      [
+        11,
+        47
+      ],
+      [
+        13,
+        47
+      ],
+      [
+        0,
+        110
+      ],
+      [
+        9,
+        110
+      ],
+      [
+        11,
+        110
+      ],
+      [
+        13,
+        110
+      ],
+      [
+        0,
+        121
+      ],
+      [
+        9,
+        121
+      ],
+      [
+        11,
+        121
+      ],
+      [
+        13,
+        121
+      ]
+    ],
+    "unionCrop": [
+      25,
+      121,
+      358,
+      420
+    ],
+    "sharedScale": 0.5016722408026756,
+    "frameSize": [
+      288,
+      168
+    ],
+    "origin": [
+      0,
+      0
+    ],
+    "trajectory": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ]
+    ]
+  },
+  "frameFiles": [
+    "new-scenes/frames/D04-v1/000.png",
+    "new-scenes/frames/D04-v1/001.png",
+    "new-scenes/frames/D04-v1/002.png",
+    "new-scenes/frames/D04-v1/003.png",
+    "new-scenes/frames/D04-v1/004.png",
+    "new-scenes/frames/D04-v1/005.png",
+    "new-scenes/frames/D04-v1/006.png",
+    "new-scenes/frames/D04-v1/007.png",
+    "new-scenes/frames/D04-v1/008.png",
+    "new-scenes/frames/D04-v1/009.png",
+    "new-scenes/frames/D04-v1/010.png",
+    "new-scenes/frames/D04-v1/011.png"
+  ],
+  "sourceSha256": "4f16d7b3f341674c6b47dc0632178af5089f6fdd5d87b36e4d9cef2238cf5dc7",
+  "frameSha256": [
+    "d16658118f631619a02904148cad4f075eb07f9347c19d23cbd1b5743fccc575",
+    "1231724b731e3985bef8a7cb7cb03fc1c47d8f87da8a82e2ea44f81f887d0c03",
+    "52eead25229c6318ff0da07b3e1d54d82032b0fec3fe24b41dbc395d054c885a",
+    "71afaa8187d1e9d7161986318d338278c72bdd9db375697f5281f25391abbc29",
+    "894071354dff1038cbecb393e28c6a6cc00a50ba070a82d447b69a6ad4bd1ee8",
+    "21ac58cd600b7bf70353a251882422e83a2a3dcf416c835b6ec0ec2fd51440f0",
+    "03be1adcb138518a00c6d35743af4f1969435a925174d0d477974036593283cc",
+    "3c60ae93284f1854027081e0ab8221395ceb3bfee1b7dd6a5438f2a2a4ac94dd",
+    "90bc12365035ae8584ea814677d5cead79295e204249d49cdc61c99f10ec0b77",
+    "b1ff199d493e141ed6e6121330ec8f012045c7f828026415ef5480b0493cf504",
+    "821e77dc1b5fd0c6b1775aab230dc6e7462c7f77a6d1cd480a9523b16c663132",
+    "aa526ec983f8bc9c8d913862730835213d1c6e5ed7db33d6bb5a32ff04865f33"
+  ],
+  "bytes": 70666,
+  "sha256": "5426ab78581a5c81783a23d96503f427564f274822a78e508c1b33aa5f89e23a"
+}

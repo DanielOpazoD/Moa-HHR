@@ -1,0 +1,170 @@
+{
+  "id": "D03",
+  "order": 503,
+  "title": "D03 · La bolsa de las bolsas",
+  "category": "Chile: memes y encuentros",
+  "pack": "new",
+  "batch": "chile-remix-01",
+  "version": 4,
+  "status": "approved",
+  "frames": 12,
+  "durations": [
+    450,
+    450,
+    450,
+    450,
+    450,
+    450,
+    450,
+    450,
+    450,
+    450,
+    500,
+    900
+  ],
+  "cycles": 1,
+  "still": 11,
+  "source": "new-scenes/sources/D03-v4.png",
+  "src": "new-scenes/atlases/moa-D03-v4.png",
+  "generator": "Integrated image_gen directly operated by primary assistant",
+  "reference": "references/moa-neutral.png",
+  "prompt": "new-scenes/prompts/D03.txt",
+  "context": "Viñeta ficticia de humor. Los encuentros son homenajes artísticos, sin colaboración o respaldo de las personas representadas. Sin audio ni letras de canciones.",
+  "review": "Primary assistant visually reviews source and delivered frames. Full CI required before merge.",
+  "sourceGridColumns": 4,
+  "discardedSources": [
+    "new-scenes/sources/D03-v1.png"
+  ],
+  "sourceColumns": [
+    0,
+    361,
+    724,
+    1086,
+    1448
+  ],
+  "packaging": {
+    "sourceSize": [
+      1448,
+      1086
+    ],
+    "rowCuts": [
+      0,
+      369,
+      731,
+      1086
+    ],
+    "columnCuts": [
+      0,
+      361,
+      724,
+      1086,
+      1448
+    ],
+    "rowBaselineRegistration": [
+      [
+        1,
+        56
+      ],
+      [
+        0,
+        56
+      ],
+      [
+        0,
+        56
+      ],
+      [
+        0,
+        56
+      ],
+      [
+        1,
+        67
+      ],
+      [
+        0,
+        67
+      ],
+      [
+        0,
+        67
+      ],
+      [
+        0,
+        67
+      ],
+      [
+        1,
+        60
+      ],
+      [
+        0,
+        60
+      ],
+      [
+        0,
+        60
+      ],
+      [
+        0,
+        60
+      ]
+    ],
+    "unionCrop": [
+      26,
+      94,
+      338,
+      395
+    ],
+    "sharedScale": 0.4983388704318937,
+    "frameSize": [
+      288,
+      168
+    ],
+    "origin": [
+      0,
+      0
+    ],
+    "trajectory": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ]
+    ]
+  },
+  "frameFiles": [
+    "new-scenes/frames/D03-v4/000.png",
+    "new-scenes/frames/D03-v4/001.png",
+    "new-scenes/frames/D03-v4/002.png",
+    "new-scenes/frames/D03-v4/003.png",
+    "new-scenes/frames/D03-v4/004.png",
+    "new-scenes/frames/D03-v4/005.png",
+    "new-scenes/frames/D03-v4/006.png",
+    "new-scenes/frames/D03-v4/007.png",
+    "new-scenes/frames/D03-v4/008.png",
+    "new-scenes/frames/D03-v4/009.png",
+    "new-scenes/frames/D03-v4/010.png",
+    "new-scenes/frames/D03-v4/011.png"
+  ],
+  "sourceSha256": "49dfdc3b541cb00986212a20d347a377c1ec0dc214372179501e277ffaee5312",
+  "frameSha256": [
+    "60a41194a370bd69b4edd3e3f11d7f2f630485e78fc87e6a5276c218fb1b729c",
+    "7da00fd00c593bcbe5357429d6a9711c55e26f026680c78a1fd51571fef283cc",
+    "b602e167aeee8142bc10bf5771c0b9d6894773022d315580ed3b01ef372ddd8c",
+    "4117a4e8a5006d6400e59cc45f6d8bce09460beda47cb13372802af601522547",
+    "5638a59818b01337e6c407b9225279cf65ddfb4be285f9799737eaf184d3f88a",
+    "3e0041d2ca65aee428f1bf6ef7392f0535622447cbc1a64bcb6325bc7585b644",
+    "245db33ba8fbdfd1dd37c1a528f36ffcfc6169bcc423a72e73f7a32af74eefc2",
+    "18abb80474d220ea1c92b05cbb6a3036b38c35052602104feadb1d03c4296945",
+    "cb109e66429abdb46cdfa1a19533c64c4e13d6c6528d3680e9d057e40f6ef910",
+    "0125d31958fc4cee265e52d1f78e89dd695be0eba034d3018d1508113806e1b8",
+    "93820c26bbcf9683d82388c7e1ac8d6535d20f6f0b7373158ba7e02be9aa65e0",
+    "d5034ff2b490324e8fa3b11f8a6312f1a97ed23ffc9527bf99a7547630bc8db5"
+  ],
+  "bytes": 55170,
+  "sha256": "17a454ce45333e84d63bcaf40c0f6418da5b1124937652aaa9c0331e7d2dc613"
+}

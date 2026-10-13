@@ -1,0 +1,167 @@
+{
+  "id": "D05",
+  "order": 505,
+  "title": "D05 · El pudú y la foto oficial",
+  "category": "Chile: memes y encuentros",
+  "pack": "new",
+  "batch": "chile-remix-01",
+  "version": 1,
+  "status": "approved",
+  "frames": 12,
+  "durations": [
+    450,
+    450,
+    450,
+    450,
+    450,
+    450,
+    450,
+    450,
+    450,
+    450,
+    500,
+    900
+  ],
+  "cycles": 1,
+  "still": 11,
+  "source": "new-scenes/sources/D05-v1.png",
+  "src": "new-scenes/atlases/moa-D05-v1.png",
+  "generator": "Integrated image_gen directly operated by primary assistant",
+  "reference": "references/moa-neutral.png",
+  "prompt": "new-scenes/prompts/D05.txt",
+  "context": "Viñeta ficticia de humor. Los encuentros son homenajes artísticos, sin colaboración o respaldo de las personas representadas. Sin audio ni letras de canciones.",
+  "review": "Primary assistant visually reviews source and delivered frames. Full CI required before merge.",
+  "sourceGridColumns": 4,
+  "sourceColumns": [
+    0,
+    391,
+    774,
+    1155,
+    1536
+  ],
+  "packaging": {
+    "sourceSize": [
+      1536,
+      1024
+    ],
+    "rowCuts": [
+      0,
+      396,
+      716,
+      1024
+    ],
+    "columnCuts": [
+      0,
+      391,
+      774,
+      1155,
+      1536
+    ],
+    "rowBaselineRegistration": [
+      [
+        0,
+        60
+      ],
+      [
+        4,
+        60
+      ],
+      [
+        5,
+        60
+      ],
+      [
+        5,
+        60
+      ],
+      [
+        0,
+        142
+      ],
+      [
+        4,
+        142
+      ],
+      [
+        5,
+        142
+      ],
+      [
+        5,
+        142
+      ],
+      [
+        0,
+        170
+      ],
+      [
+        4,
+        170
+      ],
+      [
+        5,
+        170
+      ],
+      [
+        5,
+        170
+      ]
+    ],
+    "unionCrop": [
+      17,
+      164,
+      378,
+      422
+    ],
+    "sharedScale": 0.5813953488372093,
+    "frameSize": [
+      288,
+      168
+    ],
+    "origin": [
+      0,
+      0
+    ],
+    "trajectory": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ]
+    ]
+  },
+  "frameFiles": [
+    "new-scenes/frames/D05-v1/000.png",
+    "new-scenes/frames/D05-v1/001.png",
+    "new-scenes/frames/D05-v1/002.png",
+    "new-scenes/frames/D05-v1/003.png",
+    "new-scenes/frames/D05-v1/004.png",
+    "new-scenes/frames/D05-v1/005.png",
+    "new-scenes/frames/D05-v1/006.png",
+    "new-scenes/frames/D05-v1/007.png",
+    "new-scenes/frames/D05-v1/008.png",
+    "new-scenes/frames/D05-v1/009.png",
+    "new-scenes/frames/D05-v1/010.png",
+    "new-scenes/frames/D05-v1/011.png"
+  ],
+  "sourceSha256": "6cf5eb2f98c1f809be9ba1f6fb58d89716cf62e5e289cb554294d99e104810fe",
+  "frameSha256": [
+    "2188f43e2f5b36076cfb4e92af15e4060445c2aefe5c5caa8573af14ed6112c9",
+    "7556ced2f2eb96aa9406716f867b1916d5ecdfac5bca7eadcca4d924ed53f38e",
+    "c469d10b5d46517a0094fb20bea38b231e8631a3d52a66931595954cd506eeee",
+    "8b657044dbe0d497bc17a86ad76bc611bad77fb57e52db8ca1ac99814ba6ab0c",
+    "024eb32d8eabf7889c36c63a52ad41bca033db85c440a65b67a6f26e4e32e3a9",
+    "e6cd24386dcac00d28c817d8ebb521e414b4480208f6a292497161c52e91a6c6",
+    "1812d88af6727fadbcb1cb65a10122815a9d8211e59ba94933966b89fe71b805",
+    "deedbaafe649ddaa2eaab4eaf9e6b0bcdace8f77b885b4d743c59e25108b796f",
+    "6df7626704907a9471cb4b8e044926ddd3e9902b5cdaf059fd33246cd7d73071",
+    "f4226bb49903eaf147bd0b10ad46195c8ede284f61a1340169f26b792af9674d",
+    "07b91febdc6b16f5c84a4f2dd9cfd87a3264fee6184649027e8b2c5f870fc8f5",
+    "42d167fc2d092c3af686dabc80e36855f9de895fcee6bff9b04f2c0bd90b9ae8"
+  ],
+  "bytes": 80201,
+  "sha256": "70273a2a8b1279075f6c46b98beaba3cf9d7dd107fbed6fa8dcd13c419beb42c"
+}

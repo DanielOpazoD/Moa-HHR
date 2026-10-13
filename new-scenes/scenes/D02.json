@@ -1,0 +1,170 @@
+{
+  "id": "D02",
+  "order": 502,
+  "title": "D02 · No estoy ni ahí… hasta la marraqueta",
+  "category": "Chile: memes y encuentros",
+  "pack": "new",
+  "batch": "chile-remix-01",
+  "version": 2,
+  "status": "approved",
+  "frames": 12,
+  "durations": [
+    450,
+    450,
+    450,
+    450,
+    450,
+    450,
+    450,
+    450,
+    450,
+    450,
+    500,
+    900
+  ],
+  "cycles": 1,
+  "still": 11,
+  "source": "new-scenes/sources/D02-v2.png",
+  "src": "new-scenes/atlases/moa-D02-v2.png",
+  "generator": "Integrated image_gen directly operated by primary assistant",
+  "reference": "references/moa-neutral.png",
+  "prompt": "new-scenes/prompts/D02.txt",
+  "context": "Viñeta ficticia de humor. Los encuentros son homenajes artísticos, sin colaboración o respaldo de las personas representadas. Sin audio ni letras de canciones.",
+  "review": "Primary assistant visually reviews source and delivered frames. Full CI required before merge.",
+  "sourceGridColumns": 4,
+  "discardedSources": [
+    "new-scenes/sources/D02-v1.png"
+  ],
+  "sourceColumns": [
+    0,
+    413,
+    791,
+    1145,
+    1536
+  ],
+  "packaging": {
+    "sourceSize": [
+      1536,
+      1024
+    ],
+    "rowCuts": [
+      0,
+      381,
+      688,
+      1024
+    ],
+    "columnCuts": [
+      0,
+      413,
+      791,
+      1145,
+      1536
+    ],
+    "rowBaselineRegistration": [
+      [
+        0,
+        69
+      ],
+      [
+        17,
+        69
+      ],
+      [
+        29,
+        69
+      ],
+      [
+        11,
+        69
+      ],
+      [
+        0,
+        129
+      ],
+      [
+        17,
+        129
+      ],
+      [
+        29,
+        129
+      ],
+      [
+        11,
+        129
+      ],
+      [
+        0,
+        134
+      ],
+      [
+        17,
+        134
+      ],
+      [
+        29,
+        134
+      ],
+      [
+        11,
+        134
+      ]
+    ],
+    "unionCrop": [
+      29,
+      165,
+      380,
+      407
+    ],
+    "sharedScale": 0.6198347107438017,
+    "frameSize": [
+      288,
+      168
+    ],
+    "origin": [
+      0,
+      0
+    ],
+    "trajectory": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ]
+    ]
+  },
+  "frameFiles": [
+    "new-scenes/frames/D02-v2/000.png",
+    "new-scenes/frames/D02-v2/001.png",
+    "new-scenes/frames/D02-v2/002.png",
+    "new-scenes/frames/D02-v2/003.png",
+    "new-scenes/frames/D02-v2/004.png",
+    "new-scenes/frames/D02-v2/005.png",
+    "new-scenes/frames/D02-v2/006.png",
+    "new-scenes/frames/D02-v2/007.png",
+    "new-scenes/frames/D02-v2/008.png",
+    "new-scenes/frames/D02-v2/009.png",
+    "new-scenes/frames/D02-v2/010.png",
+    "new-scenes/frames/D02-v2/011.png"
+  ],
+  "sourceSha256": "3f621cbd0d8619c8c9dd3809d885cc1ed301118b54a4e307ec4d6f56e7b731d5",
+  "frameSha256": [
+    "e03728b04894dd6572c294b0bddf0484f9b344270c2a1c9a9115ec948859d27e",
+    "8d80f052dfc3a00f84ab4fe6ecdb02975a3997a62d7228b9fe1c1c34c55b90c4",
+    "d29a09b55bc4b48127b18651ad4c360d0a886c4d129f5bfd5b9cad1502371f56",
+    "834546fd2a413ea2d0dfce8d334881d3457dfc99d57d13e2ca411f8400485117",
+    "44899d66b84e872b4c858bf8cc3719932e3fdbfe6efbe987700e16310d461a66",
+    "701fba7549eff49fcc6ac8059e5b964bce4d48f8bc69e430efc281d515409dab",
+    "784d4c5603f1afa2f538f5dc6cc91f56d9e60896d88ead39dcba778e728f0212",
+    "c4fe2560d7097202b9e3c198565a56262f6f44f5563589695a7519dcc70d71cc",
+    "6aead6fdf900892d4582f68aa901cb437b4f5ca1203d8ae1338825967ec2ea6c",
+    "3e3e119f32f797b7c330df2e97db71ae71638ec6b36ac25ce7e6ba7185e96f27",
+    "a22f9332e8769bdf48c8534065695133fbc3d23212b904e8dc6f7a3e246b9ae4",
+    "395d2e400953d315f69d43a2e2558e1fcf9648b284a5ad40102d9e423f39af0f"
+  ],
+  "bytes": 80709,
+  "sha256": "4c3d06017b8ba713d63d05334c78fff6ca56d8ee78792750ce61ec4b9304b230"
+}
