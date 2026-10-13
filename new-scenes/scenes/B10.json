@@ -1,0 +1,166 @@
+{
+  "order": 410,
+  "id": "B10",
+  "title": "B10 · La maleta imposible",
+  "category": "Moa aventuras",
+  "pack": "new",
+  "batch": "adventures-02",
+  "version": 1,
+  "status": "approved",
+  "frames": 12,
+  "durations": [
+    500,
+    500,
+    500,
+    500,
+    500,
+    500,
+    500,
+    500,
+    500,
+    500,
+    500,
+    500
+  ],
+  "cycles": 1,
+  "still": 11,
+  "source": "new-scenes/sources/B10-v1.png",
+  "src": "new-scenes/atlases/moa-B10-v1.png",
+  "generator": "Integrated image_gen directly operated by primary assistant",
+  "reference": "references/moa-neutral.png",
+  "prompt": "new-scenes/prompts/B10.txt",
+  "context": "Viñeta ficticia de humor y acompañamiento. No es una instrucción clínica ni representa operaciones reales.",
+  "review": "Primary assistant inspected source and packed sequences on light background; alpha and three-background previews validated. GitHub CI required before merge; local browser socket restriction.",
+  "sourceColumns": [
+    0,
+    362,
+    739,
+    1103,
+    1448
+  ],
+  "packaging": {
+    "sourceSize": [
+      1448,
+      1086
+    ],
+    "rowCuts": [
+      0,
+      393,
+      744,
+      1086
+    ],
+    "columnCuts": [
+      0,
+      362,
+      739,
+      1103,
+      1448
+    ],
+    "rowBaselineRegistration": [
+      [
+        7,
+        42
+      ],
+      [
+        0,
+        42
+      ],
+      [
+        6,
+        42
+      ],
+      [
+        16,
+        42
+      ],
+      [
+        7,
+        82
+      ],
+      [
+        0,
+        82
+      ],
+      [
+        6,
+        82
+      ],
+      [
+        16,
+        82
+      ],
+      [
+        7,
+        106
+      ],
+      [
+        0,
+        106
+      ],
+      [
+        6,
+        106
+      ],
+      [
+        16,
+        106
+      ]
+    ],
+    "unionCrop": [
+      29,
+      100,
+      377,
+      419
+    ],
+    "sharedScale": 0.4702194357366771,
+    "frameSize": [
+      288,
+      168
+    ],
+    "origin": [
+      0,
+      0
+    ],
+    "trajectory": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ]
+    ]
+  },
+  "frameFiles": [
+    "new-scenes/frames/B10-v1/000.png",
+    "new-scenes/frames/B10-v1/001.png",
+    "new-scenes/frames/B10-v1/002.png",
+    "new-scenes/frames/B10-v1/003.png",
+    "new-scenes/frames/B10-v1/004.png",
+    "new-scenes/frames/B10-v1/005.png",
+    "new-scenes/frames/B10-v1/006.png",
+    "new-scenes/frames/B10-v1/007.png",
+    "new-scenes/frames/B10-v1/008.png",
+    "new-scenes/frames/B10-v1/009.png",
+    "new-scenes/frames/B10-v1/010.png",
+    "new-scenes/frames/B10-v1/011.png"
+  ],
+  "sourceSha256": "0d35d4736d6aaa793cc22e7a4eb172e22a40014e3b2c3472a23d8b93965cc075",
+  "frameSha256": [
+    "33aef941ea99cec80076eb49519e7c135ae15c8b5ff1951f3d498ee8f19edd6f",
+    "11fa8945433bf317b271802abd211d2e9acd3820780013cf5a8636f8430deb3f",
+    "9b4a9efc4be80ac8aafde5957f6ccb30bd2f216cf466a08bb6942308f55e7b59",
+    "b9c706187ae8ef9229d33aeb9925fb71d0fe6c6df20847e875e44375cbd8a914",
+    "680fa82c3fedb76a0308c0e91172e8a583f37ea4b65749763751d3ea4f4fbb8b",
+    "0fea64b2f47a67aac3422d9df85ff8031d2945e7337c63cc59f60539b6169f8f",
+    "3ed83a22e32b827c8b6243f53e29e60c721c7f272114586b937316b238e6a1a8",
+    "862a82bc5dc929c67c572253210ddc3e065892d0e079f9a089694ed6618dec0c",
+    "27319085bc6af67cf0beb720c5c70bbabec0a53f5baff1f3856a323beeaff9dd",
+    "4cccb0c551a8ceab2fade1268c78227a37d1609eeea9d596c4c48764b5ff1da6",
+    "5a46512e498c17db6e071c04b9e96701345940a25a641ca7c095cc0f07165f6f",
+    "f0322b6f4c281b71b49a1ec3166649675d4d1b1060e35030147ed990abfebdc5"
+  ],
+  "bytes": 61840,
+  "sha256": "667c2a442296a7a9a3080b6f71d559c456a286b3be37de180ab37d6f202374c9"
+}
