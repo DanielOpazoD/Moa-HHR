@@ -10,9 +10,9 @@ Autorización limitada a C21, C22, C23, C25, C27, C30 y C36. Se mantienen esos I
 | C22 | Leo Rey y el pedestal demasiado alto | 16 poses, 5600 ms, 125659 B; [JSON](../new-scenes/scenes/C22.json) · [PNG](../new-scenes/frames/C22-v3/) |
 | C23 | Naya Fácil y la selfie | 16 poses, 5600 ms, 123440 B; [JSON](../new-scenes/scenes/C23.json) · [PNG](../new-scenes/frames/C23-v3/) |
 | C25 | Naya de gala y la capa de Moa | 12 poses, 4600 ms, 96810 B; [JSON](../new-scenes/scenes/C25.json) · [PNG](../new-scenes/frames/C25-v1/) |
-| C27 | Pancho Saavedra y la once | Pendiente de producción |
-| C30 | Luis Slimming y la risa tardía | Pendiente de producción |
-| C36 | Pedro Pascal acomoda la corbata | Pendiente de producción |
+| C27 | La once de Pancho y Moa | 12 poses, 4600 ms, 97760 B; [JSON](../new-scenes/scenes/C27.json) · [PNG](../new-scenes/frames/C27-v5/) |
+| C30 | Luis y la risa tardía | 12 poses, 4600 ms, 115439 B; [JSON](../new-scenes/scenes/C30.json) · [PNG](../new-scenes/frames/C30-v1/) |
+| C36 | Pedro acomoda la corbata | 12 poses, 4600 ms, 90599 B; [JSON](../new-scenes/scenes/C36.json) · [PNG](../new-scenes/frames/C36-v1/) |
 
 Primer bloque disponible: [QA](QA-chile-06.md) · [lámina](../evidence/chile-06-overview.png). C21 no está en el manifiesto ni cuenta como animación completada.
 
@@ -34,3 +34,7 @@ Se leyó el [artículo de Canal 13 del 25 de septiembre de 2026](https://www.13.
 - https://www.tiktok.com/@dany_isu/video/7689234154654846226
 
 La herramienta web devolvió `URL ... is not accessible via this tool` para ambos vídeos; los enlaces de perfiles devolvieron `Failed to fetch restricted URL`. No se intentó eludir esa restricción con otra ruta de descarga. El texto no describe suficientemente las posiciones para reproducir el paso y no sustituye ver el vídeo. C21 requiere un archivo del clip o una fuente pública accesible del mismo movimiento. No se ha generado un baile genérico bajo ese nombre, ni se incorporará la controversia del espectáculo.
+
+## Cierre del alcance disponible
+
+Seis encuentros completados: C22, C23, C25, C27, C30 y C36; 80 poses y 649.707 bytes de atlas. C21 sigue pendiente del clip solicitado al usuario y no está generada. Segundo bloque: [QA](QA-chile-07.md) · [lámina](../evidence/chile-07-overview.png). Se conservan las cinco fuentes de C27: v1/v2 fallaron en tapas; v3 omitía la tapa pequeña en un cuadro; v4 corrigió continuidad; v5 añade separación segura entre celdas. C30 y C36 usan v1. No se inicia ninguna entrega posterior.

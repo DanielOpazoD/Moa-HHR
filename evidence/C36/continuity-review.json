@@ -1,0 +1,53 @@
+{
+  "method": "Inspección visual manual; cuadros numerados desde1, no seguimiento automático.",
+  "frames": [
+    {
+      "frame": 1,
+      "observation": "Corbata vertical, ambos posan"
+    },
+    {
+      "frame": 2,
+      "observation": "Moa roza y tuerce su corbata"
+    },
+    {
+      "frame": 3,
+      "observation": "Corbata diagonal, Pedro nota"
+    },
+    {
+      "frame": 4,
+      "observation": "Pedro se acerca con rodillas flexionadas"
+    },
+    {
+      "frame": 5,
+      "observation": "Mano se aproxima a corbata"
+    },
+    {
+      "frame": 6,
+      "observation": "Contacto sobre misma corbata"
+    },
+    {
+      "frame": 7,
+      "observation": "Corbata vuelve a vertical"
+    },
+    {
+      "frame": 8,
+      "observation": "Pedro suelta y retira mano"
+    },
+    {
+      "frame": 9,
+      "observation": "Ambos sonríen, corbata recta"
+    },
+    {
+      "frame": 10,
+      "observation": "Saludos con manos exteriores"
+    },
+    {
+      "frame": 11,
+      "observation": "Sonrisas y saludo"
+    },
+    {
+      "frame": 12,
+      "observation": "Descanso sonriente, corbata recta"
+    }
+  ]
+}
