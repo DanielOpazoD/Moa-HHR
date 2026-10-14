@@ -248,3 +248,18 @@ test("abbreviated care vignette context is visible only for its selection", asyn
     "no es un protocolo",
   );
 });
+
+test("C21 is selectable with its source limitation and finite dance playback", async ({ page }) => {
+  await page.goto("/");
+  await page.locator("#search").fill("C21");
+  await expect(page.locator(".card")).toHaveCount(1);
+  await page.locator(".card").click();
+  await expect(page.locator("#preview-title")).toContainText("pasito de Leo Rey");
+  await expect(page.locator("#details")).toContainText("pies parcialmente ocultos");
+  await page.waitForFunction(() => document.querySelector("#sprite img")?.naturalWidth === 12 * 288);
+  await page.locator("#frame").fill("11");
+  await expect(page.locator("#status")).toHaveText("Cuadro 12 de 12");
+  await page.locator("#play").click();
+  await expect(page.locator("#sprite")).toHaveAttribute("data-state", "playing");
+  await expect(page.locator("#sprite")).toHaveAttribute("data-state", "rest", { timeout: 6500 });
+});

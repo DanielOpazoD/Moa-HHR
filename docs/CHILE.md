@@ -83,4 +83,4 @@ Se revisaron la trayectoria y retención de una sola pelota en C17, la ubicació
 
 Colección chilena completa: 20 escenas, 248 poses, 1.668.915 bytes de atlas activos. Fuentes, descartes y evidencias quedan separados de la carga selectiva.
 
-Nueva serie separada: [encuentros ficticios con invitados](CHILE-ENCUENTROS.md), con IDs no consecutivos y C21 pendiente de vídeo.
+Nueva serie separada: [encuentros ficticios con invitados](CHILE-ENCUENTROS.md), con IDs no consecutivos; C21 completada tras inspeccionar la referencia de vídeo.
