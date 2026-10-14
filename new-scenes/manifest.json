@@ -37218,5 +37218,407 @@
     ],
     "bytes": 2571977,
     "sha256": "161544d0e800d6554c5b415cefe4631c712e68fce23d21cae01d042289bbae91"
+  },
+  {
+    "order": 606,
+    "id": "E06",
+    "title": "E06 · Naya y la cámara equivocada",
+    "category": "Chile · Premium HD",
+    "pack": "new",
+    "batch": "chile-premium-01",
+    "version": 1,
+    "status": "approved",
+    "frames": 24,
+    "durations": [
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      700
+    ],
+    "cycles": 1,
+    "still": 23,
+    "source": "new-scenes/sources/E06-v1.png",
+    "src": "new-scenes/atlases/moa-E06-v1.png",
+    "sourceGridColumns": 2,
+    "sourceColumns": [
+      0,
+      708,
+      1416
+    ],
+    "sourceRows": [
+      0,
+      507,
+      1014,
+      1521,
+      2028,
+      2535,
+      3042,
+      3549,
+      4056,
+      4563,
+      5070,
+      5577,
+      6084
+    ],
+    "sourceRowBaselines": [
+      477,
+      984,
+      1491,
+      1998,
+      2505,
+      3012,
+      3519,
+      4026,
+      4533,
+      5040,
+      5547,
+      6054
+    ],
+    "frameSize": [
+      576,
+      336
+    ],
+    "renderMode": "smooth",
+    "sourceSheets": [
+      {
+        "source": "new-scenes/sources/E06-A-v1.png",
+        "sha256": "ab5ea23bfd2d94db592843bfe40fae41fa52db8ec5ba726e1cc50f82dd7d34d4",
+        "rows": [
+          0,
+          429,
+          813,
+          1178
+        ],
+        "columnsByRow": [
+          [
+            0,
+            667,
+            1335
+          ],
+          [
+            0,
+            667,
+            1335
+          ],
+          [
+            0,
+            667,
+            1335
+          ]
+        ]
+      },
+      {
+        "source": "new-scenes/sources/E06-B-v1.png",
+        "sha256": "ffe70393df169bc7f3dacbb38668bed741bc02c080b86fbe95f5dfe69af87463",
+        "rows": [
+          0,
+          421,
+          807,
+          1178
+        ],
+        "columnsByRow": [
+          [
+            0,
+            667,
+            1335
+          ],
+          [
+            0,
+            667,
+            1335
+          ],
+          [
+            0,
+            667,
+            1335
+          ]
+        ]
+      },
+      {
+        "source": "new-scenes/sources/E06-C-v1.png",
+        "sha256": "fc20c0156600d4f46b2f8c1de53989ea7fd138eb1eb746b452b4288cd064c442",
+        "rows": [
+          0,
+          426,
+          809,
+          1178
+        ],
+        "columnsByRow": [
+          [
+            0,
+            667,
+            1335
+          ],
+          [
+            0,
+            667,
+            1335
+          ],
+          [
+            0,
+            667,
+            1335
+          ]
+        ]
+      },
+      {
+        "source": "new-scenes/sources/E06-D-v1.png",
+        "sha256": "ca92975da06dc284086279676f4e1c765e11384be5116ab99541cbdd68c42a90",
+        "rows": [
+          0,
+          437,
+          822,
+          1178
+        ],
+        "columnsByRow": [
+          [
+            0,
+            667,
+            1335
+          ],
+          [
+            0,
+            667,
+            1335
+          ],
+          [
+            0,
+            667,
+            1335
+          ]
+        ]
+      }
+    ],
+    "sourceBytes": 4698329,
+    "prompt": "new-scenes/prompts/E06.txt",
+    "generator": "Integrated image_gen",
+    "guest": "Naya Fácil",
+    "context": "Homenaje ficticio: Naya y Moa posan, descubren que el teléfono apuntaba hacia sus zapatos y repiten la entrada.",
+    "editingNote": "Fuentes originales conservadas con SHA. Composición por celdas y registro de suelo; una sola escala común. PNG individuales editables, atlas RGBA sin cuantización. Escena ficticia original.",
+    "reference": "evidence/guest-references/naya.json",
+    "packaging": {
+      "sourceSize": [
+        1416,
+        6084
+      ],
+      "rowCuts": [
+        0,
+        507,
+        1014,
+        1521,
+        2028,
+        2535,
+        3042,
+        3549,
+        4056,
+        4563,
+        5070,
+        5577,
+        6084
+      ],
+      "columnCuts": [
+        0,
+        708,
+        1416
+      ],
+      "rowBaselineRegistration": [
+        [
+          0,
+          52
+        ],
+        [
+          0,
+          52
+        ],
+        [
+          0,
+          52
+        ],
+        [
+          0,
+          52
+        ],
+        [
+          0,
+          52
+        ],
+        [
+          0,
+          52
+        ],
+        [
+          0,
+          52
+        ],
+        [
+          0,
+          52
+        ],
+        [
+          0,
+          52
+        ],
+        [
+          0,
+          52
+        ],
+        [
+          0,
+          52
+        ],
+        [
+          0,
+          52
+        ],
+        [
+          0,
+          52
+        ],
+        [
+          0,
+          52
+        ],
+        [
+          0,
+          52
+        ],
+        [
+          0,
+          52
+        ],
+        [
+          0,
+          52
+        ],
+        [
+          0,
+          52
+        ],
+        [
+          0,
+          52
+        ],
+        [
+          0,
+          52
+        ],
+        [
+          0,
+          52
+        ],
+        [
+          0,
+          52
+        ],
+        [
+          0,
+          52
+        ],
+        [
+          0,
+          52
+        ]
+      ],
+      "unionCrop": [
+        116,
+        116,
+        665,
+        534
+      ],
+      "sharedScale": 0.7177033492822966,
+      "frameSize": [
+        576,
+        336
+      ],
+      "origin": [
+        0,
+        0
+      ],
+      "trajectory": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          0
+        ]
+      ]
+    },
+    "frameFiles": [
+      "new-scenes/frames/E06-v1/000.png",
+      "new-scenes/frames/E06-v1/001.png",
+      "new-scenes/frames/E06-v1/002.png",
+      "new-scenes/frames/E06-v1/003.png",
+      "new-scenes/frames/E06-v1/004.png",
+      "new-scenes/frames/E06-v1/005.png",
+      "new-scenes/frames/E06-v1/006.png",
+      "new-scenes/frames/E06-v1/007.png",
+      "new-scenes/frames/E06-v1/008.png",
+      "new-scenes/frames/E06-v1/009.png",
+      "new-scenes/frames/E06-v1/010.png",
+      "new-scenes/frames/E06-v1/011.png",
+      "new-scenes/frames/E06-v1/012.png",
+      "new-scenes/frames/E06-v1/013.png",
+      "new-scenes/frames/E06-v1/014.png",
+      "new-scenes/frames/E06-v1/015.png",
+      "new-scenes/frames/E06-v1/016.png",
+      "new-scenes/frames/E06-v1/017.png",
+      "new-scenes/frames/E06-v1/018.png",
+      "new-scenes/frames/E06-v1/019.png",
+      "new-scenes/frames/E06-v1/020.png",
+      "new-scenes/frames/E06-v1/021.png",
+      "new-scenes/frames/E06-v1/022.png",
+      "new-scenes/frames/E06-v1/023.png"
+    ],
+    "sourceSha256": "8b99af579e2ea507b05ee74ec0bd6596ff7a9a1497080c0b124734f1de605ea3",
+    "frameSha256": [
+      "425ac9b790946807bf70c5228866a785b38e2a1f2e464b6ca4ef2d08775627e1",
+      "bd38f6660b4eb0a6fd505f983e5b389de038172d78e8c2a6474395be8792e389",
+      "c430eaf1d620ac5c3aef27a5d2a422d5622480e04c0c186c5943eca3c6876501",
+      "9cb2e5453311333dc46fb5bf1ed9fd86a942478f8c97e3fb244c965c8088301f",
+      "3446aa0296c92f52cc7a7de75065dbeb77e8332eff5cf4c6d09ced9d964b82d6",
+      "d01ae56b3920135d50ec20850eb523d285d45f4ea59d45d9caf23dabffb9d5a9",
+      "8a918eb966457b1231b84369831d66aae5aecb5c680df76134b412d859b6a435",
+      "a50cd11c9ff2c167a59fb72522fa05a4e61a253d507b419dc28a5b48e654a325",
+      "62c6826e80434c02447b35c632eef33d2e6d7ba0fd4413584faa3eae2abb1753",
+      "9f7d0a734e6f1541c14131aaae162c93e93671bff6cee397c1aa23659a8496b9",
+      "af353d577153d687963a04c43844adbf0a157882b6b95b9484b7fa4f04fa1a6b",
+      "6ab0f18ee754bd6e17f3868a4a4fc431ea14419c9f4b6f088fbaf5f6258f227c",
+      "396b4754089f8edda28020c5b389378bd08fc7f07c2d0c1a44351dfbca44e6b0",
+      "7ee094f72feecf30ad7efe381dac7f3fca7eda5487e52d76cad40620096297d2",
+      "64c0f62cfbb18d02b71e30ec6a636f3b5e1caf643c1764ca674c7938cb763721",
+      "182be12dfe8f83693aed4f6b2e4d246161a3e2d36d8a20444d7989c3b390a678",
+      "5a6a8b761bc08ee869aa1de59677c76e4d39034486e2c86a7f7ef152efe35b0d",
+      "0b4a9764e8efa5ecb425ba52d81a48884eca43fbd3746f0edbc80781ef545fe7",
+      "e350243d37325142c41564899e3e41c61566f3e7764a08404b04675dde209ffa",
+      "42ddb777c23be04d1f4aabf0c2167167ab3e2caa6106e3487df4fb065a0e3ef2",
+      "af3be233f75d2e4bc83fc95d95c5a8fa4bcad9822c142b42aac427e1f2022585",
+      "739b82ae40685be770561be6366c36bf83b33e0233420a14d955a8aa07266427",
+      "ab755edc90583a72c567e5b146b7f9c4adbf1ab2f6d035b154e2f8fd4a910d7a",
+      "9714a31ab85ff5e3acb9e54aecdf622e68a25befc72e515303a6345427020eba"
+    ],
+    "bytes": 2668978,
+    "sha256": "88223726ebc2ec3044fd31735c13bf2949a77fb57a237d65b6f9cc51b9b0a76e"
   }
 ]

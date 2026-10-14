@@ -8,8 +8,8 @@ Ocho escenas ficticias aprobadas el 14-10-2026, desarrolladas y revisadas una po
 | E02 | El Chacal y el duelo de trompetas | Bloqueada: generador rechazó la corrección; sin publicación |
 | E03 | Guru Guru aprende el pasito | Integrada en PR #42; CI final aprobada |
 | E04 | Pancho y la risa contagiosa | Integrada en PR #43; CI final aprobada |
-| E05 | Kramer imita una piedra | Implementada; CI requerida antes de merge |
-| E06 | Naya y la cámara equivocada | Pendiente |
+| E05 | Kramer imita una piedra | Integrada en PR #44; CI final aprobada |
+| E06 | Naya y la cámara equivocada | Implementada; CI requerida antes de merge |
 | E07 | Don Carter y la carta infinita | Pendiente |
 | E08 | Moa jurado de un completo | Pendiente |
 
@@ -40,3 +40,7 @@ Se reservan órdenes 601–608 para este bloque. La validación rechaza órdenes
 ## E05
 
 Retrato de Kramer en Canal 13 inspeccionado, sin redistribuirlo. Cuatro láminas de seis poses con imitación de brazos cruzados, manos en caderas, muecas y rigidez de estatua; final cálido. 24 poses HD y fuentes editables. Sin utilería ni audio.
+
+## E06
+
+Naya y Moa preparan una entrada, descubren la orientación incorrecta del teléfono y repiten con la cámara elevada. 24 poses HD, cuatro fuentes, visor propio y PNG editables. Retrato de ADN Radio observado de nuevo. Se corrigieron separación de filas, proporciones y continuidad del teléfono en la mano derecha; sin audio ni texto de pantalla necesario. Escena ficticia, sin atribuir un video real a Naya.

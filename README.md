@@ -1,6 +1,6 @@
 # Moa · biblioteca de movimiento
 
-Archivo autónomo de los **18 atlas originales v2** y **201 escenas nuevas**, con fuentes y poses raster editables. Los originales se conservan byte a byte; las escenas nuevas viven en otro paquete. Sin datos clínicos, servicios ni dependencias del hospital.
+Archivo autónomo de los **18 atlas originales v2** y **202 escenas nuevas**, con fuentes y poses raster editables. Los originales se conservan byte a byte; las escenas nuevas viven en otro paquete. Sin datos clínicos, servicios ni dependencias del hospital.
 
 ## Abrir la galería
 
@@ -81,3 +81,5 @@ C21G conserva sus 18 cuadros y el giro completo, ahora con cuadros de **576×336
 - [E04 · Pancho y la risa contagiosa](review/moa-e04-hd.html): 24 poses HD.
 
 - [E05 · Kramer imita una piedra](review/moa-e05-hd.html): 24 poses HD.
+
+- [E06 · Naya y la cámara equivocada](review/moa-e06-hd.html): 24 poses HD.
