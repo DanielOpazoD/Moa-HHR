@@ -1,6 +1,6 @@
 # Moa · biblioteca de movimiento
 
-Archivo autónomo de los **18 atlas originales v2** y **195 escenas nuevas**, con fuentes y poses raster editables. Los originales se conservan byte a byte; las escenas nuevas viven en otro paquete. Sin datos clínicos, servicios ni dependencias del hospital.
+Archivo autónomo de los **18 atlas originales v2** y **196 escenas nuevas**, con fuentes y poses raster editables. Los originales se conservan byte a byte; las escenas nuevas viven en otro paquete. Sin datos clínicos, servicios ni dependencias del hospital.
 
 ## Abrir la galería
 
@@ -57,7 +57,7 @@ Las descargas autónomas se distribuyen en dos archivos: [colecciones anteriores
 
 Las exportaciones y láminas de cada bloque están disponibles en el repositorio. La conversación principal gestiona su publicación en Library con su conexión autorizada.
 
-- [Encuentros con invitados: IDs aprobados y referencia pendiente C21](docs/CHILE-ENCUENTROS.md).
+- [Encuentros con invitados: incluye el pasito de Leo Rey C21](docs/CHILE-ENCUENTROS.md).
 
 - [Moa aventuras: índice de las 30 escenas B01–B30](docs/MOA-AVENTURAS.md).
 - [Moa compañero: índice de las 15 escenas A01–A15](docs/MOA-COMPANERO.md).
