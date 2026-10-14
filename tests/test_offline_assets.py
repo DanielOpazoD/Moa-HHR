@@ -45,15 +45,18 @@ class OfflineAssets(unittest.TestCase):
                    dict(id='B29', pack='new', batch='adventures-05'),
                    dict(id='D01', pack='new', batch='chile-remix-01'),
                    dict(id='old', pack='new'), dict(id='C21G', pack='new', frameSize=[576, 336], renderMode='smooth')]
+        catalog.append(dict(id='E01', title='Entrevista HD', pack='new', frameSize=[576, 336], renderMode='smooth'))
         before = [dict(s) for s in catalog]
         groups = offline_groups(catalog)
         ids = [s['id'] for _, _, scenes, _, _ in groups for s in scenes]
-        self.assertEqual(set(ids), {'B29', 'D01', 'old', 'C21G'})
+        self.assertEqual(set(ids), {'B29', 'D01', 'old', 'C21G', 'E01'})
         self.assertEqual(len(ids), len(set(ids)))
         self.assertEqual([s['id'] for s in groups[1][2]], ['D01'])
         self.assertEqual([s["id"] for s in groups[2][2]], ["C21G"])
         self.assertEqual(playback_scene(catalog[-1])["renderMode"], "smooth")
         self.assertEqual(playback_scene(catalog[-1])["frameSize"], [576, 336])
         self.assertEqual(catalog, before)
+        self.assertEqual(groups[3][0], "moa-e01-hd.html")
+        self.assertEqual([s["id"] for s in groups[3][2]], ["E01"])
         self.assertEqual(groups[0][3], groups[1][0])
         self.assertEqual(groups[1][3], groups[0][0])

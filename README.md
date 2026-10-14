@@ -1,6 +1,6 @@
 # Moa · biblioteca de movimiento
 
-Archivo autónomo de los **18 atlas originales v2** y **197 escenas nuevas**, con fuentes y poses raster editables. Los originales se conservan byte a byte; las escenas nuevas viven en otro paquete. Sin datos clínicos, servicios ni dependencias del hospital.
+Archivo autónomo de los **18 atlas originales v2** y **198 escenas nuevas**, con fuentes y poses raster editables. Los originales se conservan byte a byte; las escenas nuevas viven en otro paquete. Sin datos clínicos, servicios ni dependencias del hospital.
 
 ## Abrir la galería
 
@@ -70,3 +70,8 @@ El selector de categorías se construye desde el catálogo, por lo que incluye t
 ### Giro de Leo Rey en alta resolución
 
 C21G conserva sus 18 cuadros y el giro completo, ahora con cuadros de **576×336**, PNG RGBA sin paleta de 256 colores y suavizado de imagen. Las escenas anteriores conservan sus fuentes, resolución y renderizado. La galería principal sigue unificada; el [HTML HD autónomo](review/moa-leo-rey-giro.html) contiene C21G para evitar que la descarga histórica crezca innecesariamente. [Detalle y límites](docs/QA-leo-hd.md).
+
+## Chile · Premium HD
+
+- [E01 · Avello y el micrófono imposible](review/moa-e01-hd.html): 24 poses, interpretación ilustrada ficticia.
+- [Plan aprobado y revisión](docs/PREMIUM-HD.md). Archivos autocontenidos por escena para mantener descargas acotadas; atlas RGBA HD limitado a 4 MiB para 24 poses.
