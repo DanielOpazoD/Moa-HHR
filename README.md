@@ -34,7 +34,7 @@ Abra [index.html](index.html) a través del servidor. Busque por nombre, filtre 
 
 Ventana 144 × 84 CSS; celdas 288 × 168; N variable (hasta 24); pausas por cuadro en milisegundos, ciclos y pose quieta explícitos. La imagen debe cargar antes de empezar. La pestaña oculta pausa el reloj. Movimiento reducido mantiene una pose y finaliza igualmente. El mismo clic reinicia; Escape/X cierran y devuelven el foco. Cargas antiguas no reemplazan una selección nueva. Los errores regresan al maestro; si también falla, los controles siguen usables. Ningún GIF de evidencia se carga en la galería.
 
-Solo se descarga el maestro y la escena seleccionada. Se respetan **<300.000 bytes por atlas** y **<4 MiB para la colección original** (3.178.538 bytes). Fuentes grandes y evidencia son archivos de autoría, no payload HHR. No hay precache, integración ni despliegue.
+Solo se descarga el maestro y la escena seleccionada. Se respetan **<300.000 bytes por atlas estándar**, **<2.000.000 bytes por atlas HD** y **<4 MiB para la colección original** (3.178.538 bytes). Fuentes grandes y evidencia son archivos de autoría, no payload HHR. No hay precache, integración ni despliegue.
 
 ## Validar y reproducir empaquetado
 
@@ -53,7 +53,7 @@ El empaquetador preserva los PNG fuente; aplica registro por fila, recorte y esc
 
 ## Revisión sin conexión
 
-Las descargas autónomas se distribuyen en dos archivos: [colecciones anteriores](review/moa-scenes.html) y [Chile: memes y encuentros](review/moa-chile-remix.html). Cada uno abre sin conexión y conserva sus cuadros embebidos. La galería principal index.html mantiene todas las escenas unificadas. Ambos archivos se regeneran con `python3 scripts/export-review.py`; dividir la descarga evita que cada nueva colección obligue a transferir un HTML cada vez más pesado.
+Las descargas autónomas se distribuyen en tres archivos: [colecciones anteriores](review/moa-scenes.html), [Chile: memes y encuentros](review/moa-chile-remix.html) y [giro de Leo Rey en alta resolución](review/moa-leo-rey-giro.html). Cada uno abre sin conexión y conserva sus cuadros embebidos. La galería principal index.html mantiene todas las escenas unificadas. Los tres archivos se regeneran con `python3 scripts/export-review.py`; dividir la descarga evita que cada nueva colección obligue a transferir un HTML cada vez más pesado.
 
 Las exportaciones y láminas de cada bloque están disponibles en el repositorio. La conversación principal gestiona su publicación en Library con su conexión autorizada.
 
@@ -65,3 +65,8 @@ Las exportaciones y láminas de cada bloque están disponibles en el repositorio
 El selector de categorías se construye desde el catálogo, por lo que incluye todas las colecciones presentes. La exportación offline conserva píxeles RGBA exactos mediante PNG o WebP sin pérdida; los PNG editables y los metadatos completos permanecen en el repositorio.
 
 - [Chile: memes y encuentros, D01–D30](docs/CHILE-REMIX.md).
+
+
+### Giro de Leo Rey en alta resolución
+
+C21G conserva sus 18 cuadros y el giro completo, ahora con cuadros de **576×336**, PNG RGBA sin paleta de 256 colores y suavizado de imagen. Las escenas anteriores conservan sus fuentes, resolución y renderizado. La galería principal sigue unificada; el [HTML HD autónomo](review/moa-leo-rey-giro.html) contiene C21G para evitar que la descarga histórica crezca innecesariamente. [Detalle y límites](docs/QA-leo-hd.md).

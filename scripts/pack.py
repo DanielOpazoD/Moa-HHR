@@ -9,7 +9,15 @@ import json, sys, hashlib, io, math
 root = Path(__file__).resolve().parents[1]
 
 
+def frame_size(scene):
+    size = scene.get("frameSize", [288, 168])
+    if size not in ([288, 168], [576, 336]):
+        raise ValueError("frameSize must be 288x168 or 576x336")
+    return tuple(size)
+
+
 def validate_metadata(scene):
+    frame_size(scene)
     n = scene.get("frames")
     durations = scene.get("durations", [])
     cycles = scene.get("cycles")
@@ -42,12 +50,15 @@ def validate_metadata(scene):
 
 def pack(scene, from_frames=False):
     validate_metadata(scene)
+    fw, fh = frame_size(scene)
+    density = fw / 288
+    smooth = scene.get("renderMode") == "smooth"
     rows = (scene["frames"] + 3) // 4
     if from_frames:
         frames = [
             Image.open(root / name).convert("RGBA") for name in scene["frameFiles"]
         ]
-        if len(frames) != scene["frames"] or any(f.size != (288, 168) for f in frames):
+        if len(frames) != scene["frames"] or any(f.size != (fw, fh) for f in frames):
             raise ValueError("Frame count or canvas mismatch")
     else:
         source = root / scene["source"]
@@ -134,13 +145,13 @@ def pack(scene, from_frames=False):
             min(cellh, max(b[3] for b in boxes) + 3),
         )
         w, h = union[2] - union[0], union[3] - union[1]
-        scale = min(228 / w, 150 / h)
+        scale = min(228 * density / w, 150 * density / h)
         size = (round(w * scale), round(h * scale))
         frames = []
         for f in registered:
-            frame = Image.new("RGBA", (288, 168))
-            tile = f.crop(union).resize(size, Image.Resampling.NEAREST)
-            frame.paste(tile, (120 - size[0] // 2, 162 - size[1]))
+            frame = Image.new("RGBA", (fw, fh))
+            tile = f.crop(union).resize(size, Image.Resampling.LANCZOS if smooth else Image.Resampling.NEAREST)
+            frame.paste(tile, (round(120 * density) - size[0] // 2, round(162 * density) - size[1]))
             frames.append(frame)
         scene["packaging"] = {
             "sourceSize": im.size,
@@ -149,7 +160,7 @@ def pack(scene, from_frames=False):
             "rowBaselineRegistration": offsets,
             "unionCrop": union,
             "sharedScale": scale,
-            "frameSize": [288, 168],
+            "frameSize": [fw, fh],
             "origin": [0, 0],
             "trajectory": [[0, 0], [0, 0]],
         }
@@ -168,15 +179,18 @@ def pack(scene, from_frames=False):
             if not path.exists():
                 f.save(path, optimize=True)
             scene["frameFiles"].append(str(path.relative_to(root)))
-    atlas = Image.new("RGBA", (288 * len(frames), 168))
+    atlas = Image.new("RGBA", (fw * len(frames), fh))
     for i, f in enumerate(frames):
-        atlas.paste(f, (288 * i, 0))
+        atlas.paste(f, (fw * i, 0))
     out = root / scene["src"]
     out.parent.mkdir(parents=True, exist_ok=True)
     buffer = io.BytesIO()
-    atlas.quantize(
-        colors=256, method=Image.Quantize.FASTOCTREE, dither=Image.Dither.NONE
-    ).save(buffer, format="PNG", optimize=True)
+    if smooth:
+        atlas.save(buffer, format="PNG", optimize=True)
+    else:
+        atlas.quantize(
+            colors=256, method=Image.Quantize.FASTOCTREE, dither=Image.Dither.NONE
+        ).save(buffer, format="PNG", optimize=True)
     output = buffer.getvalue()
     if out.exists() and out.read_bytes() != output:
         raise ValueError(
@@ -186,7 +200,7 @@ def pack(scene, from_frames=False):
     # Review the exact delivered palette/alpha, not the pre-optimization canvas.
     delivered = Image.open(out).convert("RGBA")
     frames = [
-        delivered.crop((i * 288, 0, (i + 1) * 288, 168)) for i in range(scene["frames"])
+        delivered.crop((i * fw, 0, (i + 1) * fw, fh)) for i in range(scene["frames"])
     ]
     scene["sourceSha256"] = (
         hashlib.sha256((root / scene["source"]).read_bytes()).hexdigest()
@@ -204,15 +218,15 @@ def pack(scene, from_frames=False):
     review = root / "evidence" / scene["id"]
     review.mkdir(parents=True, exist_ok=True)
     for bg, color in [("light", "#f5f6f0"), ("dark", "#18282d"), ("blue", "#174f7d")]:
-        sheet = Image.new("RGB", (4 * 288, rows * 168), color)
+        sheet = Image.new("RGB", (4 * fw, rows * fh), color)
         for i, f in enumerate(frames):
-            sheet.paste(f, (i % 4 * 288, i // 4 * 168), f)
+            sheet.paste(f, (i % 4 * fw, i // 4 * fh), f)
         sheet.save(review / f"{bg}-frames.png")
         anim = []
         for f in frames:
             rgb = Image.new("RGB", f.size, color)
             rgb.paste(f, (0, 0), f)
-            anim.append(rgb.resize((144, 84), Image.Resampling.NEAREST))
+            anim.append(rgb.resize((144, 84), Image.Resampling.LANCZOS if smooth else Image.Resampling.NEAREST))
         # GIF is review evidence only; PNG atlas is production, finite player controls motion.
         anim[0].save(
             review / f"{bg}-preview.gif",

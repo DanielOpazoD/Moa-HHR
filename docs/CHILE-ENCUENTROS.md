@@ -66,3 +66,10 @@ Se revisó el tramo 14–20 s del clip de referencia. Muestra el inicio del giro
 [JSON y orden de reproducción](../new-scenes/scenes/C21G.json) · [Cuadros editables](../new-scenes/frames/C21G-v2/) · [Secuencia](../evidence/C21G/light-frames.png) · [HTML autónomo](../review/moa-leo-rey-giro.html) · [QA](QA-chile-11.md).
 
 La lista frameFiles del JSON conserva explícitamente el orden: las celdas fuente 13/14 se reproducen como 14/13 para ir de perfil izquierdo a tres cuartos frontal. Los PNG no se deformaron ni se duplicaron. Reconstrucción: scripts/rebuild.py con el JSON de C21G. El atlas activo es v3; fuente y PNG extraídos v2 permanecen intactos.
+
+
+### Revisión de parecido y nitidez de C21G
+
+Tras la observación del usuario sobre el pixelado, C21G se redibujó usando un [retrato público inspeccionado](../evidence/guest-references/leo-hd.json). Se mantienen las 18 poses y la vuelta completa. La versión activa es **v4**, cuadros 576×336, bordes suavizados y atlas RGBA. Las versiones v1–v3 y sus PNG siguen conservados; las instrucciones de orden 13/14 de la sección anterior describen la versión histórica v3, no v4.
+
+V4 usa tres láminas generadas de seis poses cada una, ensambladas sin redibujar ni duplicar cuadros. [PNG HD editables](../new-scenes/frames/C21G-v4/) · [QA HD](QA-leo-hd.md). Es una interpretación ilustrada, no una imagen fotográfica ni un encuentro real. El total permanece en 215 animaciones.

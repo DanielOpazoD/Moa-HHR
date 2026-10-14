@@ -75,6 +75,35 @@ class EditablePack(unittest.TestCase):
         finally:
             pack.root = realroot
 
+    def test_hd_round_trip_preserves_rgba_and_dimensions(self):
+        realroot = pack.root
+        try:
+            with tempfile.TemporaryDirectory() as tmp:
+                pack.root = Path(tmp)
+                folder = pack.root / "new-scenes/frames/hd"
+                folder.mkdir(parents=True)
+                frames = []
+                for i in range(8):
+                    im = Image.new("RGBA", (576, 336))
+                    for x in range(512):
+                        im.putpixel((x, 100), (x % 256, x // 2, i * 30, x % 255 + 1))
+                    path = folder / f"{i:03}.png"
+                    im.save(path)
+                    frames.append(str(path.relative_to(pack.root)))
+                s = dict(id="hd", version=1, frames=8, durations=[500]*8,
+                         cycles=1, still=7, frameSize=[576,336], renderMode="smooth",
+                         src="new-scenes/atlases/hd.png", source=frames[0], frameFiles=frames)
+                pack.pack(s, from_frames=True)
+                with Image.open(pack.root / s["src"]) as atlas:
+                    self.assertEqual(atlas.size, (8 * 576, 336))
+                    self.assertEqual(atlas.mode, "RGBA")
+                    self.assertEqual(atlas.crop((0,0,576,336)).tobytes(), Image.open(pack.root / frames[0]).tobytes())
+                before = (pack.root / s["src"]).read_bytes()
+                pack.pack(s, from_frames=True)
+                self.assertEqual(before, (pack.root / s["src"]).read_bytes())
+        finally:
+            pack.root = realroot
+
     def test_invalid_metadata(self):
         base = dict(
             frames=8,
@@ -86,6 +115,7 @@ class EditablePack(unittest.TestCase):
         )
         for change in [
             dict(frames=0),
+            dict(frameSize=[1000, 1000]),
             dict(frames=25),
             dict(durations=[500]),
             dict(durations=[float("nan")] * 8),

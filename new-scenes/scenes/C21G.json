@@ -5,7 +5,7 @@
   "category": "Cultura popular chilena",
   "pack": "new",
   "batch": "chile-11",
-  "version": 3,
+  "version": 4,
   "status": "approved",
   "frames": 18,
   "durations": [
@@ -30,14 +30,14 @@
   ],
   "cycles": 1,
   "still": 17,
-  "source": "new-scenes/sources/C21G-v2.png",
-  "src": "new-scenes/atlases/moa-C21G-v3.png",
-  "sourceGridColumns": 3,
+  "source": "new-scenes/sources/C21G-v4.png",
+  "src": "new-scenes/atlases/moa-C21G-v4.png",
+  "sourceGridColumns": 2,
   "generator": "Integrated image_gen",
-  "reference": "new-scenes/sources/C21-v4.png",
-  "prompt": "new-scenes/prompts/C21G.txt",
+  "reference": "evidence/guest-references/leo-hd.json",
+  "prompt": "new-scenes/prompts/C21G-hd.txt",
   "guest": "Leo Rey",
-  "context": "Animación adicional: pasito, giro corporal completo por perfil y espalda, regreso al frente. Homenaje ficticio inspirado en el registro de Leo Rey; el retorno completa artísticamente el giro que el clip corta por detrás. Conserva C21 sin cambios.",
+  "context": "Pasito y giro completo con Moa y una interpretación ilustrada de Leo Rey basada en retrato público. Cuadros HD 576×336 con bordes suavizados. El retorno frontal completa artísticamente el giro cuyo clip termina por detrás.",
   "inspirationReferences": [
     {
       "url": "https://www.tiktok.com/@pelao_osvaldo/video/7688463466172026130",
@@ -45,117 +45,205 @@
     }
   ],
   "review": "Revisión personal de perfiles, espalda, oclusión del emblema y continuidad del micrófono. No se atribuye captura biomecánica exacta.",
-  "sourceBytes": 1645128,
+  "sourceBytes": 3437336,
   "sourceColumns": [
     0,
-    295,
-    604,
-    887
+    667,
+    1334
   ],
+  "sourceSha256": "e4e9cba90f1aea67e3bed571765ab76be99f4fb2f50f51284fecfaf7b2ca0422",
+  "bytes": 1918749,
+  "sha256": "10ffc754beba2160b5c3713605230644bfc3fd97c7a13cf899f609ed61df6999",
+  "rejectedSources": [
+    {
+      "source": "new-scenes/sources/C21G-v1.png",
+      "prompt": "new-scenes/prompts/C21G-v1.txt",
+      "sha256": "0bedef96e8bae6bb9cb5387d3672ac11762df1df655094b23d0c9c509f5d3c73",
+      "reason": "Micrófono aparecía en el lado incorrecto en un cuadro de espalda."
+    }
+  ],
+  "sourceRows": [
+    0,
+    503,
+    1006,
+    1509,
+    2012,
+    2515,
+    3018,
+    3521,
+    4024,
+    4527
+  ],
+  "sourceRowBaselines": [
+    473,
+    976,
+    1479,
+    1982,
+    2485,
+    2988,
+    3491,
+    3994,
+    4497
+  ],
+  "frameSize": [
+    576,
+    336
+  ],
+  "renderMode": "smooth",
+  "sourceSheets": [
+    {
+      "source": "new-scenes/sources/C21G-hd-A.png",
+      "sha256": "1c55848b985525e8500e957d5fbad6c431d51b8abd9ee4117068ac4bdc6b6a30",
+      "rows": [
+        0,
+        433,
+        838,
+        1254
+      ],
+      "columns": [
+        0,
+        627,
+        1254
+      ]
+    },
+    {
+      "source": "new-scenes/sources/C21G-hd-B.png",
+      "sha256": "5daf0d8a114392181fc27963cc98a3b8c4871f311192b495e81e7e125d05128b",
+      "rows": [
+        0,
+        432,
+        829,
+        1254
+      ],
+      "columns": [
+        0,
+        627,
+        1254
+      ]
+    },
+    {
+      "source": "new-scenes/sources/C21G-hd-C.png",
+      "sha256": "8769fe7c11b3222333480f4ea773b3399c4aba2777d10cfa5ed041ca4a48276d",
+      "rows": [
+        0,
+        420,
+        831,
+        1254
+      ],
+      "columns": [
+        0,
+        627,
+        1254
+      ]
+    }
+  ],
+  "editingNote": "Fuentes HD A/B/C preservadas. C21G-v4.png ensambla sus celdas con registro común de suelo, sin dibujar ni deformar poses. frameFiles conserva el orden de reproducción; rebuild.py reconstruye el atlas RGBA sin reducir a 256 colores.",
   "packaging": {
     "sourceSize": [
-      887,
-      1774
+      1334,
+      4527
     ],
     "rowCuts": [
       0,
-      305,
-      595,
-      884,
-      1176,
-      1465,
-      1774
+      503,
+      1006,
+      1509,
+      2012,
+      2515,
+      3018,
+      3521,
+      4024,
+      4527
     ],
     "columnCuts": [
       0,
-      295,
-      604,
-      887
+      667,
+      1334
     ],
     "rowBaselineRegistration": [
       [
-        7,
-        54
+        0,
+        52
       ],
       [
         0,
-        54
-      ],
-      [
-        13,
-        54
-      ],
-      [
-        7,
-        69
+        52
       ],
       [
         0,
-        69
-      ],
-      [
-        13,
-        69
-      ],
-      [
-        7,
-        73
+        52
       ],
       [
         0,
-        73
-      ],
-      [
-        13,
-        73
-      ],
-      [
-        7,
-        71
+        52
       ],
       [
         0,
-        71
-      ],
-      [
-        13,
-        71
-      ],
-      [
-        7,
-        70
+        52
       ],
       [
         0,
-        70
-      ],
-      [
-        13,
-        70
-      ],
-      [
-        7,
-        75
+        52
       ],
       [
         0,
-        75
+        52
       ],
       [
-        13,
-        75
+        0,
+        52
+      ],
+      [
+        0,
+        52
+      ],
+      [
+        0,
+        52
+      ],
+      [
+        0,
+        52
+      ],
+      [
+        0,
+        52
+      ],
+      [
+        0,
+        52
+      ],
+      [
+        0,
+        52
+      ],
+      [
+        0,
+        52
+      ],
+      [
+        0,
+        52
+      ],
+      [
+        0,
+        52
+      ],
+      [
+        0,
+        52
       ]
     ],
     "unionCrop": [
-      17,
-      95,
-      309,
-      336
+      108,
+      109,
+      600,
+      530
     ],
-    "sharedScale": 0.6224066390041494,
+    "sharedScale": 0.7125890736342043,
     "frameSize": [
-      288,
-      168
+      576,
+      336
     ],
     "origin": [
       0,
@@ -173,75 +261,43 @@
     ]
   },
   "frameFiles": [
-    "new-scenes/frames/C21G-v2/000.png",
-    "new-scenes/frames/C21G-v2/001.png",
-    "new-scenes/frames/C21G-v2/002.png",
-    "new-scenes/frames/C21G-v2/003.png",
-    "new-scenes/frames/C21G-v2/004.png",
-    "new-scenes/frames/C21G-v2/005.png",
-    "new-scenes/frames/C21G-v2/006.png",
-    "new-scenes/frames/C21G-v2/007.png",
-    "new-scenes/frames/C21G-v2/008.png",
-    "new-scenes/frames/C21G-v2/009.png",
-    "new-scenes/frames/C21G-v2/010.png",
-    "new-scenes/frames/C21G-v2/011.png",
-    "new-scenes/frames/C21G-v2/013.png",
-    "new-scenes/frames/C21G-v2/012.png",
-    "new-scenes/frames/C21G-v2/014.png",
-    "new-scenes/frames/C21G-v2/015.png",
-    "new-scenes/frames/C21G-v2/016.png",
-    "new-scenes/frames/C21G-v2/017.png"
+    "new-scenes/frames/C21G-v4/000.png",
+    "new-scenes/frames/C21G-v4/001.png",
+    "new-scenes/frames/C21G-v4/002.png",
+    "new-scenes/frames/C21G-v4/003.png",
+    "new-scenes/frames/C21G-v4/004.png",
+    "new-scenes/frames/C21G-v4/005.png",
+    "new-scenes/frames/C21G-v4/006.png",
+    "new-scenes/frames/C21G-v4/007.png",
+    "new-scenes/frames/C21G-v4/008.png",
+    "new-scenes/frames/C21G-v4/009.png",
+    "new-scenes/frames/C21G-v4/010.png",
+    "new-scenes/frames/C21G-v4/011.png",
+    "new-scenes/frames/C21G-v4/012.png",
+    "new-scenes/frames/C21G-v4/013.png",
+    "new-scenes/frames/C21G-v4/014.png",
+    "new-scenes/frames/C21G-v4/015.png",
+    "new-scenes/frames/C21G-v4/016.png",
+    "new-scenes/frames/C21G-v4/017.png"
   ],
-  "sourceSha256": "f5ad7135fc131458d2e5de2cf32651f5c15f0e972b31cc74f91eb881c8acb343",
   "frameSha256": [
-    "20149ce89a461f9bdc2b5cce9b5d171d9f5a4b361b37c49036e84ac7e7ac31fb",
-    "5c1310e21cb7ca86e4d21a9b9c2b5ef25968a6009bece6786671fb01f34f3279",
-    "486abe43b0b5f1cdb0cfb5702519320390ed68761d1eb6d70e3611611b6a843e",
-    "8c1b14376af8df9aa21794c50e1fd482a7f04aa99c9b5e7633fc5552f849fd3e",
-    "f8e3be73d785b00c3551032dab95cb83015adae0ccdfad86ef1189c6f83af633",
-    "4ee292286f87aacfa2ca3b7a2e89e441d50a1a4d8fac5cca14523674dda20040",
-    "9f7c1eb3531c9abb92801b543e08d55f841e8a8d2a1413f1e527317908e1915f",
-    "55550310b18f57f69fb19d76bf39f06764e7a395da5553deb49c15ff4c72637d",
-    "3c750264e3547ed2b563a6c9304e9b1e0508fd4770e80bcff05fb06e0a859375",
-    "a61edbd242e5a3eb0d8d72ffb8b3b1ea8f76915e7a2969273a9f002138fe8d0b",
-    "4f176dc20cc597f78ea4ed11984ff45858db01c7f90021bb0b1b065cb7d4166d",
-    "fe1fbad14b3373510287de2953e6b07628468654b3407b235d68235ea579f228",
-    "9c8c850e6875d9d66ebcfa79d81c2a8d1ed34df00a69d2538c461fa4d124e1b8",
-    "d726a4a9ef443492afc61af7aa52b1c79502a028c5c5534237366e78366bd340",
-    "fb0b5414789a75383cc5037499e307948258c6710eb29eae45071d49775ac572",
-    "8ea55c77c83d37dd7ca366c92f4655588545a32a9a616f49bc0520a3e2396c1e",
-    "27e7942daa5a4be02622d9abf207cffc76a1557a2fad7b739058d6aaa3bc1a93",
-    "cfdefceafeacb328d2bc782b4a71bd88c2643513e4684eef6d9eeabc544b0a56"
-  ],
-  "bytes": 134229,
-  "sha256": "288e3048e22387a0b0d96dac976bed1aa88e84231c97c0fa028ac5fe51fcd02b",
-  "playbackSourceOrder": [
-    0,
-    1,
-    2,
-    3,
-    4,
-    5,
-    6,
-    7,
-    8,
-    9,
-    10,
-    11,
-    13,
-    12,
-    14,
-    15,
-    16,
-    17
-  ],
-  "editingNote": "La lista frameFiles es el orden de reproducción autoritativo. Se intercambian las celdas fuente 13 y 14 para pasar de perfil izquierdo a tres cuartos frontal sin retroceso; reconstruir con scripts/rebuild.py. PNG extraídos y fuente intactos.",
-  "rejectedSources": [
-    {
-      "source": "new-scenes/sources/C21G-v1.png",
-      "prompt": "new-scenes/prompts/C21G-v1.txt",
-      "sha256": "0bedef96e8bae6bb9cb5387d3672ac11762df1df655094b23d0c9c509f5d3c73",
-      "reason": "Micrófono aparecía en el lado incorrecto en un cuadro de espalda."
-    }
+    "af3af6857d1426c5a05a2f396b9891b2d90691017c4a403b9e58894eaaa993d2",
+    "6790685125f8c57fe56a658d7f94f53d4b40f0795f94640ad2a272ce855fcb17",
+    "1f7130709cae659972e0bd31f98097a9f8db3270e600263581040d7651bdc23c",
+    "265358ca00b99b718714fc04dbb50b942a78dddd7122c4942b4ce525c22e862e",
+    "21deb4ef9274c54093456ebc80d69aeeb1fca73f3ac4c1701b5ec57421f06a39",
+    "4be77b7dc58664e56f9e131c5206a3add9020ca05b1e025778dcf6df72b80a34",
+    "d94b8bca1cdad5ec72ae437a181ada8fa255e86f9b1b198e8083068cf87965de",
+    "2cbc606a8a92c6a361614d99b90fa51c4ca4bdfc6a6b492a8605e2bf9de06507",
+    "dc2b9218910287555009c5e41689df61ead28f3626aa4fe1069cb5790d804199",
+    "b76467de011c4df738e10481c403932ae47a1b8412860833b98376243ec6d141",
+    "0c5158e53dbb61f373910fb90db701e7f49536e847df449666ba633afa8c57fa",
+    "c7c320eaeb5eba0b156eb38959a43892ddb2927e2e46992ee52d9ce365d660c5",
+    "2af86fdf5508ee37653e7903282f42786c8797262180c962654f540ec563a011",
+    "0e14202ca6c29f302a34ccfd84233747acef6ffe888f6efaaf7841e5beef037c",
+    "3de5f1ab5690b039dfea69ab8bbc5af87b1c76d44fff9584248b109cb95c50ef",
+    "ff4bcf0fae49a87d030fca0ee51bbe9113a8466e2615307bc52feae7c693f5c4",
+    "f77458fe23ff7b5cc209486d4507b0aa15bc35d22aba14b8af66bd79ffdbe557",
+    "2290223b2a71a1c3f3335cf4968d79266cb0b1639e68dbdfe50dcfff22dc99e9"
   ]
 }
