@@ -1,6 +1,6 @@
 # Moa · biblioteca de movimiento
 
-Archivo autónomo de los **18 atlas originales v2** y **199 escenas nuevas**, con fuentes y poses raster editables. Los originales se conservan byte a byte; las escenas nuevas viven en otro paquete. Sin datos clínicos, servicios ni dependencias del hospital.
+Archivo autónomo de los **18 atlas originales v2** y **200 escenas nuevas**, con fuentes y poses raster editables. Los originales se conservan byte a byte; las escenas nuevas viven en otro paquete. Sin datos clínicos, servicios ni dependencias del hospital.
 
 ## Abrir la galería
 
@@ -77,3 +77,5 @@ C21G conserva sus 18 cuadros y el giro completo, ahora con cuadros de **576×336
 - [Plan aprobado y revisión](docs/PREMIUM-HD.md). Archivos autocontenidos por escena para mantener descargas acotadas; atlas RGBA HD limitado a 4 MiB para 24 poses.
 
 - [E03 · Guru Guru aprende el pasito](review/moa-e03-hd.html): 24 poses HD.
+
+- [E04 · Pancho y la risa contagiosa](review/moa-e04-hd.html): 24 poses HD.

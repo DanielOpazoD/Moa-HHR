@@ -6,8 +6,8 @@ Ocho escenas ficticias aprobadas el 14-10-2026, desarrolladas y revisadas una po
 |---|---|---|
 | E01 | Avello y el micrófono imposible | Integrada en PR #41; CI final aprobada |
 | E02 | El Chacal y el duelo de trompetas | Bloqueada: generador rechazó la corrección; sin publicación |
-| E03 | Guru Guru aprende el pasito | Implementada; CI requerida antes de merge |
-| E04 | Pancho y la risa contagiosa | Pendiente |
+| E03 | Guru Guru aprende el pasito | Integrada en PR #42; CI final aprobada |
+| E04 | Pancho y la risa contagiosa | Implementada; CI requerida antes de merge |
 | E05 | Kramer imita una piedra | Pendiente |
 | E06 | Naya y la cámara equivocada | Pendiente |
 | E07 | Don Carter y la carta infinita | Pendiente |
@@ -30,3 +30,9 @@ Pruebas: contrato, hashes, fondos/márgenes, cuadros no duplicados, reconstrucci
 ## E03
 
 Cuatro láminas de seis poses, 24 PNG HD, 5760 ms. Referencia de Canal 13 observada; plumaje, pico, gorro y gafas identificados. Se corrigió el tamaño de Moa en dos láminas. Paso lateral, cruce de patas, recuperación y baile conjunto; no golpe ni caída. Fuentes y tiempos editables. Revisión sobre tres fondos; semejanza ilustrativa, sin audio.
+
+## E04
+
+Pancho Saavedra: retrato de Canal 13 observado de nuevo. Cuatro láminas de seis poses: seriedad, risa contenida, contagio y saludo final. 24 cuadros HD y 5760 ms, con fuentes y tiempos editables. Sin utilería ni audio; interpretación de una escena ficticia. Revisión de expresiones y cuerpos enteros sobre tres fondos.
+
+Se reservan órdenes 601–608 para este bloque. La validación rechaza órdenes duplicados y el catálogo usa desempate estable por ID para evitar diferencias entre sistemas de archivos.
