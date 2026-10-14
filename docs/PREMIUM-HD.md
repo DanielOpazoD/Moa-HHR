@@ -10,8 +10,8 @@ Ocho escenas ficticias aprobadas el 14-10-2026, desarrolladas y revisadas una po
 | E04 | Pancho y la risa contagiosa | Integrada en PR #43; CI final aprobada |
 | E05 | Kramer imita una piedra | Integrada en PR #44; CI final aprobada |
 | E06 | Naya y la cámara equivocada | Integrada en PR #45; CI final aprobada |
-| E07 | Don Carter y la carta infinita | Implementada; CI requerida antes de merge |
-| E08 | Moa jurado de un completo | Pendiente |
+| E07 | Don Carter y la carta infinita | Integrada en PR #46; CI final aprobada |
+| E08 | Moa jurado de un completo | Implementada; CI requerida antes de merge |
 
 ## E01
 
@@ -48,3 +48,7 @@ Naya y Moa preparan una entrada, descubren la orientación incorrecta del teléf
 ## E07
 
 Retrato de Don Carter en Canal 13 inspeccionado: cabello y barba grises, chaqueta azul, camisa blanca. Carta plegada continua que crece, rodea a Moa y termina guardada. El recorrido se adapta al espacio del sprite: Moa pasa detrás de Carter y reaparece por el lado opuesto, sin cortar cuerpos en el borde. 24 poses, cuatro fuentes, visor offline y PNG editables. Carta sin texto ni datos personales.
+
+## E08
+
+Escena original sin invitado humano: Moa evalúa un completo diminuto con solemnidad, levanta su paleta de nota y pierde la compostura ante uno gigante. 24 poses HD y 5760 ms. Cuatro fuentes conservadas, paleta y mesa coherentes con el gag, atlas RGBA y visor offline. Se corrigieron márgenes de la última lámina. No se ingiere el completo entero; final humorístico abrazando el pan.
