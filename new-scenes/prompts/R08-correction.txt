@@ -1,1 +1,0 @@
-Keep this exact 12pose Moa garden spritesheet allposes unchanged. Remove ONLY floating orange/yellow exclamation-like mark above Moa in pose2 (firstrow secondcolumn). Replace those pixels with full transparency. No added symbols anywhere. Preserve all12 isolatedcells, wateringcan circle of volcanicstones broadleafplant andallcharacteractions. TransparentPNG.
