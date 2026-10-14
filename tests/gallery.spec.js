@@ -272,7 +272,7 @@ test("C21G preserves the original dance and plays the full-turn addition", async
   await page.locator("#search").fill("C21G");
   await expect(page.locator(".card")).toHaveCount(1);
   await page.locator(".card").click();
-  await expect(page.locator("#details")).toContainText("giro corporal completo");
+  await expect(page.locator("#details")).toContainText("Pasito y giro completo");
   await page.waitForFunction(() => document.querySelector("#sprite img")?.naturalWidth === 18 * 576);
   await expect(page.locator("#sprite img")).toHaveCSS("image-rendering", "auto");
   await page.locator("#frame").fill("10");
