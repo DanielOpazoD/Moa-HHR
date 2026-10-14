@@ -1,0 +1,402 @@
+{
+  "order": 607,
+  "id": "E07",
+  "title": "E07 · Don Carter y la carta infinita",
+  "category": "Chile · Premium HD",
+  "pack": "new",
+  "batch": "chile-premium-01",
+  "version": 1,
+  "status": "approved",
+  "frames": 24,
+  "durations": [
+    220,
+    220,
+    220,
+    220,
+    220,
+    220,
+    220,
+    220,
+    220,
+    220,
+    220,
+    220,
+    220,
+    220,
+    220,
+    220,
+    220,
+    220,
+    220,
+    220,
+    220,
+    220,
+    220,
+    700
+  ],
+  "cycles": 1,
+  "still": 23,
+  "source": "new-scenes/sources/E07-v1.png",
+  "src": "new-scenes/atlases/moa-E07-v1.png",
+  "sourceGridColumns": 2,
+  "sourceColumns": [
+    0,
+    552,
+    1104
+  ],
+  "sourceRows": [
+    0,
+    599,
+    1198,
+    1797,
+    2396,
+    2995,
+    3594,
+    4193,
+    4792,
+    5391,
+    5990,
+    6589,
+    7188
+  ],
+  "sourceRowBaselines": [
+    569,
+    1168,
+    1767,
+    2366,
+    2965,
+    3564,
+    4163,
+    4762,
+    5361,
+    5960,
+    6559,
+    7158
+  ],
+  "frameSize": [
+    576,
+    336
+  ],
+  "renderMode": "smooth",
+  "sourceSheets": [
+    {
+      "source": "new-scenes/sources/E07-A-v1.png",
+      "sha256": "4c4399c0f67128e14d2a2084c9a863f92bb302d23be2bb7b8289b8a458f5e80d",
+      "rows": [
+        0,
+        517,
+        1007,
+        1536
+      ],
+      "columnsByRow": [
+        [
+          0,
+          512,
+          1024
+        ],
+        [
+          0,
+          512,
+          1024
+        ],
+        [
+          0,
+          512,
+          1024
+        ]
+      ]
+    },
+    {
+      "source": "new-scenes/sources/E07-B-v1.png",
+      "sha256": "2a16caab00ff9fdbaa3694ca12b31b9e71c24919639682c91e7bdb21127b2349",
+      "rows": [
+        0,
+        527,
+        1008,
+        1536
+      ],
+      "columnsByRow": [
+        [
+          0,
+          512,
+          1024
+        ],
+        [
+          0,
+          512,
+          1024
+        ],
+        [
+          0,
+          512,
+          1024
+        ]
+      ]
+    },
+    {
+      "source": "new-scenes/sources/E07-C-v1.png",
+      "sha256": "b4aec8ac9cea43171d371657f127c2c23bbb5b813594d8ce59c265c883271cb4",
+      "rows": [
+        0,
+        520,
+        1016,
+        1536
+      ],
+      "columnsByRow": [
+        [
+          0,
+          512,
+          1024
+        ],
+        [
+          0,
+          512,
+          1024
+        ],
+        [
+          0,
+          512,
+          1024
+        ]
+      ]
+    },
+    {
+      "source": "new-scenes/sources/E07-D-v1.png",
+      "sha256": "64905c376d1cd61549f735f84814e9e876abb8bda28d87850495fd7eb0197755",
+      "rows": [
+        0,
+        514,
+        1007,
+        1536
+      ],
+      "columnsByRow": [
+        [
+          0,
+          512,
+          1024
+        ],
+        [
+          0,
+          512,
+          1024
+        ],
+        [
+          0,
+          512,
+          1024
+        ]
+      ]
+    }
+  ],
+  "sourceBytes": 8177589,
+  "prompt": "new-scenes/prompts/E07.txt",
+  "generator": "Integrated image_gen",
+  "guest": "Don Carter",
+  "context": "Homenaje ficticio: una carta se despliega sin fin; Moa rodea a Carter y ambos vuelven a guardarla.",
+  "editingNote": "Fuentes originales conservadas con SHA. Composición por celdas y registro de suelo; una sola escala común. PNG individuales editables, atlas RGBA sin cuantización. Escena ficticia original.",
+  "reference": "evidence/guest-references/carter-hd.json",
+  "packaging": {
+    "sourceSize": [
+      1104,
+      7188
+    ],
+    "rowCuts": [
+      0,
+      599,
+      1198,
+      1797,
+      2396,
+      2995,
+      3594,
+      4193,
+      4792,
+      5391,
+      5990,
+      6589,
+      7188
+    ],
+    "columnCuts": [
+      0,
+      552,
+      1104
+    ],
+    "rowBaselineRegistration": [
+      [
+        0,
+        52
+      ],
+      [
+        0,
+        52
+      ],
+      [
+        0,
+        52
+      ],
+      [
+        0,
+        52
+      ],
+      [
+        0,
+        52
+      ],
+      [
+        0,
+        52
+      ],
+      [
+        0,
+        52
+      ],
+      [
+        0,
+        52
+      ],
+      [
+        0,
+        52
+      ],
+      [
+        0,
+        52
+      ],
+      [
+        0,
+        52
+      ],
+      [
+        0,
+        52
+      ],
+      [
+        0,
+        52
+      ],
+      [
+        0,
+        52
+      ],
+      [
+        0,
+        52
+      ],
+      [
+        0,
+        52
+      ],
+      [
+        0,
+        52
+      ],
+      [
+        0,
+        52
+      ],
+      [
+        0,
+        52
+      ],
+      [
+        0,
+        52
+      ],
+      [
+        0,
+        52
+      ],
+      [
+        0,
+        52
+      ],
+      [
+        0,
+        52
+      ],
+      [
+        0,
+        52
+      ]
+    ],
+    "unionCrop": [
+      24,
+      157,
+      535,
+      625
+    ],
+    "sharedScale": 0.6410256410256411,
+    "frameSize": [
+      576,
+      336
+    ],
+    "origin": [
+      0,
+      0
+    ],
+    "trajectory": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ]
+    ]
+  },
+  "frameFiles": [
+    "new-scenes/frames/E07-v1/000.png",
+    "new-scenes/frames/E07-v1/001.png",
+    "new-scenes/frames/E07-v1/002.png",
+    "new-scenes/frames/E07-v1/003.png",
+    "new-scenes/frames/E07-v1/004.png",
+    "new-scenes/frames/E07-v1/005.png",
+    "new-scenes/frames/E07-v1/006.png",
+    "new-scenes/frames/E07-v1/007.png",
+    "new-scenes/frames/E07-v1/008.png",
+    "new-scenes/frames/E07-v1/009.png",
+    "new-scenes/frames/E07-v1/010.png",
+    "new-scenes/frames/E07-v1/011.png",
+    "new-scenes/frames/E07-v1/012.png",
+    "new-scenes/frames/E07-v1/013.png",
+    "new-scenes/frames/E07-v1/014.png",
+    "new-scenes/frames/E07-v1/015.png",
+    "new-scenes/frames/E07-v1/016.png",
+    "new-scenes/frames/E07-v1/017.png",
+    "new-scenes/frames/E07-v1/018.png",
+    "new-scenes/frames/E07-v1/019.png",
+    "new-scenes/frames/E07-v1/020.png",
+    "new-scenes/frames/E07-v1/021.png",
+    "new-scenes/frames/E07-v1/022.png",
+    "new-scenes/frames/E07-v1/023.png"
+  ],
+  "sourceSha256": "fd682ea58e8b1920c69aac8df40f884091ef5e8e4001e645c3b9deb89d2397f1",
+  "frameSha256": [
+    "795b347cadf868ccfb76e4ef5c937febf52028d61e6524605c51f5486736b0b3",
+    "8dea53f3dd19068ceabf14641c8decf5b49bbe1915f12c7920c2ee4bcef93338",
+    "ead0e40850ffd0c70aeb78359a99b34c580a6ff1f0cf4c3ea60acd2835dab572",
+    "dc640fca7da4f5382e177ee8bb99e46934ed1e8c2f22c23621799b53303e8221",
+    "00c8e88a05772be3571c1944e66d65541a359aaef7cff43c702aef99debe2ffd",
+    "b72590ac41de5b1c1bbbb1e28e3e4283718cf56a84c5292afcfc5d3797d4c535",
+    "0ef273b782d3273888f32fdca591a63ba3d3bfaf26ffa01d40995fb0051a7566",
+    "3bf27699f2e4b974c8a4d322b7e3d725b72083d3974239b0e85ee2ce509ae677",
+    "93e77241761693f719696b028d28753d01308947059145be9cee3aa361bb5f26",
+    "74fd2d2de7a08b6e7fbc5d40731bb1e202a19b697cc3d00752fa05d1c8ecdb89",
+    "c5ae729d91728505e283326d68b15914e9eb8851e8ad74c6a3718605c5664a32",
+    "df5b4a7851b66a451534711b34c51a89b9353528feddd9c2266981d80cfa7f6f",
+    "a93ce7606a1e9fae1fc0d356db86d8b5484b7305722811c7e5a5dfeb1a5a2fdc",
+    "5396f650ea5a30a39ac9a46c8760128fcf73f5a7e8dacdd4b8f2b0343a04d787",
+    "7fb28d15f69027f62f773c7f5557f2194942073629e52b678d710637637c4bc0",
+    "44f9a95714dc057e61efcce5a39badf47980fd7670db4881e888990aea7f637c",
+    "86c40de5189ef283354e5029eb7dbbdc17f64ad90c179acee1ef24a1d67482e1",
+    "3287127377d7c6ee4a9a4e3a80835c6bf51f104fffb36ba86acd864c9ef73efe",
+    "a15aa89f7a62fc6c25e77798ac6b5a644a15efbdd4b9a92525ae4b7f8b771980",
+    "72d2d36916a92ac64b455cd41da6bda81bba55de9e67c97cf745e3653d684268",
+    "834c02439f4305da2b1c166c5f359ee49cb5e700b8c7e70f82e5e1ac3adeeab1",
+    "78e5ba0cb0c5d71b33425bf64b97ed8a4d92a3897d48751b6866813ecb2534ef",
+    "4959f7ab3351a6a0830ca3bc5ac077eb55ff26c52d97c4b5b3d5a1cbb44e4fa2",
+    "88f7c7e229303a7e4a72ded0cb372534678456aee2fb89feaebd37b50d5b76cd"
+  ],
+  "bytes": 2620982,
+  "sha256": "ad516d2dd16e729167176bcce53512a137deb95e06617b775ef96efbedeaeaa0"
+}

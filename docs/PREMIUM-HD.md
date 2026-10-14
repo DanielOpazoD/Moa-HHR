@@ -9,8 +9,8 @@ Ocho escenas ficticias aprobadas el 14-10-2026, desarrolladas y revisadas una po
 | E03 | Guru Guru aprende el pasito | Integrada en PR #42; CI final aprobada |
 | E04 | Pancho y la risa contagiosa | Integrada en PR #43; CI final aprobada |
 | E05 | Kramer imita una piedra | Integrada en PR #44; CI final aprobada |
-| E06 | Naya y la cámara equivocada | Implementada; CI requerida antes de merge |
-| E07 | Don Carter y la carta infinita | Pendiente |
+| E06 | Naya y la cámara equivocada | Integrada en PR #45; CI final aprobada |
+| E07 | Don Carter y la carta infinita | Implementada; CI requerida antes de merge |
 | E08 | Moa jurado de un completo | Pendiente |
 
 ## E01
@@ -44,3 +44,7 @@ Retrato de Kramer en Canal 13 inspeccionado, sin redistribuirlo. Cuatro láminas
 ## E06
 
 Naya y Moa preparan una entrada, descubren la orientación incorrecta del teléfono y repiten con la cámara elevada. 24 poses HD, cuatro fuentes, visor propio y PNG editables. Retrato de ADN Radio observado de nuevo. Se corrigieron separación de filas, proporciones y continuidad del teléfono en la mano derecha; sin audio ni texto de pantalla necesario. Escena ficticia, sin atribuir un video real a Naya.
+
+## E07
+
+Retrato de Don Carter en Canal 13 inspeccionado: cabello y barba grises, chaqueta azul, camisa blanca. Carta plegada continua que crece, rodea a Moa y termina guardada. El recorrido se adapta al espacio del sprite: Moa pasa detrás de Carter y reaparece por el lado opuesto, sin cortar cuerpos en el borde. 24 poses, cuatro fuentes, visor offline y PNG editables. Carta sin texto ni datos personales.
