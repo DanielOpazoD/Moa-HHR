@@ -25750,399 +25750,6 @@
     "sha256": "5f6834a21020e120c9cb165c94dd6b3d5fdc389896d8623e3c369cf036d773a2"
   },
   {
-    "order": 400,
-    "id": "E01",
-    "title": "E01 · Avello y el micrófono imposible",
-    "category": "Chile · Premium HD",
-    "pack": "new",
-    "batch": "chile-premium-01",
-    "version": 1,
-    "status": "approved",
-    "frames": 24,
-    "durations": [
-      220,
-      220,
-      220,
-      220,
-      220,
-      220,
-      220,
-      220,
-      220,
-      220,
-      220,
-      220,
-      220,
-      220,
-      220,
-      220,
-      220,
-      220,
-      220,
-      220,
-      220,
-      220,
-      220,
-      700
-    ],
-    "cycles": 1,
-    "still": 23,
-    "source": "new-scenes/sources/E01-v1.png",
-    "src": "new-scenes/atlases/moa-E01-v1.png",
-    "sourceGridColumns": 2,
-    "sourceColumns": [
-      0,
-      552,
-      1104
-    ],
-    "sourceRows": [
-      0,
-      477,
-      954,
-      1431,
-      1908,
-      2385,
-      2862,
-      3339,
-      3816,
-      4293,
-      4770,
-      5247,
-      5724
-    ],
-    "sourceRowBaselines": [
-      447,
-      924,
-      1401,
-      1878,
-      2355,
-      2832,
-      3309,
-      3786,
-      4263,
-      4740,
-      5217,
-      5694
-    ],
-    "frameSize": [
-      576,
-      336
-    ],
-    "renderMode": "smooth",
-    "sourceSheets": [
-      {
-        "source": "new-scenes/sources/E01-A-v1.png",
-        "sha256": "f3f5b1f3cc89026885b82304576b664cb10cc6109ed1c5db8307799196e26798",
-        "rows": [
-          0,
-          398,
-          775,
-          1153,
-          1536
-        ],
-        "columnsByRow": [
-          [
-            0,
-            512,
-            1024
-          ],
-          [
-            0,
-            512,
-            1024
-          ],
-          [
-            0,
-            512,
-            1024
-          ],
-          [
-            0,
-            512,
-            1024
-          ]
-        ]
-      },
-      {
-        "source": "new-scenes/sources/E01-B-v1.png",
-        "sha256": "db921abbaaa276962fcdf52bfeb67bd4d84313ee85e346c6934f7bfaf856335d",
-        "rows": [
-          0,
-          407,
-          791,
-          1161,
-          1536
-        ],
-        "columnsByRow": [
-          [
-            0,
-            512,
-            1024
-          ],
-          [
-            0,
-            512,
-            1024
-          ],
-          [
-            0,
-            512,
-            1024
-          ],
-          [
-            0,
-            512,
-            1024
-          ]
-        ]
-      },
-      {
-        "source": "new-scenes/sources/E01-C-v1.png",
-        "sha256": "c5811b8d9b83e88c1d011aed2a7f1f56548cb053df55b22fbfda84f72d07c169",
-        "rows": [
-          0,
-          399,
-          780,
-          1157,
-          1536
-        ],
-        "columnsByRow": [
-          [
-            0,
-            512,
-            1024
-          ],
-          [
-            0,
-            512,
-            1024
-          ],
-          [
-            0,
-            512,
-            1024
-          ],
-          [
-            0,
-            512,
-            1024
-          ]
-        ]
-      }
-    ],
-    "sourceBytes": 5734240,
-    "prompt": "new-scenes/prompts/E01.txt",
-    "generator": "Integrated image_gen",
-    "guest": "Felipe Avello",
-    "context": "Comedia ficticia: Avello retira el micrófono justo cuando Moa va a hablar; Moa resuelve la entrevista con uno diminuto. Interpretación ilustrada HD, sin audio ni atribución de un hecho real.",
-    "editingNote": "Tres fuentes de ocho poses conservadas con SHA. Composición por celdas y registro de suelo; una sola escala común. PNG individuales editables, atlas RGBA sin cuantización. Escena ficticia original.",
-    "reference": "evidence/guest-references/avello-hd.json",
-    "packaging": {
-      "sourceSize": [
-        1104,
-        5724
-      ],
-      "rowCuts": [
-        0,
-        477,
-        954,
-        1431,
-        1908,
-        2385,
-        2862,
-        3339,
-        3816,
-        4293,
-        4770,
-        5247,
-        5724
-      ],
-      "columnCuts": [
-        0,
-        552,
-        1104
-      ],
-      "rowBaselineRegistration": [
-        [
-          0,
-          52
-        ],
-        [
-          0,
-          52
-        ],
-        [
-          0,
-          52
-        ],
-        [
-          0,
-          52
-        ],
-        [
-          0,
-          52
-        ],
-        [
-          0,
-          52
-        ],
-        [
-          0,
-          52
-        ],
-        [
-          0,
-          52
-        ],
-        [
-          0,
-          52
-        ],
-        [
-          0,
-          52
-        ],
-        [
-          0,
-          52
-        ],
-        [
-          0,
-          52
-        ],
-        [
-          0,
-          52
-        ],
-        [
-          0,
-          52
-        ],
-        [
-          0,
-          52
-        ],
-        [
-          0,
-          52
-        ],
-        [
-          0,
-          52
-        ],
-        [
-          0,
-          52
-        ],
-        [
-          0,
-          52
-        ],
-        [
-          0,
-          52
-        ],
-        [
-          0,
-          52
-        ],
-        [
-          0,
-          52
-        ],
-        [
-          0,
-          52
-        ],
-        [
-          0,
-          52
-        ]
-      ],
-      "unionCrop": [
-        79,
-        178,
-        509,
-        504
-      ],
-      "sharedScale": 0.9202453987730062,
-      "frameSize": [
-        576,
-        336
-      ],
-      "origin": [
-        0,
-        0
-      ],
-      "trajectory": [
-        [
-          0,
-          0
-        ],
-        [
-          0,
-          0
-        ]
-      ]
-    },
-    "frameFiles": [
-      "new-scenes/frames/E01-v1/000.png",
-      "new-scenes/frames/E01-v1/001.png",
-      "new-scenes/frames/E01-v1/002.png",
-      "new-scenes/frames/E01-v1/003.png",
-      "new-scenes/frames/E01-v1/004.png",
-      "new-scenes/frames/E01-v1/005.png",
-      "new-scenes/frames/E01-v1/006.png",
-      "new-scenes/frames/E01-v1/007.png",
-      "new-scenes/frames/E01-v1/008.png",
-      "new-scenes/frames/E01-v1/009.png",
-      "new-scenes/frames/E01-v1/010.png",
-      "new-scenes/frames/E01-v1/011.png",
-      "new-scenes/frames/E01-v1/012.png",
-      "new-scenes/frames/E01-v1/013.png",
-      "new-scenes/frames/E01-v1/014.png",
-      "new-scenes/frames/E01-v1/015.png",
-      "new-scenes/frames/E01-v1/016.png",
-      "new-scenes/frames/E01-v1/017.png",
-      "new-scenes/frames/E01-v1/018.png",
-      "new-scenes/frames/E01-v1/019.png",
-      "new-scenes/frames/E01-v1/020.png",
-      "new-scenes/frames/E01-v1/021.png",
-      "new-scenes/frames/E01-v1/022.png",
-      "new-scenes/frames/E01-v1/023.png"
-    ],
-    "sourceSha256": "794e3356ab158b3a9564424f17e6c1b773db1115ae807c02adebaae0f15edab3",
-    "frameSha256": [
-      "41babc57c0287ffe33b2276666abfd1266bdc9d4834098bbfa011814c48db800",
-      "4e3935c5e284c86b390fa2b8658c22ac1932725472509607fb72edab9cc299ee",
-      "ccef11688d14ca5209e993503e1b82cd0d7ee7069937bc8ec2d18763fa48a937",
-      "9948f5e3f0045a60cd7945e5b08d2beb9e6a91696288af47fc62149999b4ca99",
-      "524ab976a8379bf43c945a7177726470ea99675c3e7af62eed8406d4f4c3806f",
-      "295f70a5439c2f12ebd56f062c4867844f8402ed9730d374cf7ef206d27b784e",
-      "bbf0680d827b3dcc419b843f70dc1aca69c48bacb794395cfcd4b91d4776adbe",
-      "584b2e47913896ce544cccc7c48530dc5d0c77822d1740c00cea9662510976b9",
-      "ad5ecc7fde2362a85772a82e883066f03de9002c3405aa5efc11f6a54dbb03d6",
-      "c31421638a02f3617ab012f4027403713ecc5910f0bb2c40ece3871ee9152d44",
-      "6259c5c9b527131d22a28eea72eff1a13b134a44eb3058492ec65ada79bd13ee",
-      "e2d5ef11ac1fa3e7a22cdcccac5c2109bbb4d8eaadbdfe16a5fe5eac38edafe3",
-      "2d4520197ac1349b60eb7cfcafd54f12a59944dcdeeb8165f2187f4468041e17",
-      "5ce96bf1c7b1525a53e064246275445057be3540f80daf55c3f33853f9826c4e",
-      "877606b5f17eb794d52db6b0b08d4cd46ff094201ee1eb3453ed96e838e58793",
-      "8f0e471423600f2db3c64fcce6ccd068922c91eb18fb6a43da0518e5796fa708",
-      "a756d4cab8723a07d503cc4a73fc0a1f77af1f78467adfe8f269a2bdf4c485a3",
-      "4b74ecf3487c7e22355a254e033328222038dd5b082092c01caf702130cacef9",
-      "3ea09f071ef26b0fb289cdfb84a5ff8501dbe3be6832cb5fc2db629483931bcd",
-      "0f17d4dbc57514213bd693c467c0cd151666d2bb3ec7194038f08caed03b3c8c",
-      "f6a035cd0dbdccf79c3d1bbc971cd7cc7d837c50ac6b182caa809bff7abc9ae7",
-      "af4072bced5e4e4defa39f5aa69d6277610ed379f713bd2096c93cad18953d8d",
-      "3b945da7a06a284bbe051a4011e3021afd0160d2d44f27f3293f322660a20209",
-      "040baa7cc0250ae7f747175bec732c5f5ecf66561376613166073ec4ac71efd0"
-    ],
-    "bytes": 3186936,
-    "sha256": "c2bdbdd07a3449f60782990adcbcdc78ed4c018362974c6a7f97e93c82b79a30"
-  },
-  {
     "order": 401,
     "id": "B01",
     "title": "B01 · El origami rebelde",
@@ -36012,5 +35619,800 @@
     ],
     "bytes": 65375,
     "sha256": "be1c75f94a1f63aa30bddcc96ccf3cb04e14b7a696578f8601b21ed466c8eb14"
+  },
+  {
+    "order": 601,
+    "id": "E01",
+    "title": "E01 · Avello y el micrófono imposible",
+    "category": "Chile · Premium HD",
+    "pack": "new",
+    "batch": "chile-premium-01",
+    "version": 1,
+    "status": "approved",
+    "frames": 24,
+    "durations": [
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      700
+    ],
+    "cycles": 1,
+    "still": 23,
+    "source": "new-scenes/sources/E01-v1.png",
+    "src": "new-scenes/atlases/moa-E01-v1.png",
+    "sourceGridColumns": 2,
+    "sourceColumns": [
+      0,
+      552,
+      1104
+    ],
+    "sourceRows": [
+      0,
+      477,
+      954,
+      1431,
+      1908,
+      2385,
+      2862,
+      3339,
+      3816,
+      4293,
+      4770,
+      5247,
+      5724
+    ],
+    "sourceRowBaselines": [
+      447,
+      924,
+      1401,
+      1878,
+      2355,
+      2832,
+      3309,
+      3786,
+      4263,
+      4740,
+      5217,
+      5694
+    ],
+    "frameSize": [
+      576,
+      336
+    ],
+    "renderMode": "smooth",
+    "sourceSheets": [
+      {
+        "source": "new-scenes/sources/E01-A-v1.png",
+        "sha256": "f3f5b1f3cc89026885b82304576b664cb10cc6109ed1c5db8307799196e26798",
+        "rows": [
+          0,
+          398,
+          775,
+          1153,
+          1536
+        ],
+        "columnsByRow": [
+          [
+            0,
+            512,
+            1024
+          ],
+          [
+            0,
+            512,
+            1024
+          ],
+          [
+            0,
+            512,
+            1024
+          ],
+          [
+            0,
+            512,
+            1024
+          ]
+        ]
+      },
+      {
+        "source": "new-scenes/sources/E01-B-v1.png",
+        "sha256": "db921abbaaa276962fcdf52bfeb67bd4d84313ee85e346c6934f7bfaf856335d",
+        "rows": [
+          0,
+          407,
+          791,
+          1161,
+          1536
+        ],
+        "columnsByRow": [
+          [
+            0,
+            512,
+            1024
+          ],
+          [
+            0,
+            512,
+            1024
+          ],
+          [
+            0,
+            512,
+            1024
+          ],
+          [
+            0,
+            512,
+            1024
+          ]
+        ]
+      },
+      {
+        "source": "new-scenes/sources/E01-C-v1.png",
+        "sha256": "c5811b8d9b83e88c1d011aed2a7f1f56548cb053df55b22fbfda84f72d07c169",
+        "rows": [
+          0,
+          399,
+          780,
+          1157,
+          1536
+        ],
+        "columnsByRow": [
+          [
+            0,
+            512,
+            1024
+          ],
+          [
+            0,
+            512,
+            1024
+          ],
+          [
+            0,
+            512,
+            1024
+          ],
+          [
+            0,
+            512,
+            1024
+          ]
+        ]
+      }
+    ],
+    "sourceBytes": 5734240,
+    "prompt": "new-scenes/prompts/E01.txt",
+    "generator": "Integrated image_gen",
+    "guest": "Felipe Avello",
+    "context": "Comedia ficticia: Avello retira el micrófono justo cuando Moa va a hablar; Moa resuelve la entrevista con uno diminuto. Interpretación ilustrada HD, sin audio ni atribución de un hecho real.",
+    "editingNote": "Tres fuentes de ocho poses conservadas con SHA. Composición por celdas y registro de suelo; una sola escala común. PNG individuales editables, atlas RGBA sin cuantización. Escena ficticia original.",
+    "reference": "evidence/guest-references/avello-hd.json",
+    "packaging": {
+      "sourceSize": [
+        1104,
+        5724
+      ],
+      "rowCuts": [
+        0,
+        477,
+        954,
+        1431,
+        1908,
+        2385,
+        2862,
+        3339,
+        3816,
+        4293,
+        4770,
+        5247,
+        5724
+      ],
+      "columnCuts": [
+        0,
+        552,
+        1104
+      ],
+      "rowBaselineRegistration": [
+        [
+          0,
+          52
+        ],
+        [
+          0,
+          52
+        ],
+        [
+          0,
+          52
+        ],
+        [
+          0,
+          52
+        ],
+        [
+          0,
+          52
+        ],
+        [
+          0,
+          52
+        ],
+        [
+          0,
+          52
+        ],
+        [
+          0,
+          52
+        ],
+        [
+          0,
+          52
+        ],
+        [
+          0,
+          52
+        ],
+        [
+          0,
+          52
+        ],
+        [
+          0,
+          52
+        ],
+        [
+          0,
+          52
+        ],
+        [
+          0,
+          52
+        ],
+        [
+          0,
+          52
+        ],
+        [
+          0,
+          52
+        ],
+        [
+          0,
+          52
+        ],
+        [
+          0,
+          52
+        ],
+        [
+          0,
+          52
+        ],
+        [
+          0,
+          52
+        ],
+        [
+          0,
+          52
+        ],
+        [
+          0,
+          52
+        ],
+        [
+          0,
+          52
+        ],
+        [
+          0,
+          52
+        ]
+      ],
+      "unionCrop": [
+        79,
+        178,
+        509,
+        504
+      ],
+      "sharedScale": 0.9202453987730062,
+      "frameSize": [
+        576,
+        336
+      ],
+      "origin": [
+        0,
+        0
+      ],
+      "trajectory": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          0
+        ]
+      ]
+    },
+    "frameFiles": [
+      "new-scenes/frames/E01-v1/000.png",
+      "new-scenes/frames/E01-v1/001.png",
+      "new-scenes/frames/E01-v1/002.png",
+      "new-scenes/frames/E01-v1/003.png",
+      "new-scenes/frames/E01-v1/004.png",
+      "new-scenes/frames/E01-v1/005.png",
+      "new-scenes/frames/E01-v1/006.png",
+      "new-scenes/frames/E01-v1/007.png",
+      "new-scenes/frames/E01-v1/008.png",
+      "new-scenes/frames/E01-v1/009.png",
+      "new-scenes/frames/E01-v1/010.png",
+      "new-scenes/frames/E01-v1/011.png",
+      "new-scenes/frames/E01-v1/012.png",
+      "new-scenes/frames/E01-v1/013.png",
+      "new-scenes/frames/E01-v1/014.png",
+      "new-scenes/frames/E01-v1/015.png",
+      "new-scenes/frames/E01-v1/016.png",
+      "new-scenes/frames/E01-v1/017.png",
+      "new-scenes/frames/E01-v1/018.png",
+      "new-scenes/frames/E01-v1/019.png",
+      "new-scenes/frames/E01-v1/020.png",
+      "new-scenes/frames/E01-v1/021.png",
+      "new-scenes/frames/E01-v1/022.png",
+      "new-scenes/frames/E01-v1/023.png"
+    ],
+    "sourceSha256": "794e3356ab158b3a9564424f17e6c1b773db1115ae807c02adebaae0f15edab3",
+    "frameSha256": [
+      "41babc57c0287ffe33b2276666abfd1266bdc9d4834098bbfa011814c48db800",
+      "4e3935c5e284c86b390fa2b8658c22ac1932725472509607fb72edab9cc299ee",
+      "ccef11688d14ca5209e993503e1b82cd0d7ee7069937bc8ec2d18763fa48a937",
+      "9948f5e3f0045a60cd7945e5b08d2beb9e6a91696288af47fc62149999b4ca99",
+      "524ab976a8379bf43c945a7177726470ea99675c3e7af62eed8406d4f4c3806f",
+      "295f70a5439c2f12ebd56f062c4867844f8402ed9730d374cf7ef206d27b784e",
+      "bbf0680d827b3dcc419b843f70dc1aca69c48bacb794395cfcd4b91d4776adbe",
+      "584b2e47913896ce544cccc7c48530dc5d0c77822d1740c00cea9662510976b9",
+      "ad5ecc7fde2362a85772a82e883066f03de9002c3405aa5efc11f6a54dbb03d6",
+      "c31421638a02f3617ab012f4027403713ecc5910f0bb2c40ece3871ee9152d44",
+      "6259c5c9b527131d22a28eea72eff1a13b134a44eb3058492ec65ada79bd13ee",
+      "e2d5ef11ac1fa3e7a22cdcccac5c2109bbb4d8eaadbdfe16a5fe5eac38edafe3",
+      "2d4520197ac1349b60eb7cfcafd54f12a59944dcdeeb8165f2187f4468041e17",
+      "5ce96bf1c7b1525a53e064246275445057be3540f80daf55c3f33853f9826c4e",
+      "877606b5f17eb794d52db6b0b08d4cd46ff094201ee1eb3453ed96e838e58793",
+      "8f0e471423600f2db3c64fcce6ccd068922c91eb18fb6a43da0518e5796fa708",
+      "a756d4cab8723a07d503cc4a73fc0a1f77af1f78467adfe8f269a2bdf4c485a3",
+      "4b74ecf3487c7e22355a254e033328222038dd5b082092c01caf702130cacef9",
+      "3ea09f071ef26b0fb289cdfb84a5ff8501dbe3be6832cb5fc2db629483931bcd",
+      "0f17d4dbc57514213bd693c467c0cd151666d2bb3ec7194038f08caed03b3c8c",
+      "f6a035cd0dbdccf79c3d1bbc971cd7cc7d837c50ac6b182caa809bff7abc9ae7",
+      "af4072bced5e4e4defa39f5aa69d6277610ed379f713bd2096c93cad18953d8d",
+      "3b945da7a06a284bbe051a4011e3021afd0160d2d44f27f3293f322660a20209",
+      "040baa7cc0250ae7f747175bec732c5f5ecf66561376613166073ec4ac71efd0"
+    ],
+    "bytes": 3186936,
+    "sha256": "c2bdbdd07a3449f60782990adcbcdc78ed4c018362974c6a7f97e93c82b79a30"
+  },
+  {
+    "order": 603,
+    "id": "E03",
+    "title": "E03 · Guru Guru aprende el pasito",
+    "category": "Chile · Premium HD",
+    "pack": "new",
+    "batch": "chile-premium-01",
+    "version": 1,
+    "status": "approved",
+    "frames": 24,
+    "durations": [
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      700
+    ],
+    "cycles": 1,
+    "still": 23,
+    "source": "new-scenes/sources/E03-v1.png",
+    "src": "new-scenes/atlases/moa-E03-v1.png",
+    "sourceGridColumns": 2,
+    "sourceColumns": [
+      0,
+      574,
+      1148
+    ],
+    "sourceRows": [
+      0,
+      616,
+      1232,
+      1848,
+      2464,
+      3080,
+      3696,
+      4312,
+      4928,
+      5544,
+      6160,
+      6776,
+      7392
+    ],
+    "sourceRowBaselines": [
+      586,
+      1202,
+      1818,
+      2434,
+      3050,
+      3666,
+      4282,
+      4898,
+      5514,
+      6130,
+      6746,
+      7362
+    ],
+    "frameSize": [
+      576,
+      336
+    ],
+    "renderMode": "smooth",
+    "sourceSheets": [
+      {
+        "source": "new-scenes/sources/E03-A-v1.png",
+        "sha256": "56b60beec95a52287007de08acdcf16b0b0a52d3fd4480200bdb911103ff1ac1",
+        "rows": [
+          0,
+          512,
+          998,
+          1536
+        ],
+        "columnsByRow": [
+          [
+            0,
+            512,
+            1024
+          ],
+          [
+            0,
+            521,
+            1024
+          ],
+          [
+            0,
+            512,
+            1024
+          ]
+        ]
+      },
+      {
+        "source": "new-scenes/sources/E03-B-v1.png",
+        "sha256": "35155d186a514f9d840347774ea0a88c526629fbf83a05ad222c23a4d07b64cd",
+        "rows": [
+          0,
+          535,
+          1011,
+          1536
+        ],
+        "columnsByRow": [
+          [
+            0,
+            519,
+            1024
+          ],
+          [
+            0,
+            513,
+            1024
+          ],
+          [
+            0,
+            531,
+            1024
+          ]
+        ]
+      },
+      {
+        "source": "new-scenes/sources/E03-C-v1.png",
+        "sha256": "80905f3576a7206becb381c5a1a86ed2c1fd2d283cb1b7ff620a26950df627e4",
+        "rows": [
+          0,
+          546,
+          1018,
+          1536
+        ],
+        "columnsByRow": [
+          [
+            0,
+            534,
+            1024
+          ],
+          [
+            0,
+            516,
+            1024
+          ],
+          [
+            0,
+            519,
+            1024
+          ]
+        ]
+      },
+      {
+        "source": "new-scenes/sources/E03-D-v1.png",
+        "sha256": "5f1ab5946c43b0a69251c8cc8208a83bb59a49240497065d413487904f39a823",
+        "rows": [
+          0,
+          502,
+          1004,
+          1536
+        ],
+        "columnsByRow": [
+          [
+            0,
+            512,
+            1024
+          ],
+          [
+            0,
+            512,
+            1024
+          ],
+          [
+            0,
+            512,
+            1024
+          ]
+        ]
+      }
+    ],
+    "sourceBytes": 8791217,
+    "prompt": "new-scenes/prompts/E03.txt",
+    "generator": "Integrated image_gen",
+    "guest": "Guru Guru",
+    "context": "Homenaje ficticio: Moa enseña un pasito a Guru Guru; un cruce de patas se convierte en un baile compartido. Ilustración HD sin audio ni recreación de un hecho real.",
+    "editingNote": "Cuatro fuentes de seis poses conservadas con SHA. Composición por celdas y registro de suelo; una sola escala común. PNG individuales editables, atlas RGBA sin cuantización. Escena ficticia original.",
+    "reference": "evidence/guest-references/guru-hd.json",
+    "packaging": {
+      "sourceSize": [
+        1148,
+        7392
+      ],
+      "rowCuts": [
+        0,
+        616,
+        1232,
+        1848,
+        2464,
+        3080,
+        3696,
+        4312,
+        4928,
+        5544,
+        6160,
+        6776,
+        7392
+      ],
+      "columnCuts": [
+        0,
+        574,
+        1148
+      ],
+      "rowBaselineRegistration": [
+        [
+          0,
+          52
+        ],
+        [
+          0,
+          52
+        ],
+        [
+          0,
+          52
+        ],
+        [
+          0,
+          52
+        ],
+        [
+          0,
+          52
+        ],
+        [
+          0,
+          52
+        ],
+        [
+          0,
+          52
+        ],
+        [
+          0,
+          52
+        ],
+        [
+          0,
+          52
+        ],
+        [
+          0,
+          52
+        ],
+        [
+          0,
+          52
+        ],
+        [
+          0,
+          52
+        ],
+        [
+          0,
+          52
+        ],
+        [
+          0,
+          52
+        ],
+        [
+          0,
+          52
+        ],
+        [
+          0,
+          52
+        ],
+        [
+          0,
+          52
+        ],
+        [
+          0,
+          52
+        ],
+        [
+          0,
+          52
+        ],
+        [
+          0,
+          52
+        ],
+        [
+          0,
+          52
+        ],
+        [
+          0,
+          52
+        ],
+        [
+          0,
+          52
+        ],
+        [
+          0,
+          52
+        ]
+      ],
+      "unionCrop": [
+        33,
+        186,
+        556,
+        646
+      ],
+      "sharedScale": 0.6521739130434783,
+      "frameSize": [
+        576,
+        336
+      ],
+      "origin": [
+        0,
+        0
+      ],
+      "trajectory": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          0
+        ]
+      ]
+    },
+    "frameFiles": [
+      "new-scenes/frames/E03-v1/000.png",
+      "new-scenes/frames/E03-v1/001.png",
+      "new-scenes/frames/E03-v1/002.png",
+      "new-scenes/frames/E03-v1/003.png",
+      "new-scenes/frames/E03-v1/004.png",
+      "new-scenes/frames/E03-v1/005.png",
+      "new-scenes/frames/E03-v1/006.png",
+      "new-scenes/frames/E03-v1/007.png",
+      "new-scenes/frames/E03-v1/008.png",
+      "new-scenes/frames/E03-v1/009.png",
+      "new-scenes/frames/E03-v1/010.png",
+      "new-scenes/frames/E03-v1/011.png",
+      "new-scenes/frames/E03-v1/012.png",
+      "new-scenes/frames/E03-v1/013.png",
+      "new-scenes/frames/E03-v1/014.png",
+      "new-scenes/frames/E03-v1/015.png",
+      "new-scenes/frames/E03-v1/016.png",
+      "new-scenes/frames/E03-v1/017.png",
+      "new-scenes/frames/E03-v1/018.png",
+      "new-scenes/frames/E03-v1/019.png",
+      "new-scenes/frames/E03-v1/020.png",
+      "new-scenes/frames/E03-v1/021.png",
+      "new-scenes/frames/E03-v1/022.png",
+      "new-scenes/frames/E03-v1/023.png"
+    ],
+    "sourceSha256": "00ee4da1ee091e94d9a97d9c2d5f2a7170d67e1568db27b490566a9eedd1876f",
+    "frameSha256": [
+      "38d259bb01a40c3d4e08ad1d8a48e2b203ac409ff673e1461e0ede98390b883a",
+      "af523ab1672d60a8409c2cdda753c856a3f7be0f914700dc52618d9077e801b6",
+      "5603263ba774cad985d04196e6875982a71fef6ea123a16ddc671869e4c9b170",
+      "f56109819af2b8e06db5fb6e59cf6a8612d21ec04828e68c9a758bb7f64b383c",
+      "ecd8bf476db5cd0c715fde23bcfcebf82543c433e8dc3d615f98a14a2cdb8d20",
+      "3d8175fbb7b521179e44465b98c20438c05e92c946f855cdacffb484fbd217d6",
+      "746c507055ee2c531562f2bf4d37747eaa90392b27ab0f61c5fc4d1819b81582",
+      "f19e88718fd2119265e0ba6aa1dd364355d483c21a304eb0252f40849b7e2981",
+      "a7f3d2b97adf570d37e7807b093e531bc84db23575ac925749cd8f824d3fc9a1",
+      "5cd23c79040b9f982c404a37f54de0508484dd0da92c12fbe5df5f2030e044ff",
+      "3ca8aafdc9f743cb522b413261a9e66561fcf6ba9f3df5cd6de715a8e4953b11",
+      "74098910241339226006765f681acccb6ae88e1320d79987b11b3f08bc078d3e",
+      "1a636b067b1ba0a459b124896721220c6f945f0b3658a29da53775b3dfe9f4ce",
+      "06416ae66804ea3eb9ceaaf2ba81cf29cada2355b45365d23081783e645516f2",
+      "230a6b800e4a6ebaa3f85e3db7a3a489aef3be93fc96691121e34d46835bdb9b",
+      "50c643882dea35309074f75fec87a495e8ff49e6d261453a87e05640a508b8ad",
+      "c164bbe5c30b6a939b963f88ccedcd6fccea7adcaa6aa62067851c5ce444a062",
+      "e83664e313d50125840500033cbcaa129329477a74f4de1ff88650a2dbf8051c",
+      "ecfa02bb6240daec379defdf898c530655f1ccbdfa1a6aa7ab1e19c9b12c1e99",
+      "51208201a81a3d0d2b08d53e382d7ba46f77de89688f3b23c8b6d8b9ab2263f1",
+      "6486f205b64e26f5ddd1622131f4b9107f26672a12411ed9d16e354a490f6787",
+      "7ea069bb2b103e4b0bf3873ef7e7da0fa73fb25fe28467f156451de2d122f14c",
+      "7ec28147ac88c841245f1bfd117f16e7b3bf58538c7ac4e208687d10cdea6ca8",
+      "e7fa7222b1c3a7a0fbf6aef1b03f5ab447f33168f5aafadbfb71d33843ed9cdc"
+    ],
+    "bytes": 3007616,
+    "sha256": "6c0e3bcafb0b267250766ddd1540e81543b44d069dc0d610eb7b563bc21d0f21"
   }
 ]

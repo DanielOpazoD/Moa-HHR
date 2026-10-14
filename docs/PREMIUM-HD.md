@@ -4,9 +4,9 @@ Ocho escenas ficticias aprobadas el 14-10-2026, desarrolladas y revisadas una po
 
 | ID | Escena | Estado |
 |---|---|---|
-| E01 | Avello y el micrófono imposible | Implementada; CI requerida antes de merge |
-| E02 | El Chacal y el duelo de trompetas | Pendiente |
-| E03 | Guru Guru aprende el pasito | Pendiente |
+| E01 | Avello y el micrófono imposible | Integrada en PR #41; CI final aprobada |
+| E02 | El Chacal y el duelo de trompetas | Bloqueada: generador rechazó la corrección; sin publicación |
+| E03 | Guru Guru aprende el pasito | Implementada; CI requerida antes de merge |
 | E04 | Pancho y la risa contagiosa | Pendiente |
 | E05 | Kramer imita una piedra | Pendiente |
 | E06 | Naya y la cámara equivocada | Pendiente |
@@ -26,3 +26,7 @@ Revisión visual de las 24 poses sobre fondo claro, oscuro y azul: cuerpos enter
 Cada nueva escena HD tiene su HTML offline independiente; el índice principal sigue unificado. Esto evita un único HTML de decenas de megabytes. Atlas HD RGBA limitado a 4 MiB (24 poses E01: 3.19 MB); escenas estándar mantienen 300 KB. El catálogo carga solo la selección.
 
 Pruebas: contrato, hashes, fondos/márgenes, cuadros no duplicados, reconstrucción RGBA exacta, selector/manual/reproducción finita y galerías offline. Chromium en CI; Safari/Firefox y dispositivos físicos no verificados. No contiene audio, fotografías de referencia ni datos clínicos.
+
+## E03
+
+Cuatro láminas de seis poses, 24 PNG HD, 5760 ms. Referencia de Canal 13 observada; plumaje, pico, gorro y gafas identificados. Se corrigió el tamaño de Moa en dos láminas. Paso lateral, cruce de patas, recuperación y baile conjunto; no golpe ni caída. Fuentes y tiempos editables. Revisión sobre tres fondos; semejanza ilustrativa, sin audio.
