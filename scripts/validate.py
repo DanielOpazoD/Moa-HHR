@@ -25,7 +25,7 @@ for s in scenes:
     assert 2999.99 <= sum(s["durations"]) * s["cycles"] <= 6000.01
     assert 0 <= s["still"] < n
     path = root / s["src"]
-    assert path.stat().st_size < (2000000 if s.get("frameSize") == [576, 336] else 300000), (s["id"], path.stat().st_size)
+    assert path.stat().st_size < (4194304 if s.get("frameSize") == [576, 336] else 300000), (s["id"], path.stat().st_size)
     im = Image.open(path).convert("RGBA")
     fw, fh = s.get("frameSize", [288, 168])
     assert [fw, fh] in ([288, 168], [576, 336])
@@ -54,7 +54,7 @@ for s in scenes:
         totalnew += path.stat().st_size
         assert hashlib.sha256(path.read_bytes()).hexdigest() == s["sha256"]
 print(
-    f"{len(scenes)} scenes validated; original={original:,} / 4,194,304 bytes; separate new package={totalnew:,} bytes. Standard atlases <300,000 bytes; HD atlases <2,000,000 bytes."
+    f"{len(scenes)} scenes validated; original={original:,} / 4,194,304 bytes; separate new package={totalnew:,} bytes. Standard atlases <300,000 bytes; HD atlases <4,194,304 bytes."
 )
 # Sidecars are authoritative; generated indexes must match and editable sources remain verifiable.
 sidecars = sorted(

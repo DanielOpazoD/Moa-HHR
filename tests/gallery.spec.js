@@ -281,3 +281,24 @@ test("C21G preserves the original dance and plays the full-turn addition", async
   await expect(page.locator("#sprite")).toHaveAttribute("data-state", "playing");
   await expect(page.locator("#sprite")).toHaveAttribute("data-state", "rest", { timeout: 7500 });
 });
+
+test("premium HD scenes retain smooth rendering, manual frames and finite playback", async ({ page }) => {
+  test.setTimeout(120000);
+  await page.goto("/");
+  const catalog = await (await page.request.get("/scenes.json")).json();
+  const premium = catalog.filter(s => s.batch === "chile-premium-01");
+  expect(premium.length).toBeGreaterThan(0);
+  for (const scene of premium) {
+    await page.locator("#search").fill(scene.id);
+    await expect(page.locator(".card")).toHaveCount(1);
+    await page.locator(".card").click();
+    await page.waitForFunction(width => document.querySelector("#sprite img")?.naturalWidth === width, scene.frames * scene.frameSize[0]);
+    await expect(page.locator("#sprite img")).toHaveCSS("image-rendering", "auto");
+    await expect(page.locator("#details")).toContainText(scene.context);
+    await page.locator("#frame").fill(String(scene.frames - 1));
+    await expect(page.locator("#status")).toHaveText(`Cuadro ${scene.frames} de ${scene.frames}`);
+    await page.locator("#play").click();
+    await expect(page.locator("#sprite")).toHaveAttribute("data-state", "playing");
+    await expect(page.locator("#sprite")).toHaveAttribute("data-state", "rest", { timeout: 8000 });
+  }
+});

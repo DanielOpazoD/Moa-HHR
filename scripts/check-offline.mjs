@@ -7,8 +7,9 @@ const allExpected = JSON.parse(await fs.readFile("scenes.json", "utf8")).filter(
 );
 const browser = await chromium.launch({ headless: true });
 try {
- for (const [file, group] of [["moa-scenes.html", "legacy"], ["moa-chile-remix.html", "remix"], ["moa-leo-rey-giro.html", "hd"]]) {
-  const expected = allExpected.filter(s => (s.frameSize?.[0] === 576 ? "hd" : s.batch?.startsWith("chile-remix-") ? "remix" : "legacy") === group);
+ const groups = [["moa-scenes.html", "legacy"], ["moa-chile-remix.html", "remix"], ["moa-leo-rey-giro.html", "C21G"], ...allExpected.filter(s => s.frameSize?.[0] === 576 && s.id !== "C21G").map(s => [`moa-${s.id.toLowerCase()}-hd.html`, s.id])];
+ for (const [file, group] of groups) {
+  const expected = allExpected.filter(s => (s.frameSize?.[0] === 576 ? s.id : s.batch?.startsWith("chile-remix-") ? "remix" : "legacy") === group);
   if (!expected.length) throw Error(`Empty offline collection: ${file}`);
   const selected = group === "legacy" ? expected.find(s => s.id === "B29") : expected.at(-1);
   const page = await browser.newPage();

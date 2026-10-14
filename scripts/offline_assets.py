@@ -38,6 +38,10 @@ def offline_groups(catalog):
         ("moa-chile-remix.html", "Chile: memes y encuentros", remix, "moa-scenes.html", "Colecciones anteriores"),
     ]
 
-    if hd:
-        groups.append(("moa-leo-rey-giro.html", "Alta resolución", hd, "moa-scenes.html", "Colecciones anteriores"))
+    leo = [s for s in hd if s["id"] == "C21G"]
+    if leo:
+        groups.append(("moa-leo-rey-giro.html", "Leo Rey · Alta resolución", leo, "moa-scenes.html", "Colecciones anteriores"))
+    for scene in hd:
+        if scene["id"] != "C21G":
+            groups.append((f"moa-{scene['id'].lower()}-hd.html", scene["title"], [scene], "moa-scenes.html", "Colecciones anteriores"))
     return groups
