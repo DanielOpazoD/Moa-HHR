@@ -18249,5 +18249,258 @@
     ],
     "bytes": 2596543,
     "sha256": "7214645e334c192a2946255d5baafebb39694d873c3c075e4508b2be4d68450c"
+  },
+  {
+    "order": 605,
+    "id": "E05",
+    "title": "E05 · Kramer imita una piedra",
+    "category": "Chile · Premium HD",
+    "pack": "new",
+    "batch": "chile-premium-01",
+    "version": 1,
+    "status": "approved",
+    "frames": 24,
+    "durations": [
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      220,
+      700
+    ],
+    "cycles": 1,
+    "still": 23,
+    "source": "new-scenes/sources/E05-v1.png",
+    "src": "new-scenes/atlases/moa-E05-v1.png",
+    "sourceGridColumns": 2,
+    "sourceColumns": [
+      0,
+      682,
+      1364
+    ],
+    "sourceRows": [
+      0,
+      518,
+      1036,
+      1554,
+      2072,
+      2590,
+      3108,
+      3626,
+      4144,
+      4662,
+      5180,
+      5698,
+      6216
+    ],
+    "sourceRowBaselines": [
+      488,
+      1006,
+      1524,
+      2042,
+      2560,
+      3078,
+      3596,
+      4114,
+      4632,
+      5150,
+      5668,
+      6186
+    ],
+    "frameSize": [
+      576,
+      336
+    ],
+    "renderMode": "smooth",
+    "sourceSheets": [
+      {
+        "source": "new-scenes/sources/E05-A-v1.png",
+        "sha256": "83cba8bee76baa76bda33011a1016962505af37c16986999e1f5b67870089c24",
+        "rows": [
+          0,
+          408,
+          813,
+          1226
+        ],
+        "columnsByRow": [
+          [
+            0,
+            641,
+            1283
+          ],
+          [
+            0,
+            641,
+            1283
+          ],
+          [
+            0,
+            641,
+            1283
+          ]
+        ]
+      },
+      {
+        "source": "new-scenes/sources/E05-B-v1.png",
+        "sha256": "421e5aacb59da6457ea7ace7eec0c5bf5ba90abe684772dfd7876095f2c2106d",
+        "rows": [
+          0,
+          439,
+          845,
+          1226
+        ],
+        "columnsByRow": [
+          [
+            0,
+            641,
+            1283
+          ],
+          [
+            0,
+            641,
+            1283
+          ],
+          [
+            0,
+            641,
+            1283
+          ]
+        ]
+      },
+      {
+        "source": "new-scenes/sources/E05-C-v1.png",
+        "sha256": "a973a8ea9053c0730714f4dbd548cff5aee39f24db6575cfc22a62a6b9d0ae8a",
+        "rows": [
+          0,
+          419,
+          822,
+          1226
+        ],
+        "columnsByRow": [
+          [
+            0,
+            641,
+            1283
+          ],
+          [
+            0,
+            641,
+            1283
+          ],
+          [
+            0,
+            641,
+            1283
+          ]
+        ]
+      },
+      {
+        "source": "new-scenes/sources/E05-D-v1.png",
+        "sha256": "ff01544622c03552d021196aaeb91e7a74873241327c84fab039ecb9707aa457",
+        "rows": [
+          0,
+          448,
+          844,
+          1226
+        ],
+        "columnsByRow": [
+          [
+            0,
+            641,
+            1283
+          ],
+          [
+            0,
+            641,
+            1283
+          ],
+          [
+            0,
+            641,
+            1283
+          ]
+        ]
+      }
+    ],
+    "sourceBytes": 4787494,
+    "prompt": "new-scenes/prompts/E05.txt",
+    "generator": "Integrated image_gen",
+    "guest": "Stefan Kramer",
+    "context": "Homenaje ficticio: Kramer reproduce los gestos de Moa; ambos se quedan como estatuas y terminan sonriendo.",
+    "editingNote": "Fuentes originales conservadas con SHA. Composición por celdas y registro de suelo; una sola escala común. PNG individuales editables, atlas RGBA sin cuantización. Escena ficticia original.",
+    "reference": "evidence/guest-references/kramer-hd.json",
+    "frameFiles": [
+      "new-scenes/frames/E05-v1/000.png",
+      "new-scenes/frames/E05-v1/001.png",
+      "new-scenes/frames/E05-v1/002.png",
+      "new-scenes/frames/E05-v1/003.png",
+      "new-scenes/frames/E05-v1/004.png",
+      "new-scenes/frames/E05-v1/005.png",
+      "new-scenes/frames/E05-v1/006.png",
+      "new-scenes/frames/E05-v1/007.png",
+      "new-scenes/frames/E05-v1/008.png",
+      "new-scenes/frames/E05-v1/009.png",
+      "new-scenes/frames/E05-v1/010.png",
+      "new-scenes/frames/E05-v1/011.png",
+      "new-scenes/frames/E05-v1/012.png",
+      "new-scenes/frames/E05-v1/013.png",
+      "new-scenes/frames/E05-v1/014.png",
+      "new-scenes/frames/E05-v1/015.png",
+      "new-scenes/frames/E05-v1/016.png",
+      "new-scenes/frames/E05-v1/017.png",
+      "new-scenes/frames/E05-v1/018.png",
+      "new-scenes/frames/E05-v1/019.png",
+      "new-scenes/frames/E05-v1/020.png",
+      "new-scenes/frames/E05-v1/021.png",
+      "new-scenes/frames/E05-v1/022.png",
+      "new-scenes/frames/E05-v1/023.png"
+    ],
+    "sourceSha256": "00bb90317c674c7489db7ef4e53edf5badf819b0caad95f9094b880dd93af4b2",
+    "frameSha256": [
+      "2721a2cd1a015af192b5655a37de8bc00dc31dc59071dc93c379cf861124ab48",
+      "e79110f68bdbd7becb824f387287c2548eb9bdf2c152514ccd57e826fdb69dfe",
+      "ac7a2b8685ed55eaa14f4b7525ca12f8fdeeea30d1a6de7b02a06d352bad3370",
+      "3c3c5dd03a04fa14a0e9a92f5df00ddd121dff6489ba74948628203b493cfb56",
+      "51ee9abf6ae6d08355cef742f3952ce56bc89793f2833563cf1cca7193eed465",
+      "35da2d36f679c2db7ed54b929c7020c7d2d6c01f02cabef314a96e18611be5a1",
+      "b94b307141e6109886b9413355fc150f8a152e4b53299c3de02424ec4fdf8375",
+      "91035016e3353bd6b21a39ea171489e6cf1f182d2cd98e8fa37683a5667fd9b0",
+      "a02f377b22c2b728dbfc26a6f76bd6a6d505171c03b41967ca30347be0c958f8",
+      "a7b9f22e40f4bd2049e1cd2aa53971eabcc58fa4470dc629f3630a448a67e331",
+      "1b562313091a3f64ee24d4f1f30c69816126c4adf9d2f4eacdcb2db1907775fe",
+      "2d4d2ac6c68bc8e8d19a8af6dd66514ab4dfbd181bca119f872812dd5f695f1d",
+      "e64e42a18c3c8a108ea04df0269aa7960cfab554369abd3aeec70bc0603ab020",
+      "8a693aabc50533b0b34c58a497d42b5cfbaa7ee60cad3c5d8d7a2fd37cf0fbe0",
+      "583fb48f1d590bde599fa24ef52541b16d3dc87a97b00758913c92136e2119fb",
+      "e6b81afa4e1f63ed0b0baabedde820ac6b07e0a49a355da2b58d1b3b5f899d5e",
+      "e9273c964a57ad7fadd04c8b728d742328daa5730ce7f1f27a372a18ba6fb797",
+      "bcb73ecc81a9e270706c31f4bb81daaaedbd6676d84e1d612211593a64a0b488",
+      "e6c00bbc0a92d65d339cc2765aaea9a5993ccf56b03c2c6aaace8ea3887551df",
+      "17e96237b1bd3641e317537ac175d641269139707ccf6a028ac9bfdaeaa676eb",
+      "0d7f157895d8a1e56bc5f0cc1cb12a841633a308ec6bdb2a1c018475aba7b4b6",
+      "aff91a17f10ce16e5d9e8a1107007008d15cb1dba0b192acb8b680dbccde4d81",
+      "a8221ae3a8f7488ee6037217fb314ccd8b8ddd0003fc8b76a4fc1f50f30b84a9",
+      "eaa8d756fa79fa6a31c70dddfef03bd90358b152584a0092e0c148dd9b11ffcb"
+    ],
+    "bytes": 2571977,
+    "sha256": "161544d0e800d6554c5b415cefe4631c712e68fce23d21cae01d042289bbae91"
   }
 ]
