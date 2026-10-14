@@ -1,0 +1,402 @@
+{
+  "order": 608,
+  "id": "E08",
+  "title": "E08 · Moa jurado de un completo",
+  "category": "Chile · Premium HD",
+  "pack": "new",
+  "batch": "chile-premium-01",
+  "version": 1,
+  "status": "approved",
+  "frames": 24,
+  "durations": [
+    220,
+    220,
+    220,
+    220,
+    220,
+    220,
+    220,
+    220,
+    220,
+    220,
+    220,
+    220,
+    220,
+    220,
+    220,
+    220,
+    220,
+    220,
+    220,
+    220,
+    220,
+    220,
+    220,
+    700
+  ],
+  "cycles": 1,
+  "still": 23,
+  "source": "new-scenes/sources/E08-v1.png",
+  "src": "new-scenes/atlases/moa-E08-v1.png",
+  "sourceGridColumns": 2,
+  "sourceColumns": [
+    0,
+    709,
+    1418
+  ],
+  "sourceRows": [
+    0,
+    521,
+    1042,
+    1563,
+    2084,
+    2605,
+    3126,
+    3647,
+    4168,
+    4689,
+    5210,
+    5731,
+    6252
+  ],
+  "sourceRowBaselines": [
+    491,
+    1012,
+    1533,
+    2054,
+    2575,
+    3096,
+    3617,
+    4138,
+    4659,
+    5180,
+    5701,
+    6222
+  ],
+  "frameSize": [
+    576,
+    336
+  ],
+  "renderMode": "smooth",
+  "sourceSheets": [
+    {
+      "source": "new-scenes/sources/E08-A-v1.png",
+      "sha256": "ab717af470312062c3d21c84d3cbdc096f83052e2d924e72825ba38b064f1df9",
+      "rows": [
+        0,
+        413,
+        804,
+        1223
+      ],
+      "columnsByRow": [
+        [
+          0,
+          643,
+          1286
+        ],
+        [
+          0,
+          643,
+          1286
+        ],
+        [
+          0,
+          643,
+          1286
+        ]
+      ]
+    },
+    {
+      "source": "new-scenes/sources/E08-B-v1.png",
+      "sha256": "65e88b1340380996d80963deb51ef33fb9660e06055d9b5a732b35e660b4fbf7",
+      "rows": [
+        0,
+        403,
+        812,
+        1223
+      ],
+      "columnsByRow": [
+        [
+          0,
+          643,
+          1286
+        ],
+        [
+          0,
+          643,
+          1286
+        ],
+        [
+          0,
+          643,
+          1286
+        ]
+      ]
+    },
+    {
+      "source": "new-scenes/sources/E08-C-v1.png",
+      "sha256": "510e52cb5bc42f5a36fc1b14017998786153a1c5bb78c1cf130f3959ee32324d",
+      "rows": [
+        0,
+        421,
+        809,
+        1223
+      ],
+      "columnsByRow": [
+        [
+          0,
+          669,
+          1286
+        ],
+        [
+          0,
+          643,
+          1286
+        ],
+        [
+          0,
+          643,
+          1286
+        ]
+      ]
+    },
+    {
+      "source": "new-scenes/sources/E08-D-v1.png",
+      "sha256": "93a5064d39be6b94cbd11bfb80fb0fbd51d6e4c0bb90061e1c748e9f3141d240",
+      "rows": [
+        0,
+        451,
+        851,
+        1223
+      ],
+      "columnsByRow": [
+        [
+          0,
+          643,
+          1286
+        ],
+        [
+          0,
+          643,
+          1286
+        ],
+        [
+          0,
+          643,
+          1286
+        ]
+      ]
+    }
+  ],
+  "sourceBytes": 5674718,
+  "prompt": "new-scenes/prompts/E08.txt",
+  "generator": "Integrated image_gen",
+  "guest": "Moa",
+  "context": "Escena original: Moa evalúa un completo diminuto y pierde la solemnidad cuando llega uno gigante.",
+  "editingNote": "Fuentes originales conservadas con SHA. Composición por celdas y registro de suelo; una sola escala común. PNG individuales editables, atlas RGBA sin cuantización. Escena ficticia original.",
+  "reference": "new-scenes/scenes/E04.json",
+  "packaging": {
+    "sourceSize": [
+      1418,
+      6252
+    ],
+    "rowCuts": [
+      0,
+      521,
+      1042,
+      1563,
+      2084,
+      2605,
+      3126,
+      3647,
+      4168,
+      4689,
+      5210,
+      5731,
+      6252
+    ],
+    "columnCuts": [
+      0,
+      709,
+      1418
+    ],
+    "rowBaselineRegistration": [
+      [
+        0,
+        52
+      ],
+      [
+        0,
+        52
+      ],
+      [
+        0,
+        52
+      ],
+      [
+        0,
+        52
+      ],
+      [
+        0,
+        52
+      ],
+      [
+        0,
+        52
+      ],
+      [
+        0,
+        52
+      ],
+      [
+        0,
+        52
+      ],
+      [
+        0,
+        52
+      ],
+      [
+        0,
+        52
+      ],
+      [
+        0,
+        52
+      ],
+      [
+        0,
+        52
+      ],
+      [
+        0,
+        52
+      ],
+      [
+        0,
+        52
+      ],
+      [
+        0,
+        52
+      ],
+      [
+        0,
+        52
+      ],
+      [
+        0,
+        52
+      ],
+      [
+        0,
+        52
+      ],
+      [
+        0,
+        52
+      ],
+      [
+        0,
+        52
+      ],
+      [
+        0,
+        52
+      ],
+      [
+        0,
+        52
+      ],
+      [
+        0,
+        52
+      ],
+      [
+        0,
+        52
+      ]
+    ],
+    "unionCrop": [
+      32,
+      142,
+      692,
+      549
+    ],
+    "sharedScale": 0.6909090909090909,
+    "frameSize": [
+      576,
+      336
+    ],
+    "origin": [
+      0,
+      0
+    ],
+    "trajectory": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ]
+    ]
+  },
+  "frameFiles": [
+    "new-scenes/frames/E08-v1/000.png",
+    "new-scenes/frames/E08-v1/001.png",
+    "new-scenes/frames/E08-v1/002.png",
+    "new-scenes/frames/E08-v1/003.png",
+    "new-scenes/frames/E08-v1/004.png",
+    "new-scenes/frames/E08-v1/005.png",
+    "new-scenes/frames/E08-v1/006.png",
+    "new-scenes/frames/E08-v1/007.png",
+    "new-scenes/frames/E08-v1/008.png",
+    "new-scenes/frames/E08-v1/009.png",
+    "new-scenes/frames/E08-v1/010.png",
+    "new-scenes/frames/E08-v1/011.png",
+    "new-scenes/frames/E08-v1/012.png",
+    "new-scenes/frames/E08-v1/013.png",
+    "new-scenes/frames/E08-v1/014.png",
+    "new-scenes/frames/E08-v1/015.png",
+    "new-scenes/frames/E08-v1/016.png",
+    "new-scenes/frames/E08-v1/017.png",
+    "new-scenes/frames/E08-v1/018.png",
+    "new-scenes/frames/E08-v1/019.png",
+    "new-scenes/frames/E08-v1/020.png",
+    "new-scenes/frames/E08-v1/021.png",
+    "new-scenes/frames/E08-v1/022.png",
+    "new-scenes/frames/E08-v1/023.png"
+  ],
+  "sourceSha256": "ccd4b0ac12c8839218628c962b1a57aa78bc867052afdcbf0b10a6f7e0291dfd",
+  "frameSha256": [
+    "f550f6d61eae73cff7e671cde15f93b47fd0d1a3badddaac94c17b131f57359a",
+    "8f29709c5e004c7a32d651971e38a707ac5641b720323f3a5e281413a63a6d29",
+    "208a59f52ae90dca21a2fcad3f287631a8693b914dd34bf80cc8d51b17f2dde0",
+    "2bb94b0799688f4ba0de6fa8d901e1a9a7f6e19464c3ab17eabd96411138adc8",
+    "5fb202aa10ce0153c8d351551dcf9f8e476e38d86f0189cffbe0a5a7bb5ee300",
+    "b1a7c6e5679ea620e3a79618ebe58f8b13a246c545278d72ce6521ba29632b22",
+    "ac36f00c30a9cd3b1180acc03304dddcc0b423e1fc8c60d010ab08224a5d9962",
+    "389b6e14d50a2b83fec438418b6a995c7cf11262ee6ffb69d07a73570ad6c50a",
+    "e51216c8296f2994fcc823233427289151328f517fea23464da056d0c3b17993",
+    "a75ee9b2c4c7dff818059888c426d183f1d92795320c33179b29d3c571958e00",
+    "99840763f5135249f7c42148847b62fefebecd96afde71e848c29d167ed8fbf6",
+    "eba9895424f7ca254dc1c419db60806d7bc5f17c7b2e027cae37e40056247d03",
+    "7558d1f9364be109274550f2105d37b3b3f2d677fbde8690661213fe052fe22f",
+    "77a65c47406d4159b5d3961f73395b66f6ed74b0d76866603f76f32ac0fc05d4",
+    "cbac8a79f96fbb51d8ef1e1c7b8596b600a63963b185424fe9e250e136a45754",
+    "bef3cd409f89223ddb1e1b6b032f994f05ab78940e10aea5f2741f6337034539",
+    "71ae9b053571dd9337a884f2fc98d1c199787ae9ce9a96a642c0815e42b6f6a1",
+    "a9890a790ebe5e4acc5c4b16be6ce406988fca54297abd83f9cd6d7609868c8f",
+    "9e6c7c014fba3d07c92afb70e77c0275258794c5599137b3ee64e062fc4542ca",
+    "8e5c6e3aaaacad43dea63de1e2a6e4cb219ce18e6aab245972ce624f28db0341",
+    "67f3c3f9be856d89c322114d7074bb75223fabf6bf4528eff8127d388a5dccb3",
+    "087f2195fcedce87f342cc9866fcfc827d3221368f01b56ed56d3d0071613a13",
+    "176fc4553f4664394062ee8bcc8c38682bf4b8335791eb0748fdfee69c3551bf",
+    "5ce6852a68b2094a962fce1b3bd50197ab7ece336a7e25fed68e84296e17480f"
+  ],
+  "bytes": 2999573,
+  "sha256": "b935f85bb31f28ca77a05a7c3c68f70332b5d0893cf57a8563364acc1cc8f0ce"
+}
