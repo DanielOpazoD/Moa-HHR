@@ -251,7 +251,7 @@ test("abbreviated care vignette context is visible only for its selection", asyn
 
 test("C21 is selectable with its source limitation and finite dance playback", async ({ page }) => {
   await page.goto("/");
-  await page.locator("#search").fill("C21");
+  await page.locator("#search").fill("C21 ·");
   await expect(page.locator(".card")).toHaveCount(1);
   await page.locator(".card").click();
   await expect(page.locator("#preview-title")).toContainText("pasito de Leo Rey");
@@ -262,4 +262,21 @@ test("C21 is selectable with its source limitation and finite dance playback", a
   await page.locator("#play").click();
   await expect(page.locator("#sprite")).toHaveAttribute("data-state", "playing");
   await expect(page.locator("#sprite")).toHaveAttribute("data-state", "rest", { timeout: 6500 });
+});
+
+
+test("C21G preserves the original dance and plays the full-turn addition", async ({ page }) => {
+  await page.goto("/");
+  await page.locator("#search").fill("C21");
+  await expect(page.locator(".card")).toHaveCount(2);
+  await page.locator("#search").fill("C21G");
+  await expect(page.locator(".card")).toHaveCount(1);
+  await page.locator(".card").click();
+  await expect(page.locator("#details")).toContainText("giro corporal completo");
+  await page.waitForFunction(() => document.querySelector("#sprite img")?.naturalWidth === 18 * 288);
+  await page.locator("#frame").fill("10");
+  await expect(page.locator("#status")).toHaveText("Cuadro 11 de 18");
+  await page.locator("#play").click();
+  await expect(page.locator("#sprite")).toHaveAttribute("data-state", "playing");
+  await expect(page.locator("#sprite")).toHaveAttribute("data-state", "rest", { timeout: 7500 });
 });

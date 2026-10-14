@@ -55,3 +55,14 @@ Diez escenas preparadas, 108 poses editables. C39/C40/C42: [QA VIII](QA-chile-08
 - [C46 · La Gaviota le queda grande](../new-scenes/scenes/C46.json): 12 poses.
 - [C47 · El Monstruo termina queriendo a Moa](../new-scenes/scenes/C47.json): 12 poses.
 - [C48 · Don Carter entrega una carta gigante](../new-scenes/scenes/C48.json): 12 poses.
+
+
+## C21G · Pasito y vuelta completa
+
+Animación adicional solicitada tras revisar C21. Conserva la primera sin modificar sus PNG, tiempos ni atlas. C21G incluye preparación, pasito, giro corporal por ambos perfiles y espalda, y regreso al frente: 18 poses y 5680 ms.
+
+Se revisó el tramo 14–20 s del clip de referencia. Muestra el inicio del giro y la espalda, pero termina antes del regreso frontal; la vuelta se completa artísticamente en esta escena. No es transcripción biomecánica exacta. El emblema frontal de Moa desaparece al dar la espalda y el micrófono mantiene continuidad por oclusión.
+
+[JSON y orden de reproducción](../new-scenes/scenes/C21G.json) · [Cuadros editables](../new-scenes/frames/C21G-v2/) · [Secuencia](../evidence/C21G/light-frames.png) · [HTML autónomo](../review/moa-leo-rey-giro.html) · [QA](QA-chile-11.md).
+
+La lista frameFiles del JSON conserva explícitamente el orden: las celdas fuente 13/14 se reproducen como 14/13 para ir de perfil izquierdo a tres cuartos frontal. Los PNG no se deformaron ni se duplicaron. Reconstrucción: scripts/rebuild.py con el JSON de C21G. El atlas activo es v3; fuente y PNG extraídos v2 permanecen intactos.
