@@ -7,10 +7,10 @@ const allExpected = JSON.parse(await fs.readFile("scenes.json", "utf8")).filter(
 );
 const browser = await chromium.launch({ headless: true });
 try {
- for (const [file, isRemix] of [["moa-scenes.html", false], ["moa-chile-remix.html", true]]) {
-  const expected = allExpected.filter(s => Boolean(s.batch?.startsWith("chile-remix-")) === isRemix);
+ for (const [file, group] of [["moa-scenes.html", "legacy"], ["moa-chile-remix.html", "remix"], ["moa-leo-rey-giro.html", "hd"]]) {
+  const expected = allExpected.filter(s => (s.frameSize?.[0] === 576 ? "hd" : s.batch?.startsWith("chile-remix-") ? "remix" : "legacy") === group);
   if (!expected.length) throw Error(`Empty offline collection: ${file}`);
-  const selected = isRemix ? expected.at(-1) : expected.find(s => s.id === "B29");
+  const selected = group === "legacy" ? expected.find(s => s.id === "B29") : expected.at(-1);
   const page = await browser.newPage();
   const errors = [];
   page.on("pageerror", (e) => errors.push(e.message));
@@ -34,11 +34,11 @@ try {
   await page.locator("#category").selectOption("all");
   await page.locator("#search").fill(selected.id);
   await page.locator(".card").click();
-  await page.waitForFunction((frames) => {
+  await page.waitForFunction(({frames, width}) => {
     const image = document.querySelector("#sprite img");
-    return image?.complete && image.naturalWidth === frames * 288 &&
+    return image?.complete && image.naturalWidth === frames * width &&
       document.querySelector("#status").textContent === `Cuadro 1 de ${frames}`;
-  }, selected.frames);
+  }, {frames: selected.frames, width: selected.frameSize?.[0] || 288});
   await page.locator("#search").fill("");
   await page.locator("#play").click();
   await page.waitForFunction(

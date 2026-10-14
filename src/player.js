@@ -48,6 +48,7 @@ export class MoaPlayer {
   }
   show(image, scene, frame) {
     image.alt = "";
+    image.style.imageRendering = scene.renderMode === "smooth" ? "auto" : "pixelated";
     image.draggable = false;
     image.style.width = `${scene.frames * 100}%`;
     image.style.transform = `translateX(${(-100 * frame) / scene.frames}%)`;

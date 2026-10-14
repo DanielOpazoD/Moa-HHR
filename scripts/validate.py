@@ -25,26 +25,28 @@ for s in scenes:
     assert 2999.99 <= sum(s["durations"]) * s["cycles"] <= 6000.01
     assert 0 <= s["still"] < n
     path = root / s["src"]
-    assert path.stat().st_size < 300000, (s["id"], path.stat().st_size)
+    assert path.stat().st_size < (2000000 if s.get("frameSize") == [576, 336] else 300000), (s["id"], path.stat().st_size)
     im = Image.open(path).convert("RGBA")
-    assert im.size == (n * 288, 168)
+    fw, fh = s.get("frameSize", [288, 168])
+    assert [fw, fh] in ([288, 168], [576, 336])
+    assert im.size == (n * fw, fh)
     hashes = set()
     for i in range(n):
-        f = im.crop((i * 288, 0, (i + 1) * 288, 168))
+        f = im.crop((i * fw, 0, (i + 1) * fw, fh))
         a = f.getchannel("A")
         assert a.getextrema()[0] == 0 and a.getextrema()[1] > 200
         hashes.add(hashlib.sha256(f.tobytes()).hexdigest())
         if s["pack"] == "new":
-            assert a.crop((240, 0, 288, 48)).getbbox() is None, (
+            assert a.crop((round(240 * fw / 288), 0, fw, round(48 * fh / 168))).getbbox() is None, (
                 s["id"],
                 i,
                 "X overlap",
             )
             for box, label in [
-                ((0, 0, 288, 3), "top"),
-                ((0, 165, 288, 168), "bottom"),
-                ((0, 0, 3, 168), "left"),
-                ((285, 0, 288, 168), "right"),
+                ((0, 0, fw, 3), "top"),
+                ((0, fh - 3, fw, fh), "bottom"),
+                ((0, 0, 3, fh), "left"),
+                ((fw - 3, 0, fw, fh), "right"),
             ]:
                 assert a.crop(box).getbbox() is None, (s["id"], i, label + " margin")
     assert len(hashes) == n, (s["id"], "duplicate frames")
@@ -52,7 +54,7 @@ for s in scenes:
         totalnew += path.stat().st_size
         assert hashlib.sha256(path.read_bytes()).hexdigest() == s["sha256"]
 print(
-    f"{len(scenes)} scenes validated; original={original:,} / 4,194,304 bytes; separate new package={totalnew:,} bytes. Every atlas <300,000 bytes."
+    f"{len(scenes)} scenes validated; original={original:,} / 4,194,304 bytes; separate new package={totalnew:,} bytes. Standard atlases <300,000 bytes; HD atlases <2,000,000 bytes."
 )
 # Sidecars are authoritative; generated indexes must match and editable sources remain verifiable.
 sidecars = sorted(
@@ -67,10 +69,12 @@ for s in sidecars:
         hashlib.sha256((root / s["source"]).read_bytes()).hexdigest()
         == s["sourceSha256"]
     ), (s["id"] + " source changed")
+    for sheet in s.get("sourceSheets", []):
+        assert hashlib.sha256((root / sheet["source"]).read_bytes()).hexdigest() == sheet["sha256"]
     assert len(s["frameFiles"]) == s["frames"] == len(s["frameSha256"])
     for name, digest in zip(s["frameFiles"], s["frameSha256"]):
         p = root / name
-        assert Image.open(p).size == (288, 168)
+        assert Image.open(p).size == tuple(s.get("frameSize", [288, 168]))
         assert hashlib.sha256(p.read_bytes()).hexdigest() == digest, name
 print(
     f'{len(sidecars)} per-scene manifests and {sum(s["frames"] for s in sidecars)} editable PNGs verified.'
