@@ -44,7 +44,7 @@ for id, seconds, cycles, still in re.findall(
     )
 new = sorted(
     [json.loads(p.read_text()) for p in (root / "new-scenes/scenes").glob("*.json")],
-    key=lambda s: s["order"],
+    key=lambda s: (s["order"], s["id"]),
 )
 (root / "new-scenes/manifest.json").write_text(
     json.dumps(new, ensure_ascii=False, indent=2) + "\n"

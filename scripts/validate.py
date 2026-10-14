@@ -59,8 +59,9 @@ print(
 # Sidecars are authoritative; generated indexes must match and editable sources remain verifiable.
 sidecars = sorted(
     [json.loads(p.read_text()) for p in (root / "new-scenes/scenes").glob("*.json")],
-    key=lambda s: s["order"],
+    key=lambda s: (s["order"], s["id"]),
 )
+assert len({s["order"] for s in sidecars}) == len(sidecars), "scene order values must be unique"
 assert sidecars == json.loads(
     (root / "new-scenes/manifest.json").read_text()
 ), "run scripts/catalog.py after editing sidecars"
