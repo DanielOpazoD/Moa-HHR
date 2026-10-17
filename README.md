@@ -87,3 +87,8 @@ C21G conserva sus 18 cuadros y el giro completo, ahora con cuadros de **576×336
 - [E07 · Don Carter y la carta infinita](review/moa-e07-hd.html): 24 poses HD.
 
 - [E08 · Moa jurado de un completo](review/moa-e08-hd.html): 24 poses HD.
+
+## Compañía tranquila · diez variantes HD
+
+[Vista interactiva](presence.html) · [HTML sin conexión](review/moa-presence.html) · [Índice, fuentes y límites](docs/PRESENCE.md).
+Diez gestos de compañía con 120 cuadros editables: respiración, pestañeo, mirada, contacto visual, inclinación, acomodarse, suspiro, alisarse el pecho, estiramiento y saludo. Incluye modo de compañía optativo con pausas, movimiento reducido y revisión cuadro a cuadro. No reemplaza automáticamente el estado predeterminado de HHR.

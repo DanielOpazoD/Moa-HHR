@@ -38424,5 +38424,1615 @@
     ],
     "bytes": 2999573,
     "sha256": "b935f85bb31f28ca77a05a7c3c68f70332b5d0893cf57a8563364acc1cc8f0ce"
+  },
+  {
+    "order": 609,
+    "id": "presence-i01",
+    "title": "Respiración tranquila",
+    "category": "Compañía tranquila",
+    "pack": "new",
+    "version": 1,
+    "status": "candidate",
+    "frames": 12,
+    "durations": [
+      400,
+      400,
+      400,
+      400,
+      400,
+      400,
+      400,
+      400,
+      400,
+      400,
+      400,
+      400
+    ],
+    "cycles": 1,
+    "still": 0,
+    "frameSize": [
+      576,
+      336
+    ],
+    "renderMode": "smooth",
+    "source": "new-scenes/sources/presence-i01-v1.png",
+    "src": "new-scenes/atlases/moa-presence-i01-v1.png",
+    "generator": "Integrated image_gen",
+    "reference": "references/moa-neutral.png",
+    "review": "Candidato: revisión visual y temporal pendiente. Gestos de compañía sin señales clínicas.",
+    "packaging": {
+      "sourceSize": [
+        1448,
+        1086
+      ],
+      "rowCuts": [
+        0,
+        374,
+        736,
+        1086
+      ],
+      "columnCuts": [
+        0,
+        362,
+        724,
+        1086,
+        1448
+      ],
+      "rowBaselineRegistration": [
+        [
+          0,
+          54
+        ],
+        [
+          0,
+          54
+        ],
+        [
+          0,
+          54
+        ],
+        [
+          0,
+          54
+        ],
+        [
+          0,
+          66
+        ],
+        [
+          0,
+          66
+        ],
+        [
+          0,
+          66
+        ],
+        [
+          0,
+          66
+        ],
+        [
+          0,
+          67
+        ],
+        [
+          0,
+          67
+        ],
+        [
+          0,
+          67
+        ],
+        [
+          0,
+          67
+        ]
+      ],
+      "unionCrop": [
+        72,
+        95,
+        291,
+        401
+      ],
+      "sharedScale": 0.9803921568627451,
+      "frameSize": [
+        576,
+        336
+      ],
+      "origin": [
+        0,
+        0
+      ],
+      "trajectory": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          0
+        ]
+      ]
+    },
+    "frameFiles": [
+      "new-scenes/frames/presence-i01-v1/000.png",
+      "new-scenes/frames/presence-i01-v1/001.png",
+      "new-scenes/frames/presence-i01-v1/002.png",
+      "new-scenes/frames/presence-i01-v1/003.png",
+      "new-scenes/frames/presence-i01-v1/004.png",
+      "new-scenes/frames/presence-i01-v1/005.png",
+      "new-scenes/frames/presence-i01-v1/006.png",
+      "new-scenes/frames/presence-i01-v1/007.png",
+      "new-scenes/frames/presence-i01-v1/008.png",
+      "new-scenes/frames/presence-i01-v1/009.png",
+      "new-scenes/frames/presence-i01-v1/010.png",
+      "new-scenes/frames/presence-i01-v1/011.png"
+    ],
+    "sourceSha256": "e8ae789655a970fdc272a3e91bc6de6657dada00ac134b4ac10db6fb1d43d9ca",
+    "frameSha256": [
+      "279847c20005b384790449956faba0a42342c11ecdd37f0decb0d8f1513864f0",
+      "e6e90df034a1ca0d3915659c452d6141e7a1adcccf7424ed38a9b5c9cfb60ffe",
+      "099956d95ec2486fac0af985c5155306cf3a64a3de36c41f32fcffc8701f1931",
+      "6413799c544d6d33109b93716e25b11316d987157b630b17fa7f44a6f63379c7",
+      "a1d4e4da89d4c52b9bff08348df03f241f85d2e823fc297ae8334f525e50b931",
+      "45cecdc7763b9d707e5addefbff0ab925898d17a25ef197d764ff55e25d951a4",
+      "7c1c77d53b62484858044c6b39b255d37bb6af8c37d452f993add131e885d918",
+      "3560fb3b8154012a492c52201d5ce1598337814f16cebb3f9e1bbf7237bfc303",
+      "4680e09f8426c6d294c50329c552fc1891db874e600ced5332349b5232eb844d",
+      "f62e2d8fad11b173d13d34bc373a6d8f29b984816016fda893647114a30100c7",
+      "d7af13ce1fbe79be883b2041c566a653711e19398ca7f8e85fb3742e7e31b464",
+      "9bbee4b6cc06491a29578cd88e4603a633707382b211a4c8b8deb12af5b17c00"
+    ],
+    "bytes": 1175394,
+    "sha256": "094100b5649719206e6165d56e505ba74e27e1ebcb1a7c2f416b6ec4bc9ff821"
+  },
+  {
+    "order": 610,
+    "id": "presence-i02",
+    "title": "Pestañeo natural",
+    "category": "Compañía tranquila",
+    "pack": "new",
+    "version": 1,
+    "status": "candidate",
+    "frames": 12,
+    "durations": [
+      1900,
+      35,
+      35,
+      35,
+      65,
+      35,
+      35,
+      35,
+      35,
+      350,
+      350,
+      350
+    ],
+    "cycles": 1,
+    "still": 0,
+    "frameSize": [
+      576,
+      336
+    ],
+    "renderMode": "smooth",
+    "source": "new-scenes/sources/presence-i02-v1.png",
+    "src": "new-scenes/atlases/moa-presence-i02-v1.png",
+    "generator": "Integrated image_gen",
+    "reference": "references/moa-neutral.png",
+    "review": "Candidato: revisión visual y temporal pendiente. Gestos de compañía sin señales clínicas.",
+    "packaging": {
+      "sourceSize": [
+        1448,
+        1086
+      ],
+      "rowCuts": [
+        0,
+        367,
+        715,
+        1086
+      ],
+      "columnCuts": [
+        0,
+        362,
+        724,
+        1086,
+        1448
+      ],
+      "rowBaselineRegistration": [
+        [
+          0,
+          38
+        ],
+        [
+          0,
+          38
+        ],
+        [
+          0,
+          38
+        ],
+        [
+          0,
+          38
+        ],
+        [
+          0,
+          54
+        ],
+        [
+          0,
+          54
+        ],
+        [
+          0,
+          54
+        ],
+        [
+          0,
+          54
+        ],
+        [
+          0,
+          56
+        ],
+        [
+          0,
+          56
+        ],
+        [
+          0,
+          56
+        ],
+        [
+          0,
+          56
+        ]
+      ],
+      "unionCrop": [
+        56,
+        64,
+        306,
+        397
+      ],
+      "sharedScale": 0.9009009009009009,
+      "frameSize": [
+        576,
+        336
+      ],
+      "origin": [
+        0,
+        0
+      ],
+      "trajectory": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          0
+        ]
+      ]
+    },
+    "frameFiles": [
+      "new-scenes/frames/presence-i02-v1/000.png",
+      "new-scenes/frames/presence-i02-v1/001.png",
+      "new-scenes/frames/presence-i02-v1/002.png",
+      "new-scenes/frames/presence-i02-v1/003.png",
+      "new-scenes/frames/presence-i02-v1/004.png",
+      "new-scenes/frames/presence-i02-v1/005.png",
+      "new-scenes/frames/presence-i02-v1/006.png",
+      "new-scenes/frames/presence-i02-v1/007.png",
+      "new-scenes/frames/presence-i02-v1/008.png",
+      "new-scenes/frames/presence-i02-v1/009.png",
+      "new-scenes/frames/presence-i02-v1/010.png",
+      "new-scenes/frames/presence-i02-v1/011.png"
+    ],
+    "sourceSha256": "7714350d584dca91dcc2aa1c0e4026d31d0dce7384b1642b52362a8d48a33c92",
+    "frameSha256": [
+      "bb0b2a9cc072a469b512b8f2f95e7202f61a8e2b2810de4455dc27759f9a721d",
+      "3f76c25ea009875c62217fcecbc23b75432dff177cb21f2cc257b50736d09975",
+      "779ed81eb26d188ecda1684e3f03731b42b2b85906cbb827b6dbaaf54d0b6163",
+      "e8c27d0612d947344e6d5e1e3e40597126b2c6633a0b4072eb2fc00cdcb148af",
+      "74cbe0631f460206f33026f53e560a9d9f5004d2895c84a074fde4fca036cb70",
+      "625e40128c92365df673346769a449750c10ad0bb13f232534bcbc69d927d37f",
+      "ccc2eaf8e8d91d01ee618d306859508cc9d4e46f34854e96139d09ae5cfe24f3",
+      "c070a065ad9f1194fa57d8a8fbf62e62d77b8b5438346d841c4cc20d33689dbd",
+      "e7c639c04fc8202decb84bc570b81c172c608de94c867303312ac1d299f8e817",
+      "6bd598f49c407d70c448fc68ef44837226992ed2fddd1920e3c497bd3b5ea91a",
+      "8e267ce432f0cea210a245d90c0bab3aea78c8dcbef3814de792b726e6ca436e",
+      "bf8b147bfbe5601ead9069ebd33762672a8dc39be1ae37cd62b4a086323817a2"
+    ],
+    "bytes": 1202480,
+    "sha256": "d6b80b107953fe68eac9cf500a92f1e2b9ef66d0b6b71595e80794fa4142fcc5"
+  },
+  {
+    "order": 611,
+    "id": "presence-i03",
+    "title": "Mirada curiosa",
+    "category": "Compañía tranquila",
+    "pack": "new",
+    "version": 1,
+    "status": "candidate",
+    "frames": 12,
+    "durations": [
+      750,
+      150,
+      150,
+      180,
+      220,
+      900,
+      180,
+      180,
+      180,
+      180,
+      250,
+      580
+    ],
+    "cycles": 1,
+    "still": 0,
+    "frameSize": [
+      576,
+      336
+    ],
+    "renderMode": "smooth",
+    "source": "new-scenes/sources/presence-i03-v1.png",
+    "src": "new-scenes/atlases/moa-presence-i03-v1.png",
+    "generator": "Integrated image_gen",
+    "reference": "references/moa-neutral.png",
+    "review": "Candidato: revisión visual y temporal pendiente. Gestos de compañía sin señales clínicas.",
+    "packaging": {
+      "sourceSize": [
+        1448,
+        1086
+      ],
+      "rowCuts": [
+        0,
+        373,
+        734,
+        1086
+      ],
+      "columnCuts": [
+        0,
+        362,
+        724,
+        1086,
+        1448
+      ],
+      "rowBaselineRegistration": [
+        [
+          0,
+          49
+        ],
+        [
+          0,
+          49
+        ],
+        [
+          0,
+          49
+        ],
+        [
+          0,
+          49
+        ],
+        [
+          0,
+          62
+        ],
+        [
+          0,
+          62
+        ],
+        [
+          0,
+          62
+        ],
+        [
+          0,
+          62
+        ],
+        [
+          0,
+          61
+        ],
+        [
+          0,
+          61
+        ],
+        [
+          0,
+          61
+        ],
+        [
+          0,
+          61
+        ]
+      ],
+      "unionCrop": [
+        68,
+        87,
+        296,
+        399
+      ],
+      "sharedScale": 0.9615384615384616,
+      "frameSize": [
+        576,
+        336
+      ],
+      "origin": [
+        0,
+        0
+      ],
+      "trajectory": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          0
+        ]
+      ]
+    },
+    "frameFiles": [
+      "new-scenes/frames/presence-i03-v1/000.png",
+      "new-scenes/frames/presence-i03-v1/001.png",
+      "new-scenes/frames/presence-i03-v1/002.png",
+      "new-scenes/frames/presence-i03-v1/003.png",
+      "new-scenes/frames/presence-i03-v1/004.png",
+      "new-scenes/frames/presence-i03-v1/005.png",
+      "new-scenes/frames/presence-i03-v1/006.png",
+      "new-scenes/frames/presence-i03-v1/007.png",
+      "new-scenes/frames/presence-i03-v1/008.png",
+      "new-scenes/frames/presence-i03-v1/009.png",
+      "new-scenes/frames/presence-i03-v1/010.png",
+      "new-scenes/frames/presence-i03-v1/011.png"
+    ],
+    "sourceSha256": "6f9b0b12650444a1f65d7547081e0c6b3c255ea1a1a01e39a53e8f50196e2af6",
+    "frameSha256": [
+      "2820b7deb7c38c951e9f00bca4eb1f3a7cc6ca7d3fd450a08ee9ec78cade436f",
+      "557bda2865449f8f2df7e5e4ddec821c1809afc45336c42ea8241349263e0280",
+      "d3634f8013aefeb3ad3436660af09b6644e030b4066da47d5a442a8943ccdd8e",
+      "9b56f1d0974638997e086b9c49733551988f5a6fa1f9de7dd25600ffc4f6ac84",
+      "643761834487a743528e1038d97905d13c91933c198fb330e75ab95c8461913a",
+      "d0a654221e8b796dd9d43858349ecfa71ade34a46fbb6ec62c67f23886b6cd43",
+      "5845f2adfd9ced09447a62604c7aad0e351271e089a440bb1928369411771454",
+      "b4fb531037184a7bc5442dabfeb168e7c4ec691a7025f4ca73cba9800d5d4689",
+      "c006a443a3a897bb4ffef0cb7fc11e854e1a01ef90034dd01bd47a34a2022ffb",
+      "4bc823aa468655a5181c0be4b8059cc723f90de637f1eb5b87b4f8b8d75a2f6b",
+      "21ac624d4ad13505bf37839aebcd5d50c6b1d0293895f9bb6e63f868e117f331",
+      "973f15e7c8c6f2c347ddf7abff5b86222afccfe4fb8e4d8d47ff4dc1bfac8ba7"
+    ],
+    "bytes": 1207924,
+    "sha256": "76808a9c14929731ae5ee7bbc73f951133feb79aca941224d98d006dfaeea63e"
+  },
+  {
+    "order": 612,
+    "id": "presence-i04",
+    "title": "Contacto visual amable",
+    "category": "Compañía tranquila",
+    "pack": "new",
+    "version": 1,
+    "status": "candidate",
+    "frames": 12,
+    "durations": [
+      650,
+      180,
+      180,
+      220,
+      300,
+      650,
+      400,
+      240,
+      220,
+      220,
+      300,
+      650
+    ],
+    "cycles": 1,
+    "still": 0,
+    "frameSize": [
+      576,
+      336
+    ],
+    "renderMode": "smooth",
+    "source": "new-scenes/sources/presence-i04-v1.png",
+    "src": "new-scenes/atlases/moa-presence-i04-v1.png",
+    "generator": "Integrated image_gen",
+    "reference": "references/moa-neutral.png",
+    "review": "Candidato: revisión visual y temporal pendiente. Sin semántica clínica.",
+    "packaging": {
+      "sourceSize": [
+        1448,
+        1086
+      ],
+      "rowCuts": [
+        0,
+        375,
+        730,
+        1086
+      ],
+      "columnCuts": [
+        0,
+        362,
+        724,
+        1086,
+        1448
+      ],
+      "rowBaselineRegistration": [
+        [
+          0,
+          48
+        ],
+        [
+          0,
+          48
+        ],
+        [
+          0,
+          48
+        ],
+        [
+          0,
+          48
+        ],
+        [
+          0,
+          63
+        ],
+        [
+          0,
+          63
+        ],
+        [
+          0,
+          63
+        ],
+        [
+          0,
+          63
+        ],
+        [
+          0,
+          68
+        ],
+        [
+          0,
+          68
+        ],
+        [
+          0,
+          68
+        ],
+        [
+          0,
+          68
+        ]
+      ],
+      "unionCrop": [
+        65,
+        85,
+        298,
+        402
+      ],
+      "sharedScale": 0.9463722397476341,
+      "frameSize": [
+        576,
+        336
+      ],
+      "origin": [
+        0,
+        0
+      ],
+      "trajectory": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          0
+        ]
+      ]
+    },
+    "frameFiles": [
+      "new-scenes/frames/presence-i04-v1/000.png",
+      "new-scenes/frames/presence-i04-v1/001.png",
+      "new-scenes/frames/presence-i04-v1/002.png",
+      "new-scenes/frames/presence-i04-v1/003.png",
+      "new-scenes/frames/presence-i04-v1/004.png",
+      "new-scenes/frames/presence-i04-v1/005.png",
+      "new-scenes/frames/presence-i04-v1/006.png",
+      "new-scenes/frames/presence-i04-v1/007.png",
+      "new-scenes/frames/presence-i04-v1/008.png",
+      "new-scenes/frames/presence-i04-v1/009.png",
+      "new-scenes/frames/presence-i04-v1/010.png",
+      "new-scenes/frames/presence-i04-v1/011.png"
+    ],
+    "sourceSha256": "413387f9d41d33ea4d58393489a4cba31cdf78a17a2703c094f378c160e38fef",
+    "frameSha256": [
+      "4fa413588bcb177e56df58334a89feffbcd083ab8146ec025b0fe9b864f81885",
+      "84f56117b80becf37ee4c6d6efbd369c2f162b448ead676149a4ea081f3ce540",
+      "8908853c6078ad8b7f81814f910d9a445e3150a2cf5e5c35e580018c1483206e",
+      "8e7db87e2952d4aefff6fcfc41c0d7841df5fddd61f1d854bd2dfc76b46b4404",
+      "3cf3355f3d9baa224dca9436623325effee4cc5b3e033d4bf38d3f548f0f9889",
+      "97b08832850b8d4100732239b079df8b6952637175dd8ed0c0894e2987b0a83e",
+      "2bbca6f285b51511f1955bd6112218d5a4404978c298bd882a9280d0be7d98da",
+      "895bc4b82fcc0d1266b4a5e9c6ec8b10e0a868c05c30108983b3edbfddbe55d0",
+      "c1002a08ba29fc468c2d176468e6526fc2a8ecd6934b257f49484ab4c87af757",
+      "20290d058ef0a4d411d81e3a477127e9bf39d58bd5628a69981d533d5ffca26e",
+      "2c7959638d7789858752783088337f00f93741bd2f2bef68cd5a8efcb198bab0",
+      "9d1554f31e12287cf314226227e7bcff54076f9f3bbcc25cd7f519a41eaff43c"
+    ],
+    "bytes": 1188502,
+    "sha256": "afb6e24f485f73330e75d7184849040142b194607def20d458206595e2bb31e7"
+  },
+  {
+    "order": 613,
+    "id": "presence-i05",
+    "title": "Inclinación de cabeza",
+    "category": "Compañía tranquila",
+    "pack": "new",
+    "version": 1,
+    "status": "candidate",
+    "frames": 12,
+    "durations": [
+      650,
+      180,
+      180,
+      220,
+      300,
+      650,
+      400,
+      240,
+      220,
+      220,
+      300,
+      650
+    ],
+    "cycles": 1,
+    "still": 0,
+    "frameSize": [
+      576,
+      336
+    ],
+    "renderMode": "smooth",
+    "source": "new-scenes/sources/presence-i05-v1.png",
+    "src": "new-scenes/atlases/moa-presence-i05-v1.png",
+    "generator": "Integrated image_gen",
+    "reference": "references/moa-neutral.png",
+    "review": "Candidato: revisión visual y temporal pendiente. Sin semántica clínica.",
+    "packaging": {
+      "sourceSize": [
+        1448,
+        1086
+      ],
+      "rowCuts": [
+        0,
+        373,
+        735,
+        1086
+      ],
+      "columnCuts": [
+        0,
+        362,
+        724,
+        1086,
+        1448
+      ],
+      "rowBaselineRegistration": [
+        [
+          0,
+          51
+        ],
+        [
+          0,
+          51
+        ],
+        [
+          0,
+          51
+        ],
+        [
+          0,
+          51
+        ],
+        [
+          0,
+          62
+        ],
+        [
+          0,
+          62
+        ],
+        [
+          0,
+          62
+        ],
+        [
+          0,
+          62
+        ],
+        [
+          0,
+          63
+        ],
+        [
+          0,
+          63
+        ],
+        [
+          0,
+          63
+        ],
+        [
+          0,
+          63
+        ]
+      ],
+      "unionCrop": [
+        68,
+        89,
+        298,
+        399
+      ],
+      "sharedScale": 0.967741935483871,
+      "frameSize": [
+        576,
+        336
+      ],
+      "origin": [
+        0,
+        0
+      ],
+      "trajectory": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          0
+        ]
+      ]
+    },
+    "frameFiles": [
+      "new-scenes/frames/presence-i05-v1/000.png",
+      "new-scenes/frames/presence-i05-v1/001.png",
+      "new-scenes/frames/presence-i05-v1/002.png",
+      "new-scenes/frames/presence-i05-v1/003.png",
+      "new-scenes/frames/presence-i05-v1/004.png",
+      "new-scenes/frames/presence-i05-v1/005.png",
+      "new-scenes/frames/presence-i05-v1/006.png",
+      "new-scenes/frames/presence-i05-v1/007.png",
+      "new-scenes/frames/presence-i05-v1/008.png",
+      "new-scenes/frames/presence-i05-v1/009.png",
+      "new-scenes/frames/presence-i05-v1/010.png",
+      "new-scenes/frames/presence-i05-v1/011.png"
+    ],
+    "sourceSha256": "1986b15bb611e2222ac19d1ff9ef856050db5d8fc2958981f99ad8cec1aa9d42",
+    "frameSha256": [
+      "1b98fc5b65c384ea1b88870a999d351923197c9448a719560da9c79de2321d12",
+      "0687e56ff2c9c0f4d025b43714043066b11696b7b32d3a6351987963258af037",
+      "4e251af1d44c0dc50e9f1d9a97d1db96e136a6684378f4e2b65b2d220fd4ec0c",
+      "c97172757125fd3f526cc17b429c175f867ee020b7d73e1ac332a63a53141dc6",
+      "edf422dd652cbb53d5bafaa3c00aea9dc11d2fc5b554753edae248be7954efc0",
+      "de71e1dcac134e487fb8fd5bf9ea95da80ecbe6d9efcd068c1df83640e916a76",
+      "3fd1934f6230bd47e0659defe42a51473531c82b0889e8066bd3baba3d1a786a",
+      "d7d690d64f7442ea83bfaf3638374e9ada1ddb65bca7b4c8d59bedb9f548378e",
+      "41b369381e0e63f16ac5488c268b2db55674951786000d486f8073b97ae832bc",
+      "a7d7da2c0fbd36d4677dc3d00490ac00446ed86ad98ef4d6e93184b108160b35",
+      "b337b09de1910b13911ae1ea6852bb26e6b7b90cce6ad0a09fc9f5a8715a2daa",
+      "3ff308aeec38225650091f8fef64fb2e470cb7fb8f760503c9437df831b39d92"
+    ],
+    "bytes": 1193594,
+    "sha256": "7384f594f2c83a5a53ee7f75b6a540c38c4e06389aa59d6706ab660abcf97c53"
+  },
+  {
+    "order": 614,
+    "id": "presence-i06",
+    "title": "Acomodarse",
+    "category": "Compañía tranquila",
+    "pack": "new",
+    "version": 1,
+    "status": "candidate",
+    "frames": 12,
+    "durations": [
+      650,
+      180,
+      180,
+      220,
+      300,
+      650,
+      400,
+      240,
+      220,
+      220,
+      300,
+      650
+    ],
+    "cycles": 1,
+    "still": 0,
+    "frameSize": [
+      576,
+      336
+    ],
+    "renderMode": "smooth",
+    "source": "new-scenes/sources/presence-i06-v1.png",
+    "src": "new-scenes/atlases/moa-presence-i06-v1.png",
+    "generator": "Integrated image_gen",
+    "reference": "references/moa-neutral.png",
+    "review": "Candidato: revisión visual y temporal pendiente. Sin semántica clínica.",
+    "packaging": {
+      "sourceSize": [
+        1448,
+        1086
+      ],
+      "rowCuts": [
+        0,
+        373,
+        735,
+        1086
+      ],
+      "columnCuts": [
+        0,
+        362,
+        724,
+        1086,
+        1448
+      ],
+      "rowBaselineRegistration": [
+        [
+          0,
+          53
+        ],
+        [
+          0,
+          53
+        ],
+        [
+          0,
+          53
+        ],
+        [
+          0,
+          53
+        ],
+        [
+          0,
+          64
+        ],
+        [
+          0,
+          64
+        ],
+        [
+          0,
+          64
+        ],
+        [
+          0,
+          64
+        ],
+        [
+          0,
+          65
+        ],
+        [
+          0,
+          65
+        ],
+        [
+          0,
+          65
+        ],
+        [
+          0,
+          65
+        ]
+      ],
+      "unionCrop": [
+        71,
+        93,
+        290,
+        400
+      ],
+      "sharedScale": 0.9771986970684039,
+      "frameSize": [
+        576,
+        336
+      ],
+      "origin": [
+        0,
+        0
+      ],
+      "trajectory": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          0
+        ]
+      ]
+    },
+    "frameFiles": [
+      "new-scenes/frames/presence-i06-v1/000.png",
+      "new-scenes/frames/presence-i06-v1/001.png",
+      "new-scenes/frames/presence-i06-v1/002.png",
+      "new-scenes/frames/presence-i06-v1/003.png",
+      "new-scenes/frames/presence-i06-v1/004.png",
+      "new-scenes/frames/presence-i06-v1/005.png",
+      "new-scenes/frames/presence-i06-v1/006.png",
+      "new-scenes/frames/presence-i06-v1/007.png",
+      "new-scenes/frames/presence-i06-v1/008.png",
+      "new-scenes/frames/presence-i06-v1/009.png",
+      "new-scenes/frames/presence-i06-v1/010.png",
+      "new-scenes/frames/presence-i06-v1/011.png"
+    ],
+    "sourceSha256": "de35c794abd5162b7e78d5873961844108a4b3d6749d4cccd9e31a8eb05fadb9",
+    "frameSha256": [
+      "07330f9dec6e5ac35b01853b2500f9539c383ac7d12a14174c4edfc99c9fb3ba",
+      "6d7cabf17dfee75829f16bb10f4e8829a48ca89d12b4f0a77ab822a69fd025e3",
+      "2ec13bf7b009a4d1e1403cc2994377cab57f27e48001f2e3bf54b05f82e86fe8",
+      "304f716c5973f82953fdb8c641e5fb50b38fb384e7103927d230b37c81616602",
+      "220e591a4ef8cbb4a2a2c380c22c4da1ef3c3b3ad85159f2971a8cd548b75550",
+      "e608d9fadbdfcf8360a610621a7c2d8ed274bbfc5baa2e36d16bca217042184f",
+      "11de3bfdd24f0e3095c39a4a82f97afe4168c88f7e4ae17241729eea76479a6d",
+      "799012403e00a5b5d1491abfc949fac090d5c1ce2f6dcc616c75933d7e751e11",
+      "199ba25b33bf9f6d2ec8a68768595192d15acbf1609ff6e3fd89dda8a65806e1",
+      "0213405f6dce949bdd80ade4064f84db23387e6433d2c08b08e52ce41de4e4f6",
+      "5c21a743f7949a00e3345c0b8c3edd9f305e4b16222af3f8a9eadc6b09f5c842",
+      "81bc107110854a6102dfc3d9fd764f8d4d24288b0a5dd17d859015b4eb89fee6"
+    ],
+    "bytes": 1132287,
+    "sha256": "b92c0f05d83fa089e3d1fa856586bcc2bdb31e2b2611babd924ecde69a8ef69b"
+  },
+  {
+    "order": 615,
+    "id": "presence-i07",
+    "title": "Suspiro de descanso",
+    "category": "Compañía tranquila",
+    "pack": "new",
+    "version": 1,
+    "status": "candidate",
+    "frames": 12,
+    "durations": [
+      650,
+      180,
+      180,
+      220,
+      300,
+      650,
+      400,
+      240,
+      220,
+      220,
+      300,
+      650
+    ],
+    "cycles": 1,
+    "still": 0,
+    "frameSize": [
+      576,
+      336
+    ],
+    "renderMode": "smooth",
+    "source": "new-scenes/sources/presence-i07-v1.png",
+    "src": "new-scenes/atlases/moa-presence-i07-v1.png",
+    "generator": "Integrated image_gen",
+    "reference": "references/moa-neutral.png",
+    "review": "Candidato: revisión visual y temporal pendiente. Sin semántica clínica.",
+    "packaging": {
+      "sourceSize": [
+        1448,
+        1086
+      ],
+      "rowCuts": [
+        0,
+        378,
+        729,
+        1086
+      ],
+      "columnCuts": [
+        0,
+        362,
+        724,
+        1086,
+        1448
+      ],
+      "rowBaselineRegistration": [
+        [
+          0,
+          41
+        ],
+        [
+          0,
+          41
+        ],
+        [
+          0,
+          41
+        ],
+        [
+          0,
+          41
+        ],
+        [
+          0,
+          68
+        ],
+        [
+          0,
+          68
+        ],
+        [
+          0,
+          68
+        ],
+        [
+          0,
+          68
+        ],
+        [
+          0,
+          63
+        ],
+        [
+          0,
+          63
+        ],
+        [
+          0,
+          63
+        ],
+        [
+          0,
+          63
+        ]
+      ],
+      "unionCrop": [
+        60,
+        80,
+        300,
+        405
+      ],
+      "sharedScale": 0.9230769230769231,
+      "frameSize": [
+        576,
+        336
+      ],
+      "origin": [
+        0,
+        0
+      ],
+      "trajectory": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          0
+        ]
+      ]
+    },
+    "frameFiles": [
+      "new-scenes/frames/presence-i07-v1/000.png",
+      "new-scenes/frames/presence-i07-v1/001.png",
+      "new-scenes/frames/presence-i07-v1/002.png",
+      "new-scenes/frames/presence-i07-v1/003.png",
+      "new-scenes/frames/presence-i07-v1/004.png",
+      "new-scenes/frames/presence-i07-v1/005.png",
+      "new-scenes/frames/presence-i07-v1/006.png",
+      "new-scenes/frames/presence-i07-v1/007.png",
+      "new-scenes/frames/presence-i07-v1/008.png",
+      "new-scenes/frames/presence-i07-v1/009.png",
+      "new-scenes/frames/presence-i07-v1/010.png",
+      "new-scenes/frames/presence-i07-v1/011.png"
+    ],
+    "sourceSha256": "35b991313ac0e2697507ab6e0ec1da4fae8435c05b1181a2541788e070ac582b",
+    "frameSha256": [
+      "9d4f4df504cf5faa4cc0fb08fd6f675bdbe8f02a9596ab3758b55c753b37fb49",
+      "1c9219c2ebdfbd88dc2c553f3146b1350dd35703aca32a69d967b279a5a50ba3",
+      "658caff2dbbc3e2aacac373cb49e1f1db22d1040085fe32defcfae64cfa91410",
+      "69097e6c9fc97065a8464f1e25ff74df60bf775899c5199dfc33b75a1692be5d",
+      "b3c874af2a85a0e83e60e6dfa4484b21ef5339f53d980466b7b2dafd34712e68",
+      "7622c89c0a82e5dbf1be7eb643ad26ffb261be58700925b69f055a7dd51c6c3b",
+      "cd917e503527fd835e98c20b5d37e3b9e6be380ef2ddbdda144c8f558ffb7cb7",
+      "758d675b2d242b2b3a2aa4c080aaa8e145c4703c18479751c90488a324394da6",
+      "c8bcdf9cf0f5e2d518cdabd93b22252644e703a27766d0a072b85282d6962d18",
+      "1c420de4b4e1c00aced1df16641221595998920ca1d68754bd974fd4c90d352c",
+      "10801a2260339ae6f5fcdcaa2f78254889bffa21c04351e0c61aba47f56ffb81",
+      "c02bebf08da097de1f16521ab0f2a565aff2bbd52e778e29bf7b5b68684fadb8"
+    ],
+    "bytes": 1192731,
+    "sha256": "dc68f6882c811f6c39ad8ebe21b65c073d2a5ae318a594a01eebb81ddb08a4ab"
+  },
+  {
+    "order": 616,
+    "id": "presence-i08",
+    "title": "Alisarse el pecho",
+    "category": "Compañía tranquila",
+    "pack": "new",
+    "version": 2,
+    "status": "candidate",
+    "frames": 12,
+    "durations": [
+      650,
+      180,
+      180,
+      220,
+      300,
+      650,
+      400,
+      240,
+      220,
+      220,
+      300,
+      650
+    ],
+    "cycles": 1,
+    "still": 0,
+    "frameSize": [
+      576,
+      336
+    ],
+    "renderMode": "smooth",
+    "source": "new-scenes/sources/presence-i08-v1.png",
+    "src": "new-scenes/atlases/moa-presence-i08-v2.png",
+    "generator": "Integrated image_gen",
+    "reference": "references/moa-neutral.png",
+    "review": "Secuencia reordenada para continuidad del brazo; fuentes originales preservadas.",
+    "packaging": {
+      "sourceSize": [
+        1448,
+        1086
+      ],
+      "rowCuts": [
+        0,
+        378,
+        737,
+        1086
+      ],
+      "columnCuts": [
+        0,
+        362,
+        724,
+        1086,
+        1448
+      ],
+      "rowBaselineRegistration": [
+        [
+          0,
+          43
+        ],
+        [
+          0,
+          43
+        ],
+        [
+          0,
+          43
+        ],
+        [
+          0,
+          43
+        ],
+        [
+          0,
+          63
+        ],
+        [
+          0,
+          63
+        ],
+        [
+          0,
+          63
+        ],
+        [
+          0,
+          63
+        ],
+        [
+          0,
+          64
+        ],
+        [
+          0,
+          64
+        ],
+        [
+          0,
+          64
+        ],
+        [
+          0,
+          64
+        ]
+      ],
+      "unionCrop": [
+        58,
+        81,
+        304,
+        404
+      ],
+      "sharedScale": 0.9287925696594427,
+      "frameSize": [
+        576,
+        336
+      ],
+      "origin": [
+        0,
+        0
+      ],
+      "trajectory": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          0
+        ]
+      ]
+    },
+    "frameFiles": [
+      "new-scenes/frames/presence-i08-v1/000.png",
+      "new-scenes/frames/presence-i08-v1/002.png",
+      "new-scenes/frames/presence-i08-v1/001.png",
+      "new-scenes/frames/presence-i08-v1/003.png",
+      "new-scenes/frames/presence-i08-v1/004.png",
+      "new-scenes/frames/presence-i08-v1/005.png",
+      "new-scenes/frames/presence-i08-v1/006.png",
+      "new-scenes/frames/presence-i08-v1/007.png",
+      "new-scenes/frames/presence-i08-v1/008.png",
+      "new-scenes/frames/presence-i08-v1/009.png",
+      "new-scenes/frames/presence-i08-v1/010.png",
+      "new-scenes/frames/presence-i08-v1/011.png"
+    ],
+    "sourceSha256": "273e871a7508e0ed056a22a59ff449a1974a2cddc332bcd1c8acdbf30dacb687",
+    "frameSha256": [
+      "5119cd61159e2af9a9894c2b2c9ffa3e5bab4e500e80ba2ed35fe7680c411463",
+      "7e8272acec7dc8cb9e0b967207574cf47c0385368a7470a3f112999ba18ba197",
+      "4032a3cba6bb5808c07cabf541d6d8af8aebb7c3fb81f1e61655490ad4dde47a",
+      "2c274d812fe82a2e85048b12b60fa28d780f5ea5b775716d4fe1f3c362a6c0dd",
+      "5b08aeaac2843cd5a92f354d90cf11e7bfd6fc9475478d7d999bdee53d1829a7",
+      "8d4feedad88664e349c7120f09277646f1c03fb33ec396c38db48e6e895fa185",
+      "99212ced700010dab13b1424b446ddb07169b0a87858f3b0c9545120a9d0cbae",
+      "d1378469eff16ed4fb0eb1b2cc37f70363ba5893cfa62bb6748e61a56197241e",
+      "91155e2db420eb7b66c10fa1089bf1aed8a2614d8fc4d36765b8ec404c25467a",
+      "202fdc7cf41438b545e45ad1569e02b5c8108aff555f62e99753bf1396f15625",
+      "f1492446f73d4f17671ad90a537dbd439ebb04cb67b7db82278bf980fc48d78f",
+      "4584b30623f5587b18c05f1954ad86c75224de67d92a73e1066f69a0076434b2"
+    ],
+    "bytes": 1188843,
+    "sha256": "89d2227a0729352f7be35c7366c32e48ff2989914afa10ee89cf612062efc4b9"
+  },
+  {
+    "order": 617,
+    "id": "presence-i09",
+    "title": "Pequeño estiramiento",
+    "category": "Compañía tranquila",
+    "pack": "new",
+    "version": 1,
+    "status": "candidate",
+    "frames": 12,
+    "durations": [
+      650,
+      180,
+      180,
+      220,
+      300,
+      650,
+      400,
+      240,
+      220,
+      220,
+      300,
+      650
+    ],
+    "cycles": 1,
+    "still": 0,
+    "frameSize": [
+      576,
+      336
+    ],
+    "renderMode": "smooth",
+    "source": "new-scenes/sources/presence-i09-v1.png",
+    "src": "new-scenes/atlases/moa-presence-i09-v1.png",
+    "generator": "Integrated image_gen",
+    "reference": "references/moa-neutral.png",
+    "review": "Candidato: revisión visual y temporal pendiente. Sin semántica clínica.",
+    "packaging": {
+      "sourceSize": [
+        1448,
+        1086
+      ],
+      "rowCuts": [
+        0,
+        372,
+        733,
+        1086
+      ],
+      "columnCuts": [
+        0,
+        362,
+        724,
+        1086,
+        1448
+      ],
+      "rowBaselineRegistration": [
+        [
+          0,
+          51
+        ],
+        [
+          0,
+          51
+        ],
+        [
+          0,
+          51
+        ],
+        [
+          0,
+          51
+        ],
+        [
+          0,
+          62
+        ],
+        [
+          0,
+          62
+        ],
+        [
+          0,
+          62
+        ],
+        [
+          0,
+          62
+        ],
+        [
+          0,
+          60
+        ],
+        [
+          0,
+          60
+        ],
+        [
+          0,
+          60
+        ],
+        [
+          0,
+          60
+        ]
+      ],
+      "unionCrop": [
+        26,
+        88,
+        340,
+        398
+      ],
+      "sharedScale": 0.967741935483871,
+      "frameSize": [
+        576,
+        336
+      ],
+      "origin": [
+        0,
+        0
+      ],
+      "trajectory": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          0
+        ]
+      ]
+    },
+    "frameFiles": [
+      "new-scenes/frames/presence-i09-v1/000.png",
+      "new-scenes/frames/presence-i09-v1/001.png",
+      "new-scenes/frames/presence-i09-v1/002.png",
+      "new-scenes/frames/presence-i09-v1/003.png",
+      "new-scenes/frames/presence-i09-v1/004.png",
+      "new-scenes/frames/presence-i09-v1/005.png",
+      "new-scenes/frames/presence-i09-v1/006.png",
+      "new-scenes/frames/presence-i09-v1/007.png",
+      "new-scenes/frames/presence-i09-v1/008.png",
+      "new-scenes/frames/presence-i09-v1/009.png",
+      "new-scenes/frames/presence-i09-v1/010.png",
+      "new-scenes/frames/presence-i09-v1/011.png"
+    ],
+    "sourceSha256": "75411faa23104fb4ca144a9ad48f46a27adc8eab7417747e2f07b25f778b2cc3",
+    "frameSha256": [
+      "c31a02d18559fa9beb9fa5b9fdc0a919d8e766fe59d5854f7903f5317998c34c",
+      "82d66764579534bb05c7a4358df4b3c7a4e1f04e48c4b89b73d276d88e6f7ec6",
+      "c5dbac3545c8fc0d61fa3517d5613b5e78c265e000ad9b906ccbc60a9c693679",
+      "465dd5177cfd45f025df5dc4a1a4e13327202e366898081e5a74e3c8393a7021",
+      "1783cc75243a47da94df502f5fcb4c1bc26d05ef029521b1afa4ba3ac87f183a",
+      "26ff99fb69ce1cce4c69b0a4ae5dceccefe5cbabd5866aa98647ff8335096313",
+      "3c522b39c3186442c3784696648cd6e9123717f13ddb111cf5dbfb69fc07c676",
+      "c5fc08ea395637abf645b819a0874334f0c7791832094903ea76728aec8570d6",
+      "081504433702f485394c5c26779d411f48dc75891e61837b5e504997ae14cb39",
+      "bfb1d9256d8e3cce429db2fe77c79abb9ed2ac3e767cf6781d3be9fcaa4301fe",
+      "12628cebf42f9347917f51044d43be8cec5ee304cb74aac5e1027339948ca5df",
+      "3d92993684da5574c053035ee126a76f0ebea9589200f8571bc0c6f556a43cff"
+    ],
+    "bytes": 1264148,
+    "sha256": "b9087aa8fd951c840c0501c93735b524af2b1c0d781c8eaa37d0757a2dd21925"
+  },
+  {
+    "order": 618,
+    "id": "presence-i10",
+    "title": "Saludo discreto",
+    "category": "Compañía tranquila",
+    "pack": "new",
+    "version": 2,
+    "status": "candidate",
+    "frames": 12,
+    "durations": [
+      650,
+      180,
+      180,
+      220,
+      300,
+      650,
+      400,
+      240,
+      220,
+      220,
+      300,
+      650
+    ],
+    "cycles": 1,
+    "still": 0,
+    "frameSize": [
+      576,
+      336
+    ],
+    "renderMode": "smooth",
+    "source": "new-scenes/sources/presence-i10-v1.png",
+    "src": "new-scenes/atlases/moa-presence-i10-v2.png",
+    "generator": "Integrated image_gen",
+    "reference": "references/moa-neutral.png",
+    "review": "Secuencia reordenada para continuidad del brazo; fuentes originales preservadas.",
+    "packaging": {
+      "sourceSize": [
+        1448,
+        1086
+      ],
+      "rowCuts": [
+        0,
+        374,
+        735,
+        1086
+      ],
+      "columnCuts": [
+        0,
+        362,
+        724,
+        1086,
+        1448
+      ],
+      "rowBaselineRegistration": [
+        [
+          0,
+          52
+        ],
+        [
+          0,
+          52
+        ],
+        [
+          0,
+          52
+        ],
+        [
+          0,
+          52
+        ],
+        [
+          0,
+          65
+        ],
+        [
+          0,
+          65
+        ],
+        [
+          0,
+          65
+        ],
+        [
+          0,
+          65
+        ],
+        [
+          0,
+          64
+        ],
+        [
+          0,
+          64
+        ],
+        [
+          0,
+          64
+        ],
+        [
+          0,
+          64
+        ]
+      ],
+      "unionCrop": [
+        65,
+        91,
+        293,
+        400
+      ],
+      "sharedScale": 0.970873786407767,
+      "frameSize": [
+        576,
+        336
+      ],
+      "origin": [
+        0,
+        0
+      ],
+      "trajectory": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          0
+        ]
+      ]
+    },
+    "frameFiles": [
+      "new-scenes/frames/presence-i10-v1/000.png",
+      "new-scenes/frames/presence-i10-v1/001.png",
+      "new-scenes/frames/presence-i10-v1/002.png",
+      "new-scenes/frames/presence-i10-v1/003.png",
+      "new-scenes/frames/presence-i10-v1/005.png",
+      "new-scenes/frames/presence-i10-v1/006.png",
+      "new-scenes/frames/presence-i10-v1/007.png",
+      "new-scenes/frames/presence-i10-v1/008.png",
+      "new-scenes/frames/presence-i10-v1/009.png",
+      "new-scenes/frames/presence-i10-v1/010.png",
+      "new-scenes/frames/presence-i10-v1/011.png",
+      "new-scenes/frames/presence-i10-v1/004.png"
+    ],
+    "sourceSha256": "ed4a4804c8f6460f16f609ba0ac547c0763b13ac8035b7df11646756c3a161cb",
+    "frameSha256": [
+      "4570ca0bf6ce1c513aa345a5dd17e41ffa33052c669f6dbd51f1a53cac916039",
+      "d7c99a501ce9114a73117a930bed43c46de5338b880a8fbff5d097760ba8cb2e",
+      "1426430458bb2e1a95d760a179ccf132febefe8256286a9f4e942501879cd155",
+      "4c2d7e9973c863fed537d16c23f4da0f0a0ffe9d0c9ff57eea3a56fa75802add",
+      "38cbbe1f4e1a7f6194b650b74983acaa019d3c62358f461b1efa5f75970494ae",
+      "55be449a1f36e30478a395930fc4cc192fa4b5a0978887afe0ad0204a326f7ad",
+      "6c36100443713b729feb74ce5a93d72b99f0cfde18fa5a1d7f36757f675e94fe",
+      "e7299a490a15f99aef41d6af141971d2fae070855fa07e6fb47c2fe00938a9a7",
+      "fea64ba85be9e3b3444e420cc9512ad3dd94d6fbe4b33cb35270fc3378f8d09e",
+      "d00fb64b98ff508fd0671221c0cbb43cfcbd68fd19d9dd5ac4cef31ff87ee415",
+      "5f4eee0ae577879b56e44849580af05729a0a5ff8e948a45c04d1838e212681b",
+      "8853e6c935f1519afcac50b53eaa2fa7b25a808f5afbb5b98e28d608d0d462ea"
+    ],
+    "bytes": 1180133,
+    "sha256": "dae727eeb92de5e1e0c84a09dfd34e222d98c3704f71ac71738f62c87ae6a990"
   }
 ]

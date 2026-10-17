@@ -3,7 +3,8 @@ import fs from "node:fs/promises";
 import { pathToFileURL } from "node:url";
 import path from "node:path";
 const allExpected = JSON.parse(await fs.readFile("scenes.json", "utf8")).filter(
-  (s) => s.pack === "new",
+  // Presence has a dedicated ten-scene offline viewer, tested in presence.spec.js.
+  (s) => s.pack === "new" && !s.id.startsWith("presence-i"),
 );
 const browser = await chromium.launch({ headless: true });
 try {
