@@ -1,0 +1,161 @@
+{
+  "order": 618,
+  "id": "presence-i10",
+  "title": "Saludo discreto",
+  "category": "Compañía tranquila",
+  "pack": "new",
+  "version": 2,
+  "status": "candidate",
+  "frames": 12,
+  "durations": [
+    650,
+    180,
+    180,
+    220,
+    300,
+    650,
+    400,
+    240,
+    220,
+    220,
+    300,
+    650
+  ],
+  "cycles": 1,
+  "still": 0,
+  "frameSize": [
+    576,
+    336
+  ],
+  "renderMode": "smooth",
+  "source": "new-scenes/sources/presence-i10-v1.png",
+  "src": "new-scenes/atlases/moa-presence-i10-v2.png",
+  "generator": "Integrated image_gen",
+  "reference": "references/moa-neutral.png",
+  "review": "Secuencia reordenada para continuidad del brazo; fuentes originales preservadas.",
+  "packaging": {
+    "sourceSize": [
+      1448,
+      1086
+    ],
+    "rowCuts": [
+      0,
+      374,
+      735,
+      1086
+    ],
+    "columnCuts": [
+      0,
+      362,
+      724,
+      1086,
+      1448
+    ],
+    "rowBaselineRegistration": [
+      [
+        0,
+        52
+      ],
+      [
+        0,
+        52
+      ],
+      [
+        0,
+        52
+      ],
+      [
+        0,
+        52
+      ],
+      [
+        0,
+        65
+      ],
+      [
+        0,
+        65
+      ],
+      [
+        0,
+        65
+      ],
+      [
+        0,
+        65
+      ],
+      [
+        0,
+        64
+      ],
+      [
+        0,
+        64
+      ],
+      [
+        0,
+        64
+      ],
+      [
+        0,
+        64
+      ]
+    ],
+    "unionCrop": [
+      65,
+      91,
+      293,
+      400
+    ],
+    "sharedScale": 0.970873786407767,
+    "frameSize": [
+      576,
+      336
+    ],
+    "origin": [
+      0,
+      0
+    ],
+    "trajectory": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ]
+    ]
+  },
+  "frameFiles": [
+    "new-scenes/frames/presence-i10-v1/000.png",
+    "new-scenes/frames/presence-i10-v1/001.png",
+    "new-scenes/frames/presence-i10-v1/002.png",
+    "new-scenes/frames/presence-i10-v1/003.png",
+    "new-scenes/frames/presence-i10-v1/005.png",
+    "new-scenes/frames/presence-i10-v1/006.png",
+    "new-scenes/frames/presence-i10-v1/007.png",
+    "new-scenes/frames/presence-i10-v1/008.png",
+    "new-scenes/frames/presence-i10-v1/009.png",
+    "new-scenes/frames/presence-i10-v1/010.png",
+    "new-scenes/frames/presence-i10-v1/011.png",
+    "new-scenes/frames/presence-i10-v1/004.png"
+  ],
+  "sourceSha256": "ed4a4804c8f6460f16f609ba0ac547c0763b13ac8035b7df11646756c3a161cb",
+  "frameSha256": [
+    "4570ca0bf6ce1c513aa345a5dd17e41ffa33052c669f6dbd51f1a53cac916039",
+    "d7c99a501ce9114a73117a930bed43c46de5338b880a8fbff5d097760ba8cb2e",
+    "1426430458bb2e1a95d760a179ccf132febefe8256286a9f4e942501879cd155",
+    "4c2d7e9973c863fed537d16c23f4da0f0a0ffe9d0c9ff57eea3a56fa75802add",
+    "38cbbe1f4e1a7f6194b650b74983acaa019d3c62358f461b1efa5f75970494ae",
+    "55be449a1f36e30478a395930fc4cc192fa4b5a0978887afe0ad0204a326f7ad",
+    "6c36100443713b729feb74ce5a93d72b99f0cfde18fa5a1d7f36757f675e94fe",
+    "e7299a490a15f99aef41d6af141971d2fae070855fa07e6fb47c2fe00938a9a7",
+    "fea64ba85be9e3b3444e420cc9512ad3dd94d6fbe4b33cb35270fc3378f8d09e",
+    "d00fb64b98ff508fd0671221c0cbb43cfcbd68fd19d9dd5ac4cef31ff87ee415",
+    "5f4eee0ae577879b56e44849580af05729a0a5ff8e948a45c04d1838e212681b",
+    "8853e6c935f1519afcac50b53eaa2fa7b25a808f5afbb5b98e28d608d0d462ea"
+  ],
+  "bytes": 1180133,
+  "sha256": "dae727eeb92de5e1e0c84a09dfd34e222d98c3704f71ac71738f62c87ae6a990"
+}

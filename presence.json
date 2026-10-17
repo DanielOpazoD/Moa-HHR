@@ -1,0 +1,272 @@
+[
+  {
+    "id": "presence-i01",
+    "title": "Respiración tranquila",
+    "frames": 12,
+    "durations": [
+      400,
+      400,
+      400,
+      400,
+      400,
+      400,
+      400,
+      400,
+      400,
+      400,
+      400,
+      400
+    ],
+    "cycles": 1,
+    "still": 0,
+    "src": "new-scenes/atlases/moa-presence-i01-v1.png",
+    "frameSize": [
+      576,
+      336
+    ],
+    "renderMode": "smooth"
+  },
+  {
+    "id": "presence-i02",
+    "title": "Pestañeo natural",
+    "frames": 12,
+    "durations": [
+      1900,
+      35,
+      35,
+      35,
+      65,
+      35,
+      35,
+      35,
+      35,
+      350,
+      350,
+      350
+    ],
+    "cycles": 1,
+    "still": 0,
+    "src": "new-scenes/atlases/moa-presence-i02-v1.png",
+    "frameSize": [
+      576,
+      336
+    ],
+    "renderMode": "smooth"
+  },
+  {
+    "id": "presence-i03",
+    "title": "Mirada curiosa",
+    "frames": 12,
+    "durations": [
+      750,
+      150,
+      150,
+      180,
+      220,
+      900,
+      180,
+      180,
+      180,
+      180,
+      250,
+      580
+    ],
+    "cycles": 1,
+    "still": 0,
+    "src": "new-scenes/atlases/moa-presence-i03-v1.png",
+    "frameSize": [
+      576,
+      336
+    ],
+    "renderMode": "smooth"
+  },
+  {
+    "id": "presence-i04",
+    "title": "Contacto visual amable",
+    "frames": 12,
+    "durations": [
+      650,
+      180,
+      180,
+      220,
+      300,
+      650,
+      400,
+      240,
+      220,
+      220,
+      300,
+      650
+    ],
+    "cycles": 1,
+    "still": 0,
+    "src": "new-scenes/atlases/moa-presence-i04-v1.png",
+    "frameSize": [
+      576,
+      336
+    ],
+    "renderMode": "smooth"
+  },
+  {
+    "id": "presence-i05",
+    "title": "Inclinación de cabeza",
+    "frames": 12,
+    "durations": [
+      650,
+      180,
+      180,
+      220,
+      300,
+      650,
+      400,
+      240,
+      220,
+      220,
+      300,
+      650
+    ],
+    "cycles": 1,
+    "still": 0,
+    "src": "new-scenes/atlases/moa-presence-i05-v1.png",
+    "frameSize": [
+      576,
+      336
+    ],
+    "renderMode": "smooth"
+  },
+  {
+    "id": "presence-i06",
+    "title": "Acomodarse",
+    "frames": 12,
+    "durations": [
+      650,
+      180,
+      180,
+      220,
+      300,
+      650,
+      400,
+      240,
+      220,
+      220,
+      300,
+      650
+    ],
+    "cycles": 1,
+    "still": 0,
+    "src": "new-scenes/atlases/moa-presence-i06-v1.png",
+    "frameSize": [
+      576,
+      336
+    ],
+    "renderMode": "smooth"
+  },
+  {
+    "id": "presence-i07",
+    "title": "Suspiro de descanso",
+    "frames": 12,
+    "durations": [
+      650,
+      180,
+      180,
+      220,
+      300,
+      650,
+      400,
+      240,
+      220,
+      220,
+      300,
+      650
+    ],
+    "cycles": 1,
+    "still": 0,
+    "src": "new-scenes/atlases/moa-presence-i07-v1.png",
+    "frameSize": [
+      576,
+      336
+    ],
+    "renderMode": "smooth"
+  },
+  {
+    "id": "presence-i08",
+    "title": "Alisarse el pecho",
+    "frames": 12,
+    "durations": [
+      650,
+      180,
+      180,
+      220,
+      300,
+      650,
+      400,
+      240,
+      220,
+      220,
+      300,
+      650
+    ],
+    "cycles": 1,
+    "still": 0,
+    "src": "new-scenes/atlases/moa-presence-i08-v2.png",
+    "frameSize": [
+      576,
+      336
+    ],
+    "renderMode": "smooth"
+  },
+  {
+    "id": "presence-i09",
+    "title": "Pequeño estiramiento",
+    "frames": 12,
+    "durations": [
+      650,
+      180,
+      180,
+      220,
+      300,
+      650,
+      400,
+      240,
+      220,
+      220,
+      300,
+      650
+    ],
+    "cycles": 1,
+    "still": 0,
+    "src": "new-scenes/atlases/moa-presence-i09-v1.png",
+    "frameSize": [
+      576,
+      336
+    ],
+    "renderMode": "smooth"
+  },
+  {
+    "id": "presence-i10",
+    "title": "Saludo discreto",
+    "frames": 12,
+    "durations": [
+      650,
+      180,
+      180,
+      220,
+      300,
+      650,
+      400,
+      240,
+      220,
+      220,
+      300,
+      650
+    ],
+    "cycles": 1,
+    "still": 0,
+    "src": "new-scenes/atlases/moa-presence-i10-v2.png",
+    "frameSize": [
+      576,
+      336
+    ],
+    "renderMode": "smooth"
+  }
+]

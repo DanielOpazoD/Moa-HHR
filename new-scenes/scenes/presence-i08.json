@@ -1,0 +1,161 @@
+{
+  "order": 616,
+  "id": "presence-i08",
+  "title": "Alisarse el pecho",
+  "category": "Compañía tranquila",
+  "pack": "new",
+  "version": 2,
+  "status": "candidate",
+  "frames": 12,
+  "durations": [
+    650,
+    180,
+    180,
+    220,
+    300,
+    650,
+    400,
+    240,
+    220,
+    220,
+    300,
+    650
+  ],
+  "cycles": 1,
+  "still": 0,
+  "frameSize": [
+    576,
+    336
+  ],
+  "renderMode": "smooth",
+  "source": "new-scenes/sources/presence-i08-v1.png",
+  "src": "new-scenes/atlases/moa-presence-i08-v2.png",
+  "generator": "Integrated image_gen",
+  "reference": "references/moa-neutral.png",
+  "review": "Secuencia reordenada para continuidad del brazo; fuentes originales preservadas.",
+  "packaging": {
+    "sourceSize": [
+      1448,
+      1086
+    ],
+    "rowCuts": [
+      0,
+      378,
+      737,
+      1086
+    ],
+    "columnCuts": [
+      0,
+      362,
+      724,
+      1086,
+      1448
+    ],
+    "rowBaselineRegistration": [
+      [
+        0,
+        43
+      ],
+      [
+        0,
+        43
+      ],
+      [
+        0,
+        43
+      ],
+      [
+        0,
+        43
+      ],
+      [
+        0,
+        63
+      ],
+      [
+        0,
+        63
+      ],
+      [
+        0,
+        63
+      ],
+      [
+        0,
+        63
+      ],
+      [
+        0,
+        64
+      ],
+      [
+        0,
+        64
+      ],
+      [
+        0,
+        64
+      ],
+      [
+        0,
+        64
+      ]
+    ],
+    "unionCrop": [
+      58,
+      81,
+      304,
+      404
+    ],
+    "sharedScale": 0.9287925696594427,
+    "frameSize": [
+      576,
+      336
+    ],
+    "origin": [
+      0,
+      0
+    ],
+    "trajectory": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ]
+    ]
+  },
+  "frameFiles": [
+    "new-scenes/frames/presence-i08-v1/000.png",
+    "new-scenes/frames/presence-i08-v1/002.png",
+    "new-scenes/frames/presence-i08-v1/001.png",
+    "new-scenes/frames/presence-i08-v1/003.png",
+    "new-scenes/frames/presence-i08-v1/004.png",
+    "new-scenes/frames/presence-i08-v1/005.png",
+    "new-scenes/frames/presence-i08-v1/006.png",
+    "new-scenes/frames/presence-i08-v1/007.png",
+    "new-scenes/frames/presence-i08-v1/008.png",
+    "new-scenes/frames/presence-i08-v1/009.png",
+    "new-scenes/frames/presence-i08-v1/010.png",
+    "new-scenes/frames/presence-i08-v1/011.png"
+  ],
+  "sourceSha256": "273e871a7508e0ed056a22a59ff449a1974a2cddc332bcd1c8acdbf30dacb687",
+  "frameSha256": [
+    "5119cd61159e2af9a9894c2b2c9ffa3e5bab4e500e80ba2ed35fe7680c411463",
+    "7e8272acec7dc8cb9e0b967207574cf47c0385368a7470a3f112999ba18ba197",
+    "4032a3cba6bb5808c07cabf541d6d8af8aebb7c3fb81f1e61655490ad4dde47a",
+    "2c274d812fe82a2e85048b12b60fa28d780f5ea5b775716d4fe1f3c362a6c0dd",
+    "5b08aeaac2843cd5a92f354d90cf11e7bfd6fc9475478d7d999bdee53d1829a7",
+    "8d4feedad88664e349c7120f09277646f1c03fb33ec396c38db48e6e895fa185",
+    "99212ced700010dab13b1424b446ddb07169b0a87858f3b0c9545120a9d0cbae",
+    "d1378469eff16ed4fb0eb1b2cc37f70363ba5893cfa62bb6748e61a56197241e",
+    "91155e2db420eb7b66c10fa1089bf1aed8a2614d8fc4d36765b8ec404c25467a",
+    "202fdc7cf41438b545e45ad1569e02b5c8108aff555f62e99753bf1396f15625",
+    "f1492446f73d4f17671ad90a537dbd439ebb04cb67b7db82278bf980fc48d78f",
+    "4584b30623f5587b18c05f1954ad86c75224de67d92a73e1066f69a0076434b2"
+  ],
+  "bytes": 1188843,
+  "sha256": "89d2227a0729352f7be35c7366c32e48ff2989914afa10ee89cf612062efc4b9"
+}
